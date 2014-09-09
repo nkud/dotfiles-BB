@@ -5,6 +5,7 @@
 #+STARTUP: content
 
 * About
+dotfiles
 * Contents
 
 - vim
@@ -12,9 +13,11 @@
 - zsh
 - screen
 - w3m
+- mutt
 - newsbeuter
+- others
 
-* Usage
+* COMMENT Usage
 
 * Install
 #+BEGIN_SRC sh

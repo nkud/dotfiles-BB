@@ -4,15 +4,16 @@
 <ul>
 <li><a href="#sec-1">1. About</a></li>
 <li><a href="#sec-2">2. Contents</a></li>
-<li><a href="#sec-3">3. Usage</a></li>
-<li><a href="#sec-4">4. Install</a></li>
-<li><a href="#sec-5">5. Uninstall</a></li>
+<li><a href="#sec-3">3. Install</a></li>
+<li><a href="#sec-4">4. Uninstall</a></li>
 </ul>
 </div>
 </div>
 
 
 # About
+
+dotfiles  
 
 # Contents
 
@@ -21,9 +22,9 @@
 -   zsh
 -   screen
 -   w3m
+-   mutt
 -   newsbeuter
-
-# Usage
+-   others
 
 # Install
 
