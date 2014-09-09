@@ -1,0 +1,51 @@
+## Vim
+[submodule ".vim.d/vundle.git"]
+    path = .vim.d/vundle.git
+    url = https://github.com/gmarik/vundle.git
+[submodule "neobundle.vim"]
+    path = .vim.d/public_repo/neobundle.vim
+    url = https://github.com/shougo/neobundle.vim
+[submodule "vimproc"]
+    path = .vim.d/public_repo/vimproc
+    url = https://github.com/shougo/vimproc
+
+## Emacs
+[submodule ".emacs.d/public_repos/yasnippet"]
+  path = .emacs.d/public_repos/yasnippet
+  url = https://github.com/capitaomorte/yasnippet
+[submodule ".emacs.d/public_repos/anything-git-files-el"]
+  path = .emacs.d/public_repos/anything-git-files-el
+  url = https://github.com/tarao/anything-git-files-el
+[submodule ".emacs.d/public_repos/company-mode"]
+  path = .emacs.d/public_repos/company-mode
+  url = https://github.com/company-mode/company-mode
+[submodule ".emacs.d/public_repos/emacs-calfw"]
+  path = .emacs.d/public_repos/emacs-calfw
+  url = https://github.com/kiwanami/emacs-calfw
+[submodule "helm-c-yasnippet"]
+  path = .emacs.d/public_repos/emacs-helm/helm-c-yasnippet
+  url = https://github.com/emacs-helm/helm-c-yasnippet
+[submodule "helm-ls-git"]
+  path = .emacs.d/public_repos/emacs-helm/helm-ls-git
+  url = https://github.com/emacs-helm/helm-ls-git
+[submodule "ruby-block"]
+  path = .emacs.d/public_repos/ruby/ruby-block
+  url = https://github.com/adolfosousa/ruby-block.el
+[submodule "ruby-electric"]
+  path = .emacs.d/public_repos/ruby/ruby-electric
+  url = https://github.com/qoobaa/ruby-electric
+[submodule ".emacs.d/public_repos/cl-lib"]
+    path = .emacs.d/public_repos/cl-lib
+    url = https://github.com/emacsmirror/cl-lib
+[submodule ".emacs.d/theme/public/solarized"]
+    path = .emacs.d/theme/public/solarized
+    url = https://github.com/sellout/emacs-color-theme-solarized
+[submodule ".emacs.d/theme/public/replace-colorthemes"]
+    path = .emacs.d/theme/public/replace-colorthemes
+    url = https://github.com/emacs-jp/replace-colorthemes
+[submodule ".emacs.d/public_repos/emacs-helm-gtags"]
+    path = .emacs.d/public_repos/emacs-helm-gtags
+    url = https://github.com/syohex/emacs-helm-gtags
+[submodule ".emacs.d/public_repos/emacs-helm/helm-descbinds"]
+    path = .emacs.d/public_repos/emacs-helm/helm-descbinds
+    url = https://github.com/emacs-helm/helm-descbinds
