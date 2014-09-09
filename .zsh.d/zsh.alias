@@ -1,0 +1,87 @@
+# vim
+alias vj="vim -c JunkFile"
+# my alias
+#alias ls="ls -F --show-control-chars --color=aut"
+#alias ls="ls -trF"
+alias la="ls -arF"
+alias lsl="ls -lrF"
+alias lal="ls -larF"
+
+alias le="less --QUIT-AT-EOF"
+
+alias tt="tree -a ."
+
+alias ss="source ~/.zshrc"
+
+alias -g L="|less "
+alias -g T="|tail"
+alias -g H="|head"
+alias -g G="|grep --color "
+alias -g GI="|grep -i --color "
+alias -g GG="|xargs grep --color "
+	# git
+alias g="git"
+alias gss="git ss"
+alias gb="git b"
+alias gbb="git bb"
+alias ga="git add"
+alias gaa="git add ."
+alias gac="git add . && git commit"
+alias gc="git commit"
+alias gcu="git commit -m '---'"
+alias gl="git log -10"
+alias gll="git llt\n"
+alias gpa="git push --all --progress"
+alias gp="git pull"
+alias gpm="git pull origin master"
+alias gg="git grep"
+	# jekyll
+alias jk="jekyll"
+alias jkb="jekyll build"
+alias jks="jekyll sever --watch"
+	# vim
+alias v="vim"
+alias vv="vim ${HOME}/.vim.d/changelog"
+	# screen
+alias sc="screen"
+alias scl="screen -ls"
+	# w3m
+alias www="w3m google.com"
+    # make
+alias mm="make -f *.mk"
+    # gdb
+alias de="gdb"
+  # newsbeuter
+alias new="newsbeuter"
+alias pod="podbeuter"
+# mutt
+alias m="mutt"
+# task
+alias ta="task"
+alias taa="task add"
+# mlayer
+alias mp="mplayer"
+
+# is this ok??
+#youtube() {
+  #curl $(youtube-dl -g "$*") | mplayer -
+#}
+
+alias yd="youtube-dl"
+
+# dictionary
+alias dic="~/.shelf/bin/dict.py"
+
+# tmux
+alias tm="tmux"
+
+alias -s c=lv
+alias -s cpp=lv
+alias -s h=lv
+alias -s hpp=lv
+alias -s txt=lv
+alias -s png=feh
+alias -s html=w3m
+alias -s mp3=mplayer
+# top
+alias cpu="top -o cpu -n 10"
