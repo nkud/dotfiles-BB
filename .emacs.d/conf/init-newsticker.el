@@ -1,0 +1,1 @@
+(require 'newsticker-notify)

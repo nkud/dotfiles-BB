@@ -1,0 +1,16 @@
+*.elc
+
+!__org/journal.org
+
+*_archive
+
+bookmarks
+ac-comphist.dat
+eshell/history
+eshell/lastdir
+newsticker/
+url/
+tramp
+
+public_repos/
+theme/

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: insert-keybord-command
+# key: kc
+# binding: direct-keybinding
+# --
+(kbd "$1") $0

@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: javadoc
+# key: jc
+# binding: direct-keybinding
+# --
+/**
+ * @brief $1
+ */

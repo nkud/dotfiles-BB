@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: texblock
+# key: texb
+# binding: direct-keybinding
+# --
+\begin{equation}
+$1
+\end{equation}

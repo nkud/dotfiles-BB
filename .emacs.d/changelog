@@ -1,0 +1,8 @@
+2014-07-29  Naoki Ueda  <su104003@gmail.com>
+
+	* test2: test
+	test message
+
+	* init.el ("init-changelog"): test
+
+	* conf/init-changelog.el: First commit
