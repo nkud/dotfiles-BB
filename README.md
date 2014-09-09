@@ -1,5 +1,5 @@
 <div id="table-of-contents">
-<h2>&#30446;&#27425;</h2>
+<h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">1. dotfiles</a></li>
@@ -18,3 +18,13 @@
     -   screen
     -   w3m
     -   newsbeuter
+
+2.  usage
+
+3.  install
+
+        make install
+
+4.  uninstall
+
+        make uninstall

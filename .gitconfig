@@ -37,7 +37,7 @@
   cca = commit -a
   cci = commit --interactive
   ccm = commit -m
-  ccu = commit -am '---'
+  ccu = commit -am 'update `date`'
   now = commit -am `date`
 
   ch = checkout
