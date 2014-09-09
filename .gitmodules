@@ -1,7 +1,4 @@
 ## Vim
-[submodule ".vim.d/vundle.git"]
-    path = .vim.d/vundle.git
-    url = https://github.com/gmarik/vundle.git
 [submodule "neobundle.vim"]
     path = .vim.d/public_repo/neobundle.vim
     url = https://github.com/shougo/neobundle.vim
