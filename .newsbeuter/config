@@ -1,0 +1,88 @@
+### browser
+#browser open -a Google\ Chrome %u
+browser w3m %u
+#browser emacs-w3m %u
+#browser open -a Safari %u
+
+confirm-exit yes
+
+save-path ~/rss/
+
+refresh-on-startup no
+
+## Max
+#keep-articles-days 30
+max-items 100
+
+## Binds
+bind-key "SPACE" open
+
+unbind-key i
+bind-key i quit
+
+unbind-key j
+unbind-key k
+bind-key j next
+bind-key k prev
+bind-key n next-feed
+bind-key ^N down
+bind-key ^P up
+bind-key o open-in-browser-and-mark-read
+
+## Notify
+notify-always yes
+notify-format "RSS: New %d, Unread %n"
+display-article-progress yes
+always-display-description true
+goto-first-unread yes
+ignore-mode "display"
+notify-program /usr/local/bin/growlnotify
+#notify-xterm yes
+#notify-screen yes
+notify-beep no
+
+## color
+color background            black   default
+color article               black   default
+color info                  color255 color240
+color listnormal            black   default
+color listnormal_unread     black   default
+color listfocus             black   color252
+color listfocus_unread      black   color252
+
+##
+auto-reload yes
+cleanup-on-quit yes
+reload-time 60
+reload-threads 2
+
+datetime-format "%b %d %a %H:%M"
+feedlist-format "%4i %n %11u %t""
+articlelist-format "%4i %f %D  %?T?|%-17T| ?%t"
+
+highlight feedlist    "^  *[0-9]+  *N  "            blue default bold
+#highlight articlelist "^  *[0-9]+  *N  "            red default
+highlight articlelist "^.+"            white default
+
+highlight article "^Feed: .*$" white default
+highlight article "^Title: .*$" blue default bold
+highlight article "^Author: .*$" white default
+highlight article "^Link: .*$" white default
+highlight article "^Date: .*$" blue default
+
+highlight article     "\\[[0-9][0-9]*\\]"                   color72  default  bold
+highlight article     "\\[image [0-9][0-9]*\\]"             color72  default  bold
+highlight article     "^Podcast Download.+"                 color214  default  bold
+
+## podcasts
+podcast-auto-enqueue no
+download-path "~/rss/podcasts/%h/%n"
+player "mplayer"
+
+## macro
+macro s set browser "open -a Safari %u" ; open-in-browser ; toggle-article-read "read" ; set browser "w3m %u"
+macro e set browser "emacs-w3m %u" ; open-in-browser ; toggle-article-read "read" ; set browser "w3m %u"
+#macro o open-in-browser ; toggle-article-read "read"
+macro f set browser "feh %u"; open ; set browser "w3m %u"
+
+#user-agent "Lynx/2.8.5rel.1 libwww-FM/2.14"
