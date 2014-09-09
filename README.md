@@ -1,23 +1,20 @@
-dotfiles
-========
+<div id="table-of-contents">
+<h2>&#30446;&#27425;</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. dotfiles</a></li>
+</ul>
+</div>
+</div>
 
-Contents
---------
-- vim
-- emacs
-- zsh
-- screen
-- newsbeuter
-- w3m
-- git
 
-Usage
------
+# dotfiles
 
-Install
--------
-`make install`
+1.  contents
 
-Uninstall
----------
-`make clean`
+    -   vim
+    -   emacs
+    -   zsh
+    -   screen
+    -   w3m
+    -   newsbeuter
