@@ -2,29 +2,33 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. dotfiles</a></li>
+<li><a href="#sec-1">1. About</a></li>
+<li><a href="#sec-2">2. Contents</a></li>
+<li><a href="#sec-3">3. Usage</a></li>
+<li><a href="#sec-4">4. Install</a></li>
+<li><a href="#sec-5">5. Uninstall</a></li>
 </ul>
 </div>
 </div>
 
 
-# dotfiles
+# About
 
-1.  contents
+# Contents
 
-    -   vim
-    -   emacs
-    -   zsh
-    -   screen
-    -   w3m
-    -   newsbeuter
+-   vim
+-   emacs
+-   zsh
+-   screen
+-   w3m
+-   newsbeuter
 
-2.  usage
+# Usage
 
-3.  install
+# Install
 
-        make install
+    make install
 
-4.  uninstall
+# Uninstall
 
-        make uninstall
+    make uninstall

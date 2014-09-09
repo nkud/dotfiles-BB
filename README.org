@@ -2,14 +2,10 @@
 #+AUTHOR: Naoki Ueda
 #+OPTIONS: \n:t H:1 toc:t author:nil email:nil timestamp:nil creator:nil num:t
 #+LANGUAGE: en
-#+LaTeX_CLASS: normal
 #+STARTUP: content
-#+HTML_HEAD: <style type="text/css">body {font-family:"andale mono";font-size:0.8em;}</style>
-#+STYLE: <link rel="stylesheet" type="text/css" href="" />
 
-* dotfiles
-
-** contents
+* About
+* Contents
 
 - vim
 - emacs
@@ -18,14 +14,14 @@
 - w3m
 - newsbeuter
 
-** usage
+* Usage
 
-** install
+* Install
 #+BEGIN_SRC sh
 make install
 #+END_SRC
 
-** uninstall
+* Uninstall
 #+BEGIN_SRC sh
 make uninstall
 #+END_SRC
