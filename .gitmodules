@@ -1,10 +1,10 @@
 ## Vim
 [submodule "neobundle.vim"]
-    path = .vim.d/public_repo/neobundle.vim
-    url = https://github.com/shougo/neobundle.vim
+  path = .vim.d/public_repo/neobundle.vim
+  url = https://github.com/shougo/neobundle.vim
 [submodule "vimproc"]
-    path = .vim.d/public_repo/vimproc
-    url = https://github.com/shougo/vimproc
+  path = .vim.d/public_repo/vimproc
+  url = https://github.com/shougo/vimproc
 
 ## Emacs
 [submodule ".emacs.d/public_repos/yasnippet"]
@@ -31,18 +31,18 @@
 [submodule "ruby-electric"]
   path = .emacs.d/public_repos/ruby/ruby-electric
   url = https://github.com/qoobaa/ruby-electric
-[submodule ".emacs.d/public_repos/cl-lib"]
-    path = .emacs.d/public_repos/cl-lib
-    url = https://github.com/emacsmirror/cl-lib
+[submodule "cl-lib"]
+  path = .emacs.d/public_repos/cl-lib
+  url = https://github.com/emacsmirror/cl-lib
 [submodule ".emacs.d/theme/public/solarized"]
-    path = .emacs.d/theme/public/solarized
-    url = https://github.com/sellout/emacs-color-theme-solarized
+  path = .emacs.d/theme/public/solarized
+  url = https://github.com/sellout/emacs-color-theme-solarized
 [submodule ".emacs.d/theme/public/replace-colorthemes"]
-    path = .emacs.d/theme/public/replace-colorthemes
-    url = https://github.com/emacs-jp/replace-colorthemes
+  path = .emacs.d/theme/public/replace-colorthemes
+  url = https://github.com/emacs-jp/replace-colorthemes
 [submodule ".emacs.d/public_repos/emacs-helm-gtags"]
-    path = .emacs.d/public_repos/emacs-helm-gtags
-    url = https://github.com/syohex/emacs-helm-gtags
+  path = .emacs.d/public_repos/emacs-helm-gtags
+  url = https://github.com/syohex/emacs-helm-gtags
 [submodule ".emacs.d/public_repos/emacs-helm/helm-descbinds"]
-    path = .emacs.d/public_repos/emacs-helm/helm-descbinds
-    url = https://github.com/emacs-helm/helm-descbinds
+  path = .emacs.d/public_repos/emacs-helm/helm-descbinds
+  url = https://github.com/emacs-helm/helm-descbinds
