@@ -17,7 +17,7 @@
 
 ;; -----------------------------------------------------------------------------
 ;; ディレクトリとサブディレクトリをload-pathに追加
-(add-to-load-path "elisp" "conf" "elpa" "asset" "public_repos" "theme")
+(add-to-load-path "elisp" "conf" "elpa" "public_repos" "theme")
 
 ;; 初期ディレクトリ ------------------------------------------------------------
 (cd "~/")
