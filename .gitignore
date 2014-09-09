@@ -9,5 +9,6 @@
 __*
 .DS_Store
 !.vim.d/
+!.vimrc
 .emacs.d/server/
 
