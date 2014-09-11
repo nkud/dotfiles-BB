@@ -10,7 +10,7 @@
 
 # dotfiles
 
--   About
+-   Overview
 
     dotfiles  
 
@@ -25,10 +25,16 @@
     -   newsbeuter
     -   others
 
--   Install
+-   Installation
 
         make install
 
 -   Uninstall
 
         make uninstall
+
+-   Basic Usage
+
+-   TODO 
+
+-   Version

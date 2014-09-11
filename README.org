@@ -5,7 +5,7 @@
 #+STARTUP: content
 
 * dotfiles
-** About
+** Overview
 dotfiles
 ** Contents
 
@@ -18,9 +18,7 @@ dotfiles
 - newsbeuter
 - others
 
-** COMMENT Usage
-
-** Install
+** Installation
 #+BEGIN_SRC sh
 make install
 #+END_SRC
@@ -29,3 +27,9 @@ make install
 #+BEGIN_SRC sh
 make uninstall
 #+END_SRC
+
+** Basic Usage
+
+** TODO
+
+** Version
