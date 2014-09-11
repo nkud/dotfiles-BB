@@ -1,12 +1,13 @@
 #+TITLE: README
 #+AUTHOR: Naoki Ueda
-#+OPTIONS: \n:t H:1 toc:t author:nil email:nil timestamp:nil creator:nil num:t
+#+OPTIONS: \n:t H:1 toc:t author:nil email:nil timestamp:nil creator:nil num:nil
 #+LANGUAGE: en
 #+STARTUP: content
 
-* About
+* dotfiles
+** About
 dotfiles
-* Contents
+** Contents
 
 - vim
 - emacs
@@ -17,14 +18,14 @@ dotfiles
 - newsbeuter
 - others
 
-* COMMENT Usage
+** COMMENT Usage
 
-* Install
+** Install
 #+BEGIN_SRC sh
 make install
 #+END_SRC
 
-* Uninstall
+** Uninstall
 #+BEGIN_SRC sh
 make uninstall
 #+END_SRC
