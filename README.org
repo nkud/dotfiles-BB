@@ -1,6 +1,6 @@
 #+TITLE: README
 #+AUTHOR: Naoki Ueda
-#+OPTIONS: \n:t H:1 toc:t author:nil email:nil timestamp:nil creator:nil num:nil
+#+OPTIONS: \n:t H:2 toc:nil author:nil email:nil timestamp:nil creator:nil num:nil
 #+LANGUAGE: en
 #+STARTUP: content
 
@@ -18,7 +18,7 @@ dotfiles
 - newsbeuter
 - others
 
-** Installation
+** Install
 #+BEGIN_SRC sh
 make install
 #+END_SRC
