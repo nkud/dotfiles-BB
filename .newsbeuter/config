@@ -47,8 +47,8 @@ color article               black   default
 color info                  color255 color240
 color listnormal            black   default
 color listnormal_unread     black   default
-color listfocus             black   color252
-color listfocus_unread      black   color252
+color listfocus             black   color254
+color listfocus_unread      black   color254
 
 ##
 auto-reload yes
