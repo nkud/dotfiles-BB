@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: jekyll-embedded
+# key: jp
+# binding: direct-keybinding
+# --
+{% $0 %}

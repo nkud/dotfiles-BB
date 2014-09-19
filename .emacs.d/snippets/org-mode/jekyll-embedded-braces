@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: jekyll-embedded-braces
+# key: jb
+# binding: direct-keybinding
+# --
+{{ $0 }}

@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: org-embedded-html
+# key: oeh
+# binding: direct-keybinding
+# --
+#+BEGIN_HTML
+$0
+#+END_HTML
