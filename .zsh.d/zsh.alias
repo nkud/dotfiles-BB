@@ -38,7 +38,7 @@ alias gg="git grep"
 	# jekyll
 alias jk="jekyll"
 alias jkb="jekyll build"
-alias jks="jekyll sever --watch"
+alias jks="jekyll serve --watch"
 	# vim
 alias v="vim"
 alias vv="vim ${HOME}/.vim.d/changelog"
