@@ -52,3 +52,6 @@
 [submodule ".emacs.d/theme/public/zenburn-emacs"]
 	path = .emacs.d/theme/public/zenburn-emacs
 	url = https://github.com/bbatsov/zenburn-emacs
+[submodule ".emacs.d/public_repos/web-mode"]
+	path = .emacs.d/public_repos/web-mode
+	url = https://github.com/fxbois/web-mode
