@@ -64,3 +64,6 @@
 [submodule ".emacs.d/public_repos/gist.el"]
 	path = .emacs.d/public_repos/gist.el
 	url = https://github.com/defunkt/gist.el
+[submodule ".emacs.d/public_repos/org-mode"]
+	path = .emacs.d/public_repos/org-mode
+	url = git://orgmode.org/org-mode.git
