@@ -32,3 +32,5 @@
 (nu/space-chord-window-setting)
 (nu/space-chord-org-mode-setting)
 (nu/space-chord-command-setting)
+
+(provide 'init-key-chord)

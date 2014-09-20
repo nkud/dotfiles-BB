@@ -14,6 +14,10 @@
   (global-set-key (kbd "C-c i") 'helm-imenu)
   (global-set-key (kbd "C-c o") 'helm-occur)
   (global-set-key (kbd "C-c g") 'helm-browse-project)
+
+  (when (require 'init-key-chord nil t)
+    ;; (space-chord-define-global "," 'helm-mini)
+    (space-chord-define-global "m" 'helm-M-x))
   )
 
 (require 'helm-ls-git)

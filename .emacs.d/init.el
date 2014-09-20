@@ -98,10 +98,29 @@
 (load "init-ruby")
 (load "init-js")
 (load "init-elisp")
+(load "init-web")
 ;(load "init-cc")
+;(load "init-git")
 
 ;; include packaging system
 (load "init-package")      ; init elpa
 
 ;; for window system
 (when window-system (load "~/.emacs.d/window-system.el"))
+
+;; ---------------------------------------------------------
+;; custom
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-safe-themes (quote ("943bff6eada8e1796f8192a7124c1129d6ff9fbd1a0aed7b57ad2bf14201fdd4" default)))
+ '(debug-on-error nil)
+ '(yas-trigger-key "TAB"))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
