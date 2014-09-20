@@ -61,6 +61,3 @@
 [submodule ".emacs.d/public_repos/zencoding"]
 	path = .emacs.d/public_repos/zencoding
 	url = https://github.com/rooney/zencoding
-[submodule ".emacs.d/public_repos/org-mode"]
-	path = .emacs.d/public_repos/org-mode
-	url = git://orgmode.org/org-mode.git
