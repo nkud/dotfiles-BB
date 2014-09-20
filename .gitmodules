@@ -55,3 +55,9 @@
 [submodule ".emacs.d/public_repos/web-mode"]
 	path = .emacs.d/public_repos/web-mode
 	url = https://github.com/fxbois/web-mode
+[submodule ".emacs.d/public_repos/powerline"]
+	path = .emacs.d/public_repos/powerline
+	url = https://github.com/milkypostman/powerline
+[submodule ".emacs.d/public_repos/zencoding"]
+	path = .emacs.d/public_repos/zencoding
+	url = https://github.com/rooney/zencoding
