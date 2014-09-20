@@ -61,3 +61,6 @@
 [submodule ".emacs.d/public_repos/zencoding"]
 	path = .emacs.d/public_repos/zencoding
 	url = https://github.com/rooney/zencoding
+[submodule ".emacs.d/public_repos/gist.el"]
+	path = .emacs.d/public_repos/gist.el
+	url = https://github.com/defunkt/gist.el
