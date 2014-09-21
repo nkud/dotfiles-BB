@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: liquid-parenthesis
+# key: lp
+# binding: direct-keybinding
+# --
+{{ $0 }}
