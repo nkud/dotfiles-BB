@@ -61,7 +61,7 @@
 (setq frame-title-format "%f")
 
 ;; 現在行にをハイライト
-(global-hl-line-mode 0)
+;(global-hl-line-mode 0)
 ;(set-face-background 'hl-line "#98bc98")
 ;; display time on mode line
 (display-time)
@@ -80,9 +80,39 @@
 ;; 行番号を表示
 ;(global-linum-mode nil)
 
+;; highlight cursor line
+(defface hlline-face
+  '((((class color)
+      (background dark))
+     (:background "dark slate gray"))
+    (((class color)
+      (background light))
+     (:background  "#98FB98"))
+    (t
+     ()))
+  "*Face used by hl-line.")
+(setq hl-line-face 'hlline-face)
+(global-hl-line-mode)
+
 ;; ------------------
 ;; 初期フレームサイズ
 (setq initial-frame-alist (quote ((top . 10)
                                   (left . 10)
                                   (width . 100)
                                   (height . 50))))
+
+;; elscreen
+(add-to-list 'load-path (locate-user-emacs-file "public_repos/elscreen"))
+(require 'elscreen)
+(setq elscreen-set-prefix-key "\C-z")
+(elscreen-start)
+(require 'init-key-chord)
+(space-chord-define-global (kbd "c") 'elscreen-create)
+
+;; ウインドウ分割
+(defun other-window-or-split ()
+  (interactive)
+  (when (one-window-p)
+    (split-window-horizontally))
+  (other-window 1))
+(global-set-key (kbd "C-t") 'other-window-or-split)

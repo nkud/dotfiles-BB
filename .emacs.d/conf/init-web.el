@@ -34,3 +34,18 @@
   ;; (keyboard-translate ?\C-i ?\H-i)
   ;; (define-key zencoding-mode-keymap (kbd "H-i") 'zencoding-expand-line)
   )
+
+;;; sass
+(require 'scss-mode)
+(add-to-list 'auto-mode-alist '("\\.scss$" . scss-mode))
+;; indent 2
+;; turn off auto compile
+(defun scss-custom ()
+  "scss-mode-hook"
+  (and
+   (set (make-local-variable 'css-indent-offset) 2)
+   (set (make-local-variable 'scss-compile-at-save) nil)
+   )
+  )
+(add-hook 'scss-mode-hook
+          '(lambda() (scss-custom)))

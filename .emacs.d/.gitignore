@@ -1,4 +1,5 @@
 *.elc
+__*
 
 !__org/journal.org
 
