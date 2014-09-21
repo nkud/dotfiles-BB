@@ -70,3 +70,12 @@
 [submodule ".emacs.d/public_repos/emacs-helm/helm-dash"]
 	path = .emacs.d/public_repos/emacs-helm/helm-dash
 	url = https://github.com/areina/helm-dash
+[submodule ".emacs.d/public_repos/yagist.el"]
+	path = .emacs.d/public_repos/yagist.el
+	url = https://github.com/mhayashi1120/yagist.el
+[submodule ".emacs.d/public_repos/scss-mode"]
+	path = .emacs.d/public_repos/scss-mode
+	url = https://github.com/antonj/scss-mode
+[submodule ".emacs.d/public_repos/elscreen"]
+	path = .emacs.d/public_repos/elscreen
+	url = https://github.com/emacs-jp/elscreen
