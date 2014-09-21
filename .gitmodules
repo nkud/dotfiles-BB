@@ -61,3 +61,12 @@
 [submodule ".emacs.d/public_repos/zencoding"]
 	path = .emacs.d/public_repos/zencoding
 	url = https://github.com/rooney/zencoding
+[submodule ".emacs.d/public_repos/theme/solarized-emacs"]
+	path = .emacs.d/public_repos/theme/solarized-emacs
+	url = https://github.com/bbatsov/solarized-emacs
+[submodule ".emacs.d/public_repos/dash.el"]
+	path = .emacs.d/public_repos/dash.el
+	url = https://github.com/magnars/dash.el
+[submodule ".emacs.d/public_repos/emacs-helm/helm-dash"]
+	path = .emacs.d/public_repos/emacs-helm/helm-dash
+	url = https://github.com/areina/helm-dash
