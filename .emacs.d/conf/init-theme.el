@@ -1,16 +1,20 @@
+(add-to-list 'load-path (locate-user-emacs-file "public_repos/dash.el"))
+(require 'dash)
 ;;; ------------------------
 ;;; load theme (for emacs24)
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory (locate-user-emacs-file "theme/public/replace-colorthemes")))
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory (locate-user-emacs-file "theme/public/zenburn-emacs")))
+(add-to-list 'custom-theme-load-path
+             (file-name-as-directory (locate-user-emacs-file "theme/solarized-emacs")))
 ;(load-theme 'zenburn t)
-(load-theme 'sitaramv-nt t)
+;(load-theme 'sitaramv-nt t)
+;(load-theme 'solarized-light)
 
 ;; (if (>= emacs-major-version 24)
 
-  
-;; ;  (load-theme 'adwaita t)
+(load-theme 'adwaita t)
 ;; ;  (load-theme 'deeper-blue t)
 ;; ;  (load-theme 'dichromacy t)
 ;; ;  (load-theme 'light-blue t)

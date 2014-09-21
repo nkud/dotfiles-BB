@@ -37,3 +37,7 @@
 ;; helm-descbinds
 (when (require 'helm-descbinds nil t)
   (helm-descbinds-mode))
+
+;; helm-dash
+;(when (require 'helm-dash nil t)
+;  (helm-dash))
