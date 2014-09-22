@@ -99,7 +99,7 @@
 (setq initial-frame-alist (quote ((top . 10)
                                   (left . 10)
                                   (width . 100)
-                                  (height . 50))))
+                                  (height . 60))))
 
 ;; elscreen
 (add-to-list 'load-path (locate-user-emacs-file "public_repos/elscreen"))
@@ -108,11 +108,14 @@
 (elscreen-start)
 (require 'init-key-chord)
 (space-chord-define-global (kbd "c") 'elscreen-create)
+(space-chord-define-global (kbd "n") 'elscreen-next)
+(space-chord-define-global (kbd "p") 'elscreen-previous)
+(space-chord-define-global (kbd "k") 'elscreen-kill)
 
 ;; ウインドウ分割
 (defun other-window-or-split ()
   (interactive)
   (when (one-window-p)
-    (split-window-horizontally))
+    (split-window-vertically))
   (other-window 1))
 (global-set-key (kbd "C-t") 'other-window-or-split)

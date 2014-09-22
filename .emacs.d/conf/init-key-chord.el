@@ -1,10 +1,10 @@
 (require 'key-chord)
 
 ;; Key-chord
-(setq key-chord-two-keys-delay 0.04)
+(setq key-chord-two-keys-delay 0.1)
 
 ;; Space-chord
-(setq space-chord-delay 0.1)
+(setq space-chord-delay 0.2)
 (key-chord-mode t)
 
 (defun nu/space-chord-window-setting ()
