@@ -8,9 +8,12 @@
              (file-name-as-directory (locate-user-emacs-file "theme/public/zenburn-emacs")))
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory (locate-user-emacs-file "theme/solarized-emacs")))
+(add-to-list 'custom-theme-load-path
+             (file-name-as-directory (locate-user-emacs-file "theme/monokai-emacs")))
 ;(load-theme 'zenburn t)
-(load-theme 'sitaramv-nt t)
+;(load-theme 'sitaramv-nt t)
 ;(load-theme 'solarized-light)
+(load-theme 'monokai t)
 
 ;; (if (>= emacs-major-version 24)
 
@@ -44,16 +47,16 @@
 ;  (load-theme 'classic t)
 ;;     (load-theme 'sitaramv-nt t)  ;default
 ;    (load-theme 'sitaramv-solaris t)
-;; ;    (load-theme 'deep-blue t)
-;    (load-theme 'gtk-ide t)
+; ;    (load-theme 'deep-blue t)
+;    (load-theme 'gtk-ide t) ; good!!!!!!!!!!!!!
 ;    (load-theme 'resolve t)
-;; ;    (load-theme 'word-perfect t)
+;   (load-theme 'word-perfect t)
 ;    (load-theme 'subtle-blue t)
 ;;   )
 
 ;; Powerline
 (when (require 'powerline nil t)
-  ;; (powerline-default-theme)
+; (powerline-default-theme)
   (powerline-vim-theme)
-  ;; (powerline-nano-theme)
+;  (powerline-nano-theme)
   )

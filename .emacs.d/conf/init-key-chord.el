@@ -3,8 +3,9 @@
 ;; Key-chord
 (setq key-chord-two-keys-delay 0.1)
 
+;; @todo スペースノ後にディレイが生じるから消す
 ;; Space-chord
-(setq space-chord-delay 0.2)
+(setq space-chord-delay 0)
 (key-chord-mode t)
 
 (defun nu/space-chord-window-setting ()

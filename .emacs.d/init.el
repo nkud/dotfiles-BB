@@ -99,7 +99,7 @@
 (load "init-js")
 (load "init-elisp")
 (load "init-web")
-;(load "init-cc")
+(load "init-cc")
 (load "init-git")
 
 ;; include packaging system
@@ -115,7 +115,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(custom-safe-themes (quote ("9a3c51c59edfefd53e5de64c9da248c24b628d4e78cc808611abd15b3e58858f" "ef36e983fa01515298c017d0902524862ec7d9b00c28922d6da093485821e1ba" "41579fb97bb0f16d58d9414f7dddc6a7f0e62b87d00e93b3f78f8c255955f44b" "8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" "d677ef584c6dfc0697901a44b885cc18e206f05114c8a3b7fde674fce6180879" "e16a771a13a202ee6e276d06098bc77f008b73bbac4d526f160faa2d76c1dd0e" "943bff6eada8e1796f8192a7124c1129d6ff9fbd1a0aed7b57ad2bf14201fdd4" default)))
+ '(custom-safe-themes (quote ("c7471ce3bb42defac344b3ecfca74228731b5ab20f804fd1deb8e65dddeab26a" "9a3c51c59edfefd53e5de64c9da248c24b628d4e78cc808611abd15b3e58858f" "ef36e983fa01515298c017d0902524862ec7d9b00c28922d6da093485821e1ba" "41579fb97bb0f16d58d9414f7dddc6a7f0e62b87d00e93b3f78f8c255955f44b" "8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" "d677ef584c6dfc0697901a44b885cc18e206f05114c8a3b7fde674fce6180879" "e16a771a13a202ee6e276d06098bc77f008b73bbac4d526f160faa2d76c1dd0e" "943bff6eada8e1796f8192a7124c1129d6ff9fbd1a0aed7b57ad2bf14201fdd4" default)))
  '(debug-on-error nil)
  '(yas-trigger-key "TAB"))
 (custom-set-faces

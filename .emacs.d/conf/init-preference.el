@@ -25,22 +25,32 @@
 ;; -------------
 ;;; フォント設定
 ;; TODO : M+があるかどうかの分岐が必要
+;; (add-to-list 'default-frame-alist '(font . "ricty-11"))
 (set-face-attribute 'default nil
                     :family "Migu 2M"
-                    ;; :family "ricty-12")
+                    ;; :family "Inconsolata"
+                    ;; :family "Ricty"
+                    ;; :width 'normal
+                    ;; :weight 'light
                     :height 100)
-
-;; 半角と全角を１：２にする。XXX: できてない。
-;(setq face-font-rescale-alist
-;           '((".*Migu_1M.*" . 1.2)))
 ;; 日本語フォントの設定
 (set-fontset-font
  nil 'japanese-jisx0208
  (font-spec :family "Migu 2M"))
-;; (font-spec :family "ricty-12"))
+ ;; (font-spec :family "Ricty"))
+;; (custom-set-faces
+;;  '(variable-pitch ((t (:family "Ricty"))))
+;;  '(fixed-pitch ((t (:family "Ricty")))))
+
+;; 半角と全角を１：２にする。XXX: できてない。
+;; (setq face-font-rescale-alist
+;;           '((".*Migu_1M.*" . 1.2)))
 ;; ￥を＼に
 (define-key global-map [?¥] [?\\])
-
+;;; カーソル下のフォントを取得
+(defun describe-face-at-point ()
+  (interactive)
+  (message "%s" (get-char-property (point) 'face)))
 ;; ----------------
 ;; タブ文字の表示幅
 (setq-default tab-width 2 indent-tabs-mode nil)
@@ -104,18 +114,72 @@
 ;; elscreen
 (add-to-list 'load-path (locate-user-emacs-file "public_repos/elscreen"))
 (require 'elscreen)
-(setq elscreen-set-prefix-key "\C-z")
+(require 'elscreen-color-theme)
+
+(setq elscreen-display-tab 20)
+(setq elscreen-display-screen-number nil)
+(setq elscreen-tab-display-control nil)
+(setq elscreen-tab-display-kill-screen nil)
 (elscreen-start)
-(require 'init-key-chord)
-(space-chord-define-global (kbd "c") 'elscreen-create)
-(space-chord-define-global (kbd "n") 'elscreen-next)
-(space-chord-define-global (kbd "p") 'elscreen-previous)
-(space-chord-define-global (kbd "k") 'elscreen-kill)
+;; (require 'init-key-chord)
+;; (space-chord-define-global (kbd "c") 'elscreen-create)
+;; (space-chord-define-global (kbd "n") 'elscreen-next)
+;; (space-chord-define-global (kbd "p") 'elscreen-previous)
+;; (space-chord-define-global (kbd "k") 'elscreen-kill)
+(global-unset-key (kbd "C-l"))
+(elscreen-set-prefix-key "\C-l")
+(global-set-key (kbd "C-l C-l") 'recenter-top-bottom)
 
 ;; ウインドウ分割
-(defun other-window-or-split ()
+(defun other-window-or-split-bellow ()
   (interactive)
   (when (one-window-p)
     (split-window-vertically))
   (other-window 1))
-(global-set-key (kbd "C-t") 'other-window-or-split)
+(defun other-window-or-split-right ()
+  (interactive)
+  (when (one-window-p)
+    (split-window-horizontally))
+  (other-window 1))
+(global-set-key (kbd "C-t") 'other-window-or-split-bellow)
+(global-unset-key (kbd "C-r"))
+(global-set-key (kbd "C-r") 'other-window-or-split-right)
+
+;;; ウィンドウ操作
+(global-unset-key (kbd "C-w"))
+(global-set-key (kbd "C-w C-k") 'delete-window)
+(global-set-key (kbd "C-w C-w") 'other-window)
+(global-set-key (kbd "C-w C-o") 'delete-other-windows)
+
+;; ベルを消す
+(setq visible-bell t)
+(setq ring-bell-function 'ignore)
+
+;; paredit.el
+(require 'paredit)
+(show-paren-mode 1)
+(add-hook 'emacs-lisp-mode-hook 'enable-paredit-mode)
+(add-hook 'lisp-interaction-mode-hook 'enable-paredit-mode)
+
+;;; Tab, Whitespace colors
+;; (defface my-face-r-1 '((t (:background "#888888"))) nil)
+;; (defface my-face-b-1 '((t (:background "#888888"))) nil)
+;; (defface my-face-b-2 '((t (:background "#888888"))) nil)
+;; (defface my-face-u-1 '((t (:foreground "#242424" :underline t))) nil)
+;; (defvar my-face-r-1 'my-face-r-1)
+;; (defvar my-face-b-1 'my-face-b-1)
+;; (defvar my-face-b-2 'my-face-b-2)
+;; (defvar my-face-u-1 'my-face-u-1)
+;; (defadvice font-lock-mode (before my-font-lock-mode ())
+;;   (font-lock-add-keywords
+;;    major-mode
+;;    '(("\t" 0 my-face-b-2 append)
+;;      ("　" 0 my-face-b-1 append)
+;;      ("[ \t]+$" 0 my-face-u-1 append)
+;;      ;; ("[\r]*\n" 0 my-face-r-1 append)
+;;      )))
+;; (ad-enable-advice 'font-lock-mode 'before 'my-font-lock-mode)
+;; (ad-activate 'font-lock-mode)
+
+;;; 最大化時???
+(setq mac-autohide-menubar-on-maximize t)
