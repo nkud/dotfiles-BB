@@ -85,3 +85,6 @@
 [submodule ".shelf/public/Dropbox-Uploader"]
 	path = .shelf/public/Dropbox-Uploader
 	url = https://github.com/andreafabrizi/Dropbox-Uploader
+[submodule ".emacs.d/public_repos/init-loader"]
+	path = .emacs.d/public_repos/init-loader
+	url = https://github.com/emacs-jp/init-loader

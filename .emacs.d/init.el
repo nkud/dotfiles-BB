@@ -55,61 +55,15 @@
 
 ;; -----------------------------------------------------------------------------
 ;; ロード
-(load "init-version")
-(load "init-emacsclient")
-(load "init-command")                   ; init key bind, command
-(load "init-changelog")
 
-(load "init-snippet")
-(load "init-auto-install")              ; org-mode初期化
+;;; init-loader
+(require 'init-loader)
+(init-loader-load (locate-user-emacs-file "conf"))
 
 ;; helm or anything
 (if (and (>= emacs-major-version 24) (>= emacs-minor-version 3))
     (load "init-helm")                  ; >= 24.3
   (load "init-anything"))               ; otherwise
-
-(load "init-org")                       ; org-mode初期化
-(load "init-org-export")
-(load "focus.el/focus")
-
-(load "init-junk-file")                 ; init open-junk-file
-(load "init-auto-complete")							;init auto-complete
-(load "init-key-chord.el")
-(load "init-for-jekyll")
-(load "init-for-objc")                  ; for objective-c programming
-(load "init-rss")
-(load "init-gnus")
-(load "init-w3m")
-(load "init-wl")
-(load "init-newsticker")
-(load "init-gcal" t)
-;(load "init-evernote")
-
-;; OS depending settings
-(cond
- ((string-match "apple-darwin" system-configuration) ; for Mac
-  (load "init-dictionary")
-  )
- ((string-match "linux" system-configuration) ; for Linux
-  )
-)
- 
-;; include for programming
-(load "init-ruby")
-(load "init-js")
-(load "init-elisp")
-(load "init-web")
-(load "init-cc")
-(load "init-git" t)
-
-;; include packaging system
-(load "init-package")      ; init elpa
-
-;;; include option
-(load "init-option" t)
-
-;; for window system
-(when window-system (load "~/.emacs.d/window-system.el"))
 
 ;; ---------------------------------------------------------
 ;; custom
