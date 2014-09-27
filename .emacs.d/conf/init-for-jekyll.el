@@ -18,3 +18,17 @@
          )
         ("my-components" :components ("jekyll"))
         ))
+
+;;; Open Jekyll File
+(require 'open-junk-file)
+(setq open-jekyll-file-format "%Y-%m-%d-")
+;; (setq open-jekyll-file-dir "")
+(defun open-jekyll-file ()
+  (interactive)
+  (let* ((file (format-time-string
+                open-jekyll-file-format (current-time)))
+         (dir (file-name-directory file)))
+    (funcall open-junk-file-find-file-function
+             (concat (read-string "Jekyll Post (Enter title): " file)
+                     ".org")))
+  )

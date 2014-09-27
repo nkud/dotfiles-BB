@@ -26,21 +26,28 @@
 ;;; フォント設定
 ;; TODO : M+があるかどうかの分岐が必要
 ;; (add-to-list 'default-frame-alist '(font . "ricty-11"))
-(set-face-attribute 'default nil
-                    :family "Migu 2M"
-                    ;; :family "Inconsolata"
-                    ;; :family "Ricty"
-                    ;; :width 'normal
-                    ;; :weight 'light
-                    :height 100)
+;; (set-face-attribute 'default nil
+;;                     :family "Migu 2M"
+;;                     ;; :width 'normal
+;;                     ;; :weight 'light
+;;                     :height 100)
 ;; 日本語フォントの設定
-(set-fontset-font
- nil 'japanese-jisx0208
- (font-spec :family "Migu 2M"))
- ;; (font-spec :family "Ricty"))
-;; (custom-set-faces
-;;  '(variable-pitch ((t (:family "Ricty"))))
-;;  '(fixed-pitch ((t (:family "Ricty")))))
+;; (set-fontset-font
+;;  nil 'japanese-jisx0208
+;;  (font-spec :family "Migu 2M"))
+
+(set-face-attribute 'default nil
+                    :family "Ricty Discord"
+                    :height 120)
+(set-fontset-font (frame-parameter nil 'font)
+                  'japanese-jisx0208
+                  (cons "Ricty Discord" "iso10646-1"))
+(set-fontset-font (frame-parameter nil 'font)
+                  'japanese-jisx0212
+                  (cons "Ricty Discord" "iso10646-1"))
+(set-fontset-font (frame-parameter nil 'font)
+                  'katakana-jisx0201
+                  (cons "Ricty Discord" "iso10646-1"))
 
 ;; 半角と全角を１：２にする。XXX: できてない。
 ;; (setq face-font-rescale-alist
@@ -56,9 +63,9 @@
 (setq-default tab-width 2 indent-tabs-mode nil)
 ;; ツールバー、スクロールバーを非表示
 (when window-system
-  (tool-bar-mode 0)                                         ;tool-bar
-  (scroll-bar-mode 0)                                       ;scroll-bar
-  (menu-bar-mode 0))                                        ;menu-bar
+  (tool-bar-mode 0)                     ;tool-bar
+  (scroll-bar-mode 0)                   ;scroll-bar
+  (menu-bar-mode 0))                    ;menu-bar
 ;; highlit otherwise paren
 (show-paren-mode t)
 
@@ -66,8 +73,8 @@
 (global-set-key (kbd "C-m") 'newline-and-indent)
 
 (line-number-mode t)
-(column-number-mode t)                                  ;カラム番号を表示
-(size-indication-mode t)                                ;ファイルサイズを表示
+(column-number-mode t)                  ;カラム番号を表示
+(size-indication-mode t)                ;ファイルサイズを表示
 (setq frame-title-format "%f")
 
 ;; 現在行にをハイライト
@@ -97,7 +104,8 @@
      (:background "dark slate gray"))
     (((class color)
       (background light))
-     (:background  "#98FB98"))
+     ;; (:background  "#98FB98"))
+     (:background  "#eee"))
     (t
      ()))
   "*Face used by hl-line.")
@@ -109,8 +117,13 @@
 (setq initial-frame-alist (quote ((top . 10)
                                   (left . 10)
                                   (width . 100)
-                                  (height . 60))))
-
+                                  (height . 50))))
+;;; 最大化時
+;; (custom-set-variables
+;;  '(initial-frame-alist (quote ((fullscreen . maximized)))))
+(menu-bar-mode -1)
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
 ;; elscreen
 (add-to-list 'load-path (locate-user-emacs-file "public_repos/elscreen"))
 (require 'elscreen)
@@ -129,14 +142,20 @@
 (global-unset-key (kbd "C-l"))
 (elscreen-set-prefix-key "\C-l")
 (global-set-key (kbd "C-l C-l") 'recenter-top-bottom)
+(defun test ()
+  (interactive)
+  (elscreen-execute-extended-command 'helm-find))
+(global-set-key (kbd "C-l x") 'test)
 
 ;; ウインドウ分割
 (defun other-window-or-split-bellow ()
+  "ウィンドウを上下に分割"
   (interactive)
   (when (one-window-p)
     (split-window-vertically))
   (other-window 1))
 (defun other-window-or-split-right ()
+  "ウィンドウを左右に分割"
   (interactive)
   (when (one-window-p)
     (split-window-horizontally))
@@ -148,8 +167,9 @@
 ;;; ウィンドウ操作
 (global-unset-key (kbd "C-w"))
 (global-set-key (kbd "C-w C-k") 'delete-window)
-(global-set-key (kbd "C-w C-w") 'other-window)
 (global-set-key (kbd "C-w C-o") 'delete-other-windows)
+(global-set-key (kbd "C-w C-w") 'kill-region)
+(global-set-key (kbd "C-w C-d") 'kill-this-buffer)
 
 ;; ベルを消す
 (setq visible-bell t)
@@ -180,6 +200,3 @@
 ;;      )))
 ;; (ad-enable-advice 'font-lock-mode 'before 'my-font-lock-mode)
 ;; (ad-activate 'font-lock-mode)
-
-;;; 最大化時???
-(setq mac-autohide-menubar-on-maximize t)

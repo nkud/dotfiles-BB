@@ -10,14 +10,20 @@
              (file-name-as-directory (locate-user-emacs-file "theme/solarized-emacs")))
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory (locate-user-emacs-file "theme/monokai-emacs")))
+(add-to-list 'custom-theme-load-path
+             (file-name-as-directory (locate-user-emacs-file "theme/original-theme")))
+
+;(load "original-theme")
 ;(load-theme 'zenburn t)
-;(load-theme 'sitaramv-nt t)
+(load-theme 'sitaramv-nt t)
 ;(load-theme 'solarized-light)
-(load-theme 'monokai t)
+;(load-theme 'monokai t)
+;(load-theme 'gtk-ide t)
 
 ;; (if (>= emacs-major-version 24)
 
 ;(load-theme 'adwaita t)
+;(load-theme 'beige-diff t)
 ;  (load-theme 'deeper-blue t)
 ;  (load-theme 'dichromacy t)
 ;  (load-theme 'light-blue t)
@@ -43,6 +49,10 @@
 ;  (load-theme 'beige-diff t)
 ;  (load-theme 'bharadwaj t)
 ;  (load-theme 'black-on-gray t)
+;(load-theme 'blue-gnus t)
+;(load-theme 'cobalt t)
+;(load-theme 'snow t)
+;(load-theme 'dark-gnus t)
 ;; ;  (load-theme 'blue-mood t)
 ;  (load-theme 'classic t)
 ;;     (load-theme 'sitaramv-nt t)  ;default

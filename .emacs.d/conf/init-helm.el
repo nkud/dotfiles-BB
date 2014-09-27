@@ -2,18 +2,31 @@
 (when (require 'helm-config nil t)
   (helm-mode 1)
 
+  ;; プレフィックスキーを変更
+  (custom-set-variables '(helm-command-prefix-key "C-;"))
+
   ;; key bindings
-  (global-set-key (kbd "C-;") 'helm-mini)
-  (global-set-key (kbd "C-'") 'helm-M-x)
+  (define-key helm-command-map (kbd "C-;") 'helm-resume)
+  (define-key helm-command-map (kbd "C-o") 'helm-occur)
+  (define-key helm-command-map (kbd "C-s") 'helm-occur-from-isearch)
+  (define-key helm-command-map (kbd "C-f") 'helm-find-files)
+  (define-key helm-command-map (kbd "g") 'helm-do-grep)
+  (define-key helm-command-map (kbd "C-g") 'helm-browse-project)
+  (define-key helm-command-map (kbd "C-x") 'helm-M-x)
+  
+  ;; (global-set-key (kbd "C-,") 'helm-ls-git-ls)
+  ;; (global-set-key (kbd "C-'") 'helm-M-x)
+  ;; (global-set-key (kbd "C-;") 'helm-for-files)
   (global-set-key (kbd "C-,") 'helm-lisp-completion-at-point)
 
   (global-set-key (kbd "M-y") 'helm-show-kill-ring)
 
-  (global-set-key (kbd "C-c j") 'helm-mini)
-  (global-set-key (kbd "C-c m") 'helm-M-x)
-  (global-set-key (kbd "C-c i") 'helm-imenu)
-  (global-set-key (kbd "C-c o") 'helm-occur)
-  (global-set-key (kbd "C-c g") 'helm-browse-project)
+  ;; (global-set-key (kbd "C-c m") 'helm-mini)
+  ;; (global-set-key (kbd "C-c f") 'helm-find-files)
+  ;; (global-set-key (kbd "C-c x") 'helm-M-x)
+  ;; (global-set-key (kbd "C-c i") 'helm-imenu)
+  ;; (global-set-key (kbd "C-c o") 'helm-occur)
+  ;; (global-set-key (kbd "C-c g") 'helm-browse-project)
 
   (when (require 'init-key-chord nil t)
     ;; (space-chord-define-global "," 'helm-mini)
@@ -41,3 +54,12 @@
 ;; helm-dash
 ;(when (require 'helm-dash nil t)
 ;  (helm-dash))
+
+;;; recentf max saved items
+(setq recentf-max-saved-items 100)
+
+;;; 候補を作って描写するまでのタイムラグを設定する。Default: 0.01
+(setq helm-idle-delay 0.2)
+;;; 文字列を入力してから検索するまでのタイムラグを設定する。Default: 0.01
+(setq helm-input-idle-delay 0.2)
+(setq helm-buffer-max-length 20)

@@ -82,3 +82,6 @@
 [submodule ".emacs.d/public_repos/theme/monokai-emacs"]
 	path = .emacs.d/public_repos/theme/monokai-emacs
 	url = https://github.com/oneKelvinSmith/monokai-emacs
+[submodule ".shelf/public/Dropbox-Uploader"]
+	path = .shelf/public/Dropbox-Uploader
+	url = https://github.com/andreafabrizi/Dropbox-Uploader

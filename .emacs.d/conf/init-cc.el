@@ -14,14 +14,18 @@
   (setq c-basic-offset 2)
   ;; ;; タブではなく空白
   (setq indent-tabs-mode nil)
-  ;; (require 'google-c-style)
-  ;; (google-set-c-style)
+  (require 'google-c-style)
+  (google-set-c-style)
   )
 ;(add-hook 'c-mode-hook 'nu/c-c++-mode-init)
 ;(add-hook 'c++-mode-hook 'nu/c-c++-mode-init)
+
+;;; Google Code Style
 (require 'google-c-style)
 (add-hook 'c-mode-common-hook 'google-set-c-style)
 (add-hook 'c++-mode-common-hook 'google-set-c-style)
+(add-hook 'c-mode-common-hook 'linum-mode)
+(add-hook 'c++-mode-common-hook 'linum-mode)
 
 ;; VisualStudio Style
 (defconst vs-c-style

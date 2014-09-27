@@ -30,6 +30,7 @@
   (add-hook 'zencoding-mode (lambda () (setq zencoding-indentation 2)))
   (eval-after-load "zencoding-mode"
     '(define-key zencoding-mode-keymap (kbd "C-j") nil))
+  (global-set-key (kbd "C-c j") 'zencoding-expand-line)
   (space-chord-define zencoding-mode-keymap "i" 'zencoding-expand-line)
   ;; (keyboard-translate ?\C-i ?\H-i)
   ;; (define-key zencoding-mode-keymap (kbd "H-i") 'zencoding-expand-line)
