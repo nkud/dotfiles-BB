@@ -22,7 +22,6 @@
 ;; 初期ディレクトリ ------------------------------------------------------------
 (cd "~/")
 ;; ここからはコピー。意味が分かっていない。
-(setq inhibit-splash-screen t) ;; scratchを初期に出す
 (defun cd-to-homedir-all-buffers ()
   "Change every current directory of all buffers to the home directory."
   (mapc
@@ -60,7 +59,7 @@
 (require 'init-loader)
 (init-loader-load (locate-user-emacs-file "conf"))
 
-;; helm or anything
+;; Helm or Anything
 (if (and (>= emacs-major-version 24) (>= emacs-minor-version 3))
     (load "init-helm")                  ; >= 24.3
   (load "init-anything"))               ; otherwise

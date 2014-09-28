@@ -15,10 +15,10 @@
 
 ;(load "original-theme")
 ;(load-theme 'zenburn t)
-(load-theme 'sitaramv-nt t)
+;(load-theme 'sitaramv-nt t)
 ;(load-theme 'solarized-light)
 ;(load-theme 'monokai t)
-;(load-theme 'gtk-ide t)
+(load-theme 'gtk-ide t)
 
 ;; (if (>= emacs-major-version 24)
 

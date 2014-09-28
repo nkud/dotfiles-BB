@@ -8,11 +8,14 @@
   ;; key bindings
   (define-key helm-command-map (kbd "C-;") 'helm-resume)
   (define-key helm-command-map (kbd "C-o") 'helm-occur)
+  (define-key helm-command-map (kbd "C-i") 'helm-imenu)
   (define-key helm-command-map (kbd "C-s") 'helm-occur-from-isearch)
   (define-key helm-command-map (kbd "C-f") 'helm-find-files)
+  (define-key helm-command-map (kbd "C-d") 'helm-descbinds)
   (define-key helm-command-map (kbd "g") 'helm-do-grep)
   (define-key helm-command-map (kbd "C-g") 'helm-browse-project)
-  (define-key helm-command-map (kbd "C-x") 'helm-M-x)
+  (define-key helm-command-map (kbd "C-m") 'helm-M-x)
+  (define-key helm-command-map (kbd "C-r") 'helm-recentf)
   
   ;; (global-set-key (kbd "C-,") 'helm-ls-git-ls)
   ;; (global-set-key (kbd "C-'") 'helm-M-x)

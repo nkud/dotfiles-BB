@@ -88,3 +88,9 @@
 [submodule ".emacs.d/public_repos/init-loader"]
 	path = .emacs.d/public_repos/init-loader
 	url = https://github.com/emacs-jp/init-loader
+[submodule ".emacs.d/public_repos/Emacs-wgrep"]
+	path = .emacs.d/public_repos/Emacs-wgrep
+	url = https://github.com/mhayashi1120/Emacs-wgrep
+[submodule ".emacs.d/public_repos/emacs-smartchr"]
+	path = .emacs.d/public_repos/emacs-smartchr
+	url = https://github.com/imakado/emacs-smartchr
