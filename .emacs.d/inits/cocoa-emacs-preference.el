@@ -3,7 +3,7 @@
 (setq-default tab-width 2 indent-tabs-mode nil)
 
 ;; バックアップを残さない
-(setq make-backup-files nil)
+;; (setq make-backup-files nil)
 
 ;; 折り返し
 (defun toggle-truncate-lines ()
@@ -13,7 +13,7 @@
       (setq truncate-lines nil)
     (setq truncate-lines t))
   (recenter))
-(global-set-key (kbd "C-c C-l") 'toggle-truncate-lines)
+(global-set-key (kbd "C-c C-t") 'toggle-truncate-lines)
 
 ;; 矩形選択
 ;(cua-mode nil)
@@ -142,6 +142,8 @@
 (global-unset-key (kbd "C-l"))
 (elscreen-set-prefix-key "\C-l")
 (global-set-key (kbd "C-l C-l") 'recenter-top-bottom)
+(define-key elscreen-map (kbd "n") 'elscreen-create)
+(define-key elscreen-map (kbd "c") 'elscreen-clone)
 (defun test ()
   (interactive)
   (elscreen-execute-extended-command 'helm-find))

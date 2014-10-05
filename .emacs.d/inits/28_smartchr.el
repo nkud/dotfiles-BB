@@ -6,6 +6,7 @@
           '(lambda()
              (progn
                (define-key c++-mode-map (kbd "{") (smartchr '("{`!!'}" "{")))
+               (define-key c++-mode-map (kbd "(") (smartchr '("(`!!')" "(")))
                (define-key c++-mode-map "." (smartchr '("." "->")))
                ;; ( で()を書く
                ;; (define-key c-mode-map "(" 'insert-parens)

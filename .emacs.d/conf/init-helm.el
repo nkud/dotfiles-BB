@@ -1,10 +1,10 @@
 ;;; helm settings
 (when (require 'helm-config nil t)
   (helm-mode 1)
-
+  
   ;; プレフィックスキーを変更
   (custom-set-variables '(helm-command-prefix-key "C-;"))
-
+  
   ;; key bindings
   (define-key helm-command-map (kbd "C-;") 'helm-resume)
   (define-key helm-command-map (kbd "C-o") 'helm-occur)
@@ -14,7 +14,7 @@
   (define-key helm-command-map (kbd "C-d") 'helm-descbinds)
   (define-key helm-command-map (kbd "g") 'helm-do-grep)
   (define-key helm-command-map (kbd "C-g") 'helm-browse-project)
-  (define-key helm-command-map (kbd "C-m") 'helm-M-x)
+  (define-key helm-command-map (kbd "C-j") 'helm-M-x)
   (define-key helm-command-map (kbd "C-r") 'helm-recentf)
   
   ;; (global-set-key (kbd "C-,") 'helm-ls-git-ls)
@@ -31,9 +31,9 @@
   ;; (global-set-key (kbd "C-c o") 'helm-occur)
   ;; (global-set-key (kbd "C-c g") 'helm-browse-project)
 
-  (when (require 'init-key-chord nil t)
-    ;; (space-chord-define-global "," 'helm-mini)
-    (space-chord-define-global "m" 'helm-M-x))
+  ;; (when (require 'init-key-chord nil t)
+  ;;   ;; (space-chord-define-global "," 'helm-mini)
+  ;;   (space-chord-define-global "m" 'helm-M-x))
   )
 
 (require 'helm-ls-git)

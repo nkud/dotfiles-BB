@@ -57,7 +57,8 @@
 
 ;;; init-loader
 (require 'init-loader)
-(init-loader-load (locate-user-emacs-file "conf"))
+(setq init-loader-show-log-after-init 'error-only)
+(init-loader-load (locate-user-emacs-file "inits"))
 
 ;; Helm or Anything
 (if (and (>= emacs-major-version 24) (>= emacs-minor-version 3))

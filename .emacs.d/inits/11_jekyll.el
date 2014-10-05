@@ -29,6 +29,6 @@
                 open-jekyll-file-format (current-time)))
          (dir (file-name-directory file)))
     (funcall open-junk-file-find-file-function
-             (concat (read-string "Jekyll Post (Enter title): " file)
-                     ".org")))
+             (concat (concat "~/workspace/su104003.github.com/_org/" (read-string "Jekyll Post (Enter title): " file)
+                             ".org"))))
   )
