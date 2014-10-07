@@ -7,6 +7,8 @@
   
   ;; key bindings
   (define-key helm-command-map (kbd "C-;") 'helm-resume)
+  (define-key helm-command-map (kbd "C-b") 'helm-buffers-list)
+  (define-key helm-command-map (kbd "C-m") 'helm-mini)
   (define-key helm-command-map (kbd "C-o") 'helm-occur)
   (define-key helm-command-map (kbd "C-i") 'helm-imenu)
   (define-key helm-command-map (kbd "C-s") 'helm-occur-from-isearch)

@@ -92,8 +92,9 @@
 
 ;; -------------------------
 ;; カーソルの形状・動作・色
-(add-to-list 'default-frame-alist '(cursor-type . hbar))
-(add-to-list 'default-frame-alist '(blink-cursor-mode . 0))
+(add-to-list 'default-frame-alist '(cursor-type . box))
+(blink-cursor-mode 0)
+;; (add-to-list 'default-frame-alist '(blink-cursor-mode . 0))
 ;; 行番号を表示
 ;(global-linum-mode nil)
 
@@ -171,7 +172,9 @@
 (global-set-key (kbd "C-w C-k") 'delete-window)
 (global-set-key (kbd "C-w C-o") 'delete-other-windows)
 (global-set-key (kbd "C-w C-w") 'kill-region)
-(global-set-key (kbd "C-w C-d") 'kill-this-buffer)
+
+(global-set-key (kbd "C-c C-k") 'kill-this-buffer)
+(global-set-key (kbd "C-c C-s") 'save-buffer)
 
 ;; ベルを消す
 (setq visible-bell t)

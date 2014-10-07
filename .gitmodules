@@ -94,3 +94,9 @@
 [submodule ".emacs.d/public_repos/emacs-smartchr"]
 	path = .emacs.d/public_repos/emacs-smartchr
 	url = https://github.com/imakado/emacs-smartchr
+[submodule ".emacs.d/public_repos/smooth-scroll.el"]
+	path = .emacs.d/public_repos/smooth-scroll.el
+	url = https://github.com/k-talo/smooth-scroll.el
+[submodule ".emacs.d/public_repos/yascroll-el"]
+	path = .emacs.d/public_repos/yascroll-el
+	url = https://github.com/m2ym/yascroll-el

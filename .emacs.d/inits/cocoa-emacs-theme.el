@@ -12,36 +12,52 @@
              (file-name-as-directory (locate-user-emacs-file "theme/monokai-emacs")))
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory (locate-user-emacs-file "theme/original-theme")))
-
-;(load "original-theme")
-;(load-theme 'zenburn t)
-;(load-theme 'sitaramv-nt t)
-;(load-theme 'solarized-light)
-;(load-theme 'monokai t)
+;;; light theme
 (load-theme 'gtk-ide t)
+;(load-theme 'whateveryouwant t)
+;(load-theme 'vim-colors t)
+;(load-theme 'emacs-nw t)
+;(load-theme 'sitaramv-nt t)
+;(load-theme 'dark-green t)
+;(load-theme 'dark-font-lock t)
+;(load-theme 'andreas t)
+;(load-theme 'adwaita t)
+;(load-theme 'tango t)
+; (load-theme 'tango-dark t)
+
+;;; dark theme
+;(load "original-theme" t)
+;(load-theme 'zenburn t)
+;(load-theme 'monokai t)
+;(load-theme 'solarized-dark t)
+;(load-theme 'desert t)
+;(load-theme 'deep-blue t)
+;(load-theme 'blue-mood t)
+;(load-theme 'classic t)
+
+;;; Power Line
+(when (require 'powerline nil t)
+; (powerline-default-theme)
+  (powerline-vim-theme)
+;  (powerline-nano-theme)
+  )
 
 ;; (if (>= emacs-major-version 24)
-
-;(load-theme 'adwaita t)
 ;(load-theme 'beige-diff t)
 ;  (load-theme 'deeper-blue t)
 ;  (load-theme 'dichromacy t)
 ;  (load-theme 'light-blue t)
 ;  (load-theme 'manoj-dark t)
 ;  (load-theme 'misterioso t)
-;(load-theme 'tango t)
-; (load-theme 'tango-dark t)
 ;  (load-theme 'tsdh-light t)
 ;  (load-theme 'tsdh-dark t)
 ;; ;  (load-theme 'wheatgrass t)
 ;  (load-theme 'whiteboard t)
 ;  (load-theme 'wombat t)
-    
 ;; ;    (when (require 'color-theme-solarized)
 ;; ;      (load-theme 'solarized-light t)
 ;; ;                                        ;  (load-theme 'solarized-dark t)
 ;; ;      )
-    
 ; (load-theme 'aalto-dark t)
 ;  (load-theme 'pierson t)
 ;    (load-theme 'jb-simple t)
@@ -64,9 +80,3 @@
 ;    (load-theme 'subtle-blue t)
 ;;   )
 
-;; Powerline
-(when (require 'powerline nil t)
-; (powerline-default-theme)
-  (powerline-vim-theme)
-;  (powerline-nano-theme)
-  )

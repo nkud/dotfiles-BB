@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: jekyll-source
+# key: js/
+# binding: direct-keybinding
+# --
+#+BEGIN_HTML
+{% highlight $1 %}
+$0
+{% endhighlight %}
+#+END_HTML

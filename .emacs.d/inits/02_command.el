@@ -15,3 +15,16 @@
 
 ;; emacsを隠す
 (global-set-key (kbd "M-h") 'ns-do-hide-emacs)
+
+;;; セーブ
+(global-set-key (kbd "M-s") 'save-buffer)
+
+;;; Help
+(global-set-key (kbd "C-?") 'help)
+
+;;; スクロールのステップ
+(setq scroll-step 1)
+
+;;; カーソル固定の移動
+(global-set-key "\M-n" (lambda () (interactive) (scroll-up 1)))
+(global-set-key "\M-p" (lambda () (interactive) (scroll-down 1)))
