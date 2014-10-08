@@ -100,3 +100,9 @@
 [submodule ".emacs.d/public_repos/yascroll-el"]
 	path = .emacs.d/public_repos/yascroll-el
 	url = https://github.com/m2ym/yascroll-el
+[submodule ".emacs.d/public_repos/multiple-cursors.el"]
+	path = .emacs.d/public_repos/multiple-cursors.el
+	url = https://github.com/magnars/multiple-cursors.el
+[submodule ".emacs.d/public_repos/expand-region.el"]
+	path = .emacs.d/public_repos/expand-region.el
+	url = https://github.com/magnars/expand-region.el
