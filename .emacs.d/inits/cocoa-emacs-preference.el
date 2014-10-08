@@ -173,7 +173,7 @@
 (global-set-key (kbd "C-w C-o") 'delete-other-windows)
 (global-set-key (kbd "C-w C-w") 'kill-region)
 
-(global-set-key (kbd "C-c C-k") 'kill-this-buffer)
+(global-set-key (kbd "C-; C-k") 'kill-this-buffer)
 (global-set-key (kbd "C-c C-s") 'save-buffer)
 
 ;; ベルを消す
