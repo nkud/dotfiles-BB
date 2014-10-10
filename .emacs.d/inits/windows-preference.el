@@ -25,29 +25,15 @@
 ;; -------------
 ;;; フォント設定
 ;; TODO : M+があるかどうかの分岐が必要
-;; (add-to-list 'default-frame-alist '(font . "ricty-11"))
-;; (set-face-attribute 'default nil
-;;                     :family "Migu 2M"
-;;                     ;; :width 'normal
-;;                     ;; :weight 'light
-;;                     :height 100)
-;; 日本語フォントの設定
-;; (set-fontset-font
-;;  nil 'japanese-jisx0208
-;;  (font-spec :family "Migu 2M"))
-
 (set-face-attribute 'default nil
-                    :family "Ricty Discord"
-                    :height 120)
-(set-fontset-font (frame-parameter nil 'font)
-                  'japanese-jisx0208
-                  (cons "Ricty Discord" "iso10646-1"))
-(set-fontset-font (frame-parameter nil 'font)
-                  'japanese-jisx0212
-                  (cons "Ricty Discord" "iso10646-1"))
-(set-fontset-font (frame-parameter nil 'font)
-                  'katakana-jisx0201
-                  (cons "Ricty Discord" "iso10646-1"))
+                    :family "Migu 1M"
+                    ;; :width 'normal
+                    ;; :weight 'light
+                    :height 100)
+;; 日本語フォントの設定
+(set-fontset-font
+ nil 'japanese-jisx0208
+ (font-spec :family "Migu 1M"))
 
 ;; 半角と全角を１：２にする。XXX: できてない。
 ;; (setq face-font-rescale-alist
