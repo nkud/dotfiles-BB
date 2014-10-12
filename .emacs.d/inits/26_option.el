@@ -15,3 +15,6 @@
 
 ;;; 起動画面を消す
 (setq inhibit-splash-screen t)
+
+;;; スクロールのステップ
+(setq scroll-step 1)

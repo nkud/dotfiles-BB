@@ -52,3 +52,12 @@
 
 ;; remove validate link
 (setq org-html-validation-link nil)
+
+;;; key config
+(defun nu/org-agenda-current-week-or-day ()
+  "open org agenda current week or day directly"
+  (interactive)
+  (org-agenda nil "a")
+  )
+(global-set-key (kbd "C-c C-9") 'nu/org-agenda-current-week-or-day)
+(global-set-key (kbd "C-c C-0") 'org-agenda)

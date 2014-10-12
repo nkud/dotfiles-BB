@@ -22,17 +22,18 @@
 (setq org-log-done 'time)
 
 ;; initialize agenda files
-(setq org-agenda-files (list ;(concat org-directory "Actionable.org")
-                         ;(concat org-directory "NotActionable.org")
-                         ;; (concat org-directory "normal.org")
-                         ;; (concat org-directory "school.org")
-                         ;; (concat org-directory "work.org")
-                         ;; (concat org-directory "pastime.org")
-                         ;; (concat org-directory "club.org")
-                         (concat org-directory "Inbox.org")
-                         (concat org-directory "Incubate.org")
-                         (concat org-directory "Project.org")
-                         (concat org-directory "NextAction.org")))
+;; (setq org-agenda-files (list ;(concat org-directory "Actionable.org")
+;;                          ;(concat org-directory "NotActionable.org")
+;;                          ;; (concat org-directory "normal.org")
+;;                          ;; (concat org-directory "school.org")
+;;                          ;; (concat org-directory "work.org")
+;;                          ;; (concat org-directory "pastime.org")
+;;                          ;; (concat org-directory "club.org")
+;;                          (concat org-directory "Inbox.org")
+;;                          (concat org-directory "Incubate.org")
+;;                          (concat org-directory "Project.org")
+;;                          (concat org-directory "NextAction.org")))
+(setq org-agenda-files (list org-directory))
 
 ;; ------------------------------------------------------------------------------
 ;; Org-Capture
