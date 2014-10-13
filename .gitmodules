@@ -109,3 +109,6 @@
 [submodule ".emacs.d/public_repos/newsticker-notify"]
 	path = .emacs.d/public_repos/newsticker-notify
 	url = https://github.com/emacsmirror/newsticker-notify
+[submodule ".emacs.d/public_repos/org-mode"]
+	path = .emacs.d/public_repos/org-mode
+	url = git://orgmode.org/org-mode.git

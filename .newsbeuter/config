@@ -27,7 +27,6 @@ bind-key k prev
 bind-key n next-feed
 bind-key ^N down
 bind-key ^P up
-bind-key o open-in-browser-and-mark-read
 
 ## Notify
 notify-always yes
