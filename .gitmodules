@@ -106,3 +106,6 @@
 [submodule ".emacs.d/public_repos/expand-region.el"]
 	path = .emacs.d/public_repos/expand-region.el
 	url = https://github.com/magnars/expand-region.el
+[submodule ".emacs.d/public_repos/newsticker-notify"]
+	path = .emacs.d/public_repos/newsticker-notify
+	url = https://github.com/emacsmirror/newsticker-notify
