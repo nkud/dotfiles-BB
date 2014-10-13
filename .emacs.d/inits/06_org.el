@@ -3,7 +3,6 @@
 (require 'org)
 
 ;; orgディレクトリを設定
-;(setq org-directory (locate-user-emacs-file "__org/"))
 (setq org-directory "~/org/")
 (setq org-default-note-file "notes.org")
 
@@ -31,10 +30,6 @@
 ;; 
 (setq org-refile-targets (quote ((nil :maxlevel . 1)
                                  (org-agenda-files :maxlevel . 1))))
-;; 
-;; Path to org mode
-;(add-to-list 'load-path (locate-user-emacs-file "__org"))
-;;
 
 ;;
 ;; Org-Remember
@@ -47,6 +42,7 @@
 (eval-after-load "org"
   '(progn
      (define-key org-mode-map (kbd "C-'") nil) ; for helm
+     (define-key org-mode-map (kbd "C-,") nil)
      (define-key org-mode-map (kbd "M-h") nil) ; for hide emacs
      ))
 
@@ -59,5 +55,30 @@
   (interactive)
   (org-agenda nil "a")
   )
+
 (global-set-key (kbd "C-c C-9") 'nu/org-agenda-current-week-or-day)
 (global-set-key (kbd "C-c C-0") 'org-agenda)
+
+;;; 時刻のフォーマット
+(setq org-display-custom-times "<%Y-%m-%d %H:%M:S>")
+(setq org-time-stamp-custom-formats "<%Y-%m-%d %H:%M:S>")
+
+;;; ファイルを開く状態
+(setq org-startup-folded)
+
+;; org-modeでの強調表示を可能にする
+(add-hook 'org-mode-hook 'turn-on-font-lock)
+
+;;; --------------------------------------------------
+;;; TODOをDONEにした際の処理
+;; (require 'org-archive nil 'noerror)
+;; (setq org-archive-location "archive.org::")
+;; (defun my:org-archive-done-tasks ()
+;;   (interactive)
+;; ;; ARCHIVE タグを付けるだけなら以下
+;; ;;   (org-map-entries 'org-archive-set-tag "/DONE" 'file))
+;; ;; org-archive-location に refile したいなら以下
+;;   (org-map-entries 'org-archive-subtree "/DONE" 'file))
+;; (add-hook 'org-todo-statistics-hook 'my:org-archive-done-tasks)
+;; (add-hook 'org-todo-after-statistics-hook 'my:org-archive-done-tasks)
+;;; --------------------------------------------------

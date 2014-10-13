@@ -23,9 +23,9 @@
 (global-set-key "\M-p" (lambda () (interactive) (scroll-down 1)))
 
 ;;; --------------------------------------------------
-;;; 
+;;;
 ;;; １文字検索
-;;; 
+;;;
 (defvar last-search-char nil)
 (defvar last-search-direction 'forward)
 
@@ -75,3 +75,9 @@
   (recenter))
 ;; (global-set-key (kbd "C-c C-t") 'toggle-truncate-lines)
 ;;; --------------------------------------------------
+
+(defun nu/load-init-file ()
+  " 初期化ファイルをロードする "
+  (interactive)
+  (load-file "~/.emacs.d/init.el"))
+

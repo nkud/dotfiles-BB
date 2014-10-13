@@ -10,7 +10,7 @@
   (add-to-list 'auto-mode-alist '("\\.as[cp]x$"   . web-mode))
   (add-to-list 'auto-mode-alist '("\\.erb$"       . web-mode))
   (add-to-list 'auto-mode-alist '("\\.html?$"     . web-mode))
-  
+
   ;; インデント数
   (defun web-mode-hook ()
     "Hooks for Web mode."
@@ -31,7 +31,7 @@
   (eval-after-load "zencoding-mode"
     '(define-key zencoding-mode-keymap (kbd "C-j") nil))
   (global-set-key (kbd "C-c j") 'zencoding-expand-line)
-  (space-chord-define zencoding-mode-keymap "i" 'zencoding-expand-line)
+  ;; (space-chord-define zencoding-mode-keymap "i" 'zencoding-expand-line)
   ;; (keyboard-translate ?\C-i ?\H-i)
   ;; (define-key zencoding-mode-keymap (kbd "H-i") 'zencoding-expand-line)
   )

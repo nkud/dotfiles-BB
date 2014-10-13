@@ -1,5 +1,5 @@
 (require 'eldoc)
-(require 'eldoc-extension)
+;; (require 'eldoc-extension)
 
 (setq eldoc-idle-delay 0.2)
 (setq eldoc-echo-area-use-multiline-p t)

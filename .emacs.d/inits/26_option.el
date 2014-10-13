@@ -18,3 +18,13 @@
 
 ;;; スクロールのステップ
 (setq scroll-step 1)
+
+;;; ベルを消す
+(setq visible-bell t)
+(setq ring-bell-function 'ignore)
+
+;; y == yes
+(defalias 'yes-or-no-p 'y-or-n-p)
+
+;;; undo
+(define-key global-map (kbd "C-z") 'undo)

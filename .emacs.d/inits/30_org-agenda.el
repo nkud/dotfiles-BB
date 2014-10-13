@@ -7,9 +7,7 @@
 ;; org mode setting
 (add-to-list 'auto-mode-alist '("\\.org$" . org-mode))
 
-;; org-modeでの強調表示を可能にする
-(add-hook 'org-mode-hook 'turn-on-font-lock)
-
+;;; --------------------------------------------------
 ;; customize TODO keywords colors
 (setq org-todo-keyword-faces
       (quote (("TODO" :foreground "red" :weight bold)
@@ -18,10 +16,13 @@
               ("SCHED" :foreground "orange" :weight bold)
               ("DONE" :foreground "forest green" :weight bold)
               ("HOLD" :foreground "orange" :weight bold))))
-;; insert DONE time
-(setq org-log-done 'time)
 
-;; initialize agenda files
+;;; --------------------------------------------------
+;; insert DONE time
+(setq org-log-done 'nil)
+
+;;; --------------------------------------------------
+;;; initialize agenda files
 ;; (setq org-agenda-files (list ;(concat org-directory "Actionable.org")
 ;;                          ;(concat org-directory "NotActionable.org")
 ;;                          ;; (concat org-directory "normal.org")
@@ -35,7 +36,7 @@
 ;;                          (concat org-directory "NextAction.org")))
 (setq org-agenda-files (list org-directory))
 
-;; ------------------------------------------------------------------------------
+;; ---------------------------------------------------
 ;; Org-Capture
 ;; Key bind
 (global-set-key (kbd "C-c c") 'org-capture)
@@ -108,20 +109,19 @@
   (setq org-agenda-compact-blocks t)
   ;; Inhibit the agenda files startup options
   (setq org-agenda-inhibit-startup nil)
-  
   ;; Deadline warning
-  (setq org-deadline-warning-days 2)
+  (setq org-deadline-warning-days 1)
   )
 
 ;; Custom agenda views
 (nu/org-agenda-view-customize)
 
 (setq org-startup-indented t)
-;;
-;(setq org-agenda-time-grid
-;      '((daily today require-timed)
-;        "----------------"
-;        (900 1000 1100 1200 1300 1400 1500 1600 1700)))
+
+(setq org-agenda-time-grid
+     '((daily today require-timed)
+       "----------------"
+       (900 1000 1100 1200 1300 1400 1500 1600 1700)))
 
 ;; customize Stuck Projects
 ;(setq org-stuck-projects
@@ -131,8 +131,8 @@
 ;; = 0
 (setq org-cycle-separator-lines 0)
 ;; Searching And Showing Results
-(setq org-show-following-heading t)
-(setq org-show-hierarchy-above t)
+(setq org-show-following-heading '((default)))
+(setq org-show-hierarchy-above ' ((default . t)))
 (setq org-show-siblings (quote ((default))))
 ;; Adding New Tasks Quickly Without Disturbing The Current Task Content
 ;(setq org-insert-heading-respect-content nil)
