@@ -1,4 +1,4 @@
-;; 
+;;
 ;; focus.el - Org Settings for GTD.
 ;;
 
@@ -6,6 +6,9 @@
 
 ;; org mode setting
 (add-to-list 'auto-mode-alist '("\\.org$" . org-mode))
+
+;;; デフォルトで１日のビュー
+(setq org-agenda-span 'day)
 
 ;;; --------------------------------------------------
 ;; customize TODO keywords colors
@@ -36,34 +39,6 @@
 ;;                          (concat org-directory "NextAction.org")))
 (setq org-agenda-files (list org-directory))
 
-;; ---------------------------------------------------
-;; Org-Capture
-;; Key bind
-(global-set-key (kbd "C-c c") 'org-capture)
-
-;; Capture Templates
-(setq org-capture-templates
-      '(("i" "Inbox" entry (file+headline "Inbox.org" "Inbox")
-         "* %?")
-        ("n" "NextAction" entry (file+headline "NextAction.org" "NextAction")
-         "* TODO %?")
-        ("p" "Project" entry (file+headline "Project.org" "Project")
-         "* TODO %?")
-        ("N" "NextAction with Time Stamp" entry (file+headline "NextAction.org" "NextAction")
-         "* TODO %?\nDEADLINE: %^t")
-        ("P" "Project with Time Stamp" entry (file+headline "Project.org" "Project")
-         "* TODO %?\nDEADLINE: %^t")
-        ("s" "Someday/Maybe" entry (file+headline "Incubate.org" "Someday/Maybe")
-         "* SOMEDAY %?")
-        ("r" "Reference" entry (file+headline "NotActionable.org" "Reference")
-         "* %?\n  %U\n")
-        ("j" "Journal" entry (file+datetree "journal.org")
-         "* %?\n%U\n%i\n")
-        ("S" "Seminar" entry (file+datetree "seminar.org")
-         "* %?\n%U\n%i\n")
-        ("t" "Test" entry (file+headline "Inbox.org" "Inbox")
-         "* %^{note} %^g")))
-;; ------------------------------------------------------------------------------
 ;; Agenda customize
 ;; Indent ??
 (defun nu/org-agenda-command-customize ()

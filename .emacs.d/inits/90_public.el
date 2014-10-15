@@ -20,7 +20,7 @@
 
 ;;; option
 (setq elscreen-display-tab 20)
-(setq elscreen-display-screen-number nil)
+(setq elscreen-display-screen-number t)
 (setq elscreen-tab-display-control nil)
 (setq elscreen-tab-display-kill-screen nil)
 
@@ -30,9 +30,14 @@
 ;;; key config
 (global-unset-key (kbd "C-l"))
 (elscreen-set-prefix-key "\C-l")
+
+(defun nu/elscreen-dired ()
+  (interactive)
+  (elscreen-clone))
+
 (global-set-key (kbd "C-l C-l") 'recenter-top-bottom)
-(define-key elscreen-map (kbd "n") 'elscreen-create)
 (define-key elscreen-map (kbd "c") 'elscreen-clone)
+(define-key elscreen-map (kbd "C-d") 'nu/elscreen-dired)
 ;;; --------------------------------------------------
 
 ;;; --------------------------------------------------
@@ -42,3 +47,6 @@
 (add-hook 'emacs-lisp-mode-hook 'enable-paredit-mode)
 (add-hook 'lisp-interaction-mode-hook 'enable-paredit-mode)
 ;;; --------------------------------------------------
+
+;; navi2ch
+(autoload 'navi2ch "navi2ch" "Navigator for 2ch for Emacs" t)

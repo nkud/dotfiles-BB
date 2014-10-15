@@ -1,6 +1,6 @@
 ;; -----------
 ;; transparent
-(set-frame-parameter nil 'alpha '(100 90))
+;; (set-frame-parameter nil 'alpha '(100 100))
 ;; -------------
 ;;; フォント設定
 ;; TODO : M+があるかどうかの分岐が必要

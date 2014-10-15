@@ -1,15 +1,18 @@
-;;; Author: Naoki Ueda
+;;;
+;;; org mode
+;;;
 
 (require 'org)
+(require 'org-remember)
 
 ;; orgディレクトリを設定
 (setq org-directory "~/org/")
-(setq org-default-note-file "notes.org")
+(setq org-default-note-file "temp.org")
 
 ;;
 ;; Tags
 ;; inspired by `norang`
-;; 
+;;
 (setq org-tag-alist (quote ((:startgroup)
                             ("@errand" . ?e)
                             ("@home" . ?h)
@@ -19,22 +22,17 @@
                             ("HOLD" . ?H)
                             ("NOTE" . ?n)
                             ("FLAGGED" . ??))))
-;; 
+;;
 ;; TODO status
-;; 
+;;
 (setq org-todo-keywords
       '((sequence "TODO(t)" "NEXT(w)" "|" "DONE(d)")
         (sequence "SOMEDAY(s)" "HOLD(h)" "|")))
-;; 
+;;
 ;; リフィルのターゲット設定
-;; 
+;;
 (setq org-refile-targets (quote ((nil :maxlevel . 1)
                                  (org-agenda-files :maxlevel . 1))))
-
-;;
-;; Org-Remember
-;; 
-(require 'org-remember)
 
 ;;
 ;; Disabling key bindings

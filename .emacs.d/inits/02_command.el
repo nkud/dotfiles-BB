@@ -52,9 +52,9 @@
     (or (search-forward-with-char last-search-char) (backward-char)))
    ((eq last-search-direction 'backward) (search-backward-with-char last-search-char))))
 
-;; (global-set-key (kbd "C-w C-f") 'search-forward-with-char)
+(global-set-key (kbd "C-S-f") 'search-forward-with-char)
 ;; (global-set-key (kbd "C-w C-b") 'search-backward-with-char)
-;; (global-set-key (kbd "C-w C-,") 'search-repeat-with-char)
+;; (global-set-key (kbd "M-r") 'search-repeat-with-char)
 ;;; --------------------------------------------------
 
 ;;; 前方単語削除

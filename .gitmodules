@@ -112,3 +112,6 @@
 [submodule ".emacs.d/public_repos/org-mode"]
 	path = .emacs.d/public_repos/org-mode
 	url = git://orgmode.org/org-mode.git
+[submodule ".emacs.d/public_repos/navi2ch"]
+	path = .emacs.d/public_repos/navi2ch
+	url = git://navi2ch.git.sourceforge.net/gitroot/navi2ch/navi2ch
