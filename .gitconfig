@@ -5,7 +5,7 @@
 [core]
   excludesfile = /Users/naoki/.gitignore_global
   ;editor = /usr/bin/vim -u NONE
-  editor = vim --noplugin
+  editor = vim
   ;editor = vim -y
   ;editor = /usr/bin/nano
   ;editor = /Applications/Emacs.app/Contents/MacOS/bin/emacsclient
