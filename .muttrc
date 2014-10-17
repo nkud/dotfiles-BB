@@ -1,0 +1,12 @@
+source .mutt/preferences
+source .mutt/gmail
+
+## gmail file
+#set imap_user = "yourmail@gmail.com"
+#set imap_pass = "yourpass"
+#set smtp_url = "smtp://yourmail@smtp.gmail.com:583/"
+#set smtp_pass = "yourpass"
+#set from = "yourmail@gmail.com"
+#set realname = "Naoki Ueda"
+#set folder = "imaps://imap.gmail.com:993"
+#set spoolfile = "+INBOX"
