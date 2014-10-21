@@ -1,0 +1,35 @@
+# -*- conf-unix -*-
+GMAIL{
+   %INBOX:su104003/clear@imap.gmail.com:993!         "In"
+   %[Gmail]/Sent:su104003/clear@imap.gmail.com:993!  "Sent"
+   %[Gmail]/Draft:su104003/clear@imap.gmail.com:993! "Draft"
+   %[Gmail]/Trash:su104003/clear@imap.gmail.com:993! "Trash"
+   %[Gmail]/Spam:su104003/clear@imap.gmail.com:993!  "Spam"
+
+   Buy{
+      %buy/ebay:su104003/clear@imap.gmail.com:993!     "E-bay"
+      %buy/records:su104003/clear@imap.gmail.com:993!  "Records"
+      %buy/books:su104003/clear@imap.gmail.com:993!    "Books"
+   }
+
+   Friends{
+      %friends/work:su104003/clear@imap.gmail.com:993!       "work friends"
+      %friends/university:su104003/clear@imap.gmail.com:993! "university friends"
+      %friends/college:su104003/clear@imap.gmail.com:993!    "old friends"
+      %friends/highschool:su104003/clear@imap.gmail.com:993! "very old friends"
+   }
+}
+
+#Note: usernames with "strange" characters (like "@") must be written
+#like: "myname@company.com". Folders at my work are delimited by dot '.'.
+# WORK{
+#    %INBOX:"myname@company.com"/clear@mail.company.com        "Inbox"
+#    %INBOX.Sent:"myname@company.com"/clear@mail.company.com   "Sent"
+#    %INBOX.Drafts:"myname@company.com"/clear@mail.company.com "Draft"
+#    %INBOX.Trash:"myname@company.com"/clear@mail.company.com  "Trash"
+
+#    Projects{
+#       %INBOX.Project1:"myname@company.com"/clear@mail.company.com "Project 1"
+#       %INBOX.Project2:"myname@company.com"/clear@mail.company.com "Project 2"
+#    }
+# }
