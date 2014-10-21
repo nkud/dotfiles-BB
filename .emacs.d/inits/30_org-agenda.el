@@ -52,7 +52,8 @@
                        ((org-agenda-overriding-header "\n[ PERSPECTIVE ]")))
             (tags-todo "CATEGORY={NEXT}"
                        ((org-agenda-overriding-header "[ NEXT ACTION ]")
-                        (org-deadline-warning-days 0)))
+                        ;; 期限を警告する期間
+                        (org-deadline-warning-days 2)))
             )
            nil
            (concat org-directory "views/Review.ps"))

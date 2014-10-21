@@ -81,3 +81,24 @@
   (interactive)
   (load-file "~/.emacs.d/init.el"))
 
+;;; --------------------------------------------------
+;;; マウスホイールのスクロール量を調整
+(setq mouse-scrool-step 1)              ;マウス使用時のスクロール量
+(defun scroll-down-with-lines ( num )
+  "numだけ下にスクロールする"
+  (interactive)
+  (scroll-down num))
+(defun scroll-up-with-lines ( num )
+   "numだけ上にスクロールする"
+   (interactive)
+   (scroll-up num))
+;;; キー設定
+(global-set-key [wheel-up] (lambda ()
+                             (interactive)
+                             (scroll-down-with-lines mouse-scrool-step)
+                             ))
+(global-set-key [wheel-down] (lambda ()
+                               (interactive)
+                               (scroll-up-with-lines mouse-scrool-step)
+                               ))
+;;; --------------------------------------------------

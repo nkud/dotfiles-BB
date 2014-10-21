@@ -33,13 +33,14 @@
 ;(load-theme 'deep-blue t)
 ;(load-theme 'blue-mood t)
 ;(load-theme 'classic t)
-; (load-theme 'tango-dark t)
+;(load-theme 'tango-dark t)
 
 ;;; Power Line
 (when (require 'powerline nil t)
-; (powerline-default-theme)
+  ;; (powerline-default-theme)
+  ;; (powerline-center-theme)
   (powerline-vim-theme)
-;  (powerline-nano-theme)
+  ;; (powerline-nano-theme)
   )
 
 ;; (if (>= emacs-major-version 24)
