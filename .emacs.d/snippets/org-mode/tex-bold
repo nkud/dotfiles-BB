@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tex-bold
+# key: b/
+# binding: direct-keybinding
+# --
+{\bf $1}$0

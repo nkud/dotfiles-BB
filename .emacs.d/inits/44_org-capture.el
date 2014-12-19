@@ -38,6 +38,9 @@
         ("j" "Journal" entry
          (file+datetree "journal.org")
          "* %?\n%U\n%i\n")
+        ("R" "research" entry
+         (file+datetree "~/workspace/AgentBasedEpidemicModel/global-research.org")
+         "* %?")
         ("S" "Seminar" entry
          (file+datetree "seminar.org")
          "* %?\n%U\n%i\n")

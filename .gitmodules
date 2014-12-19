@@ -115,3 +115,6 @@
 [submodule ".emacs.d/public_repos/navi2ch"]
 	path = .emacs.d/public_repos/navi2ch
 	url = git://navi2ch.git.sourceforge.net/gitroot/navi2ch/navi2ch
+[submodule ".emacs.d/public_repos/evernote-mode"]
+	path = .emacs.d/public_repos/evernote-mode
+	url = https://github.com/pymander/evernote-mode

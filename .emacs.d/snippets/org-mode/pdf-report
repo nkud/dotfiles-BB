@@ -1,0 +1,16 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: pdf-report
+# key: pdfrep
+# binding: direct-keybinding
+# --
+#+TITLE: $1
+#+AUTHOR: Naoki Ueda
+#+OPTIONS: \n:t H:1 toc:nil author:nil email:nil timestamp:nil creator:nil num:nil
+#+LANGUAGE: ja
+#+LaTeX_CLASS: thesis
+#+STARTUP: contente
+#+HTML_HEAD: <style type="text/css">body {font-family:"times new roman";font-size:12px;}</style>
+#+HTML_HEAD: <script type="text/javascript"src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+#+HTML_HEAD: <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ["\\(","\\)"]] },displayAlign:"center"});</script>
+#+HTML_HEAD: <meta http-equiv="X-UA-Compatible" CONTENT="IE=EmulateIE7" />
+$0

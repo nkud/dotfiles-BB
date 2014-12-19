@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tex-equation
+# key: tee
+# binding: direct-keybinding
+# --
+\begin{equation}
+$0
+\end{equation}
