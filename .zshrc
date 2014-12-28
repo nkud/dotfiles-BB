@@ -70,7 +70,7 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}' # 大文字小文字区別�
 source ~/.zsh.d/zsh.alias # エイリアス
 source ~/.zsh.d/zsh.emacs
 
-export PATH=$PATH:~/.shelf/bin
+export PATH=$PATH:~/.shelf/bin:~/.bin
 export TERM=xterm-256color
 
 # LS COLOR <--- another's

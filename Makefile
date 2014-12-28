@@ -1,5 +1,6 @@
 DOT_FILES := .gitconfig .zshrc .zsh.d .vimrc .vim.d .screenrc .screen.d .emacs.d \
-			 .w3m .mutt .newsbeuter .shelf .tmux.conf .taskrc .bin .zshenv
+			 .w3m .mutt .muttrc .newsbeuter .shelf .tmux.conf .taskrc .bin .zshenv \
+			 .folders
 
 all: install
 

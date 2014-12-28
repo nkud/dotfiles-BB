@@ -13,3 +13,4 @@ newsticker/
 url/
 tramp
 .mc-lists.el
+.smex-items

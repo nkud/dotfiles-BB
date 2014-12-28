@@ -61,7 +61,7 @@
 ;; 初期フレームサイズ
 (setq initial-frame-alist (quote ((top . 10)
                                   (left . 10)
-                                  (width . 200)
+                                  (width . 100)
                                   (height . 50))))
 
 ;; ウインドウ分割
@@ -89,7 +89,6 @@
 
 (global-set-key (kbd "C-; C-k") 'kill-this-buffer)
 (global-set-key (kbd "C-c C-s") 'save-buffer)
-
 
 ;;; Tab, Whitespace colors
 ;; (defface my-face-r-1 '((t (:background "#888888"))) nil)

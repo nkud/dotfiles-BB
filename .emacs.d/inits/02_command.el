@@ -83,7 +83,7 @@
 
 ;;; --------------------------------------------------
 ;;; マウスホイールのスクロール量を調整
-(setq mouse-scrool-step 1)              ;マウス使用時のスクロール量
+(setq mouse-scrool-step 2)              ;マウス使用時のスクロール量
 (defun scroll-down-with-lines ( num )
   "numだけ下にスクロールする"
   (interactive)

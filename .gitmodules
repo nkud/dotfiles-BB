@@ -139,3 +139,6 @@
 [submodule ".emacs.d/el-get/wanderlust"]
 	path = .emacs.d/el-get/wanderlust
 	url = https://github.com/wanderlust/wanderlust.git
+[submodule ".emacs.d/public_repos/evernote-mode"]
+	path = .emacs.d/public_repos/evernote-mode
+	url = https://github.com/pymander/evernote-mode

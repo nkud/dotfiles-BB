@@ -17,7 +17,7 @@ def main():
         print '(no result)'
         return
 
-    for l in result.encode('utf-8').split():
+    for l in result.encode('utf-8').split('\n'):
         print l
 
 if __name__ == '__main__':

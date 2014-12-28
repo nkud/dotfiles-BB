@@ -12,7 +12,7 @@ refresh-on-startup no
 
 ## Max
 #keep-articles-days 30
-max-items 100
+max-items 1000
 
 ## Binds
 bind-key "SPACE" open
@@ -22,11 +22,18 @@ bind-key i quit
 
 unbind-key j
 unbind-key k
+unbind-key n
+unbind-key p
 bind-key j next
 bind-key k prev
 bind-key n next-feed
-bind-key ^N down
-bind-key ^P up
+bind-key p prev-feed
+#bind-key ^N down
+#bind-key ^P up
+bind-key "ENTER" reload
+
+#unbind-key o
+#bind-key o open-in-browser-and-mark-read
 
 ## Notify
 notify-always yes
@@ -50,7 +57,7 @@ color listfocus             black   color254
 color listfocus_unread      black   color254
 
 ##
-auto-reload yes
+auto-reload no
 cleanup-on-quit yes
 reload-time 60
 reload-threads 2
@@ -59,8 +66,8 @@ datetime-format "%b %d %a %H:%M"
 feedlist-format "%4i %n %11u %t""
 articlelist-format "%4i %f %D  %?T?|%-17T| ?%t"
 
-highlight feedlist    "^  *[0-9]+  *N  "            blue default bold
-#highlight articlelist "^  *[0-9]+  *N  "            red default
+#highlight feedlist    "^  *[0-9]+  *N  "            blue default bold
+highlight articlelist "^  *[0-9]+  *N  "            red default
 highlight articlelist "^.+"            white default
 
 highlight article "^Feed: .*$" white default

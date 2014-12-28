@@ -80,3 +80,24 @@
 ;; (add-hook 'org-todo-statistics-hook 'my:org-archive-done-tasks)
 ;; (add-hook 'org-todo-after-statistics-hook 'my:org-archive-done-tasks)
 ;;; --------------------------------------------------
+
+;;; PlantUML
+;; org-plantuml-jar-path は plantuml.jar へのパス
+(setq org-plantuml-jar-path "/usr/local/Cellar/plantuml/8002/plantuml.8002.jar")
+(defun org-mode-init-uml ()
+  (org-babel-do-load-languages
+   'org-babel-load-languages
+   (add-to-list 'org-babel-load-languages '(plantuml . t))))
+(add-hook 'org-mode-hook 'org-mode-init-uml)
+
+;;; the following setting hides blank lines between headings which keeps
+;;; folded view nice and compact.
+(setq org-cycle-separator-lines 0)
+
+;;; the following setting prevents creating blank lines befor headings but
+;;; allows list item to adapt to existing black lines around the items.
+(setq org-blank-before-new-entry (quote ((heading)
+                                         (plain-list-item . auto))))
+
+;;; 上から挿入？？
+(setq org-reverse-note-order t)
