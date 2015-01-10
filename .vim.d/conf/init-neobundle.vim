@@ -26,7 +26,7 @@ NeoBundle 'surround.vim'
 NeoBundle 'Solarized'
 NeoBundle 'altercation/vim-colors-solarized'
 " NeoBundle 'TwitVim'
-NeoBundle 'quickrun.vim'
+NeoBundle 'thinca/vim-quickrun'
 NeoBundle 'ZenCoding.vim'
 NeoBundle 'smartchr'
 """ github
@@ -53,6 +53,7 @@ NeoBundle 'kannokanno/unite-todo.git'
 NeoBundle 'mattn/webapi-vim.git'
 " NeoBundle 'eagletmt/onlinejudge-vim.git'
 NeoBundle 'vim-scripts/Align.git'
+NeoBundle 'vim-scripts/Wombat.git'
 NeoBundle 'scrooloose/nerdcommenter.git'
 NeoBundle 'thinca/vim-guicolorscheme.git'
 NeoBundle 'nathanaelkane/vim-indent-guides.git'
@@ -61,5 +62,7 @@ NeoBundle 'nathanaelkane/vim-indent-guides.git'
 " NeoBundle 'vim-scripts/jcommenter.vim'
 
 " NeoBundle 'kakkyz81/evervim.git'
+
+NeoBundleCheck
 
 filetype plugin indent on
