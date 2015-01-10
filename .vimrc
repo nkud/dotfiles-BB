@@ -20,3 +20,4 @@ source ~/.vim.d/conf/init-junkfile.vim
 
 source ~/.vim.d/conf/init-preference.vim
 
+source ~/.vim.d/conf/init-changelog.vim
