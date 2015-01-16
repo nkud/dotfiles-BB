@@ -115,9 +115,9 @@
 [submodule ".emacs.d/public_repos/navi2ch"]
 	path = .emacs.d/public_repos/navi2ch
 	url = git://navi2ch.git.sourceforge.net/gitroot/navi2ch/navi2ch
-[submodule ".emacs.d/el-get/apel"]
-	path = .emacs.d/el-get/apel
-	url = https://git.chise.org/git/elisp/apel.git
+#[submodule ".emacs.d/el-get/apel"]
+#	path = .emacs.d/el-get/apel
+#	url = https://git.chise.org/git/elisp/apel.git
 [submodule ".emacs.d/el-get/el-get"]
 	path = .emacs.d/el-get/el-get
 	url = https://github.com/dimitri/el-get.git
