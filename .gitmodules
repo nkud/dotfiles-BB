@@ -130,9 +130,9 @@
 [submodule ".emacs.d/el-get/magit"]
 	path = .emacs.d/el-get/magit
 	url = https://github.com/magit/magit.git
-[submodule ".emacs.d/el-get/semi"]
-	path = .emacs.d/el-get/semi
-	url = https://git.chise.org/git/elisp/semi.git
+#[submodule ".emacs.d/el-get/semi"]
+#	path = .emacs.d/el-get/semi
+#	url = https://git.chise.org/git/elisp/semi.git
 [submodule ".emacs.d/el-get/smex"]
 	path = .emacs.d/el-get/smex
 	url = https://github.com/nonsequitur/smex
