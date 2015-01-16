@@ -13,7 +13,7 @@
 (add-to-list 'custom-theme-load-path
              (file-name-as-directory (locate-user-emacs-file "theme/original-theme")))
 ;;; light theme
-;(load-theme 'gtk-ide t)
+(load-theme 'gtk-ide t)
 ;(load-theme 'whateveryouwant t)
 ;(load-theme 'vim-colors t)
 ;(load-theme 'emacs-nw t)
@@ -23,11 +23,11 @@
 ;(load-theme 'andreas t)
 ;(load-theme 'adwaita t)
 ;(load-theme 'tango t)
-; (load-theme 'tango-dark t)
+;(load-theme 'tango-dark t)
 
 ;;; dark theme
 ;(load "original-theme" t)
-(load-theme 'zenburn t)
+;(load-theme 'zenburn t)
 ;(load-theme 'monokai t)
 ;(load-theme 'solarized-dark t)
 ;(load-theme 'desert t)
