@@ -121,9 +121,9 @@
 [submodule ".emacs.d/el-get/el-get"]
 	path = .emacs.d/el-get/el-get
 	url = https://github.com/dimitri/el-get.git
-[submodule ".emacs.d/el-get/flim"]
-	path = .emacs.d/el-get/flim
-	url = https://git.chise.org/git/elisp/flim.git
+#[submodule ".emacs.d/el-get/flim"]
+#	path = .emacs.d/el-get/flim
+#	url = https://git.chise.org/git/elisp/flim.git
 [submodule ".emacs.d/el-get/git-modes"]
 	path = .emacs.d/el-get/git-modes
 	url = https://github.com/magit/git-modes.git
