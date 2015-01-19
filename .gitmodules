@@ -142,3 +142,6 @@
 [submodule ".emacs.d/public_repos/evernote-mode"]
 	path = .emacs.d/public_repos/evernote-mode
 	url = https://github.com/pymander/evernote-mode
+[submodule ".emacs.d/public_repos/search-web.el"]
+	path = .emacs.d/public_repos/search-web.el
+	url = https://github.com/tomoya/search-web.el.git
