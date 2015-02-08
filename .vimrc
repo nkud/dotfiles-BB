@@ -18,6 +18,6 @@ source ~/.vim.d/conf/init-keymap.vim
 " others
 source ~/.vim.d/conf/init-junkfile.vim
 
-source ~/.vim.d/conf/init-preference.vim
+source ~/.vim.d/conf/init-darwin-preference.vim
 
 source ~/.vim.d/conf/init-changelog.vim
