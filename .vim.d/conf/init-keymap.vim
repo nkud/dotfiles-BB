@@ -1,13 +1,13 @@
 "-------------------------------------------------------------------------------
 "git-vim
-nmap ,aa :<C-u>!git add --all<CR>
-nmap ,bb :<C-u>!git bb<CR>
-nmap ,cc :<C-u>!git commit<CR>
-nmap ,cu :<C-u>!git commit -m "---"<CR>
-nmap ,dd :<C-u>!git diff<CR>
-nmap ,ll :<C-u>!git log --oneline --decorate --graph --all -20<CR>
-nmap ,lg :<C-u>!git log<CR>
-nmap ,ss :<C-u>!git ss<CR>
+nmap ,ga :<C-u>!git add --all<CR>
+nmap ,gb :<C-u>!git bb<CR>
+nmap ,gc :<C-u>!git commit<CR>
+nmap ,gu :<C-u>!git commit -m "---"<CR>
+nmap ,gd :<C-u>!git diff<CR>
+nmap ,gl :<C-u>!git log --oneline --decorate --graph --all -20<CR>
+nmap ,gg :<C-u>!git log<CR>
+nmap ,gs :<C-u>!git ss<CR>
 "nmap ,pp :<C-u>!git push<CR>
 "-------------------------------------------------------------------------------
 nmap tk :<C-u>tabnext<CR>
