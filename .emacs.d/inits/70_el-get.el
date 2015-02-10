@@ -70,4 +70,4 @@
 
 
 ;; install new packages and init already installed packages
-(el-get 'sync nu:el-get-packages)
+;(el-get 'sync nu:el-get-packages)

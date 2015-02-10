@@ -22,6 +22,12 @@
                   "theme"
                   "__secret")
 
+;;; public_repos以下のフォルダをload-pathに追加する。
+(let ((default-directory (expand-file-name "~/.emacs.d/public_repos")))
+  (add-to-list 'load-path default-directory)
+  (if (fboundp 'normal-top-level-add-subdirs-to-load-path)
+      (normal-top-level-add-subdirs-to-load-path)))
+
 ;; 初期ディレクトリ ------------------------------------------------------------
 ;; (cd "~/")
 ;; ここからはコピー。意味が分かっていない。

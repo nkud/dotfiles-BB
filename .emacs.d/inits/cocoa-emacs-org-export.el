@@ -2,7 +2,7 @@
 ;; settings for exporting to PDF
 ;; 
 
-(require 'org-latex)
+;(require 'org-latex)
 (require 'ox-latex)
 
 ;; normal
@@ -63,3 +63,59 @@
 ;(setq org-latex-pdf-process '("/usr/texbin/latexmk -e '$pdflatex=q/lualatex %S/' -e '$bibtex=q/bibtexu %B/' -e '$biber=q/biber --bblencoding=utf8 -u -U --output_safechars %B/' -e '$makeindex=q/makeindex -o %D %S/' -norc -gg -pdf %f"))
 ;(setq org-latex-pdf-process '("/usr/texbin/latexmk -e '$pdflatex=q/luajitlatex %S/' -e '$bibtex=q/bibtexu %B/' -e '$biber=q/biber --bblencoding=utf8 -u -U --output_safechars %B/' -e '$makeindex=q/makeindex -o %D %S/' -norc -gg -pdf %f"))
 ;(setq org-latex-pdf-process '("/usr/texbin/latexmk -e '$pdflatex=q/xelatex %S/' -e '$bibtex=q/bibtexu %B/' -e '$biber=q/biber --bblencoding=utf8 -u -U --output_safechars %B/' -e '$makeindex=q/makeindex -o %D %S/' -norc -gg -pdf %f"))
+
+
+;;; IEEE
+(setq org-latex-classes
+      '(("IEEEdouble"
+         "\\documentclass[11pt,twocolumn,twoside]{IEEEtran}
+\\usepackage{newenum}
+\\usepackage{times,amsmath,amssymb}
+\\usepackage{amsthm}
+\\usepackage{cite,subfigure,bm}
+\\usepackage{multicol,multirow}
+\\usepackage{array}
+\\usepackage[dvipdfmx,hiresbb]{graphicx}
+\\usepackage[dvipdfmx]{color}"
+         ("\\section{%s}" . "\\section*{%s}")
+         ("\\subsection{%s}" . "\\subsection*{%s}")
+         ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+         ("\\paragraph{%s}" . "\\paragraph*{%s}")
+         ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))
+        ("IEEEsingle"
+         "\\documentclass[11pt,draftcls,onecolumn]{IEEEtran}
+\\usepackage{newenum}
+\\usepackage{times,amsmath,amssymb}
+\\usepackage{amsthm}
+\\usepackage{cite,subfigure,bm}
+\\usepackage{multicol,multirow}
+\\usepackage{array}
+\\usepackage[dvipdfmx,hiresbb]{graphicx}
+\\usepackage[dvipdfmx]{color}"
+         ("\\section{%s}" . "\\section*{%s}")
+         ("\\subsection{%s}" . "\\subsection*{%s}")
+         ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+         ("\\paragraph{%s}" . "\\paragraph*{%s}")
+         ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))
+        ("thesis"
+         "
+        \\documentclass{jsarticle}
+        \\usepackage[dvipdfmx]{graphicx}
+        \\usepackage[utf8]{inputenc}
+        \\usepackage[T1]{fontenc}
+        "
+         ("\\chapter{%s}" . "\\chapter*{%s}")
+         ("\\section{%s}" . "\\section*{%s}")
+         ("\\subsection{%s}" . "\\subsection*{%s}")
+         ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+         ("\\paragraph{%s}" . "\\paragraph*{%s}")
+         ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))
+        ))
+ 
+;;; LaTeX 形式のファイル PDF に変換するためのコマンド
+;; (setq org-latex-pdf-process
+;;       '("platex %f"
+;;         "bibtex %b"
+;;         "platex %f"
+;;         "platex %f"
+;;         "dvipdfmx %b.dvi"))
