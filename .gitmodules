@@ -16,12 +16,6 @@
  [submodule ".emacs.d/public_repos/emacs-calfw"]
    path = .emacs.d/public_repos/emacs-calfw
    url = https://github.com/kiwanami/emacs-calfw
- [submodule "helm-c-yasnippet"]
-   path = .emacs.d/public_repos/emacs-helm/helm-c-yasnippet
-   url = https://github.com/emacs-helm/helm-c-yasnippet
- [submodule "helm-ls-git"]
-   path = .emacs.d/public_repos/emacs-helm/helm-ls-git
-   url = https://github.com/emacs-helm/helm-ls-git
  [submodule "ruby-block"]
    path = .emacs.d/public_repos/ruby/ruby-block
    url = https://github.com/adolfosousa/ruby-block.el
@@ -34,12 +28,6 @@
  [submodule ".emacs.d/theme/public/replace-colorthemes"]
    path = .emacs.d/theme/public/replace-colorthemes
    url = https://github.com/emacs-jp/replace-colorthemes
- [submodule ".emacs.d/public_repos/emacs-helm/helm-descbinds"]
-   path = .emacs.d/public_repos/emacs-helm/helm-descbinds
-   url = https://github.com/emacs-helm/helm-descbinds
- [submodule ".emacs.d/public_repos/emacs-helm/helm"]
-   path = .emacs.d/public_repos/emacs-helm/helm
-   url = https://github.com/emacs-helm/helm
  [submodule ".emacs.d/public_repos/cl-lib"]
    path = .emacs.d/public_repos/cl-lib
    url = https://github.com/emacsmirror/cl-lib
@@ -58,9 +46,6 @@
  [submodule ".emacs.d/public_repos/dash.el"]
  	path = .emacs.d/public_repos/dash.el
  	url = https://github.com/magnars/dash.el
- [submodule ".emacs.d/public_repos/emacs-helm/helm-dash"]
- 	path = .emacs.d/public_repos/emacs-helm/helm-dash
- 	url = https://github.com/areina/helm-dash
  [submodule ".emacs.d/public_repos/yagist.el"]
  	path = .emacs.d/public_repos/yagist.el
  	url = https://github.com/mhayashi1120/yagist.el
