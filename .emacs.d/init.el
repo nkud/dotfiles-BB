@@ -1,5 +1,4 @@
-;;; Author: Naoki Ueda
-
+;;; Author: Naoki 
 ;;; TODO
 ;;; - elscreenで新しいタブを開く直前にファイルをユーザーに聞く
 

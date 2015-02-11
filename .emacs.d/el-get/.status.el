@@ -64,6 +64,7 @@
 	       (("gmake docs"))
 	       :build/windows-nt
 	       (progn nil)))
+ (org-mode status "required" recipe nil)
  (semi status "installed" recipe
        (:name semi :description "SEMI is a library to provide MIME feature for GNU Emacs." :depends flim :type github :branch "semi-1_14-wl" :pkgname "wanderlust/semi" :build
 	      (mapcar
