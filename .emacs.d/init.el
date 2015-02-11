@@ -100,6 +100,9 @@
       helm-descbinds
       helm-ls-git
       helm-c-yasnippet
+      ;; coding
+      web-mode
+      google-c-style
       ;; other
       yasnippet
       open-junk-file
@@ -109,8 +112,8 @@
       wgrep
       evernote-mode
       paredit
-      google-c-style
       company
+      elscreen
       ))
   ;; インストールしていないパッケージをインストール
   (dolist (package nu/packages)
