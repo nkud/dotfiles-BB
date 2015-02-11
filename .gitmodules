@@ -145,3 +145,6 @@
 # [submodule ".emacs.d/public_repos/search-web.el"]
 # 	path = .emacs.d/public_repos/search-web.el
 # 	url = https://github.com/tomoya/search-web.el.git
+[submodule ".emacs.d/public_repo/init-loader"]
+	path = .emacs.d/public_repo/init-loader
+	url = https://github.com/emacs-jp/init-loader.git
