@@ -103,6 +103,7 @@
       ;; coding
       web-mode
       google-c-style
+      quickrun
       ;; other
       yasnippet
       open-junk-file
@@ -114,6 +115,10 @@
       paredit
       company
       elscreen
+      wanderlust
+      apel
+      smex
+      flim
       ))
   ;; インストールしていないパッケージをインストール
   (dolist (package nu/packages)
@@ -160,5 +165,5 @@
 (setq init-loader-show-log-after-init 'error-only)  ;エラー時のみ表示
 (init-loader-load (locate-user-emacs-file "inits")) ;ディレクトリを設定j
 
-;;; org-agendaを起動
-(org-agenda nil "a")
+;; ;;; org-agendaを起動
+;; (org-agenda nil "a")
