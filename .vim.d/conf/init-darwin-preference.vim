@@ -16,5 +16,5 @@ endif
 set background=light
 
 " for us keyboard
-nnoremap ; :
-nnoremap : ;
+"nmap ; :
+"nmap : ;

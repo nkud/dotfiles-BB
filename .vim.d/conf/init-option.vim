@@ -11,7 +11,7 @@ set shiftround " インデントでshiftwidthの倍数に丸める
 set shiftwidth=2
 set tabstop=2
 set switchbuf=useopen
-set list
+"set list
 set textwidth=0 "自動的に改行が入るのを無効化
 set listchars=tab:»-,trail:-,extends:»,precedes:«,nbsp:%,eol:↲
 set colorcolumn=81
