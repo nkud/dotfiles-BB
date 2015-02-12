@@ -12,7 +12,7 @@
 ;; ツールバー、スクロールバーを非表示
 (when window-system
   (tool-bar-mode 0)                     ;tool-bar
-  (scroll-bar-mode 0)                   ;scroll-bar
+  ;; (scroll-bar-mode 0)                   ;scroll-bar
   (menu-bar-mode 0))                    ;menu-bar
 ;; highlit otherwise paren
 (show-paren-mode t)

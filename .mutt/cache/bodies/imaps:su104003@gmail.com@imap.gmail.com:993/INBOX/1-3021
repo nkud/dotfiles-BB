@@ -1,0 +1,245 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.5.4 with SMTP id 4csp419724vkf;
+        Tue, 14 Oct 2014 13:29:52 -0700 (PDT)
+X-Received: by 10.224.28.68 with SMTP id l4mr12932007qac.22.1413318591757;
+        Tue, 14 Oct 2014 13:29:51 -0700 (PDT)
+Return-Path: <promed-bounces@promedmail.org>
+Received: from mailsmtphv1.childrenshospital.org (mailhv.childrenshospital.org. [134.174.13.18])
+        by mx.google.com with ESMTPS id f3si9456293qar.93.2014.10.14.13.29.51
+        for <multiple recipients>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Oct 2014 13:29:51 -0700 (PDT)
+Received-SPF: none (google.com: promed-bounces@promedmail.org does not designate permitted sender hosts) client-ip=134.174.13.18;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: promed-bounces@promedmail.org does not designate permitted sender hosts) smtp.mail=promed-bounces@promedmail.org
+Received: from pps.filterd (mailsmtphv1.childrenshospital.org [127.0.0.1])
+	by mailsmtphv1.childrenshospital.org (8.14.7/8.14.7) with SMTP id s9EKO8tt029235;
+	Tue, 14 Oct 2014 16:29:50 -0400
+Received: from promedmail.chip.org (promedmail.chip.org [134.174.13.190])
+	by mailsmtphv1.childrenshospital.org with ESMTP id 1psq5x9vcf-39;
+	Tue, 14 Oct 2014 16:29:50 -0400
+Received: from promedmail.chip.org (localhost.localdomain [127.0.0.1])
+	by promedmail.chip.org (Postfix) with ESMTP id E4F5311A806C;
+	Tue, 14 Oct 2014 20:27:33 +0000 (UTC)
+X-Original-To: promed-post@promedmail.org
+Delivered-To: promed-post@promedmail.org
+Received: from mailsmtp1.childrenshospital.org
+	(mailsmtp1.childrenshospital.org [134.174.13.91])
+	by promedmail.chip.org (Postfix) with ESMTP id 11313758010;
+	Tue, 14 Oct 2014 20:27:04 +0000 (UTC)
+Received: from pps.filterd (mailsmtp1.childrenshospital.org [127.0.0.1])
+	by mailsmtp1.childrenshospital.org (8.14.7/8.14.7) with SMTP id
+	s9EKOC0d006527; Tue, 14 Oct 2014 16:27:05 -0400
+Received: from a10-118.smtp-out.amazonses.com (a10-118.smtp-out.amazonses.com
+	[54.240.10.118])
+	by mailsmtp1.childrenshospital.org with ESMTP id 1q0jfupfce-1
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NOT);
+	Tue, 14 Oct 2014 16:27:04 -0400
+To: promed-post@promedmail.org, promed-edr-post@promedmail.org,
+        promed-ahead-post@promedmail.org
+Subject: PRO/AH/EDR> Caprine arthritis/encephalitis - Poland: (KP) 1st rep, OIE
+MIME-Version: 1.0
+Date: Tue, 14 Oct 2014 20:27:02 +0000
+Message-ID: <000001491057b06c-32b3977a-a852-4b35-a2b2-9065e5853ff1-000000@email.amazonses.com>
+X-SES-Outgoing: 2014.10.14-54.240.10.118
+Feedback-ID: us-east-1.UHJvTWVkIDxtb2RAaGVhbHRobWFwLm9yZz4=:AmazonSES
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.12.52, 1.0.28,
+	0.0.0000
+	definitions=2014-10-14_08:2014-10-14, 2014-10-14,
+	1970-01-01 signatures=0
+From: promed@promedmail.org
+X-BeenThere: promed@promedmail.org
+X-Mailman-Version: 2.1.9
+Precedence: list
+Reply-To: promedNOREPLY@promedmail.org
+X-ProMED-Id: 20141014.442009
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: promed-bounces@promedmail.org
+Errors-To: promed-bounces@promedmail.org
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.12.52,1.0.28,0.0.0000
+ definitions=2014-10-14_08:2014-10-14,2014-10-14,1970-01-01 signatures=0
+X-Proofpoint-Spam-Reason: safe
+
+
+CAPRINE ARTHRITIS/ENCEPHALITIS - POLAND: (KUJAWSKO-POMORSKIE) FIRST
+REPORT, OIE
+*******************************************************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: Mon 13 Oct 2014
+Source: OIE, WAHID (World Animal Health Information Database), weekly
+disease information 2014; 27(42) [edited]
+<http://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventReport&reportid=16306>
+
+
+Caprine arthritis/encephalitis, Poland
+--------------------------------------
+Information received on [and dated] 13 Oct 2014 from Dr Krzysztof
+Jazdzewski, Deputy Chief Veterinary Officer, Ministry of Agriculture
+and Rural Development, General Veterinary Inspectorate, Warsaw,
+Poland
+
+Summary
+Report type: immediate notification
+Date of start of the event: 15 Sep 2014
+Date of pre-confirmation of the event: 23 Sep 2014
+Reason for notification: 1st occurrence of a listed disease
+Manifestation of disease: clinical disease
+Causal agent: Caprine arthritis/encephalitis virus
+Nature of diagnosis: clinical, laboratory (basic)
+This event pertains to the whole country
+
+New outbreaks: (1)
+Summary of outbreaks
+Total outbreaks: 1
+Outbreak 1: Roznowo, Chelmno, Chelminski, Kujawsko-Pomorskie
+Date of start of the outbreak: 15 Sep 2014
+Outbreak status: continuing (or date resolved not provided)
+Epidemiological unit: farm
+Affected animals:
+Species / Susceptible / Cases / Deaths / Destroyed/ Slaughtered
+Goats / 409 / 25 / 0 / 0 / 0 /
+
+Outbreak statistics [rates apparent, expressed as percentages]
+Species / Morbidity rate / Mortality rate / Case fatality rate /
+Proportion susceptible animals lost*
+Goats / 6.11 / 0 / 0 / 0
+*Removed from the susceptible population through death, destruction,
+and/or slaughter
+
+Epidemiology
+Source of the outbreak(s) or origin of infection: unknown or
+inconclusive
+Epidemiological comments: the outbreak of caprine
+arthritis/encephalitis occurred in one farm in Roznowo village in
+Kujawsko-Pomorskie region.
+Note by the OIE Animal Health Information Department: Since this is
+the 1st time that caprine arthritis/encephalitis is identified in the
+history of the country, the reason for notification as 1st occurrence
+applies to the country but the event is in fact circumscribed to a
+zone.
+
+Control measures
+Measures applied: no vaccination; no treatment of affected animals.
+Measures to be applied: modified stamping out
+Diagnostic test results:
+Laboratory name and type / Species / Test / Test date / Result
+National veterinary Research Institute (national laboratory)/ Goats /
+enzyme-linked immunosorbent assay (ELISA) / 23 Sep 2014 / Positive
+
+Future reporting
+The event is continuing. Weekly follow-up reports will be submitted.
+
+[The location of the outbreak can be seen on the interactive map
+included in the OIE report at the source URL above.]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The following information was obtained from The Center for Food
+Security & Public Health, Iowa State University, fact sheet on caprine
+arthritis and encephalitis at
+<http://www.cfsph.iastate.edu/Factsheets/pdfs/caprine_arthritis_encephalitis.pdf>:
+
+"Caprine arthritis and encephalitis (CAE) is an economically important
+viral disease of goats. The caprine arthritis encephalitis virus
+(CAEV), a lentivirus, infects its hosts for life. Although most
+infections are subclinical, a minority of animals develops
+progressive, untreatable disease syndromes including polyarthritis in
+adults and encephalomyelitis in kids. This virus also causes
+indurative mastitis, resulting in decreased milk production. CAEV
+infections decrease lifetime productivity in dairy goats, particularly
+when the prevalence of infection is high within a herd. In addition,
+CAEV is a barrier to the exportation of goats from countries where it
+is endemic, including the United States.
+
+"CAEV is closely related to the maedi-visna virus (MVV), which is
+found most often in sheep. Although documented cases of natural
+cross-species transmission are currently rare, CAEV can infect sheep
+and MVV can infect goats. In Switzerland, CAEV has been re-introduced
+into CAEV-free goat herds by exposure to sheep. In addition,
+recombination has recently been demonstrated between MVV and CAEV.
+These findings suggest that eradication programs for either
+maedi-visna (ovine progressive pneumonia) or caprine arthritis and
+encephalitis should now address both infections simultaneously.
+
+"CAEV is common in dairy goats in most industrialized countries. This
+virus is rarely found in the indigenous breeds of developing nations
+unless they have had contact with imported goats."
+
+OIE's internationally agreed requirements pertaining to caprine
+arthritis/encephalitis are spelled out in chapter 14.1. of OIE's
+Terrestrial Animal Health Code, available at
+<http://www.oie.int/index.php?id=169&L=0&htmfile=chapitre_caprine_arthritis_encephalitis.htm>.
+
+"There is no serologic or clinical evidence that humans are
+susceptible to CAEV."
+(<http://www.cfsph.iastate.edu/Factsheets/pdfs/caprine_arthritis_encephalitis.pdf>).
+
+Pictures of post mortem lesions, can be seen at
+<http://www.cfsph.iastate.edu/DiseaseInfo/disease-images.php?name=caprine-arthritis-encephalitis&lang=en>.
+- Mod.CRD
+
+Maps of Poland can be seen at
+<http://www.lib.utexas.edu/maps/europe/poland_pol00.jpg> and
+<http://healthmap.org/promed/p/41925>. - Sr.Tech.Ed.MJ]
+
+[See Also:
+2011
+----
+Caprine arthritis/encephalitis - Uruguay: (Montevideo) OIE
+20110622.1909
+2010
+----
+Caprine arthritis/encephalitis - Philippines: comp. medicine aspects
+20100921.3411
+Caprine arthritis/encephalitis - Philippines: Davao region
+20100921.3397
+2009
+----
+Caprine arthritis & encephalitis - Philippines (02) 20090331.1244
+Caprine arthritis & encephalitis - Philippines 20090328.1207
+2005
+----
+Caprine arthritis/encephalitis, goat - Bosnia & Herzegovina: OIE
+20050425.1156
+2002
+----
+Caprine arthritis/encephalitis, goat - Japan: OIE 20020831.5195
+1996
+----
+Caprine arthritis-encephalitis virus RFI 19960531.1010]
+.................................................crd/mj/ml
+*##########################################################*
+************************************************************
+ProMED-mail makes every effort to  verify  the reports  that
+are  posted,  but  the  accuracy  and  completeness  of  the
+information,   and  of  any  statements  or  opinions  based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by  ProMED-mail.   ISID
+and  its  associated  service  providers  shall not be  held
+responsible for errors or omissions or  held liable for  any
+damages incurred as a result of use or reliance upon  posted
+or archived material.
+************************************************************
+Donate to ProMED-mail. Details available at:
+<http://www.isid.org/donate/>
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org (NOT to
+an individual moderator).  If you do not give your full name
+name and affiliation,  it may not be posted.  You may unsub-
+scribe at  <http://ww4.isid.org/promedmail/subscribe.php>.
+For  assistance  from   a   human   being, send mail to:
+<postmaster@promedmail.org>.
+############################################################
+############################################################
+
+List-Unsubscribe: http://ww4.isid.org/promedmail/subscribe.php

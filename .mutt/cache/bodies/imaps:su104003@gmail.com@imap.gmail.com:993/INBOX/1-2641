@@ -1,0 +1,68 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp81608qdc;
+        Wed, 30 Jul 2014 01:28:37 -0700 (PDT)
+X-Received: by 10.67.5.3 with SMTP id ci3mr2891030pad.50.1406708916644;
+        Wed, 30 Jul 2014 01:28:36 -0700 (PDT)
+Return-Path: <noreply@atcoder.jp>
+Received: from www5.atcoder.jp ([183.177.145.6])
+        by mx.google.com with ESMTP id ch3si1522711pbb.235.2014.07.30.01.28.35
+        for <su104003@gmail.com>;
+        Wed, 30 Jul 2014 01:28:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@atcoder.jp designates 183.177.145.6 as permitted sender) client-ip=183.177.145.6;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@atcoder.jp designates 183.177.145.6 as permitted sender) smtp.mail=noreply@atcoder.jp;
+       dkim=pass header.i=@atcoder.jp
+Received: from atcoder.jp (www5.atcoder.jp [183.177.145.6])
+	by www5.atcoder.jp (Postfix) with ESMTP id 5D366EE0E8C
+	for <su104003@gmail.com>; Wed, 30 Jul 2014 17:28:35 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=atcoder.jp;
+	s=default; t=1406708915;
+	bh=SzpNqulyRBL6rJqvS2X92ZLvzLe2zvllo7HAYuYHKqY=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=loP0jU7FyUP5j+P3CoM52jhJp6r+2tU00e18MtxySIWFWwiI8p37ecspS0+/jvyY7
+	 5CMGcc8tZwM2Zw67aNpJFIf+cOzmNSFfYTnmv9eNlkiwojNMkNU5a1zWg0izqT7RZM
+	 R4qJ6y1LDabIr2MVBfcfn3xswM51ZsHoUFtCBKW8=
+Date: Wed, 30 Jul 2014 17:28:35 +0900
+To: su104003@gmail.com
+From: AtCoder =?ISO-2022-JP?B?GyRCMytILyVBITwlYBsoQg==?= <noreply@atcoder.jp>
+Reply-To: err@atcoder.jp
+Subject: =?ISO-2022-JP?Q?AtCoder_Regular_Contest_#027_=1B$B3+:E$N$*CN$i$;=1B(B?=
+Message-ID: <cf7bf66c7d9d05c884fc5af1c318c5c7@localhost.localdomain>
+X-Priority: 3
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+
+
+「コンテストメールを受け取る」にチェックしているユーザ様にお送りしています
+
+AtCoder ユーザの皆様へ
+
+AtCoder では、 AtCoder Regular Contest #027 を開催します。
+http://arc027.contest.atcoder.jp/
+
+▼スケジュール
+　8/2 （土） 21:00 から22:30まで。計90分。
+
+▼詳細
+　90分 4 問です。
+　Ratingが更新されます。
+
+▼言語情報
+コンテストで使用可能な言語は，以下の通りです。
+http://arc027.contest.atcoder.jp/faq#about_Language
+
+皆様の参加をお待ちしております。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+メール配信の停止は、コンテストページにログインした後、以下のリンクからお願いします。
+http://arc027.contest.atcoder.jp/settings
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+
+-----
+AtCoder開発チーム
+http://atcoder.jp/
+
+

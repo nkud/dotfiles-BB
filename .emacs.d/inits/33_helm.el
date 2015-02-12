@@ -1,4 +1,5 @@
 ;;; helm settings
+(require 'helm-source)
 (when (require 'helm-config nil t)
   (helm-mode 1)
 

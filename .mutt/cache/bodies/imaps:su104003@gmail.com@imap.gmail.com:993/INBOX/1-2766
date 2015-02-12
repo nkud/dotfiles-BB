@@ -1,0 +1,258 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp904177qdc;
+        Wed, 3 Sep 2014 09:59:32 -0700 (PDT)
+X-Received: by 10.140.51.81 with SMTP id t75mr66027442qga.37.1409763571690;
+        Wed, 03 Sep 2014 09:59:31 -0700 (PDT)
+Return-Path: <000001483c74f4dc-7240c8ae-c05e-4043-a28a-2874a657e934-000000@amazonses.com>
+Received: from a9-95.smtp-out.amazonses.com (a9-95.smtp-out.amazonses.com. [54.240.9.95])
+        by mx.google.com with ESMTPS id h9si10270910qai.32.2014.09.03.09.59.31
+        for <su104003@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 03 Sep 2014 09:59:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 000001483c74f4dc-7240c8ae-c05e-4043-a28a-2874a657e934-000000@amazonses.com designates 54.240.9.95 as permitted sender) client-ip=54.240.9.95;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 000001483c74f4dc-7240c8ae-c05e-4043-a28a-2874a657e934-000000@amazonses.com designates 54.240.9.95 as permitted sender) smtp.mail=000001483c74f4dc-7240c8ae-c05e-4043-a28a-2874a657e934-000000@amazonses.com;
+       dkim=pass header.i=@amazonses.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1409763570;
+	h=Date:Message-Id:From:To:Subject:Content-Type:Content-Transfer-Encoding:MIME-Version:Feedback-ID;
+	bh=NUTpTfbev0G2yPjqF8XaMHWsXUJWSsjHie92Etd/j5E=;
+	b=R+BW62SZzTo4n/f+mpUUzdQCs7Yu8gTgw0RIERHU1sEDMl7W2O3mxGo3iiLWwQM/
+	adqRZwT73eqJmwIknjg5gWxbLZltTav0mDNCcJFD60cLWuLXKVBQYw1kAPypIKRn/Iz
+	lgu/8trqgEE061rTRTpG1m1d7ZmiqJRuj/kEhEy4=
+X-Mailer: Nodemailer (0.6.3; +http://github.com/andris9/nodemailer; ses)
+Date: Wed, 3 Sep 2014 16:59:30 +0000
+Message-ID: <000001483c74f4dc-7240c8ae-c05e-4043-a28a-2874a657e934-000000@email.amazonses.com>
+From: "Umano" <noreply@umano.me>
+To: su104003@gmail.com
+Subject: Umano Reset Password Confirmation
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-SES-Outgoing: 2014.09.03-54.240.9.95
+Feedback-ID: us-east-1.VW1hbm8gPG5vcmVwbHlAdW1hbm8ubWU+:AmazonSES
+
+
+<html xmlns=3D=22http://www.w3.org/1999/xhtml=22 style=3D=22margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22>
+<head style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+<!-- If you delete this tag, the sky will fall on your head -->
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif;=22 />
+
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; =
+charset=3DUTF-8=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica=
+ Neue, Helvetica, Helvetica, Arial, sans-serif;=22 />
+<title style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>Umano</title>
+=20=20
+=20=20=20
+
+</head>
+=20
+<body bgcolor=3D=22#FFFFFF=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+-webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width:=
+ 100%; height: 100%;=22>
+
+<!-- HEADER -->
+<table class=3D=22head-wrap=22 bgcolor=3D=22#f7f5f2=22 style=3D=22margin: =
+0; padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; width: 100%;=22>
+  <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+    <td class=3D=22header container logo=22 style=3D=22margin: 0 auto; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; display: block; max-width: 600px; clear: both;=22>
+=20=20=20=20=20=20
+        <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: =
+15px; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=
+ max-width: 600px; display: block;=22>
+          <table style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+          <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue=
+, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+              <img class=3D=22umano-logo=22 width=3D=22120=22 =
+height=3D=2236=22 src=3D=22https://umano.me/image/=3Fname=3Dumano-logo-dark=
+@2x.png&amp;track=3DZW1haWwudmlldzo1MmUxZDk1Y2JjM2VkY2M0MjcwMjgzZDU6dXNlcl9=
+yZXNldF9wYXNzd29yZDoxOjE0MDk3NjM1NzAyNTI=3D=22 style=3D=22margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; max-width: 100%;=22 />
+            </td>
+          </tr>
+        </table>
+        </div>
+=20=20=20=20=20=20=20=20
+    </td>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+  </tr>
+</table><!-- /HEADER -->
+
+
+<!-- BODY -->
+<table class=3D=22body-wrap=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+width: 100%;=22>
+  <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+    <td class=3D=22container=22 bgcolor=3D=22#FFFFFF=22 style=3D=22margin: =
+0 auto; padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, =
+Arial, sans-serif; display: block; max-width: 600px; clear: both;=22>
+
+=20=20=20=20=20=20
+
+      <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>
+      <table style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue,=
+ Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue=
+, Helvetica, Helvetica, Arial, sans-serif;=22>
+=20=20=20=20=20=20=20=20=20=20=20=20
+            <h3 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 27px;=22>Hi Naoki!</h3>
+            <p class=3D=22lead=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+margin-bottom: 10px; font-weight: 200; font-size: 17px; color: #666; =
+line-height: 1.6;=22>You recently requested to reset your Umano password. =
+Your new temporary password is included below. Please make sure to change =
+it as soon as possible.</p>
+=20=20=20=20=20=20=20=20=20=20=20=20
+            <!-- Callout Panel -->
+            <p class=3D=22callout=22 style=3D=22font-size: 20px; =
+font-weight: hold; margin: 0; padding: 15px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; background-color: #f7f5f2; =
+margin-bottom: 15px; color: #666; line-height: 1.6;=22>
+              xT8Kqww1=20=20=20=20=20=20
+            </p><!-- /Callout Panel -->=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+          </td>
+        </tr>
+      </table>
+      </div>
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+    </td>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+  </tr>
+</table><!-- /BODY -->
+
+<!-- FOOTER -->
+<table class=3D=22footer-wrap=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+width: 100%; clear: both;=22>
+  <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+    <td class=3D=22container=22 style=3D=22margin: 0 auto; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+display: block; max-width: 600px; clear: both;=22>
+=20=20=20=20=20=20
+        <!-- content -->
+        <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: =
+15px; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=
+ max-width: 600px; display: block;=22>
+        <table style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; width: =
+100%;=22>=20=20=20=20=20=20=20=20
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <p style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; =
+font-weight: 200; font-size: 14px; color: #666; line-height: 1.6;=22>
+              <a href=3D=22http://facebook.com/umanoapp=22 =
+target=3D=22=5Fblank=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; color: =
+#ff7300;=22><img width=3D=2246=22 height=3D=2246=22 src=3D=22https://umano.=
+me/img/email/fb@2x.png=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a>&nbsp;&nbsp;
+              <a href=3D=22http://twitter.com/umanoapp=22 =
+target=3D=22=5Fblank=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; color: =
+#ff7300;=22><img width=3D=2246=22 height=3D=2246=22 src=3D=22https://umano.=
+me/img/email/twitter@2x.png=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 100%;=22 /></a>&nbsp;&nbsp;
+              <a href=3D=22http://plus.google.com/+umanoapp=22 =
+target=3D=22=5Fblank=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; color: =
+#ff7300;=22><img width=3D=2246=22 height=3D=2246=22 src=3D=22https://umano.=
+me/img/email/google+@2x.png=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 100%;=22 /></a>
+            </p>
+          </td>
+        </tr>
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <p style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; =
+font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22>=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              <a href=3D=22http://umano.me/terms=22 style=3D=22margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; color: #ff7300;=22>Terms</a> |
+              <a href=3D=22http://umano.me/privacy=22 style=3D=22margin: 0;=
+ padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; color: #ff7300;=22>Privacy</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+            </p>
+          </td>
+        </tr>
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <p style=3D=22color: #666; font-size: 11px; margin: 0; padding:=
+ 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+margin-bottom: 10px; font-weight: 200; line-height: 1.6;=22>
+            This email was intended for <a style=3D=22color: #666; margin: =
+0; padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22 href=3D=22mailto:su104003@gmail.com=22>su104003@gmail.=
+com</a>. =C2=A9 2014, SoThree, Inc., 2 Harrison St, CA, USA 94105
+            <br style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif;=22 />
+            Please do not reply to this email, as this inbox is not =
+monitored. Email us at <a style=3D=22color: #666; margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22 =
+href=3D=22mailto:support@umano.me=22>support@umano.me</a> if you have any =
+questions.
+            </p>=20=20=20=20=20=20=20=20=20=20=20=20
+          </td>
+        </tr>
+      </table>
+        </div><!-- /content -->
+=20=20=20=20=20=20=20=20
+    </td>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+  </tr>
+</table><!-- /FOOTER -->
+
+</body>
+</html>
+
+
+

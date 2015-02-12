@@ -1,0 +1,170 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.5.4 with SMTP id 4csp640210vkf;
+        Wed, 15 Oct 2014 19:34:50 -0700 (PDT)
+X-Received: by 10.68.204.8 with SMTP id ku8mr16748785pbc.103.1413426889986;
+        Wed, 15 Oct 2014 19:34:49 -0700 (PDT)
+Return-Path: <apache@dotinstall.com>
+Received: from dotinstall.com (www3068gk.sakura.ne.jp. [153.120.78.82])
+        by mx.google.com with ESMTP id tp6si1182836pbc.215.2014.10.15.19.34.49
+        for <su104003@gmail.com>;
+        Wed, 15 Oct 2014 19:34:49 -0700 (PDT)
+Received-SPF: pass (google.com: domain of apache@dotinstall.com designates 153.120.78.82 as permitted sender) client-ip=153.120.78.82;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of apache@dotinstall.com designates 153.120.78.82 as permitted sender) smtp.mail=apache@dotinstall.com
+Received: by dotinstall.com (Postfix, from userid 503)
+	id 45964921C8E; Thu, 16 Oct 2014 11:34:49 +0900 (JST)
+To: su104003@gmail.com
+Subject: =?iso-2022-jp?B?GyRCIVolSSVDJUglJCVzJTklSCE8JWtETD8uGyhCICMwMTU=?= =?iso-2022-jp?B?MRskQiFbGyhCIFN3aWZ0GyRCRn5MZyEiTD44RTIwJV8hPCVIGyhC?= =?iso-2022-jp?B?GyRCJSIlQyVXJEokSSRKJEkbKEIuLi4=?=
+X-PHP-Originating-Script: 503:class.phpmailer.php
+Date: Thu, 16 Oct 2014 11:34:49 +0900
+From: =?iso-2022-jp?B?GyRCJUklQyVIJSQlcyU5JUghPCVrGyhC?= <no-reply@dotinstall.com>
+Message-ID: <105b3edae4a5dabbb57d9af99712900d@dotinstall.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="iso-2022-jp"
+
+
+■□━━━━━━━━━━━━━━━━━━━□■
+　　　　ドットインストール通信 #0151
+□■━━━━━━━━━━━━━━━━━━━■□
+
+「ドットインストール第148期生」のnumustさん、こんにちは！
+
+なんだか年末ムードが漂ってきたような気がしないでもないですね...！
+今週も元気にドットインストール通信をお届けします。
+
+
+■ numustさんの学習状況
+
+直近7日間の学習状況をお知らせいたします。
+
+○ 登録からの経過日数： 24日
+
+○ 現在までの学習日数： 1日
+※サイトを訪問した日数の合計です
+
+○ 最後にサイトを訪問した日： 22日前
+ 
+○ 直近、7日間の学習ログ
+
+...お時間のあるときにどうぞ！ → http://dotinstall.com/lessons
+
+○ 現在までの完了数
+
+→ 現在までの完了数は0本です！ 
+
+ 
+
+■ 今週のレッスン
+
+今週はSwift入門を追加しました。プレミアム限定
+ですが、全24回で概要がつかめると思いますので
+よろしければ是非！
+
+・Swift入門 (全24回)
+http://dotinstall.com/lessons/basic_swift
+
+■ 名古屋ランチミートアップ（10/17開催）
+
+直前で恐縮ですが、本日の18時締切です。
+もしご都合がつくようでしたら是非！
+
+・名古屋ランチミートアップへのお誘い
+http://www.ideaxidea.com/archives/2014/10/lunch_dotinstall_lunch.html
+
+■ ドットインストールをご紹介いただきました
+
+たくさんのブログやツイートにてご紹介いただきました。
+
+・ドットインストール、"Swift入門"教材...
+http://teabreak.cocolog-nifty.com/tb_idea_notes/2014/10/swift-4cd7.html
+→ ブログにてご紹介いただきました。感謝！
+
+・Arduinoを触ってみた話 - いぇしのかくれが
+http://yeshi.hateblo.jp/entry/2014/10/12/234937
+→ Arduino入門、がんばりましたので是非！
+
+・プログラミングを学んでみる - めもちょう
+http://hyt0724.hatenablog.jp/entry/2014/10/05/220045
+→ こちらでもご紹介いただきました！
+
+・iOS レイアウト入門なるものもある...。 
+https://twitter.com/ika_tarou/status/521951070910566400
+→ ありがとうございます！がんばります！
+
+公式ブログではもっと取り上げさせていただいています。
+よろしければどうぞ（右側カラムにて紹介しています）。
+
+・「ドットインストール」公式ブログ
+http://blog.dotinstall.com/
+
+■ 今後の予定
+
+ようやくSwiftがリリースできてほっと一息。Android
+も含めてアプリをどんどん作っていきたいところです。
+
+ドットインストールはこちらから！ → http://dotinstall.com/
+
+【編集後記】
+
+「今日から大阪、名古屋と回ります。たくさんの方
+とお会いできるのが楽しみです。」- @taguchi
+
+「久々に草野球の公式戦、シビれる試合をしました。（普段はお気楽なのでｗ）」- @fkoji
+
+−−−−−【プレミアムサービス】−−−−−−−
+
+・プレミアム動画の視聴
+・文字起こし
+・ソースコード
+・倍速再生！
+・女性ボイス
+などが出来るようになります。
+
+詳細は以下からどうぞ。
+
+→ http://dotinstall.com/premium
+
+−−−−−【法人向けライセンス】−−−−−−−
+
+企業内研修やOJT、インターンシップで使える法人
+向けライセンスの提供を開始しました。
+
+→ http://dotinstall.com/business
+
+−−−−【学生アルバイト募集中！】−−−−−−
+
+コンテンツ制作を補助していただける学生アルバイ
+トを募集中です。
+
+→ http://company.dotinstall.com/recruit.html
+
+−−−−−【更新情報はこちらでも】−−−−−−
+
+・ドットインストール公式Twitter
+https://twitter.com/dotinstall
+・ドットインストールのFacebookページ
+http://www.facebook.com/dotinstall
+・ドットインストール公式ブログ
+http://blog.dotinstall.com/
+
+−−−−−【お問い合わせについて】−−−−−−
+
+ご意見・ご感想は以下のフォームよりお願いいたします！
+
+・お問い合わせフォーム
+http://dotinstall.com/contact
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+・発行元　　　　： ドットインストール
+・アドレス変更　： https://dotinstall.com/user/settings
+・このメールは送信専用です。返信できませんのでご注意ください。
+・本メルマガにより生じる損害・トラブル等について責任は負いません。
+・ご意見・ご感想は http://dotinstall.com/contact まで！
+・購読停止　　　： https://dotinstall.com/mail/cuw?key=j0ct8qvlx4
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+(C) 2011-2014 dotinstall.com
+
+

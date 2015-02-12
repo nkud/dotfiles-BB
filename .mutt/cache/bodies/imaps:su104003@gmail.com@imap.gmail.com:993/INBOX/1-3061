@@ -1,0 +1,177 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.5.4 with SMTP id 4csp269031vkf;
+        Fri, 17 Oct 2014 14:11:49 -0700 (PDT)
+X-Received: by 10.224.47.2 with SMTP id l2mr1601673qaf.28.1413580308795;
+        Fri, 17 Oct 2014 14:11:48 -0700 (PDT)
+Return-Path: <promed-bounces@promedmail.org>
+Received: from mailsmtphv1.childrenshospital.org (mailhv.childrenshospital.org. [134.174.13.18])
+        by mx.google.com with ESMTPS id c44si4350971qgd.93.2014.10.17.14.11.47
+        for <multiple recipients>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 17 Oct 2014 14:11:48 -0700 (PDT)
+Received-SPF: none (google.com: promed-bounces@promedmail.org does not designate permitted sender hosts) client-ip=134.174.13.18;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: promed-bounces@promedmail.org does not designate permitted sender hosts) smtp.mail=promed-bounces@promedmail.org
+Received: from pps.filterd (mailsmtphv1.childrenshospital.org [127.0.0.1])
+	by mailsmtphv1.childrenshospital.org (8.14.7/8.14.7) with SMTP id s9HL8wL4024626;
+	Fri, 17 Oct 2014 17:11:43 -0400
+Received: from promedmail.chip.org (promedmail.chip.org [134.174.13.190])
+	by mailsmtphv1.childrenshospital.org with ESMTP id 1psq5xajgh-24;
+	Fri, 17 Oct 2014 17:11:42 -0400
+Received: from promedmail.chip.org (localhost.localdomain [127.0.0.1])
+	by promedmail.chip.org (Postfix) with ESMTP id CADF111A8070;
+	Fri, 17 Oct 2014 21:09:33 +0000 (UTC)
+X-Original-To: promed-post@promedmail.org
+Delivered-To: promed-post@promedmail.org
+Received: from mailsmtp1.childrenshospital.org
+	(mailsmtp1.childrenshospital.org [134.174.13.91])
+	by promedmail.chip.org (Postfix) with ESMTP id 83C5F758010;
+	Fri, 17 Oct 2014 21:09:01 +0000 (UTC)
+Received: from pps.filterd (mailsmtp1.childrenshospital.org [127.0.0.1])
+	by mailsmtp1.childrenshospital.org (8.14.7/8.14.7) with SMTP id
+	s9HKxFUC019225; Fri, 17 Oct 2014 17:09:02 -0400
+Received: from a9-134.smtp-out.amazonses.com (a9-134.smtp-out.amazonses.com
+	[54.240.9.134])
+	by mailsmtp1.childrenshospital.org with ESMTP id 1q2sypuydt-1
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NOT);
+	Fri, 17 Oct 2014 17:09:02 -0400
+To: promed-post@promedmail.org, promed-edr-post@promedmail.org,
+        promed-ahead-post@promedmail.org
+Subject: PRO/AH/EDR> Plague - China (03): (GS) pneumonic, fatality
+MIME-Version: 1.0
+Date: Fri, 17 Oct 2014 21:09:00 +0000
+Message-ID: <000001491ff12fbf-b64e735c-bd13-43c7-bc1a-fe625bdc1e76-000000@email.amazonses.com>
+X-SES-Outgoing: 2014.10.17-54.240.9.134
+Feedback-ID: us-east-1.UHJvTWVkIDxtb2RAaGVhbHRobWFwLm9yZz4=:AmazonSES
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.12.52, 1.0.28,
+	0.0.0000
+	definitions=2014-10-17_05:2014-10-17, 2014-10-17,
+	1970-01-01 signatures=0
+From: promed@promedmail.org
+X-BeenThere: promed@promedmail.org
+X-Mailman-Version: 2.1.9
+Precedence: list
+Reply-To: promedNOREPLY@promedmail.org
+X-ProMED-Id: 20141017.442782
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: promed-bounces@promedmail.org
+Errors-To: promed-bounces@promedmail.org
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.12.52,1.0.28,0.0.0000
+ definitions=2014-10-17_05:2014-10-17,2014-10-17,1970-01-01 signatures=0
+X-Proofpoint-Spam-Reason: safe
+
+
+PLAGUE - CHINA (03): (GANSU) PNEUMONIC, FATALITY
+************************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: Fri 17 Oct 2014
+Source: Zhongxin Network [in Chinese, trans. Rappt.DS, edited]
+<http://news.xmnn.cn/a/gnxw/201410/t20141017_4142844.htm>
+
+
+Gansu Health and Family Planning Commission officially reported on 17
+Oct 2014 that the Gansu Subei Mongolian Autonomous County People's
+Hospital confirmed a case of plague. The patient was from Sangewa
+Ranch in Machang Village of Dangchengwan Township in Subei County. The
+patient had fever and shortness of breath before passing away.
+
+The report stated that on 15 Oct 2014, Jiuquan City Health Bureau
+reported [the case as] suspected plague. The patient was a male, Han
+Chinese, 50-year old rancher. On 16 Oct 2014, experts from national,
+provincial, city, and county levels confirmed pneumonic plague based
+on clinical symptoms, epidemiological history, and lab test results.
+No abnormalities have been observed in 22 contacts.
+
+--
+Communicated by:
+ProMED-mail Rapporteur Dan Silver
+
+[Most plague cases are due to the bubonic form following the bite of
+an infected rodent flea causing a swollen and very tender lymph gland.
+The swollen gland is called a "bubo." Bubonic plague should be
+suspected when a person develops a swollen gland, fever, chills,
+headache, and extreme exhaustion, and has a history of possible
+exposure to infected rodents, rabbits, or fleas. A person usually
+becomes ill with bubonic plague 2 to 6 days after being bitten.
+
+When bubonic plague is left untreated, the _Yersinia pestis_ organism
+can invade the bloodstream. As the plague bacteria multiply in the
+bloodstream, they spread rapidly throughout the body and cause a
+severe and often fatal condition. Infection of the lungs with the
+plague bacterium causes the pneumonic form of plague, a severe
+respiratory illness. The infected person may experience high fever,
+chills, cough, and breathing difficulty and may expel bloody sputum.
+If plague patients are not given specific antibiotic therapy, the
+disease can progress rapidly to death. At this stage, as appears to
+have happened in this case, person-to-person spread can occur, causing
+cases of "primary" plague pneumonia.
+
+The marmot is the most common reservoir for _Yersinia pestis_ in
+eastern Asia. The etymology of the term "marmot" is uncertain
+(<http://en.wikipedia.org/wiki/Marmot>). It may have arisen from the
+Gallo-Romance prefix marm-, meaning to mumble or murmur (an example of
+onomatopoeia). Another possible origin is post-classical Latin, mus
+montanus, meaning "mountain mouse." - Mod.LL
+
+Maps of China can be seen at <http://www.sacu.org/maps/provmap.png>
+and <http://healthmap.org/promed/p/333>. - Sr.Tech.Ed.MJ]
+
+[See Also:
+Plague - China (02): (GS) fatality 20141005.2832636
+Plague - China: (GS) pneumonic, fatality 20140718.2620341
+2012
+----
+Plague - China: (SC) bubonic, fatal 20120911.1290061
+2011
+----
+Plague, pneumonic, 2009 - China: (QH) follow up 20110109.0100
+2009
+----
+Plague, pneumonic - China (06): (QH), WHO 20090811.2870
+Plague, pneumonic - China: (QH), RFI 20090801.2702
+2008
+----
+Plague, pneumonic, fatal - China: (Tibet) 20081001.3094
+2007
+----
+Plague, fatal - China: (Gansu) 20071212.3998
+Plague, bubonic - Mongolia (Gobisumber) 20070924.3163
+Plague, human, fatal - Mongolia (Hovsgol) (03) 20070810.2602
+Plague, human, fatal - Mongolia (Hovsgol) 20070807.2567
+Plague, rodents - Russia (Volgograd, Astrakhan): susp. 20070128.0368
+2005
+----
+Plague - China (Tibet) 20050626.1798]
+.................................................ll/mj/ml
+*##########################################################*
+************************************************************
+ProMED-mail makes every effort to  verify  the reports  that
+are  posted,  but  the  accuracy  and  completeness  of  the
+information,   and  of  any  statements  or  opinions  based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by  ProMED-mail.   ISID
+and  its  associated  service  providers  shall not be  held
+responsible for errors or omissions or  held liable for  any
+damages incurred as a result of use or reliance upon  posted
+or archived material.
+************************************************************
+Donate to ProMED-mail. Details available at:
+<http://www.isid.org/donate/>
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org (NOT to
+an individual moderator).  If you do not give your full name
+name and affiliation,  it may not be posted.  You may unsub-
+scribe at  <http://ww4.isid.org/promedmail/subscribe.php>.
+For  assistance  from   a   human   being, send mail to:
+<postmaster@promedmail.org>.
+############################################################
+############################################################
+
+List-Unsubscribe: http://ww4.isid.org/promedmail/subscribe.php

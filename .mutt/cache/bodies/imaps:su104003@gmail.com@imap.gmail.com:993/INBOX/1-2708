@@ -1,0 +1,641 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp287594qdc;
+        Sun, 17 Aug 2014 13:47:56 -0700 (PDT)
+X-Received: by 10.70.35.207 with SMTP id k15mr35640469pdj.5.1408308475746;
+        Sun, 17 Aug 2014 13:47:55 -0700 (PDT)
+Return-Path: <bounces+124036-995a-su104003=gmail.com@email.getprismatic.com>
+Received: from o1.email.getprismatic.com (o1.email.getprismatic.com. [50.31.34.175])
+        by mx.google.com with SMTP id vo5si18573351pab.26.2014.08.17.13.47.54
+        for <su104003@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 17 Aug 2014 13:47:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+124036-995a-su104003=gmail.com@email.getprismatic.com designates 50.31.34.175 as permitted sender) client-ip=50.31.34.175;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+124036-995a-su104003=gmail.com@email.getprismatic.com designates 50.31.34.175 as permitted sender) smtp.mail=bounces+124036-995a-su104003=gmail.com@email.getprismatic.com;
+       dkim=pass header.i=@getprismatic.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getprismatic.com; 
+	h=from:reply-to:to:subject:mime-version:content-type; s=smtpapi; 
+	bh=nJc47Ot2Uxf3YupssrS7CuiN/FQ=; b=PzdK72MDujVihnJQoVCy9RySvAZu+
+	WWzp9wX82i/7611LEqXfXKaGc4HRAUd6+Zhe+7tygUc8cw130YWMO1VmtHp9407R
+	v8Z47IKdawoMvuwei5X/VRQ7OmykMUMkxxCE4mLOWvcxXfYHUXMuMVyPqmXLMNfe
+	cZTSPnbtY0N1yI=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:x-feedback-id; 
+	s=smtpapi; bh=nJc47Ot2Uxf3YupssrS7CuiN/FQ=; b=gfztwmqRNTBuWp3JLB
+	bZj1EH+S7oFMvpjTfwaV7wTvJVWiU81YgudwinWDzSKJNzb2OH+H0OQDYq3Fk32k
+	bvSJh7A5MiRsK14/BQx0YX248z0YWCcZkpRyNaoPyvFL73b3DPVxQY/61yz/j7IV
+	za6wUT7M7Sw9ULtAwT/zGKVBM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=getprismatic.com; 
+	h=from:reply-to:to:subject:mime-version:content-type; q=dns; 
+	s=smtpapi; b=oL5CNzAh6pL4WMn+DNb04Ta9RLdZns6+ZgNnOO1OywYGfwWFIGx
+	xIuiogCyLCPLx9xSikCTuRjjFwDDPwmZNXK8lVgqLjUGjN8oIS7p51FfJhznFGWq
+	4tqt6RM5o6IPDTRVcy60nbouNn8ZZoYgTfRuuWljUg9UFKqtFGnARl9o=
+Received: by mf160.sendgrid.net with SMTP id mf160.10985.53F114F814
+        2014-08-17 20:47:53.273271259 +0000 UTC
+Received: from ip-10-237-135-11.ec2.internal (ec2-54-242-102-92.compute-1.amazonaws.com [54.242.102.92])
+	by ismtpd-013.iad1.sendgrid.net (SG) with ESMTP id 147e5b9ed3d.738d.6f9dc
+	for <su104003@gmail.com>; Sun, 17 Aug 2014 20:47:53 +0000 (GMT)
+From: Prismatic Team <digest@getprismatic.com>
+Reply-To: noreply@getprismatic.com
+To: su104003@gmail.com
+Message-ID: <99952100.715776.1408308473081.JavaMail.root@ip-10-237-135-11>
+Subject: Your top stories about Happiness, User Experience, and Music Theory
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_715775_2020994157.1408308473081"
+Date: Sun, 17 Aug 2014 20:47:53 +0000 (UTC)
+X-SG-EID: K596DjENlrWtxtIpLnNJnpI/n9k8+794KMI88IQq7e8DasiMScD5IWWxFDOfwJfyY4dDEv3r2f/7LtABiCrzFdo21uZNHOJ0pYFp/B3IGJHQO8LV64QnSj8NaIDbP1N5s8tlouoRv0t6a9hLJ/5n5RTDB6CXjJ9c1heJWNsN448=
+X-Feedback-ID: 124036:iWvLPcA3qo99Hwoiu4aZKuIzEkJ+o+Od8sK5diAinWk=:iWvLPcA3qo99Hwoiu4aZKuIzEkJ+o+Od8sK5diAinWk=:SG
+
+------=_Part_715775_2020994157.1408308473081
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<html style="
+"><head style="
+"><link href="theme.css" rel="stylesheet" style="
+" type="text/css" /></head><body style="
+"><div style="
+"><table border="0" cellpadding="0" cellspacing="0" class="wrapping-table" style="border-spacing: 0px;" width="100%"><tr style="
+"><td style="
+"><div style="
+"><div style="
+"><table align="center" border="0" cellpadding="0" cellspacing="0" class="center logo center-table" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;"><col class="logo-col" style="
+" /><col class="name-col" style="
+" /><tbody style="
+"><tr style="
+"><td class="logo-icon" style="
+"><a style="font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+color: #202626;
+"><img src="http://imagecdn.getprismatic.com/email/img/logo.png" style="height: 22px;
+" /></a></td><td style="
+" width="10" /><td style="
+"><a style="font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+color: #202626;
+">Prismatic</a></td></tr></tbody></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="center-table" style="border-spacing: 0px;" width="440"><tr style="
+"><td style="
+"><table align="center" border="0" cellpadding="0" cellspacing="0" class="center center-text center-table" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;"><tbody style="
+"><tr class="subtext-row" height="50" style=""><td style="
+"><a class="subtext" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vbmV3cy9ob21lP3V0bV9tZWRpdW09ZW1haWw.NcIxgnEEZZ8fLO0eQjeBOc_mxu8&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=home" style="font-size: 17px;
+line-height: 22px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+color: #a2a6a6;
+">Hi Naoki009, here are some of the best stories from your Prismatic feed</a></td></tr></tbody></table></td></tr></table></div><table align="center" border="0" cellpadding="0" cellspacing="0" class="center center-text CTA center-table" height="50" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;"><tbody style="
+"><tr style="
+"><td style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vbmV3cy9ob21lP3V0bV9tZWRpdW09ZW1haWw.NcIxgnEEZZ8fLO0eQjeBOc_mxu8&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=home" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Go to my feed</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr height="30" style="
+"><td class="spacing" style="" width="10" /></tr></table><table border="0" cellpadding="0" cellspacing="0" class="separator-table" style="border-spacing: 0px;" width="100%"><tr class="separator-row" height="26" style=""><td style="
+"><div class="separator" style="border-bottom-width: 1px;
+margin-bottom: 26px;
+border-bottom-color: #e5e5e5;
+border-bottom-style: solid;
+"></div></td></tr></table></div><table align="center" border="0" cellpadding="0" cellspacing="0" class="body-table-540px" style="border-spacing: 0px;" width="540"><tr style="
+"><td style="
+"><table border="0" cellpadding="0" cellspacing="0" class="table-body center" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+max-width: 540px;
+table-layout: fixed;"><tr style="
+"><td style="
+"><div class="500px" style="width: 500px;
+"><div class="explain-container digest-explain center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 14px;
+"><div class="topic-tag-container 500px center" style="width: 500px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+height: 35px;
+padding-top: 5px;
+"><table border="0" bordercolor="#43bfbf" cellpadding="0" cellspacing="0" class="table-tags" style="border-spacing: 0px;"><tr style="
+"><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvSGFwcGluZXNz.bFa0IKD5iJd1TXK1Z1KK7yaX11A&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Happiness</a></td><td class="spacing" style="" width="10" /><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvTW90aXZhdGlvbg.4BawtwbsryaxpJ5p5I3mLdvD9J0&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Motivation</a></td><td class="spacing" style="" width="10" /></tr></table></div></div><div class="doc-title center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 6px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwODE3MTE2Mzk3Mz91dG1fbWVkaXVtPWVtYWls.OPEnZ8gLXMHxG1MHFBueOTehgL4&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="color: #202626;
+font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+">10 Powerful Quotes by Confucius That Can Change Your Life</a></div><div class="by-line center" style="margin-left: auto;
+margin-right: auto;
+color: #a2a6a6;
+margin-bottom: 10px;
+"><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr style="
+"><td class="publisher" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">The Unbounded Spirit</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="bullet" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">&#149;</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="time" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">1 d ago</span></td></tr></table></div><div class="doc-body center" style="margin-left: auto;
+margin-right: auto;
+width: 500px;
+padding-top: 5px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwODE3MTE2Mzk3Mz91dG1fbWVkaXVtPWVtYWls.OPEnZ8gLXMHxG1MHFBueOTehgL4&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="text-decoration: none;
+font-weight: 400;
+line-height: 32px;
+font-size: 21px;
+color: #202626;
+font-family: 'Minion Pro' Georgia;
+"><div class="image-container center" style="margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+"><img src="http://images.getprismatic.com/web-resize/http%3A%2F%2Ftheunboundedspirit.com%2Fwp-content%2Fuploads%2F2014%2F08%2Fmaster-confucius.jpg/500/288" style="width: 100%;
+" /></div></a></div><table border="0" cellpadding="0" cellspacing="0" class="CTA right-cta" height="50" style="border-spacing: 0px;
+width: 100%;"><tbody style="
+"><tr height="90" style=""><td align="right" style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwODE3MTE2Mzk3Mz91dG1fbWVkaXVtPWVtYWls.OPEnZ8gLXMHxG1MHFBueOTehgL4&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Read More</a></td></tr></tbody></table></div></td></tr><tr style="
+"><td style="
+"><table border="0" cellpadding="0" cellspacing="0" class="separator-table" style="border-spacing: 0px;" width="100%"><tr class="separator-row" height="26" style=""><td style="
+"><div class="separator" style="border-bottom-width: 1px;
+margin-bottom: 26px;
+border-bottom-color: #e5e5e5;
+border-bottom-style: solid;
+"></div></td></tr></table></td></tr><tr style="
+"><td style="
+"><div class="500px" style="width: 500px;
+"><div class="explain-container digest-explain center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 14px;
+"><div class="topic-tag-container 500px center" style="width: 500px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+height: 35px;
+padding-top: 5px;
+"><table border="0" bordercolor="#43bfbf" cellpadding="0" cellspacing="0" class="table-tags" style="border-spacing: 0px;"><tr style="
+"><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvVXNlciUyMEV4cGVyaWVuY2U.uOoMEgza7JUeoW2dn9p5_oZnYlA&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">User Experience</a></td><td class="spacing" style="" width="10" /><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvU29jaWFsJTIwTWVkaWE.Dxs1iIxXceNjfyWpXW8t1Ie2JEc&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Social Media</a></td><td class="spacing" style="" width="10" /><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvU3RyYXRlZ3k.L-5sw7Wfbx1TC9HvteGZVqrooWg&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Strategy</a></td><td class="spacing" style="" width="10" /></tr></table></div></div><div class="doc-title center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 6px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzg2MDM5ODg4ND91dG1fbWVkaXVtPWVtYWls.T9o5I7AoT4nedxdmD_DFndVD9oA&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="color: #202626;
+font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+">Slack is killing email</a></div><div class="by-line center" style="margin-left: auto;
+margin-right: auto;
+color: #a2a6a6;
+margin-bottom: 10px;
+"><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr style="
+"><td class="publisher" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">The Verge</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="bullet" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">&#149;</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="time" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">5 d ago</span></td></tr></table></div><div class="doc-body center" style="margin-left: auto;
+margin-right: auto;
+width: 500px;
+padding-top: 5px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzg2MDM5ODg4ND91dG1fbWVkaXVtPWVtYWls.T9o5I7AoT4nedxdmD_DFndVD9oA&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="text-decoration: none;
+font-weight: 400;
+line-height: 32px;
+font-size: 21px;
+color: #202626;
+font-family: 'Minion Pro' Georgia;
+"><div class="image-container center" style="margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+"><img src="http://images.getprismatic.com/web-resize/http%3A%2F%2Fcdn2.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F631622%2Fslack_for_desktop_560.0.png/500/288" style="width: 100%;
+" /></div></a></div><table border="0" cellpadding="0" cellspacing="0" class="CTA right-cta" height="50" style="border-spacing: 0px;
+width: 100%;"><tbody style="
+"><tr height="90" style=""><td align="right" style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzg2MDM5ODg4ND91dG1fbWVkaXVtPWVtYWls.T9o5I7AoT4nedxdmD_DFndVD9oA&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Read More</a></td></tr></tbody></table></div></td></tr><tr style="
+"><td style="
+"><table border="0" cellpadding="0" cellspacing="0" class="separator-table" style="border-spacing: 0px;" width="100%"><tr class="separator-row" height="26" style=""><td style="
+"><div class="separator" style="border-bottom-width: 1px;
+margin-bottom: 26px;
+border-bottom-color: #e5e5e5;
+border-bottom-style: solid;
+"></div></td></tr></table></td></tr><tr style="
+"><td style="
+"><div class="500px" style="width: 500px;
+"><div class="explain-container digest-explain center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 14px;
+"><div class="topic-tag-container 500px center" style="width: 500px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+height: 35px;
+padding-top: 5px;
+"><table border="0" bordercolor="#43bfbf" cellpadding="0" cellspacing="0" class="table-tags" style="border-spacing: 0px;"><tr style="
+"><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvTXVzaWMlMjBUaGVvcnk.SCTZpjGPccFlpFlPhG6Uv0lAago&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Music Theory</a></td><td class="spacing" style="" width="10" /><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvTXVzaWMlMjBFZHVjYXRpb24.9VeaAHUhNoRiNMqYhrb1G9c57XY&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Music Education</a></td><td class="spacing" style="" width="10" /></tr></table></div></div><div class="doc-title center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 6px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzUyNjc2MTcwNT91dG1fbWVkaXVtPWVtYWls.KMlCJnSsb_KKAyd8bEM3Gw7LClk&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="color: #202626;
+font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+">Screw Music Theory, This Guy Claims the Best Way to Learn Music is by Using an App</a></div><div class="by-line center" style="margin-left: auto;
+margin-right: auto;
+color: #a2a6a6;
+margin-bottom: 10px;
+"><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr style="
+"><td class="publisher" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">NOISEY</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="bullet" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">&#149;</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="time" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">9 d ago</span></td></tr></table></div><div class="doc-body center" style="margin-left: auto;
+margin-right: auto;
+width: 500px;
+padding-top: 5px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzUyNjc2MTcwNT91dG1fbWVkaXVtPWVtYWls.KMlCJnSsb_KKAyd8bEM3Gw7LClk&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="text-decoration: none;
+font-weight: 400;
+line-height: 32px;
+font-size: 21px;
+color: #202626;
+font-family: 'Minion Pro' Georgia;
+"><div class="image-container center" style="margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+"><img src="http://images.getprismatic.com/web-resize/http%3A%2F%2Fassets.noisey.com%2Fcontent-images%2Fcontentimage%2F37088%2Fmeludia-large.jpg/500/288" style="width: 100%;
+" /></div></a></div><table border="0" cellpadding="0" cellspacing="0" class="CTA right-cta" height="50" style="border-spacing: 0px;
+width: 100%;"><tbody style="
+"><tr height="90" style=""><td align="right" style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzUyNjc2MTcwNT91dG1fbWVkaXVtPWVtYWls.KMlCJnSsb_KKAyd8bEM3Gw7LClk&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Read More</a></td></tr></tbody></table></div></td></tr><tr style="
+"><td style="
+"><table border="0" cellpadding="0" cellspacing="0" class="separator-table" style="border-spacing: 0px;" width="100%"><tr class="separator-row" height="26" style=""><td style="
+"><div class="separator" style="border-bottom-width: 1px;
+margin-bottom: 26px;
+border-bottom-color: #e5e5e5;
+border-bottom-style: solid;
+"></div></td></tr></table></td></tr><tr style="
+"><td style="
+"><div class="500px" style="width: 500px;
+"><div class="explain-container digest-explain center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 14px;
+"><div class="topic-tag-container 500px center" style="width: 500px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+height: 35px;
+padding-top: 5px;
+"><table border="0" bordercolor="#43bfbf" cellpadding="0" cellspacing="0" class="table-tags" style="border-spacing: 0px;"><tr style="
+"><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvUHN5Y2hvbG9neQ.ckH8fBfzzORkFmWGYXSTEW8zUAA&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Psychology</a></td><td class="spacing" style="" width="10" /><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvQ29udmVyc2F0aW9u.fyiBF42YeMVGcgg5NG3SaA0a8Gw&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Conversation</a></td><td class="spacing" style="" width="10" /></tr></table></div></div><div class="doc-title center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 6px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzYxNDYxMDU5OT91dG1fbWVkaXVtPWVtYWls.Y0mHzH9nWdk07qDf2qxdH8cpLTw&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="color: #202626;
+font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+">13 Things That Suck A Little Bit About Dealing With Introverts</a></div><div class="by-line center" style="margin-left: auto;
+margin-right: auto;
+color: #a2a6a6;
+margin-bottom: 10px;
+"><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr style="
+"><td class="publisher" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">Thought Catalog</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="bullet" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">&#149;</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="time" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">8 d ago</span></td></tr></table></div><div class="doc-body center" style="margin-left: auto;
+margin-right: auto;
+width: 500px;
+padding-top: 5px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzYxNDYxMDU5OT91dG1fbWVkaXVtPWVtYWls.Y0mHzH9nWdk07qDf2qxdH8cpLTw&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="text-decoration: none;
+font-weight: 400;
+line-height: 32px;
+font-size: 21px;
+color: #202626;
+font-family: 'Minion Pro' Georgia;
+"><div class="image-container center" style="margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+"><img src="http://images.getprismatic.com/web-resize/http%3A%2F%2Fthoughtcatalog.files.wordpress.com%2F2014%2F08%2Fscreen-shot-2014-08-09-at-12-12-43-pm.png%3Fw%3D786%26h%3D330/500/288" style="width: 100%;
+" /></div></a></div><table border="0" cellpadding="0" cellspacing="0" class="CTA right-cta" height="50" style="border-spacing: 0px;
+width: 100%;"><tbody style="
+"><tr height="90" style=""><td align="right" style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzYxNDYxMDU5OT91dG1fbWVkaXVtPWVtYWls.Y0mHzH9nWdk07qDf2qxdH8cpLTw&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Read More</a></td></tr></tbody></table></div></td></tr><tr style="
+"><td style="
+"><table border="0" cellpadding="0" cellspacing="0" class="separator-table" style="border-spacing: 0px;" width="100%"><tr class="separator-row" height="26" style=""><td style="
+"><div class="separator" style="border-bottom-width: 1px;
+margin-bottom: 26px;
+border-bottom-color: #e5e5e5;
+border-bottom-style: solid;
+"></div></td></tr></table></td></tr><tr style="
+"><td style="
+"><div class="500px" style="width: 500px;
+"><div class="explain-container digest-explain center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 14px;
+"><div class="topic-tag-container 500px center" style="width: 500px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+height: 35px;
+padding-top: 5px;
+"><table border="0" bordercolor="#43bfbf" cellpadding="0" cellspacing="0" class="table-tags" style="border-spacing: 0px;"><tr style="
+"><td style="
+"><a class="emblem" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vdG9waWMvSGFwcGluZXNz.bFa0IKD5iJd1TXK1Z1KK7yaX11A&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=interest" style="overflow: hidden;
+display: inline-block;
+font-family: Whitney HTF,Helvetica;;
+color: #43bfbf;
+border-width: 1px;
+margin-bottom: 20px;
+border-style: solid;
+text-decoration: none;
+padding: 4px 10px;
+border-radius: 2px;
+font-size: 17px;
+">Happiness</a></td><td class="spacing" style="" width="10" /></tr></table></div></div><div class="doc-title center" style="margin-left: auto;
+margin-right: auto;
+margin-bottom: 6px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzc3NTQxMzc2OD91dG1fbWVkaXVtPWVtYWls.R9eCEEPsnRsn2du01qzVth6RrQM&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="color: #202626;
+font-size: 24px;
+font-family: Whitney HTF,Helvetica;;
+font-weight: bold;
+text-decoration: none;
+">You Say You Want Happiness, But There's Something Else You Want More.</a></div><div class="by-line center" style="margin-left: auto;
+margin-right: auto;
+color: #a2a6a6;
+margin-bottom: 10px;
+"><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr style="
+"><td class="publisher" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">The Unlost</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="bullet" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">&#149;</span></td><td class="spacing-4px" style="" width="4" /><td class="spacing-4px" style="" width="4" /><td class="time" style="
+"><span style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">6 d ago</span></td></tr></table></div><div class="doc-body center" style="margin-left: auto;
+margin-right: auto;
+width: 500px;
+padding-top: 5px;
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzc3NTQxMzc2OD91dG1fbWVkaXVtPWVtYWls.R9eCEEPsnRsn2du01qzVth6RrQM&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="text-decoration: none;
+font-weight: 400;
+line-height: 32px;
+font-size: 21px;
+color: #202626;
+font-family: 'Minion Pro' Georgia;
+"><div class="image-container center" style="margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+"><img src="http://images.getprismatic.com/web-resize/http%3A%2F%2Fwww.theunlost.com%2Fwp-content%2Fuploads%2F2014%2F08%2Fgirl-in-red.jpg/500/288" style="width: 100%;
+" /></div></a></div><table border="0" cellpadding="0" cellspacing="0" class="CTA right-cta" height="50" style="border-spacing: 0px;
+width: 100%;"><tbody style="
+"><tr height="90" style=""><td align="right" style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vc3RvcnkvMTQwNzc3NTQxMzc2OD91dG1fbWVkaXVtPWVtYWls.R9eCEEPsnRsn2du01qzVth6RrQM&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=story" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Read More</a></td></tr></tbody></table></div></td></tr></table></td></tr></table><div class="separator" style="border-bottom-width: 1px;
+margin-bottom: 26px;
+border-bottom-color: #e5e5e5;
+border-bottom-style: solid;
+"></div><div class="footer" style="
+"><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr height="10" style="
+"><td class="spacing" style="" width="10" /></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="rest-footer center center-table" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 16px;"><tr style="
+"><td style="
+"><a style="font-family: Whitney HTF,Helvetica;;
+font-size: 17px;
+color: #a2a6a6;
+">See more in your feed</a></td></tr></table><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr height="10" style="
+"><td class="spacing" style="" width="10" /></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="center center-text CTA center-table" height="50" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;"><tbody style="
+"><tr style="
+"><td style="
+"><a href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2dldHByaXNtYXRpYy5jb20vbmV3cy9ob21lP3V0bV9tZWRpdW09ZW1haWw.NcIxgnEEZZ8fLO0eQjeBOc_mxu8&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=home" style="font-size: 16px;
+font-weight: book;
+font-family: Whitney HTF,Helvetica;;
+text-decoration: none;
+background-color: #43bfbf;
+color: #fff;
+padding: 10px 20px;
+border-radius: 2px;
+">Go to my feed</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0px;"><tr height="20" style="
+"><td class="spacing" style="" width="10" /></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="sig center center-table" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+font-family: Whitney HTF,Helvetica;;
+text-align: center;"><tr style="
+"><td style="
+"><span style="color: #e5e5e5;
+">Crafted by Prismatic</span></td></tr><tr style="
+"><td style="
+"><span style="color: #e5e5e5;
+">181 South Park Street, San Francisco, CA 94107</span></td></tr></table></div><table border="0" cellpadding="0" cellspacing="0" class="center table-center unsubscribe-table" style="border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;" width="100%"><tr style="
+"><td style="padding-top: 20px;
+"><a class="unsubscribe-url" href="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2FwaS5nZXRwcmlzbWF0aWMuY29tLzIuMC91c2VyL25vdGlmaWNhdGlvbi11bnN1YnNjcmliZT90b2tlbj1Nak16TURFMi5NMGpvVXB5dHFXX2NVb25KMDQ5WFRxWjRXVXMmc2VydmljZT1lbWFpbCZ0eXBlPWRpZ2VzdA.Qz3RX2ew1YgMeDmZ-MQGCqFEImg&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=unsubscribe" style="color: #98A1B3;
+text-decoration: underline;
+font-family: Whitney HTF,Helvetica;;
+">Unsubscribe from these emails</a></td></tr></table><img src="https://api.getprismatic.com/2.0/misc/record-click/1pa10kxe72jg6oza?source=email&amp;target=aHR0cDovL2ltYWdlY2RuLmdldHByaXNtYXRpYy5jb20vZW1haWwvaW1nL3RyYWNrLmdpZg.Iel0_gFzlbg8IcBZuRDNcqc8CUE&amp;token=MjMzMDE2.M0joUpytqW_cUonJ049XTqZ4WUs&amp;notification-type=digest&amp;link-type=open" style="
+" /></td></tr></table></div>
+<img src="http://email.getprismatic.com/wf/open?upn=QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5KRqK0GQVipAV0HwJmXlvu2Da1JnLkl67vFgIHIrtCWCMKMwHHuCdlJ94hOejcdy909HLUx9MT2c0IYTa0y-2B-2BgNGr1RuPxAjzCg0tSrLUPHgwbhdKZxRNVz-2BU21qFL4xVBvagehrq8liIzhXm9Y6h-2FDlf-2BlRNCSMRIeGAo4dBLBWw-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body></html>
+
+------=_Part_715775_2020994157.1408308473081--

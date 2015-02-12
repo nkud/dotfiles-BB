@@ -1,0 +1,165 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp16242qdc;
+        Sat, 12 Jul 2014 17:27:43 -0700 (PDT)
+X-Received: by 10.68.129.164 with SMTP id nx4mr8074422pbb.16.1405211262776;
+        Sat, 12 Jul 2014 17:27:42 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from sjd-rc1-8e.sjc.dropbox.com (sjd-rc1-8e.sjc.dropbox.com. [108.160.165.233])
+        by mx.google.com with ESMTPS id yj9si6043360pab.135.2014.07.12.17.27.42
+        for <su104003@gmail.com>
+        (version=TLSv1.1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 12 Jul 2014 17:27:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@dropbox.com designates 108.160.165.233 as permitted sender) client-ip=108.160.165.233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of no-reply@dropbox.com designates 108.160.165.233 as permitted sender) smtp.mail=no-reply@dropbox.com;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=dropbox.com
+Received: from snt-rf14-11d.sjc.dropbox.com (snt-rf14-11d.sjc.dropbox.com [10.12.134.152])
+	by sjd-rc1-8e.sjc.dropbox.com (Postfix) with ESMTP id 2B512DBF6
+	for <su104003@gmail.com>; Sun, 13 Jul 2014 00:27:42 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1405211262; bh=QsQYlAeSfzFiR5GiZjnYxt7ckhA45uRuW48pvUCUCNM=;
+	h=From:To:CC:Subject:Date;
+	b=bskL0Iu43cmA9lFeG9g8daQPSZLF3ug0DMGPIaMT6dAoFRMoTCCX+yPINhB9I7Nru
+	 fDMezZSs1kGcH/zSoCtn3x1/pZMbcJaQPV2GxMYK8TnZgBYEA9C3+rRGZOi9EGrKFa
+	 ju04W6gepk5naXtdzSZxDmJ3GJVqug3a288yn2TI=
+Content-Type: multipart/alternative;
+ boundary="===============2070950551732305563=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: su104003@gmail.com
+CC: 
+Subject: =?utf-8?q?Dropbox_=E3=81=AE=E8=A8=AD=E5=AE=9A=E3=82=92=E5=AE=8C=E4=BA=86?=
+ =?utf-8?q?=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=EF=BC=81?=
+ =?utf-8?q?=0D=0A?=
+Date: Sun, 13 Jul 2014 00:27:42 +0000
+Message-ID: <20140713002742.12870.93097@snt-rf14-11d.sjc.dropbox.com>
+
+--===============2070950551732305563==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+=E3=81=93=E3=82=93=E3=81=AB=E3=81=A1=E3=81=AF Ueda Naoki =E3=81=95=E3=82=93
+
+=E3=81=82=E3=81=A8=E3=82=82=E3=81=86=E5=B0=91=E3=81=97=E3=81=A7=E3=82=A2=E3=
+=82=AB=E3=82=A6=E3=83=B3=E3=83=88=E8=A8=AD=E5=AE=9A=E3=81=8C=E5=AE=8C=E4=BA=
+=86=E3=81=97=E3=81=BE=E3=81=99=E3=80=82Dropbox =E3=82=92=E6=9C=80=E5=A4=A7=
+=E9=99=90=E3=81=AB=E6=B4=BB=E7=94=A8=E3=81=99=E3=82=8B=E3=81=AB=E3=81=AF=E3=
+=80=81=E3=81=8A=E4=BD=BF=E3=81=84=E3=81=AE=E3=82=B3=E3=83=B3=E3=83=94=E3=83=
+=A5=E3=83=BC=E3=82=BF=E3=82=84=E3=82=B9=E3=83=9E=E3=83=BC=E3=83=88=E3=83=95=
+=E3=82=A9=E3=83=B3=E3=81=AB Dropbox =E3=82=92=E3=82=A4=E3=83=B3=E3=82=B9=E3=
+=83=88=E3=83=BC=E3=83=AB=E3=81=99=E3=82=8B=E3=81=93=E3=81=A8=E3=82=92=E3=81=
+=8A=E3=81=99=E3=81=99=E3=82=81=E3=81=97=E3=81=BE=E3=81=99=E3=80=82
+
+Dropbox =E3=82=92=E3=82=A4=E3=83=B3=E3=82=B9=E3=83=88=E3=83=BC=E3=83=AB=E3=
+=81=99=E3=82=8B:
+https://www.dropbox.com/l/AqnD31q7q9Vj03ISrn6Crj/downloading??text=3D1
+
+Dropbox =E3=81=AB=E4=BF=9D=E5=AD=98=E3=81=97=E3=81=9F=E3=83=95=E3=82=A1=E3=
+=82=A4=E3=83=AB=E3=81=AF=E3=80=81=E3=81=8A=E4=BD=BF=E3=81=84=E3=81=AE=E3=82=
+=B3=E3=83=B3=E3=83=94=E3=83=A5=E3=83=BC=E3=82=BF=E3=80=81=E3=82=B9=E3=83=9E=
+=E3=83=BC=E3=83=88=E3=83=95=E3=82=A9=E3=83=B3=E3=80=81Dropbox =E3=81=AE=E3=
+=82=A6=E3=82=A7=E3=83=96=E3=82=B5=E3=82=A4=E3=83=88=E3=81=A7=E3=82=82=E8=87=
+=AA=E5=8B=95=E7=9A=84=E3=81=AB=E4=BF=9D=E5=AD=98=E3=81=95=E3=82=8C=E3=82=8B=
+=E3=82=88=E3=81=86=E3=81=AB=E3=81=AA=E3=81=A3=E3=81=A6=E3=81=84=E3=81=BE=E3=
+=81=99=E3=80=82
+
+=E3=81=BE=E3=81=9F=E3=80=81Dropbox =E3=82=92=E3=83=80=E3=82=A6=E3=83=B3=E3=
+=83=AD=E3=83=BC=E3=83=89=E3=81=99=E3=82=8B=E3=81=A8=E3=83=89=E3=82=AD=E3=83=
+=A5=E3=83=A1=E3=83=B3=E3=83=88=E3=82=84=E5=86=99=E7=9C=9F=E3=82=92=E7=B0=A1=
+=E5=8D=98=E3=81=AB=E5=85=B1=E6=9C=89=E3=81=A7=E3=81=8D=E3=80=81=E5=8F=8B=E9=
+=81=94=E3=81=A8=E3=81=AE=E5=85=B1=E5=90=8C=E7=B7=A8=E9=9B=86=E3=81=8C=E5=8F=
+=AF=E8=83=BD=E3=81=AB=E3=81=AA=E3=82=8A=E3=81=BE=E3=81=99=E3=80=82
+
+Dropbox =E3=81=B8=E3=82=88=E3=81=86=E3=81=93=E3=81=9D=EF=BC=81
+- Dropbox =E3=82=B9=E3=82=BF=E3=83=83=E3=83=95=E4=B8=80=E5=90=8C
+--===============2070950551732305563==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://w=
+ww.dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr><tr><t=
+d><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25px;" b=
+order=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></td></tr>=
+<tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">=E3=81=93=E3=82=93=E3=81=AB=E3=81=
+=A1=E3=81=AF Ueda Naoki =E3=81=95=E3=82=93=E3=80=81<br><br>=E3=81=82=E3=81=
+=A8=E3=82=82=E3=81=86=E5=B0=91=E3=81=97=E3=81=A7=E3=82=A2=E3=82=AB=E3=82=A6=
+=E3=83=B3=E3=83=88=E8=A8=AD=E5=AE=9A=E3=81=8C=E5=AE=8C=E4=BA=86=E3=81=97=E3=
+=81=BE=E3=81=99=E3=80=82Dropbox =E3=82=92=E6=9C=80=E5=A4=A7=E9=99=90=E3=81=
+=AB=E6=B4=BB=E7=94=A8=E3=81=99=E3=82=8B=E3=81=AB=E3=81=AF=E3=80=81=E3=81=8A=
+=E4=BD=BF=E3=81=84=E3=81=AB=E3=81=AA=E3=82=8B=E3=81=99=E3=81=B9=E3=81=A6=E3=
+=81=AE=E3=82=B3=E3=83=B3=E3=83=94=E3=83=A5=E3=83=BC=E3=82=BF=E3=82=84=E3=82=
+=B9=E3=83=9E=E3=83=BC=E3=83=88=E3=83=95=E3=82=A9=E3=83=B3=E3=81=AB Dropbox =
+=E3=82=92=E3=82=A4=E3=83=B3=E3=82=B9=E3=83=88=E3=83=BC=E3=83=AB=E3=81=99=E3=
+=82=8B=E3=81=93=E3=81=A8=E3=82=92=E3=81=8A=E3=81=99=E3=81=99=E3=82=81=E3=81=
+=97=E3=81=BE=E3=81=99=E3=80=82<br><br><center><a style=3D"border-radius: 3p=
+x; box-shadow: inset 0 1px 0 #6db3e6, inset 1px 0 0 #48a1e2; color: white; =
+font-size: 15px; -moz-border-radius: 3px; padding: 14px 7px 14px 7px; max-w=
+idth: 200px; font-family: proxima_nova, 'Open Sans', 'lucida grande', 'Sego=
+e UI', arial, verdana, 'lucida sans unicode', tahoma, sans-serif;; border: =
+1px #1373b5 solid; text-align: center; -webkit-border-radius: 3px; text-dec=
+oration: none; width: 200px; margin: 6px auto; display: block; background-c=
+olor: #007ee6;" href=3D"https://www.dropbox.com/l/gLPEwZguK0q5GwNeIA8Ger/do=
+wnloading?">Dropbox =E3=82=92=E3=82=A4=E3=83=B3=E3=82=B9=E3=83=88=E3=83=BC=
+=E3=83=AB=E3=81=99=E3=82=8B<br></a></center>Dropbox =E3=81=AB=E4=BF=9D=E5=
+=AD=98=E3=81=97=E3=81=9F=E3=83=95=E3=82=A1=E3=82=A4=E3=83=AB=E3=81=AF=E3=80=
+=81=E3=81=8A=E4=BD=BF=E3=81=84=E3=81=AE=E3=82=B3=E3=83=B3=E3=83=94=E3=83=A5=
+=E3=83=BC=E3=82=BF=E3=80=81=E3=82=B9=E3=83=9E=E3=83=BC=E3=83=88=E3=83=95=E3=
+=82=A9=E3=83=B3=E3=80=81Dropbox =E3=81=AE=E3=82=A6=E3=82=A7=E3=83=96=E3=82=
+=B5=E3=82=A4=E3=83=88=E3=81=A7=E3=82=82=E8=87=AA=E5=8B=95=E7=9A=84=E3=81=AB=
+=E4=BF=9D=E5=AD=98=E3=81=95=E3=82=8C=E3=82=8B=E3=82=88=E3=81=86=E3=81=AB=E3=
+=81=AA=E3=81=A3=E3=81=A6=E3=81=84=E3=81=BE=E3=81=99=E3=80=82<br><br>=E3=81=
+=BE=E3=81=9F=E3=80=81Dropbox =E3=82=92=E3=83=80=E3=82=A6=E3=83=B3=E3=83=AD=
+=E3=83=BC=E3=83=89=E3=81=99=E3=82=8B=E3=81=A8=E3=83=89=E3=82=AD=E3=83=A5=E3=
+=83=A1=E3=83=B3=E3=83=88=E3=82=84=E5=86=99=E7=9C=9F=E3=82=92=E7=B0=A1=E5=8D=
+=98=E3=81=AB=E5=85=B1=E6=9C=89=E3=81=A7=E3=81=8D=E3=80=81=E5=8F=8B=E9=81=94=
+=E3=81=A8=E3=81=AE=E5=85=B1=E5=90=8C=E7=B7=A8=E9=9B=86=E3=81=8C=E5=8F=AF=E8=
+=83=BD=E3=81=AB=E3=81=AA=E3=82=8A=E3=81=BE=E3=81=99=E3=80=82<br>Dropbox =E3=
+=81=AB=E3=82=88=E3=81=86=E3=81=93=E3=81=9D=EF=BC=81<br>- Dropbox =E3=82=B9=
+=E3=82=BF=E3=83=83=E3=83=95=E4=B8=80=E5=90=8C</td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2014 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/w4CRFzJEAtbRl0TAYNaK1z?" hei=
+ght=3D"1" />
+--===============2070950551732305563==--

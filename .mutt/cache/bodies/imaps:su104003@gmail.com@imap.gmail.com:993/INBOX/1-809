@@ -1,0 +1,110 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp114825qdc;
+        Fri, 27 Jun 2014 17:05:23 -0700 (PDT)
+X-Received: by 10.60.63.195 with SMTP id i3mr14360324oes.76.1403913923013;
+        Fri, 27 Jun 2014 17:05:23 -0700 (PDT)
+Return-Path: <bounces+11142-b9d7-su104003=gmail.com@email.ifttt.com>
+Received: from o1.email.ifttt.com (o1.email.ifttt.com. [173.193.133.29])
+        by mx.google.com with SMTP id u1si16644093obs.48.2014.06.27.17.05.22
+        for <su104003@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 27 Jun 2014 17:05:23 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+11142-b9d7-su104003=gmail.com@email.ifttt.com designates 173.193.133.29 as permitted sender) client-ip=173.193.133.29;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+11142-b9d7-su104003=gmail.com@email.ifttt.com designates 173.193.133.29 as permitted sender) smtp.mail=bounces+11142-b9d7-su104003=gmail.com@email.ifttt.com;
+       dkim=pass header.i=@email.ifttt.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.ifttt.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=IYcWysHrf7OAA9zi1hP6BvNA3C4=; b=TRVslVASF7eZwILT0D
+	drnN3fqNAdxAcLqW4SO//u4uwQ3kO1x8gSVTjYu02HCEjf2PhXB6yMyz+9oewmrd
+	eqB3c00MVVL8obVpNf2V0CyYff6IcJ90wBK1IxNub65jOoT1DbGFMF7c07oniUcC
+	M9ZafVeRA7uRCWggpOvmZnVvo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=ifttt.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	q=dns; s=smtpapi; b=hXXLv11/teoCgSYp11AH7s3w3jWndMuSEq8Yw1VsTcWi
+	aV7y8UWV6axvUyLzO3VsM+oIHnKMn/500nHZWj6i0VJG+7+2gbc/ZZnAUS9MxTNG
+	HQfuR4OGRe5djaDDnI7jz+f+YqmmgJ/MEHR1l3zCtHMM1PrO82Gpf96vKhHwqwg=
+Received: by mf174.sendgrid.net with SMTP id mf174.7825.53AE06582A
+        2014-06-28 00:03:36.62399662 +0000 UTC
+Received: from ifttt.com (ec2-184-73-59-196.compute-1.amazonaws.com [184.73.59.196])
+	by ismtpd-006.iad1.sendgrid.net (SG) with ESMTP id 146dfc8c7ac.2a8a.13b3d2
+	for <su104003@gmail.com>; Sat, 28 Jun 2014 00:03:35 +0000 (GMT)
+Date: Sat, 28 Jun 2014 00:03:35 +0000
+From: IFTTT Action <action@ifttt.com>
+To: su104003@gmail.com
+Message-ID: <53ae0657e260f_213809cc4740055@b9bf526e-2985-454e-bdc5-73745ff0e04b.mail>
+Subject: Recommended Recipe by kev on IFTTT
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_53ae0657e014d_213809cc47399bc";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: K596DjENlrWtxtIpLnNJnpI/n9k8+794KMI88IQq7e+c6T8JXxQ/BvXUhxluP5f/A5ldSQiKxEtL7XHwQrLtHLTuAuAqbCJbKThn/uFlNn37/4fgN6UMgqcF3lxaqZSfGYgQqYbDxDMfK9rtqSmzu1WrKC0MP4a6gmi25/LN5UU=
+X-SG-ID: nY5XjPF5n6vKy5tgkt43vmpR6PDuqgWwloHGJHOnhsxxoJVyIOUsMtKYteronBKKD+zS2MtKtiCHcvzBFc5tJeIpkfUAK7pXmT4yLPKoGpk=
+
+----==_mimepart_53ae0657e014d_213809cc47399bc
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<a href="http://email.ifttt.com/wf/click?upn=jGHDfwvrKDxaofcg5GVulrObXGqmnGCjbP6WROORKlQ-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDrcz4FvC34dtUZGs9KWC6KjV7MgknUjZrASLLY23nGqD7Z0jP5Crfb8OjS8jHoyAE1C8Wmbqfemf1nwkyzjInkOiAjXy9RWix0VpwO-2BKRupVD9f4Ffp0TGHFwjH25TBOm0yamm2gziXknEhhZfV9fdXRxB4DSNq6uh6zx-2FJ7liEss7czzd3-2FLkm98r-2FXrC0Zzk-3D" target = "_blank" class="embed_recipe embed_recipe-l_35" id= "embed_recipe-161615"><img src= 'http://email.ifttt.com/wf/click?upn=jGHDfwvrKDxaofcg5GVull0p85ggCh3QYnPQeU1X1ug-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDrcz4FvC34dtUZGs9KWC6KjjxCqByywPOXXJIhPIh6hnjvzZ87tdTOkMQBbqXz8xMEN5cJaEWyxW3HViitQ2rrjdTawptNy7FfsvVhfwWFHQsBAbYCrBKe8A9px7Hc2Uxi8PIaxsosJfPgaU1D2nt7unJqQiN308X0zJyPuAs0cgJAOUPOnbzZXgH3cE-2Fd9Agg-3D alt="IFTTT Recipe: Log WiFi connections/disconnections connects android-device to google-drive" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script><br>
+
+
+
+IFTTT
+
+	Edit or turn off Personal Recipe 10525005:
+	http://email.ifttt.com/wf/click?upn=jGHDfwvrKDxaofcg5GVulqZbq5Ob51WMw-2B5VP4So20ktrqrzTMVaDr7w7TFuqq7MldTuTiFFXzMiaxYL7Snvsw-3D-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDrcz4FvC34dtUZGs9KWC6KjN0q-2B46qEKKLW2lGt1hg2vyc-2BEhjEVIn9P2PtiClwbkGt5amYUntX3bTaOrlxXN6onMBNmginXdA8pO1YRrD1cr3SZ2tDcUEqP-2BTLuQ5XE4-2BeiuKyOYj686BxzXsIO413-2BJPG05i5U4mut4qIhczmi-2BtwOPOMiIDOXubLRf3awZY-3D
+
+----==_mimepart_53ae0657e014d_213809cc47399bc
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+    <head>
+        <title></title>
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+        <style type="text/css">
+            img{border:0;clear:both;display:block;float:none;margin: 3px 10px 3px 0}
+            object, embed{border:0;clear:both;display:block;float:none}
+            a img{text-decoration:none}
+            a, a:visited{color:#3cf !important;font-weight:bold !important;text-decoration:none !important}
+            p{clear:both}
+            .channel_action *{max-width:100% !important}
+            .channel_action img{height:auto !important;max-width:100% !important}
+            .image_wrapper img{margin: 0 auto !important}
+            @media only screen and (max-width: 767px) {
+                p.via-message{clear:both !important;float:none !important;max-width:100% !important;text-align:left !important}
+            }
+            @media only screen and (max-width: 320px) {
+                .image_wrapper{width:auto !important}
+                .image-wrapper a{display:block !important;text-align: center !important}
+                .image_wrapper img{width:272px !important}
+                .recommended_recipe{padding-top: 12px !important}
+                .recommended_text{padding-left:12px !important}
+                p.via-message{float:left !important;margin-top:0 !important}
+            }
+        </style>
+    </head>
+    <body style="color: #333;font-size: 16px; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; color: #333;max-width:600px">
+        <div class="channel_action" style="border-bottom: 1px solid #ebebeb;font-size: 16px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;line-height: 1.4;margin-bottom:1.4em;padding-bottom:2.8em;">
+            <p style="color: #333;font-size:16px;font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;">
+                <a href="http://email.ifttt.com/wf/click?upn=jGHDfwvrKDxaofcg5GVulrObXGqmnGCjbP6WROORKlQ-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDoJG28s1LvKNvpO-2BchfrPZQ7wQsVPWMPCUnZEIG9R4klaB9BD6xv0DMg-2F9HahBXNyap9ySaj3ps-2Bj73pgYxXTBNXyEhdpRIH-2BLqcuyXgQpek60OatvTJ0FIVqt2FBobQWEuCziRsEFocKWuEtENDXWFUsAL5CBvLACZo8F21-2BNeM7Oi0AsqiDIKPWYZpDE-2BF8Y-3D" target = "_blank" class="embed_recipe embed_recipe-l_35" id= "embed_recipe-161615"><img src= 'http://ift.tt/1nK9kW5' alt="IFTTT Recipe: Log WiFi connections/disconnections connects android-device to google-drive" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script><br>
+            </p>
+        </div>
+        <a style="display:block;font-size: 24px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333; text-decoration: none"  href="http://email.ifttt.com/wf/click?upn=jGHDfwvrKDxaofcg5GVuluKbPpI-2FS0lavZIKU8ZokQE-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDoJG28s1LvKNvpO-2BchfrPZQSFT5-2FU8WhzVUhX0oi2OL-2Bhf-2FIME0OZgHXISVCEV52Y4Rm-2BBZ5GDdFzYvoyLabHY9ftRXwbFeKri2wmG0SFvRX7c-2FZ2-2FQ9l8Pcw36En7MgqS9SXyYbft67r9wRBCDg-2FaRrIclXaetNhMFFSZ64TppZX9SGUu7MklTGf-2BceFNafR8-3D">
+            <img alt="IFTTT" src="http://ifttt.com/images/logo_email.png" style="border: 0;" />
+        </a>
+        <p style="float:left;font-size: 16px; font-weight: normal; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;line-height: 1.6;">
+            Put the internet to work for you.
+        </p>
+        <p class="via-message" style="clear:none;float:right;font-size: 16px; font-weight: normal; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;line-height: 1.6;text-align:right;">
+            <a style="font-size: 16px; font-family: 'Helvetica Neue', Helvetica, Arial; font-weight:normal !important;color: #33ccff; color: #33ccff;text-decoration:none;"  href="http://email.ifttt.com/wf/click?upn=jGHDfwvrKDxaofcg5GVulqZbq5Ob51WMw-2B5VP4So20ktrqrzTMVaDr7w7TFuqq7MldTuTiFFXzMiaxYL7Snvsw-3D-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDoJG28s1LvKNvpO-2BchfrPZQIPIEBbqXS2cV5752pkU-2FjVWxHGw3m5u0h7QG24IzHzktXIbQaIoWFjrydQdSZOuQisX2jVciCKsv47lh76y9wxrPXSu0TpXvCfp1KSFT9eSZg6cIgcrAXDRVMV0aOQy9r8C-2Fgs2QfbmSOX8pD-2FovbgGQ2lYSVBGmf0iXN0p8Wn4-3D">Turn off or edit this Recipe</a>
+        </p>
+    
+<img src="http://email.ifttt.com/wf/open?upn=QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5I8328qVdNG2fTkeGt0u3ewKS0-2ByLciyj-2BPm6A7hZGduSdHxrezqszQg-2Bw4U3rVKDpf3YG19JBSPETRsEKCjoKXGTtlioLP2gfHhogwe-2BetcH30ycXj980RoJaipnjS5hkGaDPitgXmgw6edLLoVYqJK-2BcHdi7n2vhLwTcFgSumkYWAhR77oaJKV8M-2BIEgm9BU6aFHEuFG0uTF6aur7KfvQY7zw6BvjiW8sVe0sUfbpODcS-2Fbqf32J4Z4Uvq3-2B-2ByIc-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+----==_mimepart_53ae0657e014d_213809cc47399bc--

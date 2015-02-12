@@ -1,9 +1,13 @@
 ;;;
 ;;; org mode
 ;;;
-
+(add-to-list 'load-path (locate-user-emacs-file "public_repos/org-mode"))
 (require 'org)
-(require 'org-remember)
+
+;; remove validate link
+(setq org-html-validation-link nil)
+
+;(require 'org-remember)
 
 ;; orgディレクトリを設定
 (setq org-directory "~/org/")
@@ -43,9 +47,6 @@
      (define-key org-mode-map (kbd "C-,") nil)
      (define-key org-mode-map (kbd "M-h") nil) ; for hide emacs
      ))
-
-;; remove validate link
-(setq org-html-validation-link nil)
 
 ;;; key config
 (defun nu/org-agenda-current-week-or-day ()

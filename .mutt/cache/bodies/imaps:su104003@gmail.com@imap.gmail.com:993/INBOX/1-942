@@ -1,0 +1,95 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp23399qdc;
+        Wed, 9 Jul 2014 02:28:40 -0700 (PDT)
+X-Received: by 10.70.108.164 with SMTP id hl4mr10291358pdb.64.1404898120412;
+        Wed, 09 Jul 2014 02:28:40 -0700 (PDT)
+Return-Path: <noreply@atcoder.jp>
+Received: from www5.atcoder.jp ([183.177.145.6])
+        by mx.google.com with ESMTP id op6si22429721pbc.158.2014.07.09.02.28.39
+        for <su104003@gmail.com>;
+        Wed, 09 Jul 2014 02:28:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@atcoder.jp designates 183.177.145.6 as permitted sender) client-ip=183.177.145.6;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@atcoder.jp designates 183.177.145.6 as permitted sender) smtp.mail=noreply@atcoder.jp;
+       dkim=pass header.i=@atcoder.jp
+Received: from atcoder.jp (www5.atcoder.jp [183.177.145.6])
+	by www5.atcoder.jp (Postfix) with ESMTP id 71577EE0AAD
+	for <su104003@gmail.com>; Wed,  9 Jul 2014 18:28:39 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=atcoder.jp;
+	s=default; t=1404898119;
+	bh=HP8Jb3kSEH/qsaKlVdH6afImQn2NIOFH+7dy10DJJD0=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=YusMdNbz/ImaGNYCcKXEhbykFHsgflzDGbNairJkZoPWZ5gTiQkElnppTM/1QYJeQ
+	 WkA0n48QrPeUr/yUi3wkU0lYej13OZdkDm6mtlsj6ZmAQf2RbhvZqTi00cQ91aZD5Q
+	 MwInLqbuWvrczgoCOIemexD0FOwaEWWVpdwxUK/0=
+Date: Wed, 9 Jul 2014 18:28:39 +0900
+To: su104003@gmail.com
+From: AtCoder =?ISO-2022-JP?B?GyRCMytILyVBITwlYBsoQg==?= <noreply@atcoder.jp>
+Reply-To: err@atcoder.jp
+Subject: =?ISO-2022-JP?Q?AtCoder_Beginner_Contest_#012_=1B$B3+:E$N$*CN$i$;=1B(B?=
+Message-ID: <88c80e707995da821a800622acbed559@localhost.localdomain>
+X-Priority: 3
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+
+
+「コンテストメールを受け取る」にチェックしているユーザ様にお送りしています
+
+AtCoder ユーザの皆様へ
+
+AtCoder では、 AtCoder Beginner Contest #012 を開催します。
+http://abc012.contest.atcoder.jp/
+
+AtCoder Beginner Contest（ABC）とは？
+プログラミングを始めたいけど、何をしていいかわからない人向けのコンテストです。
+
+
+▼スケジュール
+　7/12 （土） 21:00 から23:00まで。計120分。
+
+▼詳細
+　120分 4 問です。
+　Ratingは「更新されません」
+　教育的な問題が出題されます。
+
+▼＼前回の解説／
+　http://www.slideshare.net/chokudai/abc011
+　http://atcoder.jp/ にもリンクしてます。
+
+▼言語情報
+コンテストで使用可能な言語は，以下の通りです。
+・ C (GCC 4.4.7 / GCC 4.6.4)
+・ C++ (GCC 4.4.7 / G++ 4.6.4)
+・ Java (OpenJDK 1.7.0)
+・ C# (Mono 2.10.8.1)
+・ D (2.060)
+・ PHP (PHP 5.3.10)
+・ Python (2.7.3)
+・ Perl (5.14.2)
+・ Ruby (1.9.3)
+・ C++11 (GCC 4.8.1)
+・ Haskell (GHC 7.4.1)
+・ Pascal (fpc 2.4.4)
+・ JavaScript (Node.js 0.6.12)
+・ Visual Basic (Mono 2.10.8)
+・ Python3 (3.2.3)
+・ OCaml (3.12.1)
+・ Scheme (MIT Scheme 15.3)
+・ Scala (2.9.1)
+・ Bash (4.2.25)
+
+皆様の参加をお待ちしております。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+メール配信の停止は、コンテストページにログインした後、以下のリンクからお願いします。
+http://abc012.contest.atcoder.jp/settings
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+
+-----
+AtCoder開発チーム
+http://atcoder.jp/
+
+

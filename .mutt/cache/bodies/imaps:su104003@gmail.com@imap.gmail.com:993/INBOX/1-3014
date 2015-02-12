@@ -1,0 +1,48 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.5.4 with SMTP id 4csp317218vkf;
+        Tue, 14 Oct 2014 01:57:18 -0700 (PDT)
+X-Received: by 10.68.220.133 with SMTP id pw5mr3316287pbc.129.1413277038489;
+        Tue, 14 Oct 2014 01:57:18 -0700 (PDT)
+Return-Path: <karato@kzc.biglobe.ne.jp>
+Received: from rcpt-expgw.biglobe.ne.jp (rcpt-expgw.biglobe.ne.jp. [2001:260:401:16::2])
+        by mx.google.com with ESMTP id dz2si12481245pab.148.2014.10.14.01.57.17
+        for <su104003@gmail.com>;
+        Tue, 14 Oct 2014 01:57:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of karato@kzc.biglobe.ne.jp designates 2001:260:401:16::2 as permitted sender) client-ip=2001:260:401:16::2;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of karato@kzc.biglobe.ne.jp designates 2001:260:401:16::2 as permitted sender) smtp.mail=karato@kzc.biglobe.ne.jp;
+       dmarc=pass (p=NONE dis=NONE) header.from=biglobe.ne.jp
+Received: from vc-gw.biglobe.ne.jp
+	by rcpt-expgw.biglobe.ne.jp (shby/5910021009) with ESMTP id s9E8vHoe007201
+	for <su104003@gmail.com>; Tue, 14 Oct 2014 17:57:17 +0900
+Received: from smtp-gw.biglobe.ne.jp ([172.30.160.83])
+	by vc-gw.biglobe.ne.jp (shby/0716090908) with ESMTP id s9E8vHMb016287
+	for <su104003@gmail.com>; Tue, 14 Oct 2014 17:57:17 +0900
+X-Biglobe-Sender: <karato@kzc.biglobe.ne.jp>
+X-Mailer: BIGLOBE Mail 1.0.0
+Received: from bvec34689.zcs.mesh.ad.jp (bvec34689.zcs.mesh.ad.jp [172.27.11.68]) by smtp-gw.biglobe.ne.jp
+	id RlKbAC1EA053; Tue, 14 Oct 2014 17:57:17 +0900 (JST)
+Date: Tue, 14 Oct 2014 17:57:17 +0900 (JST)
+From: karato@kzc.biglobe.ne.jp
+To: =?iso-2022-jp?B?GyRCPyJFRD4wOW4bKEI=?= <su104003@gmail.com>
+Subject: 10/17 =?iso-2022-jp?B?GyRCQmgbKEIyGyRCMnM+LiVGJTklSDpORUAkTjBNTWobKEI=?=
+Message-ID: <cca5dca0-b25c-492a-b15c-766d97bab0c2@bvec34689>
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Biglobe-Spnum: 40602
+
+植田様
+
+TA作業御苦労さまです．
+
+10/17（金）第2回小テストを実施する予定ですので
+採点等を依頼します．
+作業内容は前回と同じです．
+10/17（金）2限終了時に講義準備室に来ていただければ
+採点基準等の説明をします．
+都合がつけば，で構いませんが，
+記述の部分があるので
+前回よりも採点に手間がかかると思います．
+
+ご都合いかがでしょうか．

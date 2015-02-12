@@ -1,0 +1,64 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp400652qdc;
+        Fri, 22 Aug 2014 03:02:21 -0700 (PDT)
+X-Received: by 10.70.89.3 with SMTP id bk3mr5036062pdb.41.1408701741375;
+        Fri, 22 Aug 2014 03:02:21 -0700 (PDT)
+Return-Path: <noreply@atcoder.jp>
+Received: from www5.atcoder.jp ([183.177.145.6])
+        by mx.google.com with ESMTP id jy17si33914205pbb.80.2014.08.22.03.02.20
+        for <su104003@gmail.com>;
+        Fri, 22 Aug 2014 03:02:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@atcoder.jp designates 183.177.145.6 as permitted sender) client-ip=183.177.145.6;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@atcoder.jp designates 183.177.145.6 as permitted sender) smtp.mail=noreply@atcoder.jp;
+       dkim=pass header.i=@atcoder.jp
+Received: from atcoder.jp (www5.atcoder.jp [183.177.145.6])
+	by www5.atcoder.jp (Postfix) with ESMTP id 5989BEE0F0A
+	for <su104003@gmail.com>; Fri, 22 Aug 2014 19:02:20 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=atcoder.jp;
+	s=default; t=1408701740;
+	bh=/UEiVT32KYbzjO3dJnTM5uBQ/Wlkg9CEKWF4IC9gHsA=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=lF70Uz73yXB8flrirFuuvUqoAX+6W9C0PZ/nSJWFLFEzy1cBO3Yi53hsI5LZnX4Mx
+	 XPfejOsLq9c71YtvcsNEbAnPyS+yawVfNsHxOaCDJa4hqxSRlwC8IxFZ8AKwmEf0+4
+	 8KOao68rW/Ds87yzDu+yGzG4U//I22/XuV11df3U=
+Date: Fri, 22 Aug 2014 19:02:20 +0900
+To: su104003@gmail.com
+From: AtCoder =?ISO-2022-JP?B?GyRCMytILyVBITwlYBsoQg==?= <noreply@atcoder.jp>
+Reply-To: err@atcoder.jp
+Subject: =?ISO-2022-JP?Q?=1B$B!Z%j%^%$%s%@![E72<0l%W%m%0%i%^!<%3%s%F%9%H=1B(B2014?=
+ =?ISO-2022-JP?Q?=1B$BM=3DA*=1B(BB=1B$B3+:E$N$*CN$i$;=1B(B?=
+Message-ID: <7a530059dd62795019c9d4ec03abfd25@localhost.localdomain>
+X-Priority: 3
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+
+
+「コンテストメールを受け取る」にチェックしているユーザ様にお送りしています
+
+AtCoder ユーザの皆様へ
+
+AtCoder では、天下一プログラマーコンテスト2014予選A を開催します。
+http://tenka1-2014-qualb.contest.atcoder.jp/
+
+▼スケジュール
+　8/23 （土） 21:00 から23:00まで。計120分。
+
+▼詳細
+　http://tenka1.klab.jp/2014/
+
+▼言語情報
+コンテストで使用可能な言語は，以下の通りです。
+http://tenka1-2014-qualb.contest.atcoder.jp/faq#about_Language
+
+皆様の参加をお待ちしております。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+メール配信の停止は、コンテストページにログインした後、以下のリンクからお願いします。
+http://tenka1-2014-qualb.contest.atcoder.jp/settings
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+
+

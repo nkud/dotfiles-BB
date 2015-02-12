@@ -14,3 +14,7 @@ url/
 tramp
 .mc-lists.el
 .smex-items
+
+# package system
+elpa/
+el-get/

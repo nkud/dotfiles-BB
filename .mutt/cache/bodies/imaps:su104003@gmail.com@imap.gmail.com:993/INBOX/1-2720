@@ -1,0 +1,748 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp14135qdc;
+        Tue, 19 Aug 2014 17:03:07 -0700 (PDT)
+X-Received: by 10.224.93.11 with SMTP id t11mr69762138qam.102.1408492987118;
+        Tue, 19 Aug 2014 17:03:07 -0700 (PDT)
+Return-Path: <00000147f0b96011-cec40a7f-b6ae-44e6-8b5f-9389ea829209-000000@amazonses.com>
+Received: from a10-136.smtp-out.amazonses.com (a10-136.smtp-out.amazonses.com. [54.240.10.136])
+        by mx.google.com with ESMTPS id r1si31517158qai.94.2014.08.19.17.03.06
+        for <su104003@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 19 Aug 2014 17:03:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 00000147f0b96011-cec40a7f-b6ae-44e6-8b5f-9389ea829209-000000@amazonses.com designates 54.240.10.136 as permitted sender) client-ip=54.240.10.136;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 00000147f0b96011-cec40a7f-b6ae-44e6-8b5f-9389ea829209-000000@amazonses.com designates 54.240.10.136 as permitted sender) smtp.mail=00000147f0b96011-cec40a7f-b6ae-44e6-8b5f-9389ea829209-000000@amazonses.com;
+       dkim=pass header.i=@amazonses.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1408492986;
+	h=Date:Message-Id:From:To:Subject:Content-Type:Content-Transfer-Encoding:MIME-Version:Feedback-ID;
+	bh=MkOPtVPAiVzNGzRpJ0Ff94eGV5iwNMQUeO4UzS6VRyM=;
+	b=S49jddD7IGUfQg6F45pf4P5G2FcgLRdExBDPrIFx8tLby89DzdoitRml2Eh8uZFY
+	ghrt1QRVzQ38MNUbizoRIRcgDFZK1+vyR165INbeCVP5d+NmogAeEwB12zhX30zSsjw
+	iIw+folGHnslu411MMzG9e3/0v9I9jb+b3guAK4Y=
+X-Mailer: Nodemailer (0.6.3; +http://github.com/andris9/nodemailer; ses)
+Date: Wed, 20 Aug 2014 00:03:06 +0000
+Message-ID: <00000147f0b96011-cec40a7f-b6ae-44e6-8b5f-9389ea829209-000000@email.amazonses.com>
+From: "Umano" <noreply@umano.me>
+To: su104003@gmail.com
+Subject: New articles from: LinkedIn, VentureBeat and Thought Catalog
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-SES-Outgoing: 2014.08.20-54.240.10.136
+Feedback-ID: us-east-1.VW1hbm8gPG5vcmVwbHlAdW1hbm8ubWU+:AmazonSES
+
+
+<html xmlns=3D=22http://www.w3.org/1999/xhtml=22 style=3D=22margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22>
+<head style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+<!-- If you delete this tag, the sky will fall on your head -->
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif;=22 />
+
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; =
+charset=3DUTF-8=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica=
+ Neue, Helvetica, Helvetica, Arial, sans-serif;=22 />
+<title style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>Umano</title>
+=20=20
+=20=20=20
+
+</head>
+=20
+<body bgcolor=3D=22#FFFFFF=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+-webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width:=
+ 100%; height: 100%;=22>
+
+<!-- HEADER -->
+<table class=3D=22head-wrap=22 bgcolor=3D=22#f7f5f2=22 style=3D=22margin: =
+0; padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; width: 100%;=22>
+  <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+    <td class=3D=22header container logo=22 style=3D=22margin: 0 auto; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; display: block; max-width: 600px; clear: both;=22>
+=20=20=20=20=20=20
+        <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: =
+15px; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=
+ max-width: 600px; display: block;=22>
+          <table style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+          <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue=
+, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+              <img class=3D=22umano-logo=22 width=3D=22120=22 =
+height=3D=2236=22 src=3D=22https://umano.me/image/=3Fname=3Dumano-logo-dark=
+@2x.png&amp;track=3DZW1haWwudmlldzo1MmUxZDk1Y2JjM2VkY2M0MjcwMjgzZDU6dXNlcl9=
+kaWdlc3RfY2hhbm5lbHM6MToxNDA4NDkyOTg1MzQw=22 style=3D=22margin: 0; padding:=
+ 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 100%;=22 />
+            </td>
+          </tr>
+        </table>
+        </div>
+=20=20=20=20=20=20=20=20
+    </td>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+  </tr>
+</table><!-- /HEADER -->
+
+
+<!-- BODY -->
+<table class=3D=22body-wrap=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+width: 100%;=22>
+  <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+    <td class=3D=22container=22 bgcolor=3D=22#FFFFFF=22 style=3D=22margin: =
+0 auto; padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, =
+Arial, sans-serif; display: block; max-width: 600px; clear: both;=22>
+
+=20=20=20=20=20=20
+
+      <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>
+      <table style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue,=
+ Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue=
+, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <h3 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 27px;=22>New articles from your =
+channels</h3>
+            <p class=3D=22lead=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+margin-bottom: 10px; font-weight: 200; font-size: 17px; color: #666; =
+line-height: 1.6;=22>LinkedIn, VentureBeat and Thought Catalog have these =
+awesome stories you can listen to on your next commute.
+            </p>
+          </td>
+        </tr>
+      </table>
+      </div>
+
+=20
+=20=20
+  <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>=20=20=20=20=20=20=20=20
+  <table bgcolor=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+    <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+      <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+        <h4 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 23px;=22><a href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3MQ=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FkjY0z%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 0; font-family: HelveticaNeue-Light, =
+Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif; color: #111; text-decoration: none; font-weight: 500; =
+line-height: 1.1; padding-bottom: 15px;=22>Is Someone You Love Going To =
+College=3F Their Success Depends On Three Words</a></h4>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMW=
+Q5NWNiYzNlZGNjNDI3MDI4M2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3M=
+Q=3D=3D&amp;url=3Dhttp%3A%2F%2Fumano.me%2Fc%2FkjY0z%3Fplay%3D1%26no=5Fpopup=
+%3D1=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #ff7300;=22><img =
+src=3D=22https://images.umanoapp.com/thumbnails/53ef0039789c4291d35c53dd=5F=
+1408224903090.jpg=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a></p>
+=20=20=20=20=20=20=20=20
+        <p class=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: =
+10px; font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22><span style=3D=22color: #999; margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC52aWV3Lm9yaWdpbm=
+FsOjUyZTFkOTVjYmMzZWRjYzQyNzAyODNkNTp1c2VyX2RpZ2VzdF9jaGFubmVsczoxOjE0MDg0O=
+TI5ODUzNzE=3D&amp;url=3Dhttps%3A%2F%2Fwww.linkedin.com%2Ftoday%2Fpost%2Fart=
+icle%2F20140815154134-10765298-is-someone-you-love-going-to-college-their-s=
+uccess-depends-on-three-words=22 style=3D=22color: #999; margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22>LinkedIn</a> - 6 min listen</span></p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>It=E2=80=99s that =
+time of year =E2=80=93 college students are making their way back to campus=
+.</p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>
+        <a class=3D=22btn listen-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3MQ=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FkjY0z%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #0377CE; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+          <img src=3D=22https://umano.me/img/www/play-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+          Listen Now
+        </a>
+=20=20=20=20=20=20=20=20
+          <a class=3D=22btn playlist-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5wbGF5bGlzdDo1MmUxZDk1Y2JjM2VkY2M0MjcwM=
+jgzZDU6dXNlcl9kaWdlc3RfY2hhbm5lbHM6MToxNDA4NDkyOTg1Mzcx&amp;url=3Dhttp%3A%2=
+F%2Fumano.me%2Fuser%2F52e1d95cbc3edcc4270283d5%2Fplaylist%3Fadd%3D53ef00397=
+89c4291d35c53dd%26hash%3D09d52102d7c572a18a65d3388de2ee9038c7b084=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #ff7300; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+            <img src=3D=22https://umano.me/img/www/playlist-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+            Add to Playlist
+          </a>
+=20=20=20=20=20=20=20=20
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+=20=20
+  <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>=20=20=20=20=20=20=20=20
+  <table bgcolor=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+    <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+      <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+        <h4 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 23px;=22><a href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FOYYKW%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 0; font-family: HelveticaNeue-Light, =
+Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif; color: #111; text-decoration: none; font-weight: 500; =
+line-height: 1.1; padding-bottom: 15px;=22>Yes, Google Maps Is Tracking You=
+. Here's How To Stop It </a></h4>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMW=
+Q5NWNiYzNlZGNjNDI3MDI4M2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3M=
+g=3D=3D&amp;url=3Dhttp%3A%2F%2Fumano.me%2Fc%2FOYYKW%3Fplay%3D1%26no=5Fpopup=
+%3D1=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #ff7300;=22><img =
+src=3D=22https://images.umanoapp.com/thumbnails/53f1291b789c4291d35c627e=5F=
+1408313634627.jpg=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a></p>
+=20=20=20=20=20=20=20=20
+        <p class=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: =
+10px; font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22><span style=3D=22color: #999; margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC52aWV3Lm9yaWdpbm=
+FsOjUyZTFkOTVjYmMzZWRjYzQyNzAyODNkNTp1c2VyX2RpZ2VzdF9jaGFubmVsczoxOjE0MDg0O=
+TI5ODUzNzI=3D&amp;url=3Dhttp%3A%2F%2Fventurebeat.com%2F2014%2F08%2F17%2Fyes=
+-google-maps-is-tracking-you-heres-how-to-stop-it=22 style=3D=22color: =
+#999; margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif;=22>VentureBeat</a> - 2 min listen</span></p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>Want to see what =
+kind of data Google has on you=3F Check out Google's own location history =
+map -- and then follow these steps to turn off its trackers.</p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>
+        <a class=3D=22btn listen-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FOYYKW%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #0377CE; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+          <img src=3D=22https://umano.me/img/www/play-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+          Listen Now
+        </a>
+=20=20=20=20=20=20=20=20
+          <a class=3D=22btn playlist-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5wbGF5bGlzdDo1MmUxZDk1Y2JjM2VkY2M0MjcwM=
+jgzZDU6dXNlcl9kaWdlc3RfY2hhbm5lbHM6MToxNDA4NDkyOTg1Mzcy&amp;url=3Dhttp%3A%2=
+F%2Fumano.me%2Fuser%2F52e1d95cbc3edcc4270283d5%2Fplaylist%3Fadd%3D53f1291b7=
+89c4291d35c627e%26hash%3D09d52102d7c572a18a65d3388de2ee9038c7b084=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #ff7300; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+            <img src=3D=22https://umano.me/img/www/playlist-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+            Add to Playlist
+          </a>
+=20=20=20=20=20=20=20=20
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+=20=20
+  <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>=20=20=20=20=20=20=20=20
+  <table bgcolor=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+    <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+      <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+        <h4 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 23px;=22><a href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2F41j53%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 0; font-family: HelveticaNeue-Light, =
+Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif; color: #111; text-decoration: none; font-weight: 500; =
+line-height: 1.1; padding-bottom: 15px;=22>What Did I Do Wrong=3F A =
+Providential Encounter With A Recent College Graduate.</a></h4>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMW=
+Q5NWNiYzNlZGNjNDI3MDI4M2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3M=
+g=3D=3D&amp;url=3Dhttp%3A%2F%2Fumano.me%2Fc%2F41j53%3Fplay%3D1%26no=5Fpopup=
+%3D1=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #ff7300;=22><img =
+src=3D=22https://images.umanoapp.com/thumbnails/53ef002b789c4291d35c53dc=5F=
+1408208216062.jpg=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a></p>
+=20=20=20=20=20=20=20=20
+        <p class=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: =
+10px; font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22><span style=3D=22color: #999; margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC52aWV3Lm9yaWdpbm=
+FsOjUyZTFkOTVjYmMzZWRjYzQyNzAyODNkNTp1c2VyX2RpZ2VzdF9jaGFubmVsczoxOjE0MDg0O=
+TI5ODUzNzI=3D&amp;url=3Dhttps%3A%2F%2Fwww.linkedin.com%2Ftoday%2Fpost%2Fart=
+icle%2F20140815161001-35919759-what-did-i-do-wrong-a-providential-encounter=
+-with-a-recent-college-graduate=22 style=3D=22color: #999; margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22>LinkedIn</a> - 6 min listen</span></p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>The other day I was=
+ sitting and talking to a recent college graduate. I had only known her for=
+ a couple of weeks.</p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>
+        <a class=3D=22btn listen-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2F41j53%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #0377CE; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+          <img src=3D=22https://umano.me/img/www/play-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+          Listen Now
+        </a>
+=20=20=20=20=20=20=20=20
+          <a class=3D=22btn playlist-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5wbGF5bGlzdDo1MmUxZDk1Y2JjM2VkY2M0MjcwM=
+jgzZDU6dXNlcl9kaWdlc3RfY2hhbm5lbHM6MToxNDA4NDkyOTg1Mzcy&amp;url=3Dhttp%3A%2=
+F%2Fumano.me%2Fuser%2F52e1d95cbc3edcc4270283d5%2Fplaylist%3Fadd%3D53ef002b7=
+89c4291d35c53dc%26hash%3D09d52102d7c572a18a65d3388de2ee9038c7b084=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #ff7300; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+            <img src=3D=22https://umano.me/img/www/playlist-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+            Add to Playlist
+          </a>
+=20=20=20=20=20=20=20=20
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+=20=20
+  <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>=20=20=20=20=20=20=20=20
+  <table bgcolor=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+    <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+      <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+        <h4 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 23px;=22><a href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FmZYAZ%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 0; font-family: HelveticaNeue-Light, =
+Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif; color: #111; text-decoration: none; font-weight: 500; =
+line-height: 1.1; padding-bottom: 15px;=22>21 Uncommon Romantic Gestures =
+That Would Make Any Girl Melt</a></h4>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMW=
+Q5NWNiYzNlZGNjNDI3MDI4M2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3M=
+g=3D=3D&amp;url=3Dhttp%3A%2F%2Fumano.me%2Fc%2FmZYAZ%3Fplay%3D1%26no=5Fpopup=
+%3D1=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #ff7300;=22><img =
+src=3D=22https://images.umanoapp.com/thumbnails/53ee4671789c4291d35c4bcb=5F=
+1408141716454.jpg=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a></p>
+=20=20=20=20=20=20=20=20
+        <p class=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: =
+10px; font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22><span style=3D=22color: #999; margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC52aWV3Lm9yaWdpbm=
+FsOjUyZTFkOTVjYmMzZWRjYzQyNzAyODNkNTp1c2VyX2RpZ2VzdF9jaGFubmVsczoxOjE0MDg0O=
+TI5ODUzNzI=3D&amp;url=3Dhttp%3A%2F%2Fthoughtcatalog.=
+com%2Fchelsea-fagan%2F2014%2F08%2F21-uncommon-romantic-gestures-that-would-=
+make-any-girl-melt=22 style=3D=22color: #999; margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22>Thought Catalog</a> - 4 min listen</span></p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>When she's on her =
+way home from a big day at work, text her to be like =22I'm ordering =
+takeout from [insert her favorite place here] and opening a bottle of wine.=
+ What would you like=3F=22</p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>
+        <a class=3D=22btn listen-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FmZYAZ%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #0377CE; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+          <img src=3D=22https://umano.me/img/www/play-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+          Listen Now
+        </a>
+=20=20=20=20=20=20=20=20
+          <a class=3D=22btn playlist-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5wbGF5bGlzdDo1MmUxZDk1Y2JjM2VkY2M0MjcwM=
+jgzZDU6dXNlcl9kaWdlc3RfY2hhbm5lbHM6MToxNDA4NDkyOTg1Mzcy&amp;url=3Dhttp%3A%2=
+F%2Fumano.me%2Fuser%2F52e1d95cbc3edcc4270283d5%2Fplaylist%3Fadd%3D53ee46717=
+89c4291d35c4bcb%26hash%3D09d52102d7c572a18a65d3388de2ee9038c7b084=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #ff7300; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+            <img src=3D=22https://umano.me/img/www/playlist-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+            Add to Playlist
+          </a>
+=20=20=20=20=20=20=20=20
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+=20=20
+  <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: 15px; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 600px; display: block;=22>=20=20=20=20=20=20=20=20
+  <table bgcolor=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; width: 100%;=22>
+    <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+      <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+        <h4 style=3D=22margin: 0; padding: 0; font-family: =
+HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; line-height: 1.1; padding-bottom: 15px; color:=
+ #333; font-weight: 500; font-size: 23px;=22><a href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FM5rEE%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 0; font-family: HelveticaNeue-Light, =
+Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif; color: #111; text-decoration: none; font-weight: 500; =
+line-height: 1.1; padding-bottom: 15px;=22>The 5 Great Mysteries Of Being =
+In Your 20s</a></h4>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMW=
+Q5NWNiYzNlZGNjNDI3MDI4M2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3M=
+g=3D=3D&amp;url=3Dhttp%3A%2F%2Fumano.me%2Fc%2FM5rEE%3Fplay%3D1%26no=5Fpopup=
+%3D1=22 style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #ff7300;=22><img =
+src=3D=22https://images.umanoapp.com/thumbnails/53ec0ef9789c4291d35c2e5c=5F=
+1408340188693.jpg=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a></p>
+=20=20=20=20=20=20=20=20
+        <p class=3D=22=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: =
+10px; font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22><span style=3D=22color: #999; margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22><a =
+href=3D=22http://umano.me/redirect=3Ftrack=3DZW1haWwuY2xpcC52aWV3Lm9yaWdpbm=
+FsOjUyZTFkOTVjYmMzZWRjYzQyNzAyODNkNTp1c2VyX2RpZ2VzdF9jaGFubmVsczoxOjE0MDg0O=
+TI5ODUzNzI=3D&amp;url=3Dhttp%3A%2F%2Fthoughtcatalog.=
+com%2Fryan-oconnell%2F2014%2F08%2Fthe-5-great-mysteries-of-being-in-your-20=
+s=22 style=3D=22color: #999; margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif;=22>Thought Catalog</a> - 6 =
+min listen</span></p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>A few years ago I =
+started to notice that all of my friends were in better shape than me, =
+which was weird because I assumed we were living identical lifestyles. =
+I=E2=80=99d eat pasta and chase it with a bottle of red wine, and they =
+would too! </p>
+        <p style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; font-weight: =
+200; font-size: 14px; color: #666; line-height: 1.6;=22>
+        <a class=3D=22btn listen-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5saXN0ZW46NTJlMWQ5NWNiYzNlZGNjNDI3MDI4M=
+2Q1OnVzZXJfZGlnZXN0X2NoYW5uZWxzOjE6MTQwODQ5Mjk4NTM3Mg=3D=3D&amp;url=3Dhttp%=
+3A%2F%2Fumano.me%2Fc%2FM5rEE%3Fplay%3D1%26no=5Fpopup%3D1=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #0377CE; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+          <img src=3D=22https://umano.me/img/www/play-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+          Listen Now
+        </a>
+=20=20=20=20=20=20=20=20
+          <a class=3D=22btn playlist-btn=22 href=3D=22http://umano.=
+me/redirect=3Ftrack=3DZW1haWwuY2xpcC5wbGF5bGlzdDo1MmUxZDk1Y2JjM2VkY2M0MjcwM=
+jgzZDU6dXNlcl9kaWdlc3RfY2hhbm5lbHM6MToxNDA4NDkyOTg1Mzcy&amp;url=3Dhttp%3A%2=
+F%2Fumano.me%2Fuser%2F52e1d95cbc3edcc4270283d5%2Fplaylist%3Fadd%3D53ec0ef97=
+89c4291d35c2e5c%26hash%3D09d52102d7c572a18a65d3388de2ee9038c7b084=22 =
+style=3D=22margin: 0; padding: 10px 16px; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif; color: #FFF; text-decoration: =
+none; background-color: #ff7300; font-weight: bold; margin-right: 10px; =
+text-align: center; cursor: pointer; display: inline-block; =
+-webkit-border-radius: 32px; -moz-border-radius: 32px; border-radius: 32px;=
+ margin-top: 5px;=22>
+            <img src=3D=22https://umano.me/img/www/playlist-icon.png=22 =
+style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, Helvetica, =
+Helvetica, Arial, sans-serif; max-width: 100%; width: 12px; height: =
+12px;=22 />
+            Add to Playlist
+          </a>
+=20=20=20=20=20=20=20=20
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+    </td>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+  </tr>
+</table><!-- /BODY -->
+
+<!-- FOOTER -->
+<table class=3D=22footer-wrap=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+width: 100%; clear: both;=22>
+  <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+    <td class=3D=22container=22 style=3D=22margin: 0 auto; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+display: block; max-width: 600px; clear: both;=22>
+=20=20=20=20=20=20
+        <!-- content -->
+        <div class=3D=22content=22 style=3D=22margin: 0 auto; padding: =
+15px; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=
+ max-width: 600px; display: block;=22>
+        <table style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; width: =
+100%;=22>=20=20=20=20=20=20=20=20
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <p style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; =
+font-weight: 200; font-size: 14px; color: #666; line-height: 1.6;=22>
+              <a href=3D=22http://facebook.com/umanoapp=22 =
+target=3D=22=5Fblank=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; color: =
+#ff7300;=22><img width=3D=2246=22 height=3D=2246=22 src=3D=22https://umano.=
+me/img/email/fb@2x.png=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; max-width: =
+100%;=22 /></a>&nbsp;&nbsp;
+              <a href=3D=22http://twitter.com/umanoapp=22 =
+target=3D=22=5Fblank=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; color: =
+#ff7300;=22><img width=3D=2246=22 height=3D=2246=22 src=3D=22https://umano.=
+me/img/email/twitter@2x.png=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 100%;=22 /></a>&nbsp;&nbsp;
+              <a href=3D=22http://plus.google.com/+umanoapp=22 =
+target=3D=22=5Fblank=22 style=3D=22margin: 0; padding: 0; font-family: =
+Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; color: =
+#ff7300;=22><img width=3D=2246=22 height=3D=2246=22 src=3D=22https://umano.=
+me/img/email/google+@2x.png=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+max-width: 100%;=22 /></a>
+            </p>
+          </td>
+        </tr>
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <p style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif; margin-bottom: 10px; =
+font-weight: 200; font-size: 14px; color: #666; line-height: 1.=
+6;=22>=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              <a href=3D=22http://umano.me/terms=22 style=3D=22margin: 0; =
+padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; color: #ff7300;=22>Terms</a> |
+              <a href=3D=22http://umano.me/privacy=22 style=3D=22margin: 0;=
+ padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif; color: #ff7300;=22>Privacy</a>
+               |
+              <a href=3D=22http://umanoapp.com/user/52e1d95cbc3edcc4270283d=
+5/unsubscribe=3Fsetting=3Dunsubscribe=5Fdigest=5Femails&amp;hash=3D09d52102=
+d7c572a18a65d3388de2ee9038c7b084=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+color: #ff7300;=22>Unsubscribe</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+            </p>
+          </td>
+        </tr>
+        <tr style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22>
+          <td align=3D=22center=22 style=3D=22margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22>
+            <p style=3D=22color: #666; font-size: 11px; margin: 0; padding:=
+ 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; =
+margin-bottom: 10px; font-weight: 200; line-height: 1.6;=22>
+            This email was intended for <a style=3D=22color: #666; margin: =
+0; padding: 0; font-family: Helvetica Neue, Helvetica, Helvetica, Arial, =
+sans-serif;=22 href=3D=22mailto:su104003@gmail.com=22>su104003@gmail.=
+com</a>. =C2=A9 2014, SoThree, Inc., 2 Harrison St, CA, USA 94105
+            <br style=3D=22margin: 0; padding: 0; font-family: Helvetica =
+Neue, Helvetica, Helvetica, Arial, sans-serif;=22 />
+            Please do not reply to this email, as this inbox is not =
+monitored. Email us at <a style=3D=22color: #666; margin: 0; padding: 0; =
+font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;=22 =
+href=3D=22mailto:support@umano.me=22>support@umano.me</a> if you have any =
+questions.
+            </p>=20=20=20=20=20=20=20=20=20=20=20=20
+          </td>
+        </tr>
+      </table>
+        </div><!-- /content -->
+=20=20=20=20=20=20=20=20
+    </td>
+    <td style=3D=22margin: 0; padding: 0; font-family: Helvetica Neue, =
+Helvetica, Helvetica, Arial, sans-serif;=22></td>
+  </tr>
+</table><!-- /FOOTER -->
+
+</body>
+</html>
+
+

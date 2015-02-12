@@ -1,0 +1,277 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.5.4 with SMTP id 4csp64662vkf;
+        Thu, 16 Oct 2014 08:52:21 -0700 (PDT)
+X-Received: by 10.236.229.165 with SMTP id h35mr2456714yhq.129.1413474741794;
+        Thu, 16 Oct 2014 08:52:21 -0700 (PDT)
+Return-Path: <bounce-866153_HTML-779652523-3114537-96766-313@bounce.email.microsoftemail.com>
+Received: from mta12.email.microsoftemail.com (mta12.email.microsoftemail.com. [66.231.85.17])
+        by mx.google.com with ESMTP id o8si33757752yhd.67.2014.10.16.08.52.21
+        for <su104003@gmail.com>;
+        Thu, 16 Oct 2014 08:52:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-866153_HTML-779652523-3114537-96766-313@bounce.email.microsoftemail.com designates 66.231.85.17 as permitted sender) client-ip=66.231.85.17;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-866153_HTML-779652523-3114537-96766-313@bounce.email.microsoftemail.com designates 66.231.85.17 as permitted sender) smtp.mail=bounce-866153_HTML-779652523-3114537-96766-313@bounce.email.microsoftemail.com;
+       dkim=pass header.i=@email.microsoftemail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=e-mail.microsoft.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=102420140131; d=email.microsoftemail.com;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:Message-ID:Content-Type;
+ bh=iJlVdLO2vMLCxpnrP5C/NqHWFYw=;
+ b=lqCBxei8bxa0BybVlAsT0lXeuys5TSr0LIuYJrYfUlydNfOlHn63uoThiPRK9XMeLe17jk1pSN6a
+   DeGuoxHabwJC30tiBBmDL5M63QUlvNVa3BjzROajiy4GM745olScd/1IPO6a493DDPDztYU2JNte
+   qzcquTmGFgiDVwgUc/A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=e-mail.microsoft.com;
+ b=SKSVr1VIjIph/WZdaEaorqxYNdnH7ik0cy/qmEqe+7oIjPDarHwo2u4trF0bfSexZLvp61JipOpw
+   9yqOMVxoOk4w47idWZqJVX0uxBntiaS4SradjtpENj/rFsIqAlpyHskt+K+UgjsRb8WQ/HRDEpgs
+   ctxN91hGG56kHbPKVEE=;
+Received: by mta12.email.microsoftemail.com id h7vkra163hs5 for <su104003@gmail.com>; Thu, 16 Oct 2014 09:32:01 -0600 (envelope-from <bounce-866153_HTML-779652523-3114537-96766-313@bounce.email.microsoftemail.com>)
+From: "Microsoft" <Microsoft@e-mail.microsoft.com>
+To: <su104003@gmail.com>
+Subject: =?UTF-8?B?TWljcm9zb2Z0IE9mZmljZSAzNjUgU29sbyDjga7kuIDoiKzmj5A=?=
+ =?UTF-8?B?5L6b44KS6ZaL5aeL?=
+Date: Thu, 16 Oct 2014 09:32:00 -0600
+MIME-Version: 1.0
+Reply-To: "Microsoft" <reply-fe9717717460017e72-866153_HTML-779652523-96766-313@email.microsoftemail.com>
+x-job: 96766_3114537
+Message-ID: <ae53de5d-1a72-421f-9a64-424fc06270c0@xtinp1mta101.xt.local>
+Content-Type: multipart/alternative;
+	boundary="34l04r34PXik=_?:"
+
+This is a multi-part message in MIME format.
+
+--34l04r34PXik=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+
+
+TechNet Evaluation Center
+https://www.facebook.com/MicrosoftItPro 
+
+https://twitter.com/MS_ITPro 
+
+http://microsoft.com 
+
+http://technet.com/evalcenter/ 
+TechNet Evaluation Center 
+
+
+Microsoft Office Home & Business 2013 の評価をお楽しみいただけており、 Office の使用を PC からすべてのデバイス*に広げようとお考えでしたら、 一般提供が開始された Office 365 Solo をぜひお試しください。
+
+
+Office 365 Solo では、 PC や Mac にインストールされている Office を常に最新の状態に維持できるほか、 タブレットやスマートフォンでも通常版の Office をご利用いただけます。 また、 OneDrive クラウド ストレージを使用すると、 どこからでもドキュメントや写真にアクセスし、 共有することができます。 今すぐ評価版をお試しください!
+
+http://office.microsoft.com/ja-jp/FX102858196.aspx 
+<[Office 365 Solo を試す] ボタン>  
+
+
+敬具
+
+
+日本マイクロソフト株式会社
+
+
+* Office for iPad は間もなくリリースされます。 互換性のあるデバイスについては、 
+http://www.office.com/information 
+www.office.com/information  をご覧ください。
+
+ 
+
+
+
+このメッセージは、 お客様やお客様の勤務先にご購入またはご登録いただいたプログラム、 サービス、 製品の一部として、 マイクロソフトからお届けしているものです。 Microsoft はお客様のプライバシーの保護に努めています。詳細については、 「
+http://privacy.microsoft.com/en-us/default.mspx 
+プライバシーに関する声明 」をお読みください。
+
+
+Microsoft
+
+One Microsoft Way
+
+Redmond, WA 98052
+
+
+(c) 2014 Microsoft
+
+ 
+
+
+
+
+
+
+
+
+
+--34l04r34PXik=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body><table border=0 cellSpacing=0 cellPadding=0 align=center width="750">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>
+
+<table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><img src="http://click.email.microsoftemail.com/open.aspx?ffcb10-fe9717717460017e72-fe2411777d6c037b751670-feed1d76726202-fec21c767365017e-fe2113777c62017f701673-ff68177176&d=10039" width="1" height="1">
+<title>TechNet Evaluation Center</title>
+<style type="text/css">
+/* Outlook link fix */
+#outlook a {padding:0;}
+/* Hotmail background & line height fixes */
+.ExternalClass {width:100% !important;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+.ExternalClass td, .ExternalClass div {line-height: 100%;}
+/* Image borders & formatting */
+img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
+a img {border:none;} 
+/* Re-style iPhone automatic links (eg. phone numbers) */
+.applelinks a {color:#222222; text-decoration: none;}
+/* Hotmail symbol fix for mobile devices */
+.ExternalClass img[class^=Emoji] { width: 10px !important; height: 10px !important; display: inline !important; } 
+hr { color: #ababab; background-color: #ababab; height: 1px; border: none; }
+</style>
+<table width="600" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td width="600" align="center" valign="top">
+			<table width="600" class="mob_320" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+					<tr>
+						<td width="565" bgcolor="#442359">
+						<table align="left" bgcolor="#442359" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<td width="565" class="mob_285" style="padding: 15px 0px 15px 5px;">
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tbody>
+											<tr>
+												<td>
+												<table align="right" class="emailwrapto100pc" bgcolor="#442359" border="0" cellspacing="0" cellpadding="0">
+													<tbody>
+														<tr>
+															<td class="mob_pad_35b" style="padding-top: 10px;" bgcolor="#442359">
+															<table class="emailwrapto100pc" bgcolor="#442359" border="0" cellspacing="0" cellpadding="2">
+																<tbody>
+																	<tr>
+																		<td width="20" height="20" bgcolor="#442359"><a href="http://click.email.microsoftemail.com/?qs=c9e0559db082553c97a8b45c5eae99561c8a2135d3278eeeb6722edd406fba19f9ad8d9fba3ae9c4"><img width="20" height="20" style="border: 0px currentColor; display: block;" alt="Microsoft" src="http://image.email.microsoftemail.com/lib/feed1d76726202/m/1/Facebook+logo.png"></a></td>
+																		<td width="20" height="20" bgcolor="#442359"><a href="http://click.email.microsoftemail.com/?qs=c9e0559db082553caccc4e2244ec7b3543170044feb2e51d40be894585a15e5ddbb6cfe24ce08987"><img width="20" height="20" style="border: 0px currentColor; display: block;" alt="Microsoft" src="http://image.email.microsoftemail.com/lib/feed1d76726202/m/1/Twitter+logo.png"></a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<table align="left" bgcolor="#442359" border="0" cellspacing="0" cellpadding="0">
+													<tbody>
+														<tr>
+															<td bgcolor="#442359"><a href="http://click.email.microsoftemail.com/?qs=c9e0559db082553c52c2e1d4bb088889a7da1b2f650f25731af4c097a1f65166b908282e2da91e1f"><img width="104" height="38" style="border: 0px currentColor; display: block;" alt="Microsoft" src="http://image.email.microsoftemail.com/lib/feed1d76726202/m/1/MSFT+logo+Transparency+2.png"></a></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td width="560" align="left" class="mob_285" style="color: #ffffff; line-height: 22px; padding-top: 0px; padding-left: 10px; font-family: &quot;Segoe UI light&quot;, Tahoma, Geneva, Verdana, sans-serif; font-size: 21px;" bgcolor="#442359"><span class="emailnomob"><a style="color: #ffffff; line-height: 22px; font-family: &quot;Segoe UI light&quot;, Tahoma, Geneva, Verdana, sans-serif; font-size: 21px; text-decoration: none;" href="http://click.email.microsoftemail.com/?qs=c9e0559db082553c12bdadec0f48c834bfcbad80479e760931696b907b7afb53210d867234517a3b">TechNet Evaluation Center</a></span><span class="hide"></span>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<table width="600" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+					<tr>
+						<td width="600" align="center">
+						<table width="560" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<td width="560" align="left" class="mob_a1copy_pad" style="padding-top: 15px"><span style="color: #505050; line-height: 19px; font-family: &quot;Segoe UI&quot;, Tahoma, Geneva, Verdana, sans-serif; font-size: 13px;"><br>
+									Microsoft Office Home & Business 2013 の評価をお楽しみいただけており、 Office の使用を PC からすべてのデバイス*に広げようとお考えでしたら、 一般提供が開始された Office 365 Solo をぜひお試しください。<br>
+									<br>
+									Office 365 Solo では、 PC や Mac にインストールされている Office を常に最新の状態に維持できるほか、 タブレットやスマートフォンでも通常版の Office をご利用いただけます。 また、 OneDrive クラウド ストレージを使用すると、 どこからでもドキュメントや写真にアクセスし、 共有することができます。 今すぐ評価版をお試しください!<br>
+									<a href="http://click.email.microsoftemail.com/?qs=c9e0559db082553c933b3e5102afc8f798ff02ea240dbcb5ffd75d2115eb5645983fe5933ba275d4" style="color: #0072c6; line-height: 20px; font-family: &quot;Segoe UI&quot;, Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; text-decoration: none;" target="_blank">&lt;[Office 365 Solo を試す] ボタン&gt; </a><br>
+									<br>
+									敬具<br>
+									<br>
+									日本マイクロソフト株式会社<br>
+									<br>
+									* Office for iPad は間もなくリリースされます。 互換性のあるデバイスについては、 <a href="http://click.email.microsoftemail.com/?qs=c9e0559db082553ca994e5a88347f28fe3a585793e63b30a80aca0403c5038af4b337545bf3baf5f" style="color: #0072c6; line-height: 20px; font-family: &quot;Segoe UI&quot;, Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; text-decoration: none;" target="_blank">www.office.com/information</a> をご覧ください。<br>
+									&nbsp;
+									</span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#e8e8e8">
+				<tbody>
+					<tr>
+						<td width="600" align="center">
+						<table width="560" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<td width="600" align="left" class="mob_a1copy_pad"><span style="color: #505050; line-height: 14px; font-family: &quot;Segoe UI&quot;, Tahoma, Geneva, Verdana, sans-serif; font-size: 10px;"> <br>
+									<br>
+									このメッセージは、 お客様やお客様の勤務先にご購入またはご登録いただいたプログラム、 サービス、 製品の一部として、 マイクロソフトからお届けしているものです。 Microsoft はお客様のプライバシーの保護に努めています。詳細については、 「<a style="color: #0173c6;" href="http://click.email.microsoftemail.com/?qs=c9e0559db082553c874ba5474a59fdd6d761f4eb88832a7400bf41579134448a6d87dd030dce5aab">プライバシーに関する声明</a>」をお読みください。<br>
+									<br>
+									Microsoft<br>
+									One Microsoft Way<br>
+									Redmond, WA 98052<br>
+									<br>
+									&copy; 2014 Microsoft<br>
+									&nbsp;</span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+			</td>
+		</tr>
+	</tbody>
+</table>
+</custom></td></tr></table>
+
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table><img src="http://click.email.microsoftemail.com/open.aspx?ffcb10-fe9717717460017e72-fe2411777d6c037b751670-feed1d76726202-fec21c767365017e-fe2113777c62017f701673-ff68177176&d=10039" width="1" height="1"></body></html>
+
+--34l04r34PXik=_?:--
+

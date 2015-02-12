@@ -1,0 +1,96 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp109150qdc;
+        Mon, 14 Jul 2014 09:15:11 -0700 (PDT)
+X-Received: by 10.42.147.201 with SMTP id o9mr4223373icv.89.1405354511281;
+        Mon, 14 Jul 2014 09:15:11 -0700 (PDT)
+Return-Path: <pm_bounces@pm.mtasv.net>
+Received: from sc-ord-mta123.mtasv.net (sc-ord-mta123.mtasv.net. [50.31.156.123])
+        by mx.google.com with ESMTPS id rh7si12312165igc.32.2014.07.14.09.15.11
+        for <su104003@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 14 Jul 2014 09:15:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of pm_bounces@pm.mtasv.net designates 50.31.156.123 as permitted sender) client-ip=50.31.156.123;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of pm_bounces@pm.mtasv.net designates 50.31.156.123 as permitted sender) smtp.mail=pm_bounces@pm.mtasv.net;
+       dkim=pass header.i=@mojang.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=jan2013.pm; d=mojang.com;
+ h=From:Reply-To:Date:Subject:MIME-Version:Content-Type:To:Message-ID; i=noreply@mojang.com;
+ bh=XuCS7nBvOXYnAojP/96Boa10nOI=;
+ b=GPYOVG/RyVM9yFwlWg0nQ2Cu3JD2jbeosaG9k+6AK9sXs3mGEnYIbZb79Er+A6QadDFb0Y9usHfT
+   TqSFYqy639zj5KA/9tiWkmEDp2MUTlF7Gd4YAahS17hg29tkVr+HEDi+qBkgG4pirVoFgSwZhCug
+   wymEy3Jo605a94m5eBE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=jan2013.pm; d=mojang.com;
+ b=nIfL8uqIcLjagL2wFueln59xzE5IdXo4TgvJPQw6Z9E7uamGO/0Neo8SC3/5pU+eDREmllC4nO+z
+   a1rznJ1S+TqjVSTRafGMBRWb8+85nit/nH0p6TgTnP2+Vs11wQIk9dzDv1URdvclMHEA2CS5nlcM
+   VHE5hx/dS1lWprtKP4g=;
+Received: by sc-ord-mta123.mtasv.net id hog10u1jk5kh for <su104003@gmail.com>; Mon, 14 Jul 2014 12:15:10 -0400 (envelope-from <pm_bounces@pm.mtasv.net>)
+X-IADB-IP: 50.31.156.123
+X-IADB-IP-REVERSE: 123.156.31.50
+From: "Mojang" <noreply@mojang.com> 
+Reply-To: noreply@mojang.com
+Date: Mon, 14 Jul 2014 12:15:10 -0400
+Subject: Verify Your E-mail
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_b25d3036c0b746a88e1008759ce3ff7f"
+X-Mailer: aspNetEmail ver 4.0.0.22
+X-Complaints-To: abuse@postmarkapp.com
+X-PM-RCPT: |bTB8MjgwMjh8MjQ4NzR8c3UxMDQwMDNAZ21haWwuY29t|
+X-PM-Message-Id: ca56f5c6-369a-4563-9abc-a6215af5e2b6
+To: null null <su104003@gmail.com>
+Message-ID: <SC-ORD-MAIL70b579d41e4e54349a3f5f4252acf57fb@sc-ord-mail7>
+
+--_=aspNetEmail=_b25d3036c0b746a88e1008759ce3ff7f
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=0D=0A=0D=0AThank you for signing up for a Mojang account=21=0D=0A=0D=0AA=
+s a last step to setting up your account please go to this link in your b=
+rowser=2E It verifies that your account and e-mail can live happy togethe=
+r=2E=0D=0A=0D=0Ahttps://account=2Eminecraft=2Enet/verify/9b097fb55568b70b=
+2a9a499741763c080a223ee7=0D=0A=0D=0AIf you didn=27t sign up, just ignore =
+this e-mail and nothing will happen=2E=0D=0A=0D=0AHave a nice day,=0D=0AM=
+ojang=2E=0D=0A=0D=0A=0D=0A=0D=0A--=0D=0A=0D=0AThis e-mail was sent by a u=
+ser triggered event and thus can=27t really be unsubscribed from=2E=0D=0A=
+If you keep getting these messages and don=27t want to, please contact <a=
+ href=3D=22http://help=2Emojang=2Ecom/=22>customer support</a>=2E
+
+--_=aspNetEmail=_b25d3036c0b746a88e1008759ce3ff7f
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D=0A    <style>=0D=0A        body =7B=0D=0A            font-famil=
+y: =22Lucida Grande=22, =22Lucida Sans Unicode=22, =22Lucida Sans=22, Ver=
+dana, Tahoma, sans-serif;=0D=0A            margin: 0;=0D=0A            pa=
+dding: 30px 20px;=0D=0A            font-size: 13px;=0D=0A            line=
+-height: 1=2E231;=0D=0A            color:=23999999;=0D=0A            back=
+ground-color:=23e4e4e4;=0D=0A        =7D=0D=0A=0D=0A        =23content =7B=
+=0D=0A            color:=23222222;=0D=0A            border:=23ddd solid 1=
+px;=0D=0A            background-color:=23fff;=0D=0A            padding: 2=
+0px 26px=0D=0A        =7D=0D=0A=0D=0A        =23content p =7B=0D=0A      =
+      margin:30px 0;=0D=0A        =7D=0D=0A    </style>=0D=0A    <body>=0D=
+=0A        <div id=3D=22content=22>=0D=0A            <p>=0D=0A           =
+     <img src=3D=22http://assets=2Emojang=2Ecom/mojang_logo=2Epng=22/>=0D=
+=0A            </p>=0D=0A            <p style=3D=22font-weight:bold=22>=0D=
+=0A                Thank you for signing up for a Mojang account=21=0D=0A=
+            </p>=0D=0A            <p>=0D=0A                As a last step=
+ to setting up your account please go to this link in your browser=2E It =
+verifies that your account and e-mail can live happy together=2E=0D=0A   =
+         </p>=0D=0A            <p>=0D=0A                <a href=3D=22http=
+s://account=2Eminecraft=2Enet/verify/9b097fb55568b70b2a9a499741763c080a22=
+3ee7=22>https://account=2Eminecraft=2Enet/verify/9b097fb55568b70b2a9a4997=
+41763c080a223ee7</a>=0D=0A            </p>=0D=0A            <p>=0D=0A    =
+            If you didn=27t sign up, just ignore this e-mail and nothing =
+will happen=2E=0D=0A            </p>=0D=0A            <p>=0D=0A          =
+      Have a nice day,<br />=0D=0A                Mojang=2E=0D=0A        =
+    </p>=0D=0A        </div>=0D=0A        <p style=3D=22font-size:10px=22=
+>=0D=0A            This e-mail was sent by a user triggered event and thu=
+s can=27t really be unsubscribed from=2E<br />=0D=0A            If you ke=
+ep getting these messages and don=27t want to, please contact <a href=3D=22=
+http://help=2Emojang=2Ecom/=22>customer support</a>=2E=0D=0A        </p>=0D=
+=0A    </body>=0D=0A</html>
+
+--_=aspNetEmail=_b25d3036c0b746a88e1008759ce3ff7f--
+

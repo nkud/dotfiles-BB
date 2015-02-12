@@ -1,0 +1,366 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp191997qdc;
+        Thu, 3 Jul 2014 10:19:18 -0700 (PDT)
+X-Received: by 10.42.37.13 with SMTP id w13mr4708105icd.13.1404407957851;
+        Thu, 03 Jul 2014 10:19:17 -0700 (PDT)
+Return-Path: <bounce-66382@bounce.getresponse.com>
+Received: from mta-7ds.getresponse.com (mta-7ds.getresponse.com. [209.255.203.136])
+        by mx.google.com with ESMTP id ke8si1137646icc.91.2014.07.03.10.19.17
+        for <su104003@gmail.com>;
+        Thu, 03 Jul 2014 10:19:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-66382@bounce.getresponse.com designates 209.255.203.136 as permitted sender) client-ip=209.255.203.136;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-66382@bounce.getresponse.com designates 209.255.203.136 as permitted sender) smtp.mail=bounce-66382@bounce.getresponse.com;
+       dkim=pass header.i=@getresponse.com
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative; boundary="_----------=_1404407927603104886"
+MIME-Version: 1.0
+Date: Thu, 3 Jul 2014 17:18:47 +0000
+Feedback-Id: c=ako9:u=0bl:broadcast:getresponse
+Return-Path: <bounce-66382@bounce.getresponse.com>
+Subject: Get Nozbe 2.0 public beta today - welcome to the future of productivity
+Reply-To: questions@nozbe.com
+X-Complaints-To: abuse@getresponse.com
+To: "Naoki" <su104003@gmail.com>
+Sender: nozbe@getresponse.com
+From: "Michael Sliwinski (Nozbe)" <questions@nozbe.com>
+X-Serial: s56bjeOrIkQ/a1lF1xE7FgZ6LgUYVV/KLtl/6tbLwfU9b4mrB1Z8ZDADmJu0I7RZUuuuzJKwHS739B0rEOsgDNK0CY+aAhGaDEkCD+00pPllxw0=
+List-Unsubscribe: <mailto:listunsubscribe@getresponse.com?subject=s56bjeOrIkQ%2Fa1lF1xE7FgZ6LgUYVV%2FKLtl%2F6tbLwfU9b4mrB1Z8ZDADmJu0I7RZUuuuzJKwHS739B0rEOsgDNK0CY%2BaAhGaDEkCD%2B00pPllxw0%3D>, <http://app.getresponse.com/one_click_unsubscribe.html?x=a62b&m=zOYRV&s=B7FjP9&y=Z&>
+X-Postmaster-Msgtype: ako9
+Require-Recipient-Valid-Since: su104003@gmail.com; Thu, 01 May 2014 07:29:46 +0000
+Message-Id: <1404407927.629264@getresponse.com>
+X-Mailer: GetResponse 6.0
+Dkim-Signature: a=rsa-sha256; b=asRLIKmr3/L1NXVRNHvnTF+v1/8eZgP8DDlBf4FVs/5RROA3ZIJ6wji9x0v2Bmmf1YnLMZhFdP09S9If3JhanoMUxzS8gXzRvWtEKDRgVKPooahd5lIYSDxrxmIA4AFlq6k0HFuTdex1gOPKoyUXGjM8ioYH2f+h63MOgCDBW7Y=; bh=rjpkXGCft7oLRk0A2ga+wzZwOKRBXjTp6+30gOmClao=; c=relaxed/simple; d=getresponse.com; h=sender:from:to:subject; s=k1024c; v=1;
+
+This is a multi-part message in MIME format.
+
+--_----------=_1404407927603104886
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+MIME-Version: 1.0
+Date: Thu, 3 Jul 2014 17:18:47 +0000
+
+Hello Naoki,
+
+Wow, I'm so excited today! After more than a year of coding, brainstorming,=
+ working overtime, coding even more... we are ready to show you the future =
+of Nozbe and the future of productivity: Nozbe 2.0 beta
+
+http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=3Dho&s=3DB7FjP=
+9&u=3DhcT&y=3Dq&
+
+**Nozbe rewritten from scratch**
+
+After 7+ years of running Nozbe we decided to use everything we've learned =
+so far about productivity and build new, mobile-friendly, super-fast, beaut=
+ifully-designed apps that take advantage of both the desktop and mobile pla=
+tforms.
+
+Go to our Nozbe 2.0 beta site and watch me walk you through our new apps.
+
+Here are some questions you might have about the Nozbe beta program and my =
+best answers for you:
+
+***What's new in Nozbe 2.0?***
+
+* brand new fresh, light and responsive design
+* much better app performance: speed, speed, speed
+* edit mode - you can edit/complete/delete multiple tasks at once - one of =
+our most requested features!
+* 5th column (Info bar) - one place when you can see all details and option=
+s regarding active task list
+* filters and sorting - now you can filter your tasks list with many filter=
+s at once and sort the tasks as you like
+* ...and a lot more!
+
+***Where can I get Nozbe 2.0 beta for my device?***
+
+* **Web app + Mac, Windows and Linux** apps are available today - get them =
+from our Nozbe "beta site"
+* **iPhone, iPad and Android** - we'll be rolling out our mobile beta apps =
+in late July, sign up for mobile beta on our Nozbe "beta site"
+
+http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=3Dho&s=3DB7FjP=
+9&u=3DhcT&y=3Dq&
+
+***When will next "beta" versions be available?***
+
+We'll be rolling out a new beta version of Nozbe every 2 weeks throughout t=
+he whole Summer. Follow us on Twitter or subscribe to our blog.
+
+***When will the final Nozbe 2.0 be launched?***
+
+In September. We can't wait to roll it out to everyone. Up until then, Nozb=
+e 1.9.x is the latest stable version of Nozbe.
+
+***Is the Nozbe beta stable and bug-free?***
+
+Nope. Not at all. Many things don't even work there correctly just yet. It'=
+s a beta product. It's mature enough so that we can test it with our braves=
+t users, but it shouldn't be used in mission-critical environment. Use it a=
+t your own risk! :-)
+
+[Read the updated list of known issues on our "beta site"
+
+***What if I don't want to test Nozbe beta but still want to get something =
+cool today?***
+
+Easy. Get the latest issue of the free Productive! Magazine with Pat Flynn =
+for your iPhone, iPad or Android or read it on the web
+
+http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34Xh&mc=3Dho&s=3DB7FjP=
+9&u=3DhcT&y=3Do&
+
+This issue features: Pat Flynn =E2=80=94 a beloved thought leader in the ar=
+eas of online entrepreneurship and passive income
+
+plus
+
+nine practical articles helping you get closer to a systematic and producti=
+ve workflow and satisfying life.
+
+***What are my "next actions" for today?***
+
+Just these two things:=20
+
+* get Nozbe 2.0 beta (and watch me walk you through it)
+* get the latest Productive! Magazine
+
+That's it, both of these things will make you a lot more productive this su=
+mmer :-)
+
+Thank you!
+
+Yours productively,
+
+- Michael Sliwinski
+
+Founder and CEO, Nozbe.com
+
+P.S. Remember, Nozbe 2.0 beta is not a finished product. We are inviting yo=
+u to check it out, but we can't guarantee anything there. It's a work in pr=
+ogress. We just couldn't wait any longer and keep it to ourselves. We wante=
+d to show it to you today. Enjoy.
+
+http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=3Dho&s=3DB7FjP=
+9&u=3DhcT&y=3Dq&
+
+Powered by: http://app.getresponse.com/referral.html?x=3Da62b&u=3DhcT&y=3DT&
+
+
+Nozbe (by apivision.com),
+ul. Rozewska 18,
+81-055 Gdynia, Poland, Europe
+
+
+To unsubscribe visit:
+http://app.getresponse.com/me.html?x=3Da62b&m=3DzOYRV&s=3DB7FjP9&u=3DhcT&y=
+=3Dt&
+To change your contact details visit:
+http://app.getresponse.com/me.html?x=3Da62b&m=3DzOYRV&s=3DB7FjP9&u=3DhcT&y=
+=3Dt&
+
+--_----------=_1404407927603104886
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+Date: Thu, 3 Jul 2014 17:18:47 +0000
+
+<title><p>Get Nozbe 2.0 public beta today - welcome to the future of produc=
+tivity</p></title>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" />
+<table cellspacing=3D"0" border=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%;">
+<tbody>
+<tr>
+<td>
+<table cellspacing=3D"0" align=3D"center" cellpadding=3D"0" style=3D"width:=
+ 620px;">
+<tbody>
+<tr>
+<td style=3D"font-family: Verdana, Arial, sans-serif; font-size: 12px; padd=
+ing: 10px; color: #aaa;" width=3D"405">
+<div style=3D"font-weight: bold;">
+<p>Web app + Mac, Windows and Linux apps. Sign up for iPhone, iPad and Andr=
+oid</p>
+</div>
+<p style=3D"font-size: 10px;">Add <a href=3D"mailto:questions@nozbe.com" st=
+yle=3D"color: #aaa;">questions@nozbe.com</a> to your contacts</p>
+</td>
+<td valign=3D"top" width=3D"215"><a href=3D"http://app.getresponse.com/clic=
+k.html?x=3Da62b&lc=3Dw34vY&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dw&"><img src=3D"h=
+ttp://www.nozbe.com/images/logo.png" width=3D"215" height=3D"81" alt=3D"Noz=
+be.com" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table cellspacing=3D"0" border=3D"0" align=3D"center" style=3D"background-=
+color: #ffffff; width: 620px; background-position: initial initial; backgro=
+und-repeat: initial initial;" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"content-copy" valign=3D"top" style=3D"padding: 10px 10px; colo=
+r: #000; font-size: 14px; font-family: Verdana; line-height: 20px;" colspan=
+=3D"2">
+<p>Hello Naoki,</p>
+<p>Wow, I'm so excited today! After more than a year of coding, brainstormi=
+ng, working overtime, coding even more... we are ready to show you the futu=
+re of Nozbe and the future of productivity: <a href=3D"http://app.getrespon=
+se.com/click.html?x=3Da62b&lc=3Dw34W2&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">No=
+zbe 2.0 beta</a></p>
+<p><a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&"><img border=3D"0" src=3D"http://files.nozb=
+e.com/images/nozbe-sponsorship.png" alt=3D"" /></a></p>
+<p><strong>Nozbe rewritten from scratch</strong></p>
+<p>After 7+ years of running Nozbe we decided to use everything we've learn=
+ed so far about productivity and build new, mobile-friendly, super-fast, be=
+autifully-designed apps that take advantage of both the desktop and mobile =
+platforms.</p>
+<p><a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">Go to our Nozbe 2.0 beta site</a> and watc=
+h me walk you through our new apps.</p>
+<p>Here are some questions you might have about the Nozbe beta program and =
+my best answers for you:</p>
+<p><strong><i>What's new in Nozbe 2.0?</i></strong></p>
+<ul>
+<li>brand new fresh, light and responsive design</li>
+<li>much better app performance: speed, speed, speed</li>
+<li>edit mode - you can edit/complete/delete multiple tasks at once - one o=
+f our most requested features!</li>
+<li>5th column (Info bar) - one place when you can see all details and opti=
+ons regarding active task list</li>
+<li>filters and sorting - now you can filter your tasks list with many filt=
+ers at once and sort the tasks as you like</li>
+<li>...and a lot more!</li>
+</ul>
+<p><strong><i>Where can I get Nozbe 2.0 beta for my device?</i></strong></p>
+<ul>
+<li><strong>Web app + Mac, Windows and Linux</strong> apps are available to=
+day - <a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&=
+mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">get them from our Nozbe "beta site"</a><=
+/li>
+<li><strong>iPhone, iPad and Android</strong> - we'll be rolling out our mo=
+bile beta apps in late July, <a href=3D"http://app.getresponse.com/click.ht=
+ml?x=3Da62b&lc=3Dw34W2&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">sign up for mobil=
+e beta on our Nozbe "beta site"</a></li>
+</ul>
+<p><strong><i>When will next "beta" versions be available?</i></strong></p>
+<p>We'll be rolling out a new beta version of Nozbe every 2 weeks throughou=
+t the whole Summer. <a href=3D"http://app.getresponse.com/click.html?x=3Da6=
+2b&lc=3Dw342R&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3DT&">Follow us on Twitter</a> o=
+r <a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34Zg&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3D0&">subscribe to our blog</a>.</p>
+<p><strong><i>When will the final Nozbe 2.0 be launched?</i></strong></p>
+<p>In September. We can't wait to roll it out to everyone. Up until then, N=
+ozbe 1.9.x is the latest stable version of Nozbe.</p>
+<p><strong><i>Is the Nozbe beta stable and bug-free?</i></strong></p>
+<p>Nope. Not at all. Many things don't even work there correctly just yet. =
+It's a beta product. It's mature enough so that we can test it with our bra=
+vest users, but it shouldn't be used in mission-critical environment. Use i=
+t at your own risk! :-)</p>
+<p><a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">Read the updated list of known issues on o=
+ur "beta site"</a></p>
+<p><strong><i>What if I don't want to test Nozbe beta but still want to get=
+ something cool today?</i></strong></p>
+<p>Easy. Get the latest issue of the free Productive! Magazine with Pat Fly=
+nn for your <a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3D=
+w34Xh&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Do&">iPhone, iPad or Android or read it=
+ on the web</a></p>
+<p><a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34Xh&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3Do&"><img border=3D"0" src=3D"http://files.nozb=
+e.com/images/pm21.jpg" alt=3D"" /></a></p>
+<p>This issue features: Pat Flynn =E2=80=94 a beloved thought leader in the=
+ areas of online entrepreneurship and passive income</p>
+<p>plus</p>
+<p>nine practical articles helping you get closer to a systematic and produ=
+ctive workflow and satisfying life.</p>
+<p><strong><i>What are my "next actions" for today?</i></strong></p>
+<p>Just these two things:</p>
+<ul>
+<li><a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34W2&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">get Nozbe 2.0 beta (and watch me walk you =
+through it)</a></li>
+<li><a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34Xh&mc=
+=3Dho&s=3DB7FjP9&u=3DhcT&y=3Do&">get the latest Productive! Magazine</a></l=
+i>
+</ul>
+<p>That's it, both of these things will make you a lot more productive this=
+ summer :-)</p>
+<p>Thank you!</p>
+<p>Yours productively,</p>
+<a href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3Dw34oL&mc=3Dh=
+o&s=3DB7FjP9&u=3DhcT&y=3Da&"><img src=3D"http://www.nozbe.com/images/michae=
+l-sig.png" width=3D"165" height=3D"81" alt=3D"Michael" border=3D"0" /></a>
+<p style=3D"margin-bottom: 0;">- Michael Sliwinski</p>
+<p style=3D"margin-top: 0; color: #999;">CEO and founder of Nozbe</p>
+<p>P.S. Remember, <a href=3D"http://app.getresponse.com/click.html?x=3Da62b=
+&lc=3Dw34W2&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dq&">Nozbe 2.0 beta</a> is not a =
+finished product. We are inviting you to check it out, but we can't guarant=
+ee anything there. It's a work in progress. We just couldn't wait any longe=
+r and keep it to ourselves. We wanted to show it to you today. Enjoy.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table cellspacing=3D"0" border=3D"0" align=3D"center" cellpadding=3D"0" st=
+yle=3D"width: 600px; height: 150px;">
+<tbody>
+<tr>
+<td style=3D"width: 600px; font-family: Verdana; color: #999; font-size: 14=
+px; text-align: center;">Copyright (c) 2007-2014, <a style=3D"color: #94ca3=
+4; text-decoration: none;" href=3D"http://app.getresponse.com/click.html?x=
+=3Da62b&lc=3Dw34vY&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dw&">Nozbe.com</a><br /> C=
+EO is <a style=3D"color: #94ca34; text-decoration: none;" href=3D"http://ap=
+p.getresponse.com/click.html?x=3Da62b&lc=3Dw34oL&mc=3Dho&s=3DB7FjP9&u=3DhcT=
+&y=3Da&">Michael Sliwinski</a><br /> Questions? <a style=3D"color: #94ca34;=
+ text-decoration: none;" href=3D"http://app.getresponse.com/click.html?x=3D=
+a62b&lc=3Dw34mc&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dt&">Contact us!</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" border=3D"0" class=3D"wrapper"><tr><td valign=3D"top" align=3D"cent=
+er" class=3D"column" width=3D"auto" style=3D"float: left; min-width: 320px;=
+ max-width: 100% !important; margin: 0px; padding: 0px;"><table border=3D"0=
+" align=3D"left" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"left"=
+ valign=3D"middle" style=3D"margin: 0; padding: 0 0 10px 0;"><span style=3D=
+"font-family: Arial, Helvetica, sans-serif;color: #939598;font-size: 10px;"=
+><br /><br />Nozbe (by apivision.com),<br />ul. Rozewska 18,<br />81-055 Gd=
+ynia, Poland, Europe<br /><br /></span></td></tr><tr><td align=3D"left" val=
+ign=3D"middle" style=3D"margin: 0; padding: 0;"><span style=3D"font-family:=
+ Arial, Helvetica, sans-serif; color: #939598; font-size: 10px;">You may <a=
+ href=3D"http://app.getresponse.com/me.html?x=3Da62b&m=3DzOYRV&s=3DB7FjP9&u=
+=3DhcT&y=3Dt&" style=3D"color: #0985f5; text-decoration: underline;">unsubs=
+cribe</a> or <a href=3D"http://app.getresponse.com/me.html?x=3Da62b&m=3DzOY=
+RV&s=3DB7FjP9&u=3DhcT&y=3Dt&" style=3D"color:#0985f5; text-decoration: unde=
+rline;">change your contact details</a> at any time.</span></td></tr></tabl=
+e></td><td valign=3D"top" align=3D"center" class=3D"column" width=3D"150" s=
+tyle=3D"float: left; min-width: 100%; max-width: 100% !important; margin: 0=
+px; padding: 15px 0px;"><table border=3D"0" align=3D"right" cellpadding=3D"=
+0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"top" style=3D"margi=
+n: 0; padding: 15px 0;"><a href=3D"http://app.getresponse.com/referral.html=
+?x=3Da62b&u=3DhcT&y=3DT&"><br /><span style=3D"color: #939598;">Powered by:=
+</span><a href=3D"http://app.getresponse.com/referral.html?x=3Da62b&u=3DhcT=
+&y=3DT&"><img src=3D"http://www.getresponse.com/images/core/global/_externa=
+l/emails/system/badges/gr_logo.gif" alt=3D"GetResponse" border=3D"0" style=
+=3D"display:block;" width=3D"101" height=3D"33"/></a></a></td></tr></table>=
+</td></tr></table><img src=3D"http://app.getresponse.com/open.html?x=3Da62b=
+&m=3DzOYRV&mc=3Dho&s=3DB7FjP9&u=3DhcT&y=3Dk&" width=3D"0" height=3D"0" bord=
+er=3D"0" alt=3D"open" />=
+
+--_----------=_1404407927603104886--
+

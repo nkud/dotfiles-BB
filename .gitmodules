@@ -7,138 +7,99 @@
   url = https://github.com/shougo/vimproc
 
 ## Emacs
-[submodule ".emacs.d/public_repos/yasnippet"]
-  path = .emacs.d/public_repos/yasnippet
-  url = https://github.com/capitaomorte/yasnippet
-[submodule ".emacs.d/public_repos/anything-git-files-el"]
-  path = .emacs.d/public_repos/anything-git-files-el
-  url = https://github.com/tarao/anything-git-files-el
-[submodule ".emacs.d/public_repos/company-mode"]
-  path = .emacs.d/public_repos/company-mode
-  url = https://github.com/company-mode/company-mode
-[submodule ".emacs.d/public_repos/emacs-calfw"]
-  path = .emacs.d/public_repos/emacs-calfw
-  url = https://github.com/kiwanami/emacs-calfw
-[submodule "helm-c-yasnippet"]
-  path = .emacs.d/public_repos/emacs-helm/helm-c-yasnippet
-  url = https://github.com/emacs-helm/helm-c-yasnippet
-[submodule "helm-ls-git"]
-  path = .emacs.d/public_repos/emacs-helm/helm-ls-git
-  url = https://github.com/emacs-helm/helm-ls-git
-[submodule "ruby-block"]
-  path = .emacs.d/public_repos/ruby/ruby-block
-  url = https://github.com/adolfosousa/ruby-block.el
-[submodule "ruby-electric"]
-  path = .emacs.d/public_repos/ruby/ruby-electric
-  url = https://github.com/qoobaa/ruby-electric
-[submodule ".emacs.d/theme/public/solarized"]
-  path = .emacs.d/theme/public/solarized
-  url = https://github.com/sellout/emacs-color-theme-solarized
-[submodule ".emacs.d/theme/public/replace-colorthemes"]
-  path = .emacs.d/theme/public/replace-colorthemes
-  url = https://github.com/emacs-jp/replace-colorthemes
-[submodule ".emacs.d/public_repos/emacs-helm-gtags"]
-  path = .emacs.d/public_repos/emacs-helm-gtags
-  url = https://github.com/syohex/emacs-helm-gtags
-[submodule ".emacs.d/public_repos/emacs-helm/helm-descbinds"]
-  path = .emacs.d/public_repos/emacs-helm/helm-descbinds
-  url = https://github.com/emacs-helm/helm-descbinds
-[submodule ".emacs.d/public_repos/emacs-helm/helm"]
-  path = .emacs.d/public_repos/emacs-helm/helm
-  url = https://github.com/emacs-helm/helm
-[submodule ".emacs.d/public_repos/cl-lib"]
-  path = .emacs.d/public_repos/cl-lib
-  url = https://github.com/emacsmirror/cl-lib
-[submodule ".emacs.d/theme/public/zenburn-emacs"]
-	path = .emacs.d/theme/public/zenburn-emacs
-	url = https://github.com/bbatsov/zenburn-emacs
-[submodule ".emacs.d/public_repos/web-mode"]
-	path = .emacs.d/public_repos/web-mode
-	url = https://github.com/fxbois/web-mode
-[submodule ".emacs.d/public_repos/powerline"]
-	path = .emacs.d/public_repos/powerline
-	url = https://github.com/milkypostman/powerline
-[submodule ".emacs.d/public_repos/zencoding"]
-	path = .emacs.d/public_repos/zencoding
-	url = https://github.com/rooney/zencoding
-[submodule ".emacs.d/public_repos/theme/solarized-emacs"]
-	path = .emacs.d/public_repos/theme/solarized-emacs
-	url = https://github.com/bbatsov/solarized-emacs
-[submodule ".emacs.d/public_repos/dash.el"]
-	path = .emacs.d/public_repos/dash.el
-	url = https://github.com/magnars/dash.el
-[submodule ".emacs.d/public_repos/emacs-helm/helm-dash"]
-	path = .emacs.d/public_repos/emacs-helm/helm-dash
-	url = https://github.com/areina/helm-dash
-[submodule ".emacs.d/public_repos/yagist.el"]
-	path = .emacs.d/public_repos/yagist.el
-	url = https://github.com/mhayashi1120/yagist.el
-[submodule ".emacs.d/public_repos/scss-mode"]
-	path = .emacs.d/public_repos/scss-mode
-	url = https://github.com/antonj/scss-mode
-[submodule ".emacs.d/public_repos/elscreen"]
-	path = .emacs.d/public_repos/elscreen
-	url = https://github.com/knu/elscreen
-[submodule ".emacs.d/public_repos/theme/monokai-emacs"]
-	path = .emacs.d/public_repos/theme/monokai-emacs
-	url = https://github.com/oneKelvinSmith/monokai-emacs
-[submodule ".shelf/public/Dropbox-Uploader"]
-	path = .shelf/public/Dropbox-Uploader
-	url = https://github.com/andreafabrizi/Dropbox-Uploader
-[submodule ".emacs.d/public_repos/init-loader"]
-	path = .emacs.d/public_repos/init-loader
-	url = https://github.com/emacs-jp/init-loader
-[submodule ".emacs.d/public_repos/Emacs-wgrep"]
-	path = .emacs.d/public_repos/Emacs-wgrep
-	url = https://github.com/mhayashi1120/Emacs-wgrep
-[submodule ".emacs.d/public_repos/emacs-smartchr"]
-	path = .emacs.d/public_repos/emacs-smartchr
-	url = https://github.com/imakado/emacs-smartchr
-[submodule ".emacs.d/public_repos/smooth-scroll.el"]
-	path = .emacs.d/public_repos/smooth-scroll.el
-	url = https://github.com/k-talo/smooth-scroll.el
-[submodule ".emacs.d/public_repos/yascroll-el"]
-	path = .emacs.d/public_repos/yascroll-el
-	url = https://github.com/m2ym/yascroll-el
-[submodule ".emacs.d/public_repos/multiple-cursors.el"]
-	path = .emacs.d/public_repos/multiple-cursors.el
-	url = https://github.com/magnars/multiple-cursors.el
-[submodule ".emacs.d/public_repos/expand-region.el"]
-	path = .emacs.d/public_repos/expand-region.el
-	url = https://github.com/magnars/expand-region.el
-[submodule ".emacs.d/public_repos/newsticker-notify"]
-	path = .emacs.d/public_repos/newsticker-notify
-	url = https://github.com/emacsmirror/newsticker-notify
-[submodule ".emacs.d/public_repos/org-mode"]
-	path = .emacs.d/public_repos/org-mode
-	url = git://orgmode.org/org-mode.git
-[submodule ".emacs.d/public_repos/navi2ch"]
-	path = .emacs.d/public_repos/navi2ch
-	url = git://navi2ch.git.sourceforge.net/gitroot/navi2ch/navi2ch
-[submodule ".emacs.d/el-get/apel"]
-	path = .emacs.d/el-get/apel
-	url = https://git.chise.org/git/elisp/apel.git
-[submodule ".emacs.d/el-get/el-get"]
-	path = .emacs.d/el-get/el-get
-	url = https://github.com/dimitri/el-get.git
-[submodule ".emacs.d/el-get/flim"]
-	path = .emacs.d/el-get/flim
-	url = https://git.chise.org/git/elisp/flim.git
-[submodule ".emacs.d/el-get/git-modes"]
-	path = .emacs.d/el-get/git-modes
-	url = https://github.com/magit/git-modes.git
-[submodule ".emacs.d/el-get/magit"]
-	path = .emacs.d/el-get/magit
-	url = https://github.com/magit/magit.git
-[submodule ".emacs.d/el-get/semi"]
-	path = .emacs.d/el-get/semi
-	url = https://git.chise.org/git/elisp/semi.git
-[submodule ".emacs.d/el-get/smex"]
-	path = .emacs.d/el-get/smex
-	url = https://github.com/nonsequitur/smex
-[submodule ".emacs.d/el-get/wanderlust"]
-	path = .emacs.d/el-get/wanderlust
-	url = https://github.com/wanderlust/wanderlust.git
-[submodule ".emacs.d/public_repos/evernote-mode"]
-	path = .emacs.d/public_repos/evernote-mode
-	url = https://github.com/pymander/evernote-mode
+ [submodule ".emacs.d/public_repos/anything-git-files-el"]
+   path = .emacs.d/public_repos/anything-git-files-el
+   url = https://github.com/tarao/anything-git-files-el
+ [submodule ".emacs.d/public_repos/company-mode"]
+   path = .emacs.d/public_repos/company-mode
+   url = https://github.com/company-mode/company-mode
+ [submodule ".emacs.d/public_repos/emacs-calfw"]
+   path = .emacs.d/public_repos/emacs-calfw
+   url = https://github.com/kiwanami/emacs-calfw
+ [submodule "ruby-block"]
+   path = .emacs.d/public_repos/ruby/ruby-block
+   url = https://github.com/adolfosousa/ruby-block.el
+ [submodule "ruby-electric"]
+   path = .emacs.d/public_repos/ruby/ruby-electric
+   url = https://github.com/qoobaa/ruby-electric
+ [submodule ".emacs.d/theme/public/solarized"]
+   path = .emacs.d/theme/public/solarized
+   url = https://github.com/sellout/emacs-color-theme-solarized
+ [submodule ".emacs.d/theme/public/replace-colorthemes"]
+   path = .emacs.d/theme/public/replace-colorthemes
+   url = https://github.com/emacs-jp/replace-colorthemes
+ [submodule ".emacs.d/public_repos/cl-lib"]
+   path = .emacs.d/public_repos/cl-lib
+   url = https://github.com/emacsmirror/cl-lib
+ [submodule ".emacs.d/theme/public/zenburn-emacs"]
+ 	path = .emacs.d/theme/public/zenburn-emacs
+ 	url = https://github.com/bbatsov/zenburn-emacs
+ [submodule ".emacs.d/public_repos/powerline"]
+ 	path = .emacs.d/public_repos/powerline
+ 	url = https://github.com/milkypostman/powerline
+ [submodule ".emacs.d/public_repos/zencoding"]
+ 	path = .emacs.d/public_repos/zencoding
+ 	url = https://github.com/rooney/zencoding
+ [submodule ".emacs.d/public_repos/theme/solarized-emacs"]
+ 	path = .emacs.d/public_repos/theme/solarized-emacs
+ 	url = https://github.com/bbatsov/solarized-emacs
+ [submodule ".emacs.d/public_repos/dash.el"]
+ 	path = .emacs.d/public_repos/dash.el
+ 	url = https://github.com/magnars/dash.el
+ [submodule ".emacs.d/public_repos/yagist.el"]
+ 	path = .emacs.d/public_repos/yagist.el
+ 	url = https://github.com/mhayashi1120/yagist.el
+ [submodule ".emacs.d/public_repos/scss-mode"]
+ 	path = .emacs.d/public_repos/scss-mode
+ 	url = https://github.com/antonj/scss-mode
+ [submodule ".emacs.d/public_repos/theme/monokai-emacs"]
+ 	path = .emacs.d/public_repos/theme/monokai-emacs
+ 	url = https://github.com/oneKelvinSmith/monokai-emacs
+ [submodule ".shelf/public/Dropbox-Uploader"]
+ 	path = .shelf/public/Dropbox-Uploader
+ 	url = https://github.com/andreafabrizi/Dropbox-Uploader
+ [submodule ".emacs.d/public_repos/Emacs-wgrep"]
+ 	path = .emacs.d/public_repos/Emacs-wgrep
+ 	url = https://github.com/mhayashi1120/Emacs-wgrep
+ [submodule ".emacs.d/public_repos/emacs-smartchr"]
+ 	path = .emacs.d/public_repos/emacs-smartchr
+ 	url = https://github.com/imakado/emacs-smartchr
+ [submodule ".emacs.d/public_repos/smooth-scroll.el"]
+ 	path = .emacs.d/public_repos/smooth-scroll.el
+ 	url = https://github.com/k-talo/smooth-scroll.el
+ [submodule ".emacs.d/public_repos/yascroll-el"]
+ 	path = .emacs.d/public_repos/yascroll-el
+ 	url = https://github.com/m2ym/yascroll-el
+ [submodule ".emacs.d/public_repos/multiple-cursors.el"]
+ 	path = .emacs.d/public_repos/multiple-cursors.el
+ 	url = https://github.com/magnars/multiple-cursors.el
+ [submodule ".emacs.d/public_repos/expand-region.el"]
+ 	path = .emacs.d/public_repos/expand-region.el
+ 	url = https://github.com/magnars/expand-region.el
+ [submodule ".emacs.d/public_repos/newsticker-notify"]
+ 	path = .emacs.d/public_repos/newsticker-notify
+ 	url = https://github.com/emacsmirror/newsticker-notify
+ [submodule ".emacs.d/public_repos/navi2ch"]
+ 	path = .emacs.d/public_repos/navi2ch
+ 	url = git://navi2ch.git.sourceforge.net/gitroot/navi2ch/navi2ch
+ [submodule ".emacs.d/el-get/apel"]
+ 	path = .emacs.d/el-get/apel
+ 	url = https://git.chise.org/git/elisp/apel.git
+ [submodule ".emacs.d/el-get/el-get"]
+ 	path = .emacs.d/el-get/el-get
+ 	url = https://github.com/dimitri/el-get.git
+ [submodule ".emacs.d/el-get/flim"]
+ 	path = .emacs.d/el-get/flim
+ 	url = https://git.chise.org/git/elisp/flim.git
+ [submodule ".emacs.d/el-get/git-modes"]
+ 	path = .emacs.d/el-get/git-modes
+ 	url = https://github.com/magit/git-modes.git
+ [submodule ".emacs.d/el-get/semi"]
+ 	path = .emacs.d/el-get/semi
+ 	url = https://git.chise.org/git/elisp/semi.git
+ [submodule ".emacs.d/el-get/wanderlust"]
+ 	path = .emacs.d/el-get/wanderlust
+ 	url = https://github.com/wanderlust/wanderlust.git
+ [submodule ".emacs.d/public_repos/search-web.el"]
+ 	path = .emacs.d/public_repos/search-web.el
+ 	url = https://github.com/tomoya/search-web.el.git
