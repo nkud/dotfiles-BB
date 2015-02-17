@@ -50,6 +50,7 @@ alias scl="screen -ls"
 alias www="w3m google.com"
     # make
 alias mm="make -f *.mk"
+alias mk="make"
     # gdb
 alias de="gdb"
   # newsbeuter

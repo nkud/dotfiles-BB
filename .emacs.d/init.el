@@ -73,7 +73,10 @@
     (setenv "PATH" (concat dir ":" (getenv "PATH")))
     (setq exec-path (append (list dir) exec-path))))
 
-;; Package
+;;; 
+;;; Package system
+;;;
+
 ;; ELPA settings
 (require 'eieio)
 (eval-when-compile (require 'cl))
@@ -96,19 +99,25 @@
     '(
       ;; init
       init-loader
+      
       ;; python
       jedi
+      
       ;; helm
       helm
       helm-ag
       helm-descbinds
       helm-ls-git
       helm-c-yasnippet
+      
       ;; coding
       web-mode
       google-c-style
       quickrun
       markdown-mode
+      ruby-block
+      smart-compile
+      
       ;; other
       yasnippet
       open-junk-file
@@ -169,11 +178,15 @@
         (:name ruby-electric
                :type github
                :pkgname "qoobaa/ruby-electric")
+        (:name company-mode
+               :type github
+               :pkgname "company-mode/company-mode")
         ))
 (defvar nu/el-get-packages
   '("emacs-smartchr"
     "newsticker-notify"
     "ruby-electric"
+    "company-mode"
     "emacs-calfw")
   "A list of packages to install from el-get at launch.")
 (el-get 'sync nu/el-get-packages)
