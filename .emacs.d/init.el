@@ -31,6 +31,7 @@
 ;; (add-to-load-path "elisp" "conf" "elpa" "public_repo" "theme" "__secret")
 (add-to-load-path "elpa"
                   "theme"
+                  "el-get/el-get"
                   "__secret")
 
 ;; ;;; public_repo以下のフォルダをload-pathに追加する。
@@ -131,6 +132,7 @@
   )
 
 ;; el-get
+(require 'el-get nil 'noerror)
 (unless (require 'el-get nil t)
   (url-retrieve
    "https://raw.githubusercontent.com/dimitri/el-get/master/el-get-install.el"
@@ -152,17 +154,29 @@
 ;; (el-get-bundle elpa:undo-tree)
 ;; (el-get-bundle imakado/emacs-smartchr)
 
-;; ;;; define el-get repository
-;; (setq el-get-sources
-;;       '(
-;;         (:name emacs-smartchr
-;;                :type github
-;;                :pkgname "imakado/emacs-smartchr")
-;;         ))
-;; (defvar nu/el-get-packages
-;;   '(emacs-smartchr)
-;;   "A list of packages to install from el-get at launch.")
-;; (el-get 'sync nu/el-get-packages)
+;;; define el-get repository
+(setq el-get-sources
+      '(
+        (:name emacs-smartchr
+               :type github
+               :pkgname "imakado/emacs-smartchr")
+        (:name emacs-calfw
+               :type github
+               :pkgname "kiwanami/emacs-calfw")
+        (:name newsticker-notify
+               :type github
+               :pkgname "emacsmirror/newsticker-notify")
+        (:name ruby-electric
+               :type github
+               :pkgname "qoobaa/ruby-electric")
+        ))
+(defvar nu/el-get-packages
+  '("emacs-smartchr"
+    "newsticker-notify"
+    "ruby-electric"
+    "emacs-calfw")
+  "A list of packages to install from el-get at launch.")
+(el-get 'sync nu/el-get-packages)
 
 ;;; init-loader
 (require 'init-loader)
