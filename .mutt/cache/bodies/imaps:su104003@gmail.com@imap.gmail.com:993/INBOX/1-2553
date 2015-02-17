@@ -1,0 +1,18 @@
+Return-Path: <su104003@gmail.com>
+Received: from gmail.com ([163.226.41.88])
+        by mx.google.com with ESMTPSA id fo2sm15431431pbb.53.2014.07.15.20.33.49
+        for <su104003@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Jul 2014 20:33:50 -0700 (PDT)
+From: Naoki Ueda <su104003@gmail.com>
+X-Google-Original-From: Naoki Ueda <su104003gmail.com>
+Date: Wed, 16 Jul 2014 12:33:40 +0900
+To: su104003@gmail.com
+Subject: Hello, world and mutt!
+Message-ID: <20140716033334.GA2294@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.23 (2014-03-12)
+
+This is first message from mutt.

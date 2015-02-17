@@ -4,8 +4,7 @@ highlight ColorColumn ctermbg=255
 " COLOR THEME
 syntax enable
 "let g:solarized_termcolors=256
-set background=dark
-colorscheme landscape
+colorscheme desert
 
 " for Mac
 if has('gui_macvim')
@@ -13,3 +12,9 @@ if has('gui_macvim')
     set guifont=monospace:h15
     colorscheme solarized
 endif
+
+set background=light
+
+" for us keyboard
+"nmap ; :
+"nmap : ;

@@ -1,0 +1,1658 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp543403qdc;
+        Tue, 19 Aug 2014 06:52:07 -0700 (PDT)
+X-Received: by 10.236.208.2 with SMTP id p2mr833155yho.173.1408456327180;
+        Tue, 19 Aug 2014 06:52:07 -0700 (PDT)
+Return-Path: <v-cmjjncp_bcjkjnjcho_bnpcfcib_bnpcfcib_a@bounce.ealert.nature.com>
+Received: from mail1690.ealert.nature.com (mail1690.ealert.nature.com. [208.85.55.173])
+        by mx.google.com with ESMTP id r67si23273172yhi.25.2014.08.19.06.52.06
+        for <su104003@gmail.com>;
+        Tue, 19 Aug 2014 06:52:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of v-cmjjncp_bcjkjnjcho_bnpcfcib_bnpcfcib_a@bounce.ealert.nature.com designates 208.85.55.173 as permitted sender) client-ip=208.85.55.173;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of v-cmjjncp_bcjkjnjcho_bnpcfcib_bnpcfcib_a@bounce.ealert.nature.com designates 208.85.55.173 as permitted sender) smtp.mail=v-cmjjncp_bcjkjnjcho_bnpcfcib_bnpcfcib_a@bounce.ealert.nature.com;
+       dkim=pass header.i=@ealert.nature.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=ealert.nature.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=Nature_News@ealert.nature.com;
+ bh=z/5jjYh4dDrdF4O0FeF1uOpjuZw=;
+ b=WSJXLI5bGFyNKdguufmBf+0meanDuCsYa/8Q0/5cMSQkn27zyHpL2yMzIaEK927vSPFDxgIbtR2B
+   pBtZVAZUUnmWzLfw/Rma/AW97wiWNirsoOMiLw9BcKvH/NM8SIkFB82Try3w7TGs+yaIky40oMax
+   Ki/wczFTw2HoEiZF+l8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=ealert.nature.com;
+ b=SmDhAezfu1tfe8lQliky8J020FwjIPTTK9qKcMT+hepBUs21OvHgWj1r31r7rNa+DfoyMiMe9Uyf
+   Ex+q9ps92BrQDxNWt2WyWiNqPCudzdV0GJHptfTc1mFD6l7WJa8iHX2ZjNhZ3ahl8xccG4LdJKT2
+   GyGrkndNDQ+HMk7TfII=;
+Received: by mail1690.ealert.nature.com id hudb8e19if4u for <su104003@gmail.com>; Tue, 19 Aug 2014 13:38:47 +0000 (envelope-from <v-cmjjncp_bcjkjnjcho_bnpcfcib_bnpcfcib_a@bounce.ealert.nature.com>)
+Date: Tue, 19 Aug 2014 13:38:47 +0000 (GMT)
+From: Nature News Alert <Nature_News@ealert.nature.com>
+Reply-To: Nature_News@ealert.nature.com
+To: su104003@gmail.com
+Message-ID: <1950701368.534158061408455527314.JavaMail.app@rbg43.atlis1>
+Subject: Nature News highlights: 19 August 2014
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_232185_768893015.1408455512024"
+x-mid: 46767407
+x-job: 46767407
+x-rpcampaign: sp46767407
+x-orgId: 5326
+List-Unsubscribe: <mailto:v-cmjjncp_bcjkjnjcho_bnpcfcib_bnpcfcib_a@bounce.ealert.nature.com?subject=Unsubscribe>
+
+------=_Part_232185_768893015.1408455512024
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+To view this mail in a browser, copy http://links.ealert.nature.com/servlet=
+/MailView?ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&j=3DNTAyNDIwMDk3S0&mt=3D=
+1&rt=3D0 into your browser.
+
+         =09=09=09
+        =09
+nature news alert  19 August 2014
+
+Read Nature's news online
+ http://links.ealert.nature.com/ctt?kn=3D30&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+Your weekly update from Nature's global news team.
+
+Subscribe to Nature=20
+ http://links.ealert.nature.com/ctt?kn=3D36&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+
+---Featured
+=20
+-Special report: CHEMISTS' CHOICE 2014
+As the world=E2=80=99s chemists gathered for the American Chemical Society=
+=E2=80=99s
+autumn meeting, we looked at the most exciting news and research of
+2014. A feature explores chemists=E2=80=99 attempts to build a =E2=80=98dre=
+am machine=E2=80=99
+to synthesize any compound. And a paper reports a long-sought method
+for making just one kind of nanotube. Other highlights include
+high-tech probing of water's structure and attempts to mimic
+photosynthesis in the lab. If these whet your appetite, there is also
+a PDF collection of more chemical highlights available for just $3.99.
+ http://links.ealert.nature.com/ctt?kn=3D45&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+
+
+---Latest news
+=09=09=09  =09=09=09
+-MAN-MADE QUAKES SHAKE THE GROUND LESS THAN NATURAL ONES
+18 August 2014
+Seismic danger from oil and gas operations may be overestimated.
+ http://links.ealert.nature.com/ctt?kn=3D34&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-CONGO POLIO STRAIN CAN RESIST VACCINE
+18 August 2014
+Variant was responsible for a deadly outbreak but is stopped by fresh,
+oral immunization.
+ http://links.ealert.nature.com/ctt?kn=3D38&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-HIGH-RISK BRAIN RESEARCH WINS NSF BACKING
+18 August 2014
+Agency awards $10.8 million in grants to support US government
+initiative.
+ http://links.ealert.nature.com/ctt?kn=3D5&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0M=
+jkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+
+---More Stories
+=09=09=09  =09=09=09=09=09  =09=09=09=09=09  =09=09=09=09=09  =09=09=09
+-DEVELOPING BRAINS SWITCH MATHS STRATEGIES
+17 August 2014
+Counting on fingers gives way to memorized sums as neurons change
+connections.
+ http://links.ealert.nature.com/ctt?kn=3D46&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-NIH CHIEF KEEPS HOPES AFLOAT
+15 August 2014
+Director Francis Collins discusses the changing landscape of
+biomedical research.
+ http://links.ealert.nature.com/ctt?kn=3D1&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0M=
+jkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-US DRONE RESEARCH HITS REGULATORY TURBULENCE
+15 August 2014
+Federal rules ground scientists using remotely piloted aircraft at
+private universities.
+ http://links.ealert.nature.com/ctt?kn=3D37&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-RESEARCHERS CREATE 1,000-ROBOT SWARM
+14 August 2014
+Tiny troupe could shed light on collective behaviour in animals and
+humans.
+ http://links.ealert.nature.com/ctt?kn=3D3&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0M=
+jkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-FIRST DUST GRAINS FROM OUTSIDE THE SOLAR SYSTEM
+14 August 2014
+Citizen-science project identifies particles caught by NASA craft as
+having likely interstellar origin.
+ http://links.ealert.nature.com/ctt?kn=3D47&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-MUMMIFYING-BALM RECIPE IS OLDER THAN THE PHARAOHS
+13 August 2014
+Egyptians used the same general formula to soak burial linens as early
+as 4200 bc.
+ http://links.ealert.nature.com/ctt?kn=3D19&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-ONLY TEN MIDGES NEEDED TO MAKE A SWARM
+13 August 2014
+High-speed cameras reveal when insects become self-organizing.
+ http://links.ealert.nature.com/ctt?kn=3D31&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-NEAR-EARTH ASTEROID HELD TOGETHER BY WEAK FORCE
+13 August 2014
+Discovery suggests better ways to deflect an incoming space rock.
+ http://links.ealert.nature.com/ctt?kn=3D48&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-STEM-CELL PIONEER BLAMED MEDIA 'BASHING' IN SUICIDE NOTE
+13 August 2014
+Lawyer for Yoshiki Sasai's family reveals motive of Japanese
+researcher's act following STAP controversy.
+ http://links.ealert.nature.com/ctt?kn=3D42&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-ONLINE COLLABORATION: SCIENTISTS AND THE SOCIAL NETWORK
+13 August 2014
+Giant academic social networks have taken off to a degree that no one
+expected even a few years ago. A Nature survey explores why.
+ http://links.ealert.nature.com/ctt?kn=3D15&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-CHINA SHOULD AIM FOR A TOTAL CAP ON EMISSIONS
+13 August 2014
+A focus on carbon intensity alone will allow emissions to grow with
+the economy, argues Qiang Wang.
+ http://links.ealert.nature.com/ctt?kn=3D33&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09  =09=09=09
+-HEALTH CHECK FOR DEEP-SEA MINING
+13 August 2014
+European project evaluates risks to delicate ecosystems.
+ http://links.ealert.nature.com/ctt?kn=3D11&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=09=09=09=09=09
+---Newsblog
+
+--Read up to the minute coverage of research and science policy
+ http://links.ealert.nature.com/ctt?kn=3D13&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+
+=09=20
+Oceans need saving before science is nailed
+ http://links.ealert.nature.com/ctt?kn=3D49&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Indian universities ordered to cut length of science courses
+ http://links.ealert.nature.com/ctt?kn=3D20&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Student may be jailed for posting scientist=E2=80=99s thesis on web
+ http://links.ealert.nature.com/ctt?kn=3D21&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Geneticists say popular book misrepresents research on human
+evolution
+ http://links.ealert.nature.com/ctt?kn=3D27&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Ban all ivory sales for 10 years, says conservationist
+ http://links.ealert.nature.com/ctt?kn=3D26&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Science shut down at crippled UK Antarctic base
+ http://links.ealert.nature.com/ctt?kn=3D29&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Physics student arrested after axe attack
+ http://links.ealert.nature.com/ctt?kn=3D28&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Space agencies battle to keep Mars mission on track
+ http://links.ealert.nature.com/ctt?kn=3D24&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+Researcher=E2=80=99s death shocks Japan
+ http://links.ealert.nature.com/ctt?kn=3D22&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09=20
+US Department of Energy frees up access to research
+ http://links.ealert.nature.com/ctt?kn=3D25&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+=09
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D ADVERTISEMENT =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+New podcast with Eppendorf Award 2014 winner, Madeline Lancaster
+
+Nature is the partner for the Eppendorf Award for Young European Investigat=
+ors.
+This year the prize was awarded to Madeline Lancaster for her work showing =
+that complex=20
+neuronal tissues resembling early states of fetal human brain can be create=
+d in vitro from pluripotent stem cells.
+Listen to a podcast and read a Q&A with Madeline Lancaster to learn more ab=
+out her work.
+
+ http://links.ealert.nature.com/ctt?kn=3D12&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D ADVERTISEMENT =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Call for Papers=20
+Nature Plants: From Bench to Biosphere
+
+Nature Plants is now open for submissions and welcomes manuscripts from all=
+ areas of plant research.
+Submit your research online today!
+
+View the complete Guide to Authors:
+ http://links.ealert.nature.com/ctt?kn=3D39&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0=
+MjkyNDYS1&b=3D2&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0=20
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Your email address is in the Nature News Weekly Alert mailing list.
+
+You have been sent this Table of Contents Alert because you have=20
+opted in to receive it. You can change or discontinue your e-mail=20
+alerts at any time, by modifying your preferences on your nature.com=20
+account at: www.nature.com/nams/svc/myaccount?WT.ec_id=3DNEWS-20110804=20
+(You will need to log in to be recognised as a nature.com registrant).
+
+For further technical assistance, please contact subscriptions@nature.com
+
+For print subscription enquiries, please contact feedback@nature.com
+
+Nature Publishing Group | 75 Varick Street, 9th floor | New York |=20
+NY 10013-1917 | USA
+
+Nature Publishing Group's offices:
+Principal offices: London - New York - Tokyo
+Worldwide offices: Basingstoke - Boston - Buenos Aires - Delhi -=20
+Hong Kong - Madrid - Melbourne - Munich - Paris - San Francisco -=20
+Seoul - Washington DC
+
+Macmillan Publishers Limited is a company incorporated in England=20
+and Wales under company number 785998 and whose registered office is=20
+located at Brunel Road, Houndmills, Basingstoke, Hampshire RG21 6XS.
+
+(C) 2014 Nature Publishing Group, a division of Macmillan Publishers=20
+Limited. All Rights Reserved.
+   =20
+
+
+------=_Part_232185_768893015.1408455512024
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>     <meta http-equiv=3D"Content-type" content=3D"text/html; ch=
+arset=3Dutf-8">     <title>Nature.com</title> </head> <body bgcolor=3D"#FFF=
+FFF" style=3D"margin:0; padding:0;"><CENTER><FONT SIZE=3D"1" COLOR=3D"#0000=
+00" FACE=3D"ARIAL">If you are unable to see the message below, <A href=3D"h=
+ttp://links.ealert.nature.com/servlet/MailView?ms=3DNDY3Njc0MDcS1&r=3DNzk5M=
+DM0MjkyNDYS1&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0">click here to view</A>.</FON=
+T><font face=3D"ARIAL" color=3D"#808080" size=3D"2"><br></font></CENTER><p>=
+<style type=3D"text/css">
+    a:hover {
+        color: #8B181B !important;
+    }
+</style>  <!-- super containing table --></p><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF" width=3D"100%">     <tr><td><=
+center>     =09=09<!-- Outer containing table --> =09=09<table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF" width=3D"713" styl=
+e=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09    <!-- Heade=
+r --> =09=09  =09=09    <tr> =09=09        <td width=3D"35">&nbsp;</td>    =
+     =09=09        <td height=3D"9" bgcolor=3D"#8B181B" align=3D"right" sty=
+le=3D"color:#ffffff; font-size: 10px; font-weight: bold;">19 August 2014 &n=
+bsp;</td> =09=09        <td width=3D"35">&nbsp;</td>         =09=09    </tr=
+> =09=09    <tr> =09=09        <td width=3D"35">&nbsp;</td> =09=09        <=
+td align=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"643" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=
+=09                <tr> =09=09                    <td style=3D"font-size: 1=
+0px;"><h1 style=3D"color: #8B181B;font-size: 28px;font-weight: bold;font-fa=
+mily: Georgia, sans-serif;margin:0;margin-top:0.2em">nature news <span styl=
+e=3D"font-family: Arial, sans-serif;color: #757575; font-weight:normal;">al=
+ert</span></h1></td>  =09=09                    <td rowspan=3D"2" align=3D"=
+right" style=3D"font-size: 10px;"><table border=3D"0" cellspacing=3D"5" cel=
+lpadding=3D"0" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =
+=09=09                            <tr> =09=09                              =
+  <td align=3D"right" style=3D"font-size:10px;"><span style=3D"color: #8B18=
+1B; font-size:11px;">&bull;</span>  <a name=3D"www_nature_com_news__WT_ec_i=
+d_" href=3D"http://links.ealert.nature.com/ctt?kn=3D30&ms=3DNDY3Njc0MDcS1&r=
+=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color=
+: #8B181B; font-size:11px" >Read Nature's news online</a></td> =09=09      =
+                      </tr> =09=09                            <tr>  =09=09 =
+                               <td align=3D"right" style=3D"font-size:10px;=
+"><span style=3D"color: #8B181B; font-size:11px;">&bull;</span>  <a name=3D=
+"secure_nature_com_store_svc_ca" href=3D"http://links.ealert.nature.com/ctt=
+?kn=3D36&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&=
+mt=3D1&rt=3D0" style=3D"color: #8B181B; font-size:11px" >Subscribe to Natur=
+e</a></td> =09=09                            </tr>                         =
+                                                    =09=09                 =
+       </table></td> =09=09                </tr> =09=09                <tr>=
+  =09=09                    <td style=3D"font-size: 10px;"><h2 style=3D"fon=
+t-family: Georgia, sans-serif; font-size: 18px;font-weight: normal;color: #=
+8B181B;margin:0;margin-bottom: 0.5em;">Your weekly update from <em>Nature</=
+em>'s global news team.</h2></td> =09=09                </tr> =09=09       =
+     </table></td> =09=09        <td width=3D"35">&nbsp;</td>         =09=
+=09    </tr> =09=09    <tr> =09=09        <td width=3D"35">&nbsp;</td>     =
+    =09=09        <td height=3D"9" bgcolor=3D"#8B181B">&nbsp;</td> =09=09  =
+      <td width=3D"35">&nbsp;</td>         =09=09    </tr>     =09=09    <!=
+-- End Header --> =09=09    <tr> =09=09        <td colspan=3D"3" height=3D"=
+10" style=3D"font-size:1px;">&nbsp;</td>         =09=09    </tr>      =09=
+=09     =09=09    =09=09      =09=09    <tr> =09=09        <td colspan=3D"3=
+" height=3D"20" style=3D"font-size:1px;">&nbsp;</td>         =09=09    </tr=
+>  =09=09    <tr> =09=09        <td width=3D"35">&nbsp;</td> =09=09        =
+<td style=3D"color: #8B181B; font-size: 18px" align=3D"left">&bull; Feature=
+d</td> =09=09        <td width=3D"35">&nbsp;</td>                    =09=09=
+    </tr>  =09=09    <tr> =09=09        <td colspan=3D"3" height=3D"5" styl=
+e=3D"font-size: 1px;">&nbsp;</td>         =09=09    </tr> =09=09    <tr> =
+=09=09        <td width=3D"35">&nbsp;</td>     =09=09        <td style=3D"f=
+ont-size: 10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=
+=09                <tr> =09=09                   <td bgcolor=3D"#8B181B" co=
+lspan=3D"3" height=3D"9" style=3D"font-size:7px">&nbsp;</td>               =
+                  =09=09                </tr> =09=09 =09=09=09=09=09=09 =09=
+=09=09=09=09=09 =09=09                <tr> =09=09                    <td bg=
+color=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09                    <td ali=
+gn=3D"left"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=
+                            <tr> =09=09                                <td =
+colspan=3D"3" height=3D"10" style=3D"font-size:1px">&nbsp;</td> =09=09     =
+                      </tr> =09=09                           <tr> =09=09   =
+                             <td width=3D"10">&nbsp;</td>  =09=09          =
+                      <td style=3D"color: #00000; font-size: 15px;font-weig=
+ht: bold;margin-bottom:0; font-family: Arial, sans-serif;"><table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=09             =
+                           <tr> =09=09                                     =
+       <td><p style=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"=
+www_nature_com_news__WT_ec_id_" href=3D"http://links.ealert.nature.com/ctt?=
+kn=3D30&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&m=
+t=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;" >Special report: C=
+hemists' choice 2014</a> <span style=3D"color: #8B181B;font-family: Lucida =
+Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span></p>=
+</td> =09=09                                        </tr> =09=09           =
+                         </table></td> =09=09                              =
+  <td width=3D"10">&nbsp;</td> =09=09                            </tr>     =
+                        =09=09                            <tr> =09=09      =
+                          <td colspan=3D"3" height=3D"10" style=3D"font-siz=
+e:1px">&nbsp;</td> =09=09                           </tr> =09=09           =
+                <tr> =09=09                                <td width=3D"10"=
+>&nbsp;</td> =09=09                                <td style=3D"color: #1A1=
+A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; line-height: 1.2em"=
+>As the world's chemists gathered for the American Chemical Society's autum=
+n meeting, we looked at <a name=3D"www_nature_com_chem2014" href=3D"http://=
+links.ealert.nature.com/ctt?kn=3D23&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS=
+1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >the mos=
+t exciting news and research of 2014</a>. A feature explores <a name=3D"www=
+_nature_com_news_organic_sy" href=3D"http://links.ealert.nature.com/ctt?kn=
+=3D35&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=
+=3D1&rt=3D0" style=3D"color:#8B181B;" >chemists' attempts to build a 'dream=
+ machine' to synthesize any compound</a>. And a paper reports a long-sought=
+ <a name=3D"www_nature_com_doifinder_10_10" href=3D"http://links.ealert.nat=
+ure.com/ctt?kn=3D6&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyN=
+DIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >method for making just o=
+ne kind of nanotube</a>. Other highlights include <a name=3D"www_nature_com=
+_nature_journal_" href=3D"http://links.ealert.nature.com/ctt?kn=3D16&ms=3DN=
+DY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" =
+style=3D"color:#8B181B;" >high-tech probing of water's structure</a> and at=
+tempts to <a name=3D"www_nature_com_news_solar_ener" href=3D"http://links.e=
+alert.nature.com/ctt?kn=3D2&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&=
+j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >mimic photosynt=
+hesis in the lab</a>. If these whet your appetite, there is also a <a name=
+=3D"www_scientificamerican_com_pro" href=3D"http://links.ealert.nature.com/=
+ctt?kn=3D43&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3=
+S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >PDF collection of more chemical=
+ highlights</a> available for just $3.99.  =09=09=09=09=09=09=09=09=09=09=
+=09=09<a name=3D"www_nature_com_news_chemistry2" href=3D"http://links.ealer=
+t.nature.com/ctt?kn=3D45&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=
+=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; =
+font-weight:bold;" >Read More</a>  =09=09=09=09=09=09=09=09=09=09=09=09<spa=
+n style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, =
+sans-serif;font-size:12px;">&#9654;</span></p></td> =09=09                 =
+               <td width=3D"10">&nbsp;</td> =09=09                         =
+   </tr>                             =09=09                            <tr>=
+ =09=09                                <td colspan=3D"3" height=3D"10" styl=
+e=3D"font-size:1px">&nbsp;</td> =09=09                           </tr> =09=
+=09                        </table></td> =09=09                    <td bgco=
+lor=3D"#8B181B" width=3D"8">&nbsp;</td>                      =09=09        =
+        </tr> =09=09=09=09=09=09  =09=09                 <tr> =09=09       =
+             <td bgcolor=3D"#8B181B" colspan=3D"3" style=3D"font-size: 1px;=
+">&nbsp;</td> =09=09                </tr> =09=09                <tr> =09=09=
+                   <td bgcolor=3D"#8B181B" colspan=3D"3" height=3D"9" style=
+=3D"font-size:7px">&nbsp;</td>                                 =09=09      =
+          </tr>                             =09=09            </table></td>=
+ =09=09        <td width=3D"35">&nbsp;</td>         =09=09    </tr>  =09=09=
+      =09=09=09 =09=09    =09=09      =09=09    <tr> =09=09        <td cols=
+pan=3D"3" height=3D"20" style=3D"font-size: 1px;">&nbsp;</td>         =09=
+=09    </tr> =09=09    <tr> =09=09        <td width=3D"35">&nbsp;</td> =09=
+=09        <td style=3D"color: #8B181B; font-size: 18px" align=3D"left">&bu=
+ll; Latest News</td> =09=09        <td width=3D"35">&nbsp;</td>            =
+        =09=09    </tr> =09=09    <tr> =09=09        <td colspan=3D"3" heig=
+ht=3D"5" style=3D"font-size:1px">&nbsp;</td>         =09=09    </tr> =09=09=
+    <tr> =09=09        <td width=3D"35">&nbsp;</td>     =09=09        <td s=
+tyle=3D"font-size: 10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-ser=
+if;"> =09=09                <tr> =09=09                   <td bgcolor=3D"#8=
+B181B" colspan=3D"3" height=3D"9" style=3D"font-size:7px">&nbsp;</td> =09=
+=09                </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr> =09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D=
+"8">&nbsp;</td> =09=09=09=09=09=09                    <td align=3D"left"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=09=09=09=09   =
+                         <tr> =09=09=09=09=09=09                           =
+     <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=
+=09=09=09=09=09                           </tr> =09=09=09=09=09=09         =
+                  <tr> =09=09=09=09=09=09                                <t=
+d width=3D"10">&nbsp;</td> =09=09=09=09=09=09                              =
+  <td style=3D"color: #00000; font-size: 15px;font-weight: bold;margin-bott=
+om:0; font-family: Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=09                     =
+                   <tr> =09=09=09=09=09=09                                 =
+           <td><p style=3D"margin:0; padding:0; line-height: 1.5em"><a name=
+=3D"www_nature_com_news_man_made_q" href=3D"http://links.ealert.nature.com/=
+ctt?kn=3D34&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3=
+S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;" >Man-made quak=
+es shake the ground less than natural ones</a> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lu=
+cida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span=
+></p></td> =09=09=09=09=09=09                                            <t=
+d width=3D"100" align=3D"right" style=3D"font-weight:normal;color: #1A1A1A;=
+ font-family: Arial, sans-serif;font-size: 11px;">18 August 2014</td> =09=
+=09=09=09=09=09                                        </tr> =09=09=09=09=
+=09=09                                    </table></td> =09=09=09=09=09=09 =
+                               <td width=3D"10">&nbsp;</td> =09=09=09=09=09=
+=09                            </tr>        =09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr> =09=09=09=09=09=09                                <td width=
+=3D"10">&nbsp;</td> =09=09=09=09=09=09                                <td s=
+tyle=3D"color: #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; =
+line-height: 1.2em">Seismic danger from oil and gas operations may be overe=
+stimated.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_=
+nature_com_news_man_made_q" href=3D"http://links.ealert.nature.com/ctt?kn=
+=3D34&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=
+=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; font-weight:bold;" >=
+Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=
+=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans-se=
+rif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09            =
+                    <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09        =
+                    </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=
+=09=09=09=09=09                                <td colspan=3D"3" height=3D"=
+5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09                  =
+         </tr> =09=09=09=09=09=09                        </table></td> =09=
+=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&nbs=
+p;</td>                      =09=09=09=09=09=09                </tr> =09=09=
+=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; line-heigh=
+t:1px"> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B1=
+81B"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"=
+#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=
+=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09       =
+             <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=09=09=
+=09=09                    <td align=3D"left"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-fami=
+ly: Arial, sans-serif;"> =09=09=09=09=09=09                            <tr>=
+ =09=09=09=09=09=09                                <td colspan=3D"3" height=
+=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09              =
+             </tr> =09=09=09=09=09=09                           <tr> =09=09=
+=09=09=09=09                                <td width=3D"10">&nbsp;</td> =
+=09=09=09=09=09=09                                <td style=3D"color: #0000=
+0; font-size: 15px;font-weight: bold;margin-bottom:0; font-family: Arial, s=
+ans-serif;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%"> =09=09=09=09=09=09                                        <tr> =
+=09=09=09=09=09=09                                            <td><p style=
+=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"www_nature_com_news=
+_congo_poli" href=3D"http://links.ealert.nature.com/ctt?kn=3D38&ms=3DNDY3Nj=
+c0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" targe=
+t=3D"_blank" style=3D"color:#1A1A1A;" >Congo polio strain can resist vaccin=
+e</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=
+=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans-se=
+rif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09            =
+                                <td width=3D"100" align=3D"right" style=3D"=
+font-weight:normal;color: #1A1A1A; font-family: Arial, sans-serif;font-size=
+: 11px;">18 August 2014</td> =09=09=09=09=09=09                            =
+            </tr> =09=09=09=09=09=09                                    </t=
+able></td> =09=09=09=09=09=09                                <td width=3D"1=
+0">&nbsp;</td> =09=09=09=09=09=09                            </tr>        =
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09             =
+                   <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09         =
+                       <td style=3D"color: #1A1A1A; font-size: 11px;"><p st=
+yle=3D"margin:0; padding:0; line-height: 1.2em">Variant was responsible for=
+ a deadly outbreak but is stopped by fresh, oral immunization.  =09=09=09=
+=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_nature_com_news_cong=
+o_poli" href=3D"http://links.ealert.nature.com/ctt?kn=3D38&ms=3DNDY3Njc0MDc=
+S1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"=
+_blank" style=3D"color:#8B181B; font-weight:bold;" >Read More</a> =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-f=
+amily: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#96=
+54;</span></p></td> =09=09=09=09=09=09                                <td w=
+idth=3D"10">&nbsp;</td> =09=09=09=09=09=09                            </tr>=
+ =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09            =
+                    <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">=
+&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=09=09=
+=09=09                        </table></td> =09=09=09=09=09=09             =
+       <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td>                     =
+ =09=09=09=09=09=09                </tr> =09=09=09=09=09=09 =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr style=3D"font-size: 1px; line-height:1px"> =09=09=09=09=09=09=09=
+=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=
+=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"#D4B7B9"></td> =09=09=09=09=
+=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=
+=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr> =09=09=09=09=09=09                    <td bgcolor=3D"#8=
+B181B" width=3D"8">&nbsp;</td> =09=09=09=09=09=09                    <td al=
+ign=3D"left"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=
+=09=09=09=09                            <tr> =09=09=09=09=09=09            =
+                    <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">=
+&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=09=09=
+=09=09                           <tr> =09=09=09=09=09=09                   =
+             <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09               =
+                 <td style=3D"color: #00000; font-size: 15px;font-weight: b=
+old;margin-bottom:0; font-family: Arial, sans-serif;"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=09      =
+                                  <tr> =09=09=09=09=09=09                  =
+                          <td><p style=3D"margin:0; padding:0; line-height:=
+ 1.5em"><a name=3D"www_nature_com_news_high_risk_" href=3D"http://links.eal=
+ert.nature.com/ctt?kn=3D5&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=
+=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;"=
+ >High-risk brain research wins NSF backing</a> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lu=
+cida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span=
+></p></td> =09=09=09=09=09=09                                            <t=
+d width=3D"100" align=3D"right" style=3D"font-weight:normal;color: #1A1A1A;=
+ font-family: Arial, sans-serif;font-size: 11px;">18 August 2014</td> =09=
+=09=09=09=09=09                                        </tr> =09=09=09=09=
+=09=09                                    </table></td> =09=09=09=09=09=09 =
+                               <td width=3D"10">&nbsp;</td> =09=09=09=09=09=
+=09                            </tr>        =09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr> =09=09=09=09=09=09                                <td width=
+=3D"10">&nbsp;</td> =09=09=09=09=09=09                                <td s=
+tyle=3D"color: #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; =
+line-height: 1.2em">Agency awards $10.8 million in grants to support US gov=
+ernment initiative.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a na=
+me=3D"www_nature_com_news_high_risk_" href=3D"http://links.ealert.nature.co=
+m/ctt?kn=3D5&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk=
+3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; font-weight:bo=
+ld;" >Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span s=
+tyle=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, san=
+s-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09        =
+                        <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09    =
+                        </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =
+=09=09=09=09=09=09                                <td colspan=3D"3" height=
+=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09              =
+             </tr> =09=09=09=09=09=09                        </table></td> =
+=09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&=
+nbsp;</td>                      =09=09=09=09=09=09                </tr> =09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =
+=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09 =09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=
+=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=
+=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09 =09=09                <tr> =09=09        =
+           <td bgcolor=3D"#8B181B" colspan=3D"3" height=3D"9" style=3D"font=
+-size:7px">&nbsp;</td>                                 =09=09              =
+  </tr>                             =09=09            </table></td> =09=09 =
+       <td width=3D"35">&nbsp;</td>         =09=09    </tr>  =09=09    <tr>=
+ =09=09        <td colspan=3D"3" height=3D"10" style=3D"font-size: 1px;">&n=
+bsp;</td>         =09=09    </tr>  =09=09     =09=09     =09=09    <tr> =09=
+=09        <td colspan=3D"3" height=3D"20" style=3D"font-size: 1px;">&nbsp;=
+</td>         =09=09    </tr> =09=09    <tr> =09=09        <td width=3D"35"=
+>&nbsp;</td> =09=09        <td style=3D"color: #8B181B; font-size: 18px" al=
+ign=3D"left">&bull; More Stories</td>  =09=09        <td width=3D"35">&nbsp=
+;</td>                    =09=09    </tr> =09=09    <tr> =09=09        <td =
+colspan=3D"3" height=3D"5" style=3D"font-size: 1px;">&nbsp;</td>         =
+=09=09    </tr> =09=09 =09=09=09 =09=09    <tr> =09=09        <td width=3D"=
+35">&nbsp;</td>     =09=09        <td style=3D"font-size: 10px;"><table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"font-=
+size: 16px;font-family: Arial, sans-serif;"> =09=09                <tr> =09=
+=09                   <td bgcolor=3D"#8B181B" colspan=3D"3" height=3D"9" st=
+yle=3D"font-size:7px">&nbsp;</td> =09=09                </tr> =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr> =09=09=09=09=09=09                    <td bgcolor=3D"#8B181B"=
+ width=3D"8">&nbsp;</td> =09=09=09=09=09=09                    <td align=3D=
+"left"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=09=09=
+=09=09                            <tr> =09=09=09=09=09=09                  =
+              <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;=
+</td> =09=09=09=09=09=09                           </tr> =09=09=09=09=09=09=
+                           <tr> =09=09=09=09=09=09                         =
+       <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                     =
+           <td style=3D"color: #00000; font-size: 15px;font-weight: bold;ma=
+rgin-bottom:0; font-family: Arial, sans-serif;"><table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=09            =
+                            <tr> =09=09=09=09=09=09                        =
+                    <td><p style=3D"margin:0; padding:0; line-height: 1.5em=
+"><a name=3D"www_nature_com_news_developing" href=3D"http://links.ealert.na=
+ture.com/ctt?kn=3D46&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTA=
+yNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;" >Deve=
+loping brains switch maths strategies</a> =09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lucida S=
+ans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span></p><=
+/td> =09=09=09=09=09=09                                            <td widt=
+h=3D"100" align=3D"right" style=3D"font-weight:normal;color: #1A1A1A; font-=
+family: Arial, sans-serif;font-size: 11px;">17 August 2014</td> =09=09=09=
+=09=09=09                                        </tr> =09=09=09=09=09=09  =
+                                  </table></td> =09=09=09=09=09=09         =
+                       <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09     =
+                       </tr>        =09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr> =09=09=09=09=09=09                                <td width=3D"10">&nb=
+sp;</td> =09=09=09=09=09=09                                <td style=3D"col=
+or: #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; line-height=
+: 1.2em">Counting on fingers gives way to memorized sums as neurons change =
+connections.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"w=
+ww_nature_com_news_developing" href=3D"http://links.ealert.nature.com/ctt?k=
+n=3D46&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=
+=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; font-weight:bold;" >=
+Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=
+=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans-se=
+rif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09            =
+                    <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09        =
+                    </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=
+=09=09=09=09=09                                <td colspan=3D"3" height=3D"=
+5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09                  =
+         </tr> =09=09=09=09=09=09                        </table></td> =09=
+=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&nbs=
+p;</td>                      =09=09=09=09=09=09                </tr> =09=09=
+=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr style=3D=
+"font-size: 1px; line-height:1px"> =09=09=09=09=09=09=09=09=09=09=09=09<td =
+width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09=09<=
+td height=3D"1" bgcolor=3D"#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=
+=09</tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =
+=09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&=
+nbsp;</td> =09=09=09=09=09=09                    <td align=3D"left"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"fo=
+nt-size: 16px;font-family: Arial, sans-serif;"> =09=09=09=09=09=09         =
+                   <tr> =09=09=09=09=09=09                                <=
+td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=
+=09=09=09                           </tr> =09=09=09=09=09=09               =
+            <tr> =09=09=09=09=09=09                                <td widt=
+h=3D"10">&nbsp;</td> =09=09=09=09=09=09                                <td =
+style=3D"color: #00000; font-size: 15px;font-weight: bold;margin-bottom:0; =
+font-family: Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"100%"> =09=09=09=09=09=09                           =
+             <tr> =09=09=09=09=09=09                                       =
+     <td><p style=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"ww=
+w_nature_com_news_nih_chief_" href=3D"http://links.ealert.nature.com/ctt?kn=
+=3D1&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=
+=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;" >NIH chief keeps ho=
+pes afloat</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<sp=
+an style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande,=
+ sans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09    =
+                                        <td width=3D"100" align=3D"right" s=
+tyle=3D"font-weight:normal;color: #1A1A1A; font-family: Arial, sans-serif;f=
+ont-size: 11px;">15 August 2014</td> =09=09=09=09=09=09                    =
+                    </tr> =09=09=09=09=09=09                               =
+     </table></td> =09=09=09=09=09=09                                <td wi=
+dth=3D"10">&nbsp;</td> =09=09=09=09=09=09                            </tr> =
+       =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09      =
+                          <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09  =
+                              <td style=3D"color: #1A1A1A; font-size: 11px;=
+"><p style=3D"margin:0; padding:0; line-height: 1.2em">Director Francis Col=
+lins discusses the changing landscape of biomedical research.  =09=09=09=09=
+=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_nature_com_news_nih_chi=
+ef_" href=3D"http://links.ealert.nature.com/ctt?kn=3D1&ms=3DNDY3Njc0MDcS1&r=
+=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_bla=
+nk" style=3D"color:#8B181B; font-weight:bold;" >Read More</a> =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-fami=
+ly: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;=
+</span></p></td> =09=09=09=09=09=09                                <td widt=
+h=3D"10">&nbsp;</td> =09=09=09=09=09=09                            </tr> =
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09             =
+                   <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&=
+nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=09=09=
+=09=09                        </table></td> =09=09=09=09=09=09             =
+       <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td>                     =
+ =09=09=09=09=09=09                </tr> =09=09=09=09=09=09 =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; line-heigh=
+t:1px"> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B1=
+81B"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"=
+#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=
+=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09       =
+             <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=09=09=
+=09=09                    <td align=3D"left"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-fami=
+ly: Arial, sans-serif;"> =09=09=09=09=09=09                            <tr>=
+ =09=09=09=09=09=09                                <td colspan=3D"3" height=
+=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09              =
+             </tr> =09=09=09=09=09=09                           <tr> =09=09=
+=09=09=09=09                                <td width=3D"10">&nbsp;</td> =
+=09=09=09=09=09=09                                <td style=3D"color: #0000=
+0; font-size: 15px;font-weight: bold;margin-bottom:0; font-family: Arial, s=
+ans-serif;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%"> =09=09=09=09=09=09                                        <tr> =
+=09=09=09=09=09=09                                            <td><p style=
+=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"www_nature_com_news=
+_us_drone_r" href=3D"http://links.ealert.nature.com/ctt?kn=3D37&ms=3DNDY3Nj=
+c0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" targe=
+t=3D"_blank" style=3D"color:#1A1A1A;" >US drone research hits regulatory tu=
+rbulence</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span=
+ style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, s=
+ans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09      =
+                                      <td width=3D"100" align=3D"right" sty=
+le=3D"font-weight:normal;color: #1A1A1A; font-family: Arial, sans-serif;fon=
+t-size: 11px;">15 August 2014</td> =09=09=09=09=09=09                      =
+                  </tr> =09=09=09=09=09=09                                 =
+   </table></td> =09=09=09=09=09=09                                <td widt=
+h=3D"10">&nbsp;</td> =09=09=09=09=09=09                            </tr>   =
+     =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09        =
+                        <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09    =
+                            <td style=3D"color: #1A1A1A; font-size: 11px;">=
+<p style=3D"margin:0; padding:0; line-height: 1.2em">Federal rules ground s=
+cientists using remotely piloted aircraft at private universities.  =09=09=
+=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_nature_com_news_u=
+s_drone_r" href=3D"http://links.ealert.nature.com/ctt?kn=3D37&ms=3DNDY3Njc0=
+MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=
+=3D"_blank" style=3D"color:#8B181B; font-weight:bold;" >Read More</a> =09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;=
+font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;=
+">&#9654;</span></p></td> =09=09=09=09=09=09                               =
+ <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                           =
+ </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09      =
+                          <td colspan=3D"3" height=3D"5" style=3D"font-size=
+:1px">&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=
+=09=09=09=09                        </table></td> =09=09=09=09=09=09       =
+             <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td>               =
+       =09=09=09=09=09=09                </tr> =09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; line=
+-height:1px"> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=
+=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bgc=
+olor=3D"#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" =
+bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09 =
+                   <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=
+=09=09=09=09                    <td align=3D"left"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;fon=
+t-family: Arial, sans-serif;"> =09=09=09=09=09=09                          =
+  <tr> =09=09=09=09=09=09                                <td colspan=3D"3" =
+height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09        =
+                   </tr> =09=09=09=09=09=09                           <tr> =
+=09=09=09=09=09=09                                <td width=3D"10">&nbsp;</=
+td> =09=09=09=09=09=09                                <td style=3D"color: #=
+00000; font-size: 15px;font-weight: bold;margin-bottom:0; font-family: Aria=
+l, sans-serif;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%"> =09=09=09=09=09=09                                        <tr>=
+ =09=09=09=09=09=09                                            <td><p style=
+=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"www_nature_com_news=
+_researcher" href=3D"http://links.ealert.nature.com/ctt?kn=3D3&ms=3DNDY3Njc=
+0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=
+=3D"_blank" style=3D"color:#1A1A1A;" >Researchers create 1,000-robot swarm<=
+/a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D=
+"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans-serif=
+;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09               =
+                             <td width=3D"100" align=3D"right" style=3D"fon=
+t-weight:normal;color: #1A1A1A; font-family: Arial, sans-serif;font-size: 1=
+1px;">14 August 2014</td> =09=09=09=09=09=09                               =
+         </tr> =09=09=09=09=09=09                                    </tabl=
+e></td> =09=09=09=09=09=09                                <td width=3D"10">=
+&nbsp;</td> =09=09=09=09=09=09                            </tr>        =09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                =
+                <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09            =
+                    <td style=3D"color: #1A1A1A; font-size: 11px;"><p style=
+=3D"margin:0; padding:0; line-height: 1.2em">Tiny troupe could shed light o=
+n collective behaviour in animals and humans.  =09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09=09<a name=3D"www_nature_com_news_researcher" href=3D"htt=
+p://links.ealert.nature.com/ctt?kn=3D3&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyN=
+DYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"col=
+or:#8B181B; font-weight:bold;" >Read More</a> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lucida Sans=
+ Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span></p></td=
+> =09=09=09=09=09=09                                <td width=3D"10">&nbsp;=
+</td> =09=09=09=09=09=09                            </tr> =09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                            =
+    <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=
+=09=09=09=09=09                           </tr> =09=09=09=09=09=09         =
+               </table></td> =09=09=09=09=09=09                    <td bgco=
+lor=3D"#8B181B" width=3D"8">&nbsp;</td>                      =09=09=09=09=
+=09=09                </tr> =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; line-height:1px"> =09=
+=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"#D4B7B9"></=
+td> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"=
+></td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                   =
+ <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=09=09=09=09        =
+            <td align=3D"left"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Arial, san=
+s-serif;"> =09=09=09=09=09=09                            <tr> =09=09=09=09=
+=09=09                                <td colspan=3D"3" height=3D"5" style=
+=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09                          =
+ </tr> =09=09=09=09=09=09                           <tr> =09=09=09=09=09=09=
+                                <td width=3D"10">&nbsp;</td> =09=09=09=09=
+=09=09                                <td style=3D"color: #00000; font-size=
+: 15px;font-weight: bold;margin-bottom:0; font-family: Arial, sans-serif;">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=
+=09=09=09=09=09                                        <tr> =09=09=09=09=09=
+=09                                            <td><p style=3D"margin:0; pa=
+dding:0; line-height: 1.5em"><a name=3D"www_nature_com_news_first_dust" hre=
+f=3D"http://links.ealert.nature.com/ctt?kn=3D47&ms=3DNDY3Njc0MDcS1&r=3DNzk5=
+MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" sty=
+le=3D"color:#1A1A1A;" >First dust grains from outside the Solar System</a> =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"col=
+or: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;fon=
+t-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09                   =
+                         <td width=3D"100" align=3D"right" style=3D"font-we=
+ight:normal;color: #1A1A1A; font-family: Arial, sans-serif;font-size: 11px;=
+">14 August 2014</td> =09=09=09=09=09=09                                   =
+     </tr> =09=09=09=09=09=09                                    </table></=
+td> =09=09=09=09=09=09                                <td width=3D"10">&nbs=
+p;</td> =09=09=09=09=09=09                            </tr>        =09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                   =
+             <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09               =
+                 <td style=3D"color: #1A1A1A; font-size: 11px;"><p style=3D=
+"margin:0; padding:0; line-height: 1.2em">Citizen-science project identifie=
+s particles caught by NASA craft as having likely interstellar origin.  =09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_nature_com_new=
+s_first_dust" href=3D"http://links.ealert.nature.com/ctt?kn=3D47&ms=3DNDY3N=
+jc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" targ=
+et=3D"_blank" style=3D"color:#8B181B; font-weight:bold;" >Read More</a> =09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;=
+font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;=
+">&#9654;</span></p></td> =09=09=09=09=09=09                               =
+ <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                           =
+ </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09      =
+                          <td colspan=3D"3" height=3D"5" style=3D"font-size=
+:1px">&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=
+=09=09=09=09                        </table></td> =09=09=09=09=09=09       =
+             <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td>               =
+       =09=09=09=09=09=09                </tr> =09=09=09=09=09=09 =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; line=
+-height:1px"> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=
+=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bgc=
+olor=3D"#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" =
+bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09 =
+                   <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=
+=09=09=09=09                    <td align=3D"left"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;fon=
+t-family: Arial, sans-serif;"> =09=09=09=09=09=09                          =
+  <tr> =09=09=09=09=09=09                                <td colspan=3D"3" =
+height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09        =
+                   </tr> =09=09=09=09=09=09                           <tr> =
+=09=09=09=09=09=09                                <td width=3D"10">&nbsp;</=
+td> =09=09=09=09=09=09                                <td style=3D"color: #=
+00000; font-size: 15px;font-weight: bold;margin-bottom:0; font-family: Aria=
+l, sans-serif;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%"> =09=09=09=09=09=09                                        <tr>=
+ =09=09=09=09=09=09                                            <td><p style=
+=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"www_nature_com_news=
+_mummifying" href=3D"http://links.ealert.nature.com/ctt?kn=3D19&ms=3DNDY3Nj=
+c0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" targe=
+t=3D"_blank" style=3D"color:#1A1A1A;" >Mummifying-balm recipe is older than=
+ the pharaohs</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<span style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Gran=
+de, sans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09 =
+                                           <td width=3D"100" align=3D"right=
+" style=3D"font-weight:normal;color: #1A1A1A; font-family: Arial, sans-seri=
+f;font-size: 11px;">13 August 2014</td> =09=09=09=09=09=09                 =
+                       </tr> =09=09=09=09=09=09                            =
+        </table></td> =09=09=09=09=09=09                                <td=
+ width=3D"10">&nbsp;</td> =09=09=09=09=09=09                            </t=
+r>        =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09   =
+                             <td width=3D"10">&nbsp;</td> =09=09=09=09=09=
+=09                                <td style=3D"color: #1A1A1A; font-size: =
+11px;"><p style=3D"margin:0; padding:0; line-height: 1.2em">Egyptians used =
+the same general formula to soak burial linens as early as 4200 <span style=
+=3D"font-variant: small-caps;">bc</span>.  =09=09=09=09=09=09 =09=09=09=09=
+=09=09=09=09=09=09<a name=3D"www_nature_com_news_mummifying" href=3D"http:/=
+/links.ealert.nature.com/ctt?kn=3D19&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDY=
+S1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color=
+:#8B181B; font-weight:bold;" >Read More</a> =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lucida Sans Un=
+icode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span></p></td> =
+=09=09=09=09=09=09                                <td width=3D"10">&nbsp;</=
+td> =09=09=09=09=09=09                            </tr> =09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                               =
+ <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=
+=09=09=09=09                           </tr> =09=09=09=09=09=09            =
+            </table></td> =09=09=09=09=09=09                    <td bgcolor=
+=3D"#8B181B" width=3D"8">&nbsp;</td>                      =09=09=09=09=09=
+=09                </tr> =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; line-height:1px"> =09=09=
+=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=
+=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"#D4B7B9"></td>=
+ =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></=
+td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                    <t=
+d bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=09=09=09=09           =
+         <td align=3D"left"><table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-s=
+erif;"> =09=09=09=09=09=09                            <tr> =09=09=09=09=09=
+=09                                <td colspan=3D"3" height=3D"5" style=3D"=
+font-size:1px">&nbsp;</td> =09=09=09=09=09=09                           </t=
+r> =09=09=09=09=09=09                           <tr> =09=09=09=09=09=09    =
+                            <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09=
+                                <td style=3D"color: #00000; font-size: 15px=
+;font-weight: bold;margin-bottom:0; font-family: Arial, sans-serif;"><table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=09=09=
+=09=09=09                                        <tr> =09=09=09=09=09=09   =
+                                         <td><p style=3D"margin:0; padding:=
+0; line-height: 1.5em"><a name=3D"www_nature_com_news_only_ten_m" href=3D"h=
+ttp://links.ealert.nature.com/ctt?kn=3D31&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0Mj=
+kyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"=
+color:#1A1A1A;" >Only ten midges needed to make a swarm</a> =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;fon=
+t-family: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&=
+#9654;</span></p></td> =09=09=09=09=09=09                                  =
+          <td width=3D"100" align=3D"right" style=3D"font-weight:normal;col=
+or: #1A1A1A; font-family: Arial, sans-serif;font-size: 11px;">13 August 201=
+4</td> =09=09=09=09=09=09                                        </tr> =09=
+=09=09=09=09=09                                    </table></td> =09=09=09=
+=09=09=09                                <td width=3D"10">&nbsp;</td> =09=
+=09=09=09=09=09                            </tr>        =09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                               =
+ <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                           =
+     <td style=3D"color: #1A1A1A; font-size: 11px;"><p style=3D"margin:0; p=
+adding:0; line-height: 1.2em">High-speed cameras reveal when insects become=
+ self-organizing.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=
+=3D"www_nature_com_news_only_ten_m" href=3D"http://links.ealert.nature.com/=
+ctt?kn=3D31&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3=
+S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; font-weight:bol=
+d;" >Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span st=
+yle=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans=
+-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09         =
+                       <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09     =
+                       </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =
+=09=09=09=09=09=09                                <td colspan=3D"3" height=
+=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09              =
+             </tr> =09=09=09=09=09=09                        </table></td> =
+=09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&=
+nbsp;</td>                      =09=09=09=09=09=09                </tr> =09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr styl=
+e=3D"font-size: 1px; line-height:1px"> =09=09=09=09=09=09=09=09=09=09=09=09=
+<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09=
+=09<td height=3D"1" bgcolor=3D"#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=
+=09=09=09</tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr> =09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D=
+"8">&nbsp;</td> =09=09=09=09=09=09                    <td align=3D"left"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=09=09=09=09   =
+                         <tr> =09=09=09=09=09=09                           =
+     <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=
+=09=09=09=09=09                           </tr> =09=09=09=09=09=09         =
+                  <tr> =09=09=09=09=09=09                                <t=
+d width=3D"10">&nbsp;</td> =09=09=09=09=09=09                              =
+  <td style=3D"color: #00000; font-size: 15px;font-weight: bold;margin-bott=
+om:0; font-family: Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=09                     =
+                   <tr> =09=09=09=09=09=09                                 =
+           <td><p style=3D"margin:0; padding:0; line-height: 1.5em"><a name=
+=3D"www_nature_com_news_near_earth" href=3D"http://links.ealert.nature.com/=
+ctt?kn=3D48&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3=
+S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;" >Near-Earth as=
+teroid held together by weak force</a> =09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lucida Sans=
+ Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span></p></td=
+> =09=09=09=09=09=09                                            <td width=
+=3D"100" align=3D"right" style=3D"font-weight:normal;color: #1A1A1A; font-f=
+amily: Arial, sans-serif;font-size: 11px;">13 August 2014</td> =09=09=09=09=
+=09=09                                        </tr> =09=09=09=09=09=09     =
+                               </table></td> =09=09=09=09=09=09            =
+                    <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09        =
+                    </tr>        =09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+> =09=09=09=09=09=09                                <td width=3D"10">&nbsp;=
+</td> =09=09=09=09=09=09                                <td style=3D"color:=
+ #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; line-height: 1=
+.2em">Discovery suggests better ways to deflect an incoming space rock.  =
+=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_nature_com_=
+news_near_earth" href=3D"http://links.ealert.nature.com/ctt?kn=3D48&ms=3DND=
+Y3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" t=
+arget=3D"_blank" style=3D"color:#8B181B; font-weight:bold;" >Read More</a> =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B18=
+1B;font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12=
+px;">&#9654;</span></p></td> =09=09=09=09=09=09                            =
+    <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                        =
+    </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09   =
+                             <td colspan=3D"3" height=3D"5" style=3D"font-s=
+ize:1px">&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=
+=09=09=09=09=09                        </table></td> =09=09=09=09=09=09    =
+                <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td>            =
+          =09=09=09=09=09=09                </tr> =09=09=09=09=09=09 =09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"font-size: 1px; l=
+ine-height:1px"> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolo=
+r=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"1" bg=
+color=3D"#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"8"=
+ bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09 =
+                   <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=
+=09=09=09=09                    <td align=3D"left"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;fon=
+t-family: Arial, sans-serif;"> =09=09=09=09=09=09                          =
+  <tr> =09=09=09=09=09=09                                <td colspan=3D"3" =
+height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09        =
+                   </tr> =09=09=09=09=09=09                           <tr> =
+=09=09=09=09=09=09                                <td width=3D"10">&nbsp;</=
+td> =09=09=09=09=09=09                                <td style=3D"color: #=
+00000; font-size: 15px;font-weight: bold;margin-bottom:0; font-family: Aria=
+l, sans-serif;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%"> =09=09=09=09=09=09                                        <tr>=
+ =09=09=09=09=09=09                                            <td><p style=
+=3D"margin:0; padding:0; line-height: 1.5em"><a name=3D"www_nature_com_news=
+_stem_cell_" href=3D"http://links.ealert.nature.com/ctt?kn=3D42&ms=3DNDY3Nj=
+c0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" targe=
+t=3D"_blank" style=3D"color:#1A1A1A;" >Stem-cell pioneer blamed media 'bash=
+ing' in suicide note</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<span style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lu=
+cida Grande, sans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=
+=09=09=09                                            <td width=3D"100" alig=
+n=3D"right" style=3D"font-weight:normal;color: #1A1A1A; font-family: Arial,=
+ sans-serif;font-size: 11px;">13 August 2014</td> =09=09=09=09=09=09       =
+                                 </tr> =09=09=09=09=09=09                  =
+                  </table></td> =09=09=09=09=09=09                         =
+       <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                     =
+       </tr>        =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=
+=09=09=09                                <td width=3D"10">&nbsp;</td> =09=
+=09=09=09=09=09                                <td style=3D"color: #1A1A1A;=
+ font-size: 11px;"><p style=3D"margin:0; padding:0; line-height: 1.2em">Law=
+yer for Yoshiki Sasai's family reveals motive of Japanese researcher's act =
+following STAP controversy.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=
+=09<a name=3D"www_nature_com_news_stem_cell_" href=3D"http://links.ealert.n=
+ature.com/ctt?kn=3D42&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNT=
+AyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; font-=
+weight:bold;" >Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<span style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida G=
+rande, sans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=
+=09                                <td width=3D"10">&nbsp;</td> =09=09=09=
+=09=09=09                            </tr> =09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr> =09=09=09=09=09=09                                <td colspan=
+=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09 =
+                          </tr> =09=09=09=09=09=09                        <=
+/table></td> =09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" =
+width=3D"8">&nbsp;</td>                      =09=09=09=09=09=09            =
+    </tr> =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr style=3D"font-size: 1px; line-height:1px"> =09=09=09=09=09=09=09=
+=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=
+=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"#D4B7B9"></td> =09=09=09=09=
+=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=
+=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr> =09=09=09=09=09=09                    <td bgcolor=3D"#8=
+B181B" width=3D"8">&nbsp;</td> =09=09=09=09=09=09                    <td al=
+ign=3D"left"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=
+=09=09=09=09                            <tr> =09=09=09=09=09=09            =
+                    <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">=
+&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=09=09=
+=09=09                           <tr> =09=09=09=09=09=09                   =
+             <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09               =
+                 <td style=3D"color: #00000; font-size: 15px;font-weight: b=
+old;margin-bottom:0; font-family: Arial, sans-serif;"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=09      =
+                                  <tr> =09=09=09=09=09=09                  =
+                          <td><p style=3D"margin:0; padding:0; line-height:=
+ 1.5em"><a name=3D"www_nature_com_news_online_col" href=3D"http://links.eal=
+ert.nature.com/ctt?kn=3D15&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=
+=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;"=
+ >Online collaboration: Scientists and the social network</a> =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;=
+font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;=
+">&#9654;</span></p></td> =09=09=09=09=09=09                               =
+             <td width=3D"100" align=3D"right" style=3D"font-weight:normal;=
+color: #1A1A1A; font-family: Arial, sans-serif;font-size: 11px;">13 August =
+2014</td> =09=09=09=09=09=09                                        </tr> =
+=09=09=09=09=09=09                                    </table></td> =09=09=
+=09=09=09=09                                <td width=3D"10">&nbsp;</td> =
+=09=09=09=09=09=09                            </tr>        =09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                            =
+    <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                        =
+        <td style=3D"color: #1A1A1A; font-size: 11px;"><p style=3D"margin:0=
+; padding:0; line-height: 1.2em">Giant academic social networks have taken =
+off to a degree that no one expected even a few years ago. A <i>Nature</i> =
+survey explores why.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a n=
+ame=3D"www_nature_com_news_online_col" href=3D"http://links.ealert.nature.c=
+om/ctt?kn=3D15&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwM=
+Dk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; font-weight:=
+bold;" >Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span=
+ style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, s=
+ans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09      =
+                          <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09  =
+                          </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+ =09=09=09=09=09=09                                <td colspan=3D"3" height=
+=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09              =
+             </tr> =09=09=09=09=09=09                        </table></td> =
+=09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&=
+nbsp;</td>                      =09=09=09=09=09=09                </tr> =09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr styl=
+e=3D"font-size: 1px; line-height:1px"> =09=09=09=09=09=09=09=09=09=09=09=09=
+<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=09=09=09=
+=09<td height=3D"1" bgcolor=3D"#D4B7B9"></td> =09=09=09=09=09=09=09=09=09=
+=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=09=09=09=09=
+=09=09=09</tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr> =09=09=09=09=09=09                    <td bgcolor=3D"#8B181B" width=3D=
+"8">&nbsp;</td> =09=09=09=09=09=09                    <td align=3D"left"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09=09=09=09=09   =
+                         <tr> =09=09=09=09=09=09                           =
+     <td colspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=
+=09=09=09=09=09                           </tr> =09=09=09=09=09=09         =
+                  <tr> =09=09=09=09=09=09                                <t=
+d width=3D"10">&nbsp;</td> =09=09=09=09=09=09                              =
+  <td style=3D"color: #00000; font-size: 15px;font-weight: bold;margin-bott=
+om:0; font-family: Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=09                     =
+                   <tr> =09=09=09=09=09=09                                 =
+           <td><p style=3D"margin:0; padding:0; line-height: 1.5em"><a name=
+=3D"www_nature_com_news_china_shou" href=3D"http://links.ealert.nature.com/=
+ctt?kn=3D33&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3=
+S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#1A1A1A;" >China should =
+aim for a total cap on emissions</a> =09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lucida Sans=
+ Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span></p></td=
+> =09=09=09=09=09=09                                            <td width=
+=3D"100" align=3D"right" style=3D"font-weight:normal;color: #1A1A1A; font-f=
+amily: Arial, sans-serif;font-size: 11px;">13 August 2014</td> =09=09=09=09=
+=09=09                                        </tr> =09=09=09=09=09=09     =
+                               </table></td> =09=09=09=09=09=09            =
+                    <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09        =
+                    </tr>        =09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+> =09=09=09=09=09=09                                <td width=3D"10">&nbsp;=
+</td> =09=09=09=09=09=09                                <td style=3D"color:=
+ #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; line-height: 1=
+.2em">A focus on carbon intensity alone will allow emissions to grow with t=
+he economy, argues Qiang Wang.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=
+=09=09<a name=3D"www_nature_com_news_china_shou" href=3D"http://links.ealer=
+t.nature.com/ctt?kn=3D33&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=
+=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#8B181B; =
+font-weight:bold;" >Read More</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<span style=3D"color: #8B181B;font-family: Lucida Sans Unicode, Lu=
+cida Grande, sans-serif;font-size:12px;">&#9654;</span></p></td> =09=09=09=
+=09=09=09                                <td width=3D"10">&nbsp;</td> =09=
+=09=09=09=09=09                            </tr> =09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr> =09=09=09=09=09=09                                <td c=
+olspan=3D"3" height=3D"5" style=3D"font-size:1px">&nbsp;</td> =09=09=09=09=
+=09=09                           </tr> =09=09=09=09=09=09                  =
+      </table></td> =09=09=09=09=09=09                    <td bgcolor=3D"#8=
+B181B" width=3D"8">&nbsp;</td>                      =09=09=09=09=09=09     =
+           </tr> =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr style=3D"font-size: 1px; line-height:1px"> =09=09=09=09=09=
+=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=09=09=09=
+=09=09=09=09=09=09=09=09<td height=3D"1" bgcolor=3D"#D4B7B9"></td> =09=09=
+=09=09=09=09=09=09=09=09=09=09<td width=3D"8" bgcolor=3D"#8B181B"></td> =09=
+=09=09=09=09=09=09=09=09=09=09</tr> =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr> =09=09=09=09=09=09                    <td bgcolor=
+=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09=09=09=09=09                    =
+<td align=3D"left"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-serif;"> =
+=09=09=09=09=09=09                            <tr> =09=09=09=09=09=09      =
+                          <td colspan=3D"3" height=3D"5" style=3D"font-size=
+:1px">&nbsp;</td> =09=09=09=09=09=09                           </tr> =09=09=
+=09=09=09=09                           <tr> =09=09=09=09=09=09             =
+                   <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09         =
+                       <td style=3D"color: #00000; font-size: 15px;font-wei=
+ght: bold;margin-bottom:0; font-family: Arial, sans-serif;"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> =09=09=09=09=09=
+=09                                        <tr> =09=09=09=09=09=09         =
+                                   <td><p style=3D"margin:0; padding:0; lin=
+e-height: 1.5em"><a name=3D"www_nature_com_news_health_che" href=3D"http://=
+links.ealert.nature.com/ctt?kn=3D11&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS=
+1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:=
+#1A1A1A;" >Health check for deep-sea mining</a> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #8B181B;font-family: Lu=
+cida Sans Unicode, Lucida Grande, sans-serif;font-size:12px;">&#9654;</span=
+></p></td> =09=09=09=09=09=09                                            <t=
+d width=3D"100" align=3D"right" style=3D"font-weight:normal;color: #1A1A1A;=
+ font-family: Arial, sans-serif;font-size: 11px;">13 August 2014</td> =09=
+=09=09=09=09=09                                        </tr> =09=09=09=09=
+=09=09                                    </table></td> =09=09=09=09=09=09 =
+                               <td width=3D"10">&nbsp;</td> =09=09=09=09=09=
+=09                            </tr>        =09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr> =09=09=09=09=09=09                                <td width=
+=3D"10">&nbsp;</td> =09=09=09=09=09=09                                <td s=
+tyle=3D"color: #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0; =
+line-height: 1.2em">European project evaluates risks to delicate ecosystems=
+.  =09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09<a name=3D"www_nature_c=
+om_news_health_che" href=3D"http://links.ealert.nature.com/ctt?kn=3D11&ms=
+=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=
+=3D0" target=3D"_blank" style=3D"color:#8B181B; font-weight:bold;" >Read Mo=
+re</a> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color=
+: #8B181B;font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;font-=
+size:12px;">&#9654;</span></p></td> =09=09=09=09=09=09                     =
+           <td width=3D"10">&nbsp;</td> =09=09=09=09=09=09                 =
+           </tr> =09=09=09=09=09=09=09=09=09=09=09=09=09<tr> =09=09=09=09=
+=09=09                                <td colspan=3D"3" height=3D"5" style=
+=3D"font-size:1px">&nbsp;</td> =09=09=09=09=09=09                          =
+ </tr> =09=09=09=09=09=09                        </table></td> =09=09=09=09=
+=09=09                    <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td>  =
+                    =09=09=09=09=09=09                </tr> =09=09=09=09=09=
+=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09                <tr> =09=09                   <=
+td bgcolor=3D"#8B181B" colspan=3D"3" height=3D"9" style=3D"font-size:7px">&=
+nbsp;</td>                                 =09=09                </tr>     =
+                        =09=09            </table></td> =09=09        <td w=
+idth=3D"35">&nbsp;</td>         =09=09    </tr> =09=09=09 =09=09=09 =09=09 =
+   <tr> =09=09        <td colspan=3D"3" height=3D"20" style=3D"font-size: 1=
+px;">&nbsp;</td>         =09=09    </tr> =09=09=09=09=09=09=09=09    <tr> =
+=09=09        <td width=3D"35">&nbsp;</td> =09=09        <td style=3D"color=
+: #8B181B; font-size: 18px" align=3D"left">&bull; Newsblog</td> =09=09     =
+   <td width=3D"35">&nbsp;</td>                    =09=09    </tr> =09=09  =
+  <tr> =09=09        <td colspan=3D"3" height=3D"5" style=3D"font-size: 1px=
+;">&nbsp;</td>         =09=09    </tr> =09=09    <tr>  =09=09        <td wi=
+dth=3D"35">&nbsp;</td>     =09=09        <td style=3D"font-size: 10px;"><ta=
+ble width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-size: 16px;font-family: Arial, sans-serif;"> =09=09               =
+ <tr> =09=09                   <td bgcolor=3D"#8B181B" colspan=3D"3" height=
+=3D"9" style=3D"font-size:7px">&nbsp;</td>                                 =
+=09=09                </tr> =09=09                <tr> =09=09              =
+      <td bgcolor=3D"#8B181B" width=3D"8">&nbsp;</td> =09=09               =
+     <td align=3D"left"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Arial, sans-ser=
+if;">  =09=09                            <tr> =09=09                       =
+         <td colspan=3D"3" height=3D"10" style=3D"font-size:1px">&nbsp;</td=
+> =09=09                           </tr> =09=09                           <=
+tr> =09=09                                <td width=3D"10">&nbsp;</td> =09=
+=09                                <td style=3D"color: #1A1A1A; font-size: =
+11px;line-height: 1.2em;"><p style=3D"margin:0 0 1em 0; padding:0;"><a name=
+=3D"blogs_nature_com_news_thegreat" href=3D"http://links.ealert.nature.com/=
+ctt?kn=3D13&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3=
+S0&mt=3D1&rt=3D0" style=3D"color:#8B181B; font-weight:bold;" >Read</a> up t=
+o the minute coverage of research and science policy.</p> =09=09=09=09=09=
+=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<a name=3D"feeds_nature_com__r_news_rss_n" href=3D"htt=
+p://links.ealert.nature.com/ctt?kn=3D49&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0Mjky=
+NDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >Oce=
+ans need saving before science is nailed</a><br /> =09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a name=3D"feeds_nature_=
+com__r_news__1" href=3D"http://links.ealert.nature.com/ctt?kn=3D20&ms=3DNDY=
+3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" st=
+yle=3D"color:#8B181B;" >Indian universities ordered to cut length of scienc=
+e courses</a><br /> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<a name=3D"feeds_nature_com__r_news__2" href=3D"http:/=
+/links.ealert.nature.com/ctt?kn=3D21&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDY=
+S1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >Studen=
+t may be jailed for posting scientist's thesis on web</a><br /> =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a name=
+=3D"feeds_nature_com__r_news__3" href=3D"http://links.ealert.nature.com/ctt=
+?kn=3D27&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&=
+mt=3D1&rt=3D0" style=3D"color:#8B181B;" >Geneticists say popular book misre=
+presents research on human evolution</a><br /> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a name=3D"feeds_nature_com=
+__r_news__4" href=3D"http://links.ealert.nature.com/ctt?kn=3D26&ms=3DNDY3Nj=
+c0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=
+=3D"color:#8B181B;" >Ban all ivory sales for 10 years, says conservationist=
+</a><br /> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a name=3D"feeds_nature_com__r_news__5" href=3D"http://links.ea=
+lert.nature.com/ctt?kn=3D29&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&=
+j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >Science shut do=
+wn at crippled UK Antarctic base</a><br /> =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a name=3D"feeds_nature_com__r=
+_news__6" href=3D"http://links.ealert.nature.com/ctt?kn=3D28&ms=3DNDY3Njc0M=
+DcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D=
+"color:#8B181B;" >Physics student arrested after axe attack</a><br /> =09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a =
+name=3D"feeds_nature_com__r_news__7" href=3D"http://links.ealert.nature.com=
+/ctt?kn=3D24&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk=
+3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B;" >Space agencies battle to keep =
+Mars mission on track</a><br /> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<a name=3D"feeds_nature_com__r_news__8" hr=
+ef=3D"http://links.ealert.nature.com/ctt?kn=3D22&ms=3DNDY3Njc0MDcS1&r=3DNzk=
+5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color:#8B18=
+1B;" >Researcher's death shocks Japan</a><br /> =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a name=3D"feeds_nature_com=
+__r_news__9" href=3D"http://links.ealert.nature.com/ctt?kn=3D25&ms=3DNDY3Nj=
+c0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=
+=3D"color:#8B181B;" >US Department of Energy frees up access to research</a=
+><br /> =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09 =09=09=09=09=09=09=09=09=09=09=09<a name=3D"blogs_nature_com_news_thegr=
+eat" href=3D"http://links.ealert.nature.com/ctt?kn=3D13&ms=3DNDY3Njc0MDcS1&=
+r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"colo=
+r:#8B181B" > more...</a></td> =09=09                                <td wid=
+th=3D"10">&nbsp;</td> =09=09                            </tr>              =
+               =09=09                            <tr> =09=09               =
+                 <td colspan=3D"3" height=3D"10" style=3D"font-size:1px">&n=
+bsp;</td> =09=09                           </tr> =09=09                    =
+    </table></td> =09=09                    <td bgcolor=3D"#8B181B" width=
+=3D"8">&nbsp;</td>                      =09=09                </tr>  =09=09=
+                 <tr> =09=09                    <td bgcolor=3D"#8B181B" col=
+span=3D"3" style=3D"font-size: 1px;">&nbsp;</td> =09=09                </tr=
+> =09=09                <tr> =09=09                   <td bgcolor=3D"#8B181=
+B" colspan=3D"3" height=3D"9" style=3D"font-size:7px">&nbsp;</td>          =
+                       =09=09                </tr>                         =
+    =09=09            </table></td> =09=09        <td width=3D"35">&nbsp;</=
+td>         =09=09    </tr>  =09=09    <tr> =09=09        <td colspan=3D"3"=
+ height=3D"10" style=3D"font-size:1px;">&nbsp;</td>         =09=09    </tr>=
+ =09=09=09=09=09     =09=09    <tr> =09=09        <td width=3D"35">&nbsp;</=
+td> =09=09        <td style=3D"font-size: 10px;"><!-- START Content 1 Adver=
+tisement--> =09=09           <!-- START Content 1-->  <table style=3D"font-=
+family: Arial, sans-serif; font-size: 16px" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"4" width=3D"643" bgcolor=3D"#a1a1a1">  <tr> <td style=3D"fon=
+t-size: 1px" colspan=3D"3" align=3D"center"><table style=3D"font-family: Ar=
+ial, sans-serif; font-size: 16px" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"5" width=3D"635" bgcolor=3D"#ffffff">  <tr> <td style=3D"font-size: 10=
+px" align=3D"left"><table style=3D"font-family: Arial, sans-serif; font-siz=
+e: 16px" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">  <tr> <td style=
+=3D"color: #48031e; font-size: 11px" colspan=3D"3"></td></tr> <tr> <td styl=
+e=3D"font-size: 1px" width=3D"5">&nbsp;</td> <td style=3D"color: #48031e; f=
+ont-size: 11px"><div><span style=3D"color: #000000">New podcast with Eppend=
+orf Award 2014 winner, Madeline Lancaster </span></div> <div><span style=3D=
+"color: #000000"><br />Nature is the partner for the Eppendorf Award for Yo=
+ung European Investigators. This year the prize was awarded to Madeline Lan=
+caster for her work showing that complex neuronal tissues resembling early =
+states of fetal human brain can be created </span><em style=3D"color: #0000=
+00">in vitro</em><span style=3D"color: #000000"> from pluripotent stem cell=
+s. </span></div> <div>&nbsp;</div> <div><strong><a name=3D"www_nature_com_n=
+ature_awards_e" href=3D"http://links.ealert.nature.com/ctt?kn=3D12&ms=3DNDY=
+3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" ta=
+rget=3D"_blank" ><strong>Listen to a podcast and read a Q&amp;A</strong></a=
+></strong>&nbsp;<span style=3D"color: #000000">with Madeline Lancaster to l=
+earn more about her work.&nbsp; </span></div></td> <td style=3D"font-size: =
+1px" width=3D"5">&nbsp;</td></tr></table></td></tr></table></td></tr></tabl=
+e><!-- END Content 1-->  =09=09=09=09=09<!-- END Content 1 Advertisement-->=
+</td> =09=09        <td width=3D"35">&nbsp;</td>         =09=09    </tr> =
+=09=09     =09=09    <tr> =09=09        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size:1px;">&nbsp;</td>         =09=09    </tr> =09=09     =09=09=
+    <tr> =09=09        <td width=3D"35">&nbsp;</td> =09=09        <td style=
+=3D"font-size: 10px;"><!-- START Content 2 Advertisement--> =09=09         =
+  <!-- START Content 2--> <table style=3D"font-family: Arial, sans-serif; f=
+ont-size: 16px" border=3D"0" cellspacing=3D"0" cellpadding=3D"4" width=3D"6=
+43" bgcolor=3D"#a1a1a1">  <tr> <td style=3D"font-size: 1px" colspan=3D"3" a=
+lign=3D"center"><table style=3D"font-family: Arial, sans-serif; font-size: =
+16px" border=3D"0" cellspacing=3D"0" cellpadding=3D"5" width=3D"635" bgcolo=
+r=3D"#ffffff">  <tr> <td style=3D"font-size: 10px" align=3D"left"><table st=
+yle=3D"font-family: Arial, sans-serif; font-size: 16px" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">  <tr> <td style=3D"color: #48031e; font-size=
+: 11px" colspan=3D"3"></td></tr> <tr> <td style=3D"font-size: 1px" width=3D=
+"5">&nbsp;</td> <td style=3D"color: #48031e; font-size: 11px"><div><strong =
+style=3D"color: #000000">CALL FOR PAPERS<br /><em>Nature Plants</em>: From =
+Bench to Biosphere</strong></div> <div>&nbsp;</div> <div><em style=3D"color=
+: #000000">Nature Plants</em><span style=3D"color: #000000"> is now open fo=
+r submissions and welcomes manuscripts from all areas of plant research. Su=
+bmit your research online today! </span></div> <div>&nbsp;</div> <div><a na=
+me=3D"www_nature_com_nplants_info_gt" href=3D"http://links.ealert.nature.co=
+m/ctt?kn=3D39&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMD=
+k3S0&mt=3D1&rt=3D0" target=3D"_blank" >View the complete Guide to Authors</=
+a>&nbsp;</div></td> <td style=3D"font-size: 1px" width=3D"5">&nbsp;</td></t=
+r></table></td></tr></table></td></tr></table><!-- END Content 2-->  =09=09=
+=09=09=09<!-- END Content 2 Advertisement--></td> =09=09        <td width=
+=3D"35">&nbsp;</td>         =09=09    </tr> =09=09     =09=09    <tr> =09=
+=09        <td colspan=3D"3" height=3D"20" style=3D"font-size:1px;">&nbsp;<=
+/td>         =09=09    </tr> =09=09     <tr> =09=09        <td width=3D"35"=
+>&nbsp;</td> =09=09        <td style=3D"color: #0d2f69; font-size: 18px" al=
+ign=3D"left">&bull; Jobs</td>  =09=09        <td width=3D"35">&nbsp;</td>  =
+                  =09=09    </tr> =09=09    <tr> =09=09        <td colspan=
+=3D"3" height=3D"5" style=3D"font-size: 1px;">&nbsp;</td>         =09=09   =
+ </tr>  =09=09=09<!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D--> <!--=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3DNATURE AND NATURE NEWS COPY FROM HERE=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D--> <tr>    <td width=3D"35">&nbsp;</td>    <td style=3D"fon=
+t-size: 10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"643" style=3D"font-size: 16px;font-family: Arial, sans-serif;">       =
+     <tr>               <td bgcolor=3D"#9DD1EB" colspan=3D"3" height=3D"9" =
+style=3D"font-size:7px">&nbsp;</td>            </tr> <!--=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D--> <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3DSREP COPY FROM HERE=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D-->             <tr>                =
+ <td bgcolor=3D"#9DD1EB" width=3D"8">&nbsp;</td>                           =
+                     <td align=3D"left"><p style=3D"margin: 0; padding: 0; =
+color: #0d2f69;font-size: 11px; background-color: #FFFFFF;"><img  src=3D"ht=
+tp://fastart.nature.com/nature/nature-ealert-jobs-logo.gif" alt=3D"naturejo=
+bs.com" width=3D"237" height=3D"48"  /></p>                     <p style=3D=
+"margin: 0; padding: 1em; color: #0d2f69; background-color: #d6deec; paddin=
+g:1em; font-size: 12px; line-height: 0.5em; color:#0d2f69;"><strong><span s=
+tyle=3D"color:#b21a1a;">nature</span><span style=3D"color:#000;">jobs.com</=
+span> Science jobs of the week</strong></p></td>                 <td bgcolo=
+r=3D"#9DD1EB" width=3D"8">&nbsp;</td>             </tr>                  <t=
+r>                    <td bgcolor=3D"#A7DBF2" width=3D"8">&nbsp;</td>      =
+             <td align=3D"left"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Arial, sa=
+ns-serif;">                               <tr>                             =
+       <td width=3D"10">&nbsp;</td>                                    <td =
+style=3D"color: #00000; font-size: 11px;font-weight: bold;margin-bottom:0;"=
+><p style=3D"margin:0; padding:0; line-height: 1.6em;"><a name=3D"www_natur=
+e_com_naturejobs_scie" href=3D"http://links.ealert.nature.com/ctt?kn=3D14&m=
+s=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=
+=3D0" target=3D"_blank" style=3D"color:#00659a;" >Assistant Professor</a></=
+p></td>                                    <td width=3D"10">&nbsp;</td>    =
+                            </tr>                                          =
+                 <tr>                                    <td width=3D"10">&=
+nbsp;</td>                                    <td style=3D"color: #1A1A1A; =
+font-size: 11px;"><p style=3D"margin:0; padding:0;">Harvard Medical School&=
+nbsp;</p></td>                                    <td width=3D"10">&nbsp;</=
+td>                                </tr>                                   =
+                         <tr>                                    <td colspa=
+n=3D"3" height=3D"3" style=3D"font-size:1px">&nbsp;</td>                   =
+            </tr>                            </table></td>                 =
+  <td bgcolor=3D"#A7DBF2" width=3D"8">&nbsp;</td>               </tr>      =
+          <tr>                    <td bgcolor=3D"#9DD1EB" width=3D"8">&nbsp=
+;</td>                   <td align=3D"left"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-famil=
+y: Arial, sans-serif;">                               <tr>                 =
+                   <td width=3D"10">&nbsp;</td>                            =
+        <td style=3D"color: #00000; font-size: 11px;font-weight: bold;margi=
+n-bottom:0;"><p style=3D"margin:0; padding:0; line-height: 1.6em;"><a name=
+=3D"www_nature_com_naturejobs_1" href=3D"http://links.ealert.nature.com/ctt=
+?kn=3D8&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&m=
+t=3D1&rt=3D0" target=3D"_blank" style=3D"color:#00659a;" >Lecturer</a></p><=
+/td>                                    <td width=3D"10">&nbsp;</td>       =
+                         </tr>                                             =
+              <tr>                                    <td width=3D"10">&nbs=
+p;</td>                                    <td style=3D"color: #1A1A1A; fon=
+t-size: 11px;"><p style=3D"margin:0; padding:0;">Princeton University&nbsp;=
+</p></td>                                    <td width=3D"10">&nbsp;</td>  =
+                              </tr>                                        =
+                    <tr>                                    <td colspan=3D"=
+3" height=3D"3" style=3D"font-size:1px">&nbsp;</td>                        =
+       </tr>                            </table></td>                   <td=
+ bgcolor=3D"#9DD1EB" width=3D"8">&nbsp;</td>               </tr>           =
+     <tr>                    <td bgcolor=3D"#A7DBF2" width=3D"8">&nbsp;</td=
+>                   <td align=3D"left"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Ar=
+ial, sans-serif;">                               <tr>                      =
+              <td width=3D"10">&nbsp;</td>                                 =
+   <td style=3D"color: #00000; font-size: 11px;font-weight: bold;margin-bot=
+tom:0;"><p style=3D"margin:0; padding:0; line-height: 1.6em;"><a name=3D"ww=
+w_nature_com_naturejobs_2" href=3D"http://links.ealert.nature.com/ctt?kn=3D=
+9&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&=
+rt=3D0" target=3D"_blank" style=3D"color:#00659a;" >Assistant Professor</a>=
+</p></td>                                    <td width=3D"10">&nbsp;</td>  =
+                              </tr>                                        =
+                   <tr>                                    <td width=3D"10"=
+>&nbsp;</td>                                    <td style=3D"color: #1A1A1A=
+; font-size: 11px;"><p style=3D"margin:0; padding:0;">City of Hope&nbsp;</p=
+></td>                                    <td width=3D"10">&nbsp;</td>     =
+                           </tr>                                           =
+                 <tr>                                    <td colspan=3D"3" =
+height=3D"3" style=3D"font-size:1px">&nbsp;</td>                           =
+    </tr>                            </table></td>                   <td bg=
+color=3D"#A7DBF2" width=3D"8">&nbsp;</td>               </tr>              =
+  <tr>                    <td bgcolor=3D"#9DD1EB" width=3D"8">&nbsp;</td>  =
+                 <td align=3D"left"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-family: Arial=
+, sans-serif;">                               <tr>                         =
+           <td width=3D"10">&nbsp;</td>                                    =
+<td style=3D"color: #00000; font-size: 11px;font-weight: bold;margin-bottom=
+:0;"><p style=3D"margin:0; padding:0; line-height: 1.6em;"><a name=3D"www_n=
+ature_com_naturejobs_3" href=3D"http://links.ealert.nature.com/ctt?kn=3D10&=
+ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=
+=3D0" target=3D"_blank" style=3D"color:#00659a;" >Research Assistant</a></p=
+></td>                                    <td width=3D"10">&nbsp;</td>     =
+                           </tr>                                           =
+                <tr>                                    <td width=3D"10">&n=
+bsp;</td>                                    <td style=3D"color: #1A1A1A; f=
+ont-size: 11px;"><p style=3D"margin:0; padding:0;">University of Bristol&nb=
+sp;</p></td>                                    <td width=3D"10">&nbsp;</td=
+>                                </tr>                                     =
+                       <tr>                                    <td colspan=
+=3D"3" height=3D"3" style=3D"font-size:1px">&nbsp;</td>                    =
+           </tr>                            </table></td>                  =
+ <td bgcolor=3D"#9DD1EB" width=3D"8">&nbsp;</td>               </tr>       =
+         <tr>                    <td bgcolor=3D"#A7DBF2" width=3D"8">&nbsp;=
+</td>                   <td align=3D"left"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size: 16px;font-famil=
+y: Arial, sans-serif;">                               <tr>                 =
+                   <td width=3D"10">&nbsp;</td>                            =
+        <td style=3D"color: #00000; font-size: 11px;font-weight: bold;margi=
+n-bottom:0;"><p style=3D"margin:0; padding:0; line-height: 1.6em;"><a name=
+=3D"www_nature_com_naturejobs_4" href=3D"http://links.ealert.nature.com/ctt=
+?kn=3D17&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&=
+mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:#00659a;" >Director of Tech=
+nology</a></p></td>                                    <td width=3D"10">&nb=
+sp;</td>                                </tr>                              =
+                             <tr>                                    <td wi=
+dth=3D"10">&nbsp;</td>                                    <td style=3D"colo=
+r: #1A1A1A; font-size: 11px;"><p style=3D"margin:0; padding:0;">Royal Pharm=
+aceutical Society&nbsp;</p></td>                                    <td wid=
+th=3D"10">&nbsp;</td>                                </tr>                 =
+                                           <tr>                            =
+        <td colspan=3D"3" height=3D"3" style=3D"font-size:1px">&nbsp;</td> =
+                              </tr>                            </table></td=
+>                   <td bgcolor=3D"#A7DBF2" width=3D"8">&nbsp;</td>        =
+       </tr>                                        <tr>                 <t=
+d bgcolor=3D"#9DD1EB" width=3D"8">&nbsp;</td>                              =
+                  <td align=3D"left"><p style=3D"margin: 0; padding: 1em; c=
+olor: #0d2f69; background-color: #ECECEC; padding: 0.5em 1em; font-size: 11=
+px; line-height: 1.6em;">No matter what your career stage, student, postdoc=
+ or senior scientist, you will find articles on <a name=3D"www_naturejobs_c=
+om" href=3D"http://links.ealert.nature.com/ctt?kn=3D40&ms=3DNDY3Njc0MDcS1&r=
+=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color=
+: #000000;font-weight:bold;" target=3D"_blank" >naturejobs.com</a> to help =
+guide you in your science career. Keep up-to-date with the latest sector tr=
+ends, vote in our <a name=3D"www_nature_com_naturejobs_news" href=3D"http:/=
+/links.ealert.nature.com/ctt?kn=3D7&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS=
+1&b=3D0&j=3DNTAyNDIwMDk3S0&mt=3D1&rt=3D0" target=3D"_blank" style=3D"color:=
+ #222A35;font-weight:bold;" >reader poll</a> and sign-up to receive the mon=
+thly <a name=3D"www_nature_com_nams_svc_myacco" href=3D"http://links.ealert=
+.nature.com/ctt?kn=3D18&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3D=
+NTAyNDIwMDk3S0&mt=3D1&rt=3D0" style=3D"color: #000000;font-weight:bold;" ta=
+rget=3D"_blank" ><em>Naturejobs</em> newsletter</a>.</p></td>              =
+  <td bgcolor=3D"#9DD1EB" width=3D"8">&nbsp;</td>             </tr>        =
+     <tr>                 <td bgcolor=3D"#9DD1EB" colspan=3D"3" height=3D"9=
+" style=3D"font-size:7px">&nbsp;</td>                                      =
+       </tr>         </table></td>     <td width=3D"35">&nbsp;</td> </tr>  =
+<!-- End of Career jobs -->  =09=09    <tr> =09=09        <td colspan=3D"3"=
+ height=3D"10" style=3D"font-size:1px;">&nbsp;</td>         =09=09    </tr>=
+ =09=09    <tr> =09=09        <td colspan=3D"3" height=3D"10" style=3D"font=
+-size:1px;">&nbsp;</td>         =09=09    </tr>     =09=09    <!-- Footer -=
+-> =09=09    <tr>  =09=09        <td width=3D"35">&nbsp;</td>         =09=
+=09        <td height=3D"9" bgcolor=3D"#8B181B">&nbsp;</td> =09=09        <=
+td width=3D"35">&nbsp;</td>         =09=09    </tr> =09=09    <tr> =09=09  =
+      <td width=3D"35">&nbsp;</td> =09=09        <td style=3D"font-size: 10=
+px;"><table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0"> =09=09                <tr> =09=09                    <td=
+ style=3D"text-align:left;"><font face=3D"Verdana, Arial, Helvetica, sans-s=
+erif" size=3D"1"> =09 =09=09=09 =09=09=09=09=09<p>Your email address is in =
+the Nature News Weekly Alert mailing list.</p> =09 =09=09                  =
+       <p>You have been sent this Table of Contents Alert because you have =
+opted in to receive it. You can change or discontinue your e-mail alerts at=
+ any time, by modifying your preferences on your nature.com account at: <a =
+name=3D"www_nature_com_nams_svc_m_1" href=3D"http://links.ealert.nature.com=
+/ctt?kn=3D32&ms=3DNDY3Njc0MDcS1&r=3DNzk5MDM0MjkyNDYS1&b=3D0&j=3DNTAyNDIwMDk=
+3S0&mt=3D1&rt=3D0" style=3D"color:#8B181B" >www.nature.com/nams/svc/myaccou=
+nt</a><br /> =09=09                        (You will need to log in to be r=
+ecognised as a nature.com registrant).</p>  =09=09                       <p=
+>For further technical assistance, please contact <a name=3D"subscriptions_=
+nature_com" href=3D"mailto:subscriptions@nature.com" style=3D"color:#8B181B=
+" >subscriptions@nature.com</a></p>  =09=09                       <p>For pr=
+int subscription enquiries, please contact <a name=3D"feedback_nature_com" =
+href=3D"mailto:feedback@nature.com" style=3D"color:#8B181B" >feedback@natur=
+e.com</a></p> =09=09                    </font></td>  =09=09               =
+ </tr> =09=09                <tr> =09=09                    <td align=3D"le=
+ft" width=3D"100%" style=3D"text-align:left;"><font face=3D"Verdana, Arial,=
+ Helvetica, sans-serif" size=3D"1"> =09=09                       <p>Nature =
+Publishing Group | 75 Varick Street, 9th floor | New York | NY 10013-1917 |=
+ USA<br /><br />  =09=09                        Nature Publishing Group's o=
+ffices: <br /> =09=09                        Principal offices: London - Ne=
+w York - Tokyo<br /> =09=09                       =09Worldwide offices: Bas=
+ingstoke - Boston - Buenos Aires - Delhi - Hong Kong - Madrid - Melbourne -=
+ Munich - Paris - San Francisco - Seoul - Washington DC</p> =09=09=09 =09=
+=09=09=09=09<p>Macmillan Publishers Limited is a company incorporated in En=
+gland and Wales under company number 785998 and whose registered office is =
+located at Brunel Road, Houndmills, Basingstoke, Hampshire RG21 6XS.</p> =
+=09=09=09=09=09<p>&copy; 2014 Nature Publishing Group, a division of Macmil=
+lan Publishers Limited. All Rights Reserved.</p> =09=09=09 =09=09=09=09=09<=
+/font></td> =09=09                </tr>  =09=09 =09=09=09=09=09=09</table><=
+/td> =09=09=09=09=09  </tr>  =09=09           </table> =09=09=09<!--
+=09=09            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"9" w=
+idth=3D"643" style=3D"font-size: 16px;font-family: Arial, sans-serif;">
+=09=09                <tr align=3D"center">
+=09=09                    <td style=3D"font-size: 10px;"><p style=3D"margin=
+:0; padding:0; line-height: 1.5em">If you wish to unsubscribe <a   name=3D"=
+_LINKME" href=3D"#LINKME" target=3D"_blank" style=3D"color: #515151;"><stro=
+ng>click here</strong></a></p>
+=09=09                        <p style=3D"margin:0; padding:0; line-height:=
+ 1.5em">&#169; Copyright 2010 Nature Publishing Group, a division of Macmil=
+lan Publishers Limited. All Rights Reserved. Partner of AGORA, HINARI, OARE=
+, INASP, CrossRef and COUNTER 4 Crinan St,London N1 9XW, UK</p>
+=09=09                    </td>
+=09=09                </tr>
+=09=09            </table>
+=09=09        --> =09=09=09=09</center></td>  =09=09        <td width=3D"35=
+">&nbsp;</td>         =09=09    </tr>     =09=09    <!-- End of Footer --> =
+=09=09</table> =09=09<!-- End Outer containing table -->  =09 =09      <!--=
+ end super table --> <!-- statse.webtrendslive.com --><IMG src=3D"http://li=
+nks.ealert.nature.com/open/log/46767407/Nzk5MDM0MjkyNDYS1/0/NTAyNDIwMDk3S0/=
+1/0"></body></html>
+
+
+------=_Part_232185_768893015.1408455512024--
+

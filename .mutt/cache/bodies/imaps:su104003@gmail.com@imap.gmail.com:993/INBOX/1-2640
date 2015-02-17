@@ -1,0 +1,346 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp60932qdc;
+        Tue, 29 Jul 2014 15:59:32 -0700 (PDT)
+X-Received: by 10.195.12.97 with SMTP id ep1mr390805wjd.26.1406674771904;
+        Tue, 29 Jul 2014 15:59:31 -0700 (PDT)
+Return-Path: <bo-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com>
+Received: from 106-250.mta.dotmailer.com (106-250.mta.dotmailer.com. [94.143.106.250])
+        by mx.google.com with ESMTP id dw12si721494wjb.138.2014.07.29.15.59.31
+        for <su104003@gmail.com>;
+        Tue, 29 Jul 2014 15:59:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bo-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com designates 94.143.106.250 as permitted sender) client-ip=94.143.106.250;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bo-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com designates 94.143.106.250 as permitted sender) smtp.mail=bo-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com;
+       dkim=pass header.i=@connect.asana.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=connect.asana.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim1024; d=connect.asana.com;
+ h=From:To:Subject:MIME-Version:Content-Type:Date:List-Unsubscribe:Reply-To:Message-ID; i=news@connect.asana.com;
+ bh=/0yAQBJIhwo5HFVc9R7J5l7QlxA=;
+ b=OEBcZTIxY4twHOVffsD+LWWJ1dEa0IDvl4D3P/I6rg+K0O8d3rIxaqnar4xaGuol4RpEw4P/5sg3
+   g9glQlxUqDjffhKCM02PmBhZHmFerq37fVCCCUW9QJTbI6ULsKcvYnspZjki4jUHIm57+fohcEoX
+   WR3bRV1xXX3l1cEOmfY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim1024; d=connect.asana.com;
+ b=Ny65BciJvf9/uzYwO+Fw4M4mMda6tuIxfGrBTYJ5iLmEFB7UvYfylfX2n53jt4zOUoqtryBLprL6
+   0RrNTFulaAvnbCJbM/neHnsKq0IaAQpPuRZZIUeR9rNJHHTt5VzUcJbIGgenmI2bPj/fPWI/OD4k
+   wQCBZOB0VfwSGrJU1V8=;
+From: "Asana" <news@connect.asana.com> 
+To: "su104003@gmail.com" <su104003@gmail.com>
+Subject: New Asana app for iPhone & iPad!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="23EAUAIJ11:20140729214232368"
+X-Mailer: dmDroid
+Date: Tue, 29 Jul 2014 13:42:32 -0700
+X-CampaignID: JRKGQ
+X-dmid: 1L9Q-2MPCC-EAUAIJ
+List-Unsubscribe: <http://connect.asana.com/1L9Q-2MPCC-23EAUAIJ11/uauto.a
+	spx>
+Bounces-to: bo-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com
+Return-Path: bo-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com
+Reply-To: "Asana" <re-1L9Q-2MPCC-EAUAIJ-BZOR0@connect.asana.com>
+Message-ID: <2MPCC.23EAUAIJ11.20140729214232368@connect.asana.com>
+
+--23EAUAIJ11:20140729214232368
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+New iOS app, available now
+
+We've completely redesigned the app for a faster, native experience on yo=
+ur iPhone & iPad. Now, do more with your team=E2=80=94from everywhere you=
+ work. ( http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-16VCES-0/c.aspx )
+
+Download the app: ( http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-16VCET-0/c=
+.aspx )
+
+Today is just the beginning. We're working on new mobile experiences, inc=
+luding Android ( http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-16VCES-0/c.as=
+px ).
+
+
+Visit Asana: ( http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-15YB0L-0/c.aspx=
+ )
+
+Connect with us on Facebook: ( http://connect.asana.com/1L9Q-2MPCC-EAUAIJ=
+-15YB0F-0/c.aspx )
+
+Follow us on Twitter: ( http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-15YB0H=
+-0/c.aspx )
+
+You are currently signed up to Asana's newsletters as: su104003@gmail.com=
+. To unsubscribe click here http://connect.asana.com/1L9Q-2MPCC-23EAUAIJ1=
+1/uns.aspx
+
+Asana 1550 Bryant Street, San Francisco, CA 94103
+
+--23EAUAIJ11:20140729214232368
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<title>New Asana app for iPhone & iPad!</title></head>
+<body>
+<!-- Easy Editor -->=0A<table style=3D"width: 100%; table-layout: auto;" =
+align=3D"center">=0A<tbody><tr>=0A=0A<td align=3D"center">=0A<table style=
+=3D"max-width: 600px; margin: 0px; padding-top: 0px;padding-right: 0px;pa=
+dding-bottom: 0px;padding-left: 0px; -webkit-font-smoothing: antialiased;=
+ font-size: 14px; border-top: 0px;border-right: 0px;border-bottom: 0px;bo=
+rder-left: 0px; border-collapse: collapse; display: block; text-align: ce=
+nter; table-layout: auto;">=0A=0A<!-- -------   top header   ---------- -=
+->=0A<tbody><tr>=0A    <td style=3D"margin:0px; padding-top: 0px;padding-=
+right: 0px;padding-bottom: 0px;padding-left: 0px;">=0A=0A        <table b=
+order=3D"0" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D";=
+ table-layout: auto;">=0A            <tbody><tr>=0A                <td he=
+ight=3D"30"></td>=0A            </tr>=0A            <tr>=0A              =
+  <td width=3D"100%" align=3D"center" valign=3D"top">=0A=0A=0A           =
+         <table border=3D"0" style=3D"width: 100%; max-width: 600px; tabl=
+e-layout: auto;" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=
+                        <tbody><tr style=3D"padding-top: 0px;padding-righ=
+t: 0px;padding-bottom: 0px;padding-left: 0px; margin:0px;">=0A           =
+                 <td style=3D"padding-top: 0px;padding-right: 0px;padding=
+-bottom: 0px;padding-left: 0px; margin: 0px; display: block; line-height:=
+ 1px; border-top: 0px;border-right: 0px;border-bottom: 0px;border-left: 0=
+px; font-size: 1px;"><img style=3D"display: block; line-height: 50%; widt=
+h: 600px; max-width: 600px; padding-top: 0px;padding-right: 0px;padding-b=
+ottom: 0px;padding-left: 0px; margin: 0px; height: auto;" src=3D"https://=
+i.emlfiles.com/cmpimg/2/2/2/4/7/files/5008751_n2vrh3rr27_q_9zlfmqht6dkne9=
+5zmdm35qnldp8ui.png" alt=3D"" class=3D"ee_noresize ee_editable" width=3D"=
+600" height=3D"82"></td>=0A                        </tr>=0A=0A           =
+         </tbody></table>=0A                    <table border=3D"0" style=
+=3D"width: 100%; max-width: 600px; table-layout: auto;" cellpadding=3D"0"=
+ cellspacing=3D"0" align=3D"center">=0A                        <tbody><tr=
+ bgcolor=3D"#1e8cd4" style=3D"padding-top: 0px;padding-right: 0px;padding=
+-bottom: 0px;padding-left: 0px; margin:0px; background-color:#1e8cd4; bor=
+der-top:0px;border-right:0px;border-bottom:0px;border-left:0px; ">=0A    =
+                        <td style=3D"padding-top: 0px;padding-right: 0px;=
+padding-bottom: 0px;padding-left: 0px; margin:0px; background-color:#1e8c=
+d4; border-top:0px;border-right:0px;border-bottom:0px;border-left:0px; ">=
+=0A                             <table border=3D"0" align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"padding-top: 0px;padding-right: =
+20px;padding-bottom: 0px;padding-left: 20px; margin: 0px; width: 100%; ta=
+ble-layout: auto;">=0A                                    <tbody><tr>=0A =
+                                       <td align=3D"center" class=3D""><d=
+iv class=3D"ee_editable" style=3D"position: static;"><h1 style=3D"color: =
+rgb(255, 255, 255); font-weight: 100; font-family: Helvetica, Arial, sans=
+-serif; padding-top: 0px; text-align: center;"><span style=3D"font-size: =
+34px;"><font style=3D"font-size: 30px;">Designed for teamwork. Built for =
+iOS.</font></span></h1></div></td>=0A                                    =
+</tr>=0A                                    <tr>=0A                      =
+                  <td height=3D"10"></td>=0A                             =
+       </tr>=0A                                </tbody></table>=0A       =
+                     </td>=0A                        </tr>=0A            =
+        </tbody></table>=0A                </td>=0A            </tr>=0A  =
+      </tbody></table>=0A=0A    </td>=0A</tr>=0A<!-- --------  end top he=
+ader  ---------- -->=0A=0A=0A=0A<tr>=0A    <td align=3D"left" style=3D"pa=
+dding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; =
+margin:0px; border-top: none;border-right: none;border-bottom: none;borde=
+r-left: none; background-color:#f5f5f5" class=3D"ee_dropzone"><table widt=
+h=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"ee_e=
+lement" style=3D"width: 600px; table-layout: auto;">=0A			            <tb=
+ody><tr>=0A                             <td style=3D"padding-top: 0px;pad=
+ding-right: 0px;padding-bottom: 0px;padding-left: 0px; width: 600px;"><a =
+href=3D"http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-16VADT-1/c.aspx"><img =
+border=3D"0" src=3D"https://i.emlfiles.com/cmpimg/2/2/2/4/7/files/imageca=
+che/4418508/w600_5024585_video.jpg" class=3D"ee_editable vedpw600" style=3D=
+"display: block; width: 600px; height: 337px;" width=3D"600" height=3D"33=
+7"></a></td>=0A			            </tr>=0A                    </tbody></table=
+><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+lass=3D"ee_element ee_spacer" style=3D"width: 600px; table-layout: auto;"=
+>=0A                        <tbody><tr>=0A                            <td=
+ style=3D"font-size: 1px; padding-top: 0px;padding-right: 0px;padding-bot=
+tom: 0px;padding-left: 0px; width: 600px;"><img src=3D"https://i.emlfiles=
+.com/cmpimg/t/s.gif" style=3D"display:block " alt=3D"" width=3D"10" heigh=
+t=3D"20"></td>=0A                        </tr>=0A                    </tb=
+ody></table><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"ee_element ee_spacer" style=3D"width: 600px; table-lay=
+out: auto;">=0A                        <tbody><tr>=0A                    =
+        <td style=3D"font-size: 1px; padding-top: 0px;padding-right: 0px;=
+padding-bottom: 0px;padding-left: 0px; width: 600px;"><img src=3D"https:/=
+/i.emlfiles.com/cmpimg/t/s.gif" style=3D"display:block " alt=3D"" width=3D=
+"10" height=3D"20"></td>=0A                        </tr>=0A              =
+      </tbody></table><table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" class=3D"ee_columns ee_element" data-title=3D"2 colum=
+ns" data-edit=3D"columns" style=3D"width: 600px; position: relative; tabl=
+e-layout: auto;">=0A                      <tbody><tr>=0A                 =
+       <td width=3D"53%" valign=3D"top" class=3D"ee_dropzone ved-scaled-c=
+ols" style=3D"padding-top: 0px;padding-right: 0px;padding-bottom: 0px;pad=
+ding-left: 0px; width: 313px;" align=3D"left"><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"ee_element" style=3D=
+"width: 313px; table-layout: auto;">=0A			            <tbody><tr>=0A     =
+                    <td style=3D"padding-right: 0px; padding-left: 36px; =
+padding-bottom: 0px; width: 277px;" class=3D""><img border=3D"0" alt=3D""=
+ src=3D"https://i.emlfiles.com/cmpimg/2/2/2/4/7/files/5019134_task_animat=
+ion1.gif" class=3D"ee_editable ee_pnggif_image vedpw277" style=3D"display=
+: block; width: 250px; height: 282px;" width=3D"250" height=3D"282"></td>=
+=0A			            </tr>=0A                    </tbody></table></td>=0A   =
+                     <td width=3D"8" valign=3D"top" style=3D"padding-top:=
+ 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; width: 9px=
+;" class=3D"eegap"><img src=3D"https://i.emlfiles.com/cmpimg/t/s.gif" sty=
+le=3D"display:block " height=3D"10" width=3D"8"></td>=0A                 =
+       <td width=3D"47%" valign=3D"top" class=3D"ee_dropzone ved-scaled-c=
+ols" style=3D"padding-top: 0px;padding-right: 0px;padding-bottom: 0px;pad=
+ding-left: 0px; width: 278px;" align=3D"left"><table width=3D"100%" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ee_element ee_spacer=
+" style=3D"width: 278px; table-layout: auto;">=0A                        =
+<tbody><tr>=0A                            <td style=3D"font-size: 1px; pa=
+dding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; =
+width: 278px;"><img src=3D"https://i.emlfiles.com/cmpimg/t/s.gif" style=3D=
+"display:block " alt=3D"" width=3D"10" height=3D"15"></td>=0A            =
+            </tr>=0A                    </tbody></table><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" class=3D"ee_element" style=3D"padd=
+ing-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; ma=
+rgin: 0px; border-top: none;border-right: none;border-bottom: none;border=
+-left: none; table-layout: auto;">=0A                        <tbody><tr>=0A=
+                            <td class=3D"" style=3D"color: rgb(59, 71, 77=
+); font-size: 28px; line-height: 36px; font-weight: normal; font-family: =
+Helvetica, Arial, sans-serif; padding-top: 0px;padding-right: 36px;paddin=
+g-bottom: 0px;padding-left: 0px;"><div class=3D"ee_editable"><span style=3D=
+"font-size: 21px; line-height: 24px;"><b><font style=3D"font-size: 17px;"=
+>New iOS app, available now</font></b></span></div></td>=0A              =
+          </tr>=0A                    </tbody></table><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" class=3D"ee_element" style=3D"paddin=
+g-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; marg=
+in: 0px; border-top: none;border-right: none;border-bottom: none;border-l=
+eft: none; table-layout: auto;">=0A                        <tbody><tr>=0A=
+                         <td style=3D"color: #666e73; line-height: 21px; =
+font-size: 15px; font-weight: normal; font-family: Helvetica, Arial, sans=
+-serif; padding-top:5px; padding-right:36px;" class=3D""><div class=3D"ee=
+_editable" style=3D"position: static;"><font style=3D"font-size: 14px;">W=
+e've completely redesigned the app for a faster, native experience on you=
+r iPhone &amp; iPad. Now, do more with your team=E2=80=94everywhere you w=
+ork.</font></div></td>=0A                        </tr>=0A                =
+    </tbody></table><table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" class=3D"ee_element ee_spacer" style=3D"width: 278px; t=
+able-layout: auto;">=0A                        <tbody><tr>=0A            =
+                <td style=3D"font-size: 1px; padding-top: 0px;padding-rig=
+ht: 0px;padding-bottom: 0px;padding-left: 0px; width: 278px;"><img src=3D=
+"https://i.emlfiles.com/cmpimg/t/s.gif" style=3D"display:block " alt=3D""=
+ width=3D"10" height=3D"15"></td>=0A                        </tr>=0A     =
+               </tbody></table><table width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"ee_element" style=3D"width: 278px; =
+table-layout: auto;">=0A			            <tbody><tr>=0A                    =
+         <td style=3D"padding-top: 0px;padding-right: 0px;padding-bottom:=
+ 0px;padding-left: 0px; width: 278px;" class=3D""><a href=3D"http://conne=
+ct.asana.com/1L9Q-2MPCC-EAUAIJ-16VADU-1/c.aspx"><img border=3D"0" alt=3D"=
+" src=3D"https://i.emlfiles.com/cmpimg/2/2/2/4/7/files/imagecache/4418508=
+/w136_5019200_ios_button.jpg" class=3D"ee_editable vedpw278" style=3D"dis=
+play: block; width: 136px; height: 40px;" align=3D"left" width=3D"136" he=
+ight=3D"40"></a></td>=0A			            </tr>=0A                    </tbod=
+y></table><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" class=3D"ee_element ee_spacer" style=3D"width: 278px; table-layou=
+t: auto;">=0A                        <tbody><tr>=0A                      =
+      <td style=3D"font-size: 1px; padding-top: 0px;padding-right: 0px;pa=
+dding-bottom: 0px;padding-left: 0px; width: 278px;"><img src=3D"https://i=
+.emlfiles.com/cmpimg/t/s.gif" style=3D"display:block " alt=3D"" width=3D"=
+10" height=3D"15"></td>=0A                        </tr>=0A               =
+     </tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"ee_element" style=3D"padding-top: 0px;padding-right: 0px;pad=
+ding-bottom: 0px;padding-left: 0px; margin: 0px; border-top: none;border-=
+right: none;border-bottom: none;border-left: none; table-layout: auto;">=0A=
+                        <tbody><tr>=0A                         <td style=3D=
+"color: #666e73; line-height: 18px; font-size: 11px; font-weight: normal;=
+ font-family: Helvetica, Arial, sans-serif; padding-top:5px; padding-righ=
+t:36px;" class=3D""><div class=3D"ee_editable">Today is just the beginnin=
+g. We're working on <font style=3D"text-decoration: underline;"><a href=3D=
+"http://connect.asana.com/1L9Q-2MPCC-EAUAIJ-16VADT-1/c.aspx" style=3D"col=
+or: rgb(0, 136, 255); text-decoration: underline;">new mobile experiences=
+</a></font>, including Android.</div></td>=0A                        </tr=
+>=0A                    </tbody></table><table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" class=3D"ee_element ee_spacer" styl=
+e=3D"width: 278px; table-layout: auto;">=0A                        <tbody=
+><tr>=0A                            <td style=3D"font-size: 1px; padding-=
+top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; width:=
+ 278px;"><img src=3D"https://i.emlfiles.com/cmpimg/t/s.gif" style=3D"disp=
+lay:block " alt=3D"" width=3D"10" height=3D"4"></td>=0A                  =
+      </tr>=0A                    </tbody></table></td>=0A               =
+       </tr>=0A                    </tbody></table>=0A        =0A=0A    <=
+/td>=0A</tr>=0A=0A=0A=0A<!-- ---------- main section ---------- -->=0A<tr=
+>=0A<td bgcolor=3D"#ececec" style=3D"background-color: #ececec; padding-t=
+op: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; margin:=
+0px;">=0A<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"width: 100%; max-width: 560px; padding-left: 18px; padd=
+ing-right: 18px; table-layout: auto;">=0A=0A<tbody><tr>=0A    <td class=3D=
+"ee_dropzone" align=3D"left" style=3D"padding-top: 0px;padding-right: 0px=
+;padding-bottom: 0px;padding-left: 0px;">=0A=0A=0A        =0A=0A        =0A=
+=0A        =0A=0A        =0A=0A        =0A=0A=0A=0A=0A=0A=0A        =0A=0A=
+=0A        =0A=0A        =0A=0A=0A=0A    </td>=0A</tr>=0A=0A=0A=0A</tbody=
+></table>=0A</td>=0A</tr>=0A<!-- ------- end main section ------- -->=0A=0A=
+<tr>=0A    <td class=3D"ee_dropzone" style=3D"margin:0px; padding-top: 0p=
+x;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;" align=3D"lef=
+t">=0A        =0A    </td>=0A</tr>=0A=0A=0A<tr style=3D"margin:0px; paddi=
+ng-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;">=0A=
+    <td style=3D"margin:0px; padding-top: 0px;padding-right: 0px;padding-=
+bottom: 0px;padding-left: 0px;">=0A        <table border=3D"0" width=3D"1=
+00%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"paddin=
+g-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px; marg=
+in: 0px; border-top: none;border-right: none;border-bottom: none;border-l=
+eft: none; border-spacing: 0px; table-layout: auto;">=0A=0A            <t=
+body><tr bgcolor=3D"#1e8cd4">=0A                <td align=3D"left" style=3D=
+"padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left:=
+ 20px; padding-bottom: 0px;">=0A=0A=0A                    <a href=3D"http=
+://connect.asana.com/1L9Q-2MPCC-EAUAIJ-15YB0M-1/c.aspx" style=3D"display:=
+ block; border-style: none !important; border-top: 0 !important;border-ri=
+ght: 0 !important;border-bottom: 0 !important;border-left: 0 !important; =
+padding-top:5px;"><img src=3D"https://s3.amazonaws.com/asana_email/visual=
+_redesign/asana.png" width=3D"88" height=3D"24" class=3D"ee_noresize"></a=
+>=0A=0A                </td>=0A                <td align=3D"right" style=3D=
+"padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left:=
+ 20px; padding-bottom: 0px;border-spacing:0; ">=0A=0A=0A                 =
+   <table border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"border-spacing: 0px; padding-top: 0px;padding-right: 0px;paddi=
+ng-bottom: 0px;padding-left: 0px; margin: 0px; border-top: none;border-ri=
+ght: none;border-bottom: none;border-left: none; border-collapse: collaps=
+e; table-layout: auto;">=0A                        <tbody><tr>=0A=0A     =
+                       <td style=3D"padding-top: 0px;padding-right: 0px;p=
+adding-bottom: 0px;padding-left: 0px; margin:0px">=0A                    =
+         <a style=3D"display: block; width: 24px; border-style: none !imp=
+ortant; border-top: 0 !important;border-right: 0 !important;border-bottom=
+: 0 !important;border-left: 0 !important;" href=3D"http://connect.asana.c=
+om/1L9Q-2MPCC-EAUAIJ-15YB0G-1/c.aspx"><img editable=3D"true" width=3D"24"=
+ height=3D"24" border=3D"0" style=3D"display: block; padding-top:5px;line=
+-height: 50%;border-spacing:0; border-top: none;border-right: none;border=
+-bottom: none;border-left: none; " src=3D"https://s3.amazonaws.com/asana_=
+email/visual_redesign/facebook-white.png" alt=3D"facebook" class=3D"ee_no=
+resize"></a>=0A                            </td>=0A                      =
+      <td style=3D"padding-top: 0px;padding-right: 0px;padding-bottom: 0p=
+x;padding-left: 0px; margin:0px">&nbsp;&nbsp;&nbsp;</td>=0A              =
+              <td style=3D"padding-top: 0px;padding-right: 0px;padding-bo=
+ttom: 0px;padding-left: 0px; margin:0px">=0A                             =
+<a style=3D"display: block; width: 24px; border-style: none !important; b=
+order-top: 0 !important;border-right: 0 !important;border-bottom: 0 !impo=
+rtant;border-left: 0 !important;" href=3D"http://connect.asana.com/1L9Q-2=
+MPCC-EAUAIJ-15YB0I-1/c.aspx"><img editable=3D"true" width=3D"24" height=3D=
+"24" border=3D"0" style=3D"display: block; padding-top:5px;line-height: 5=
+0%;border-spacing:0; border-top:none;border-right:none;border-bottom:none=
+;border-left:none;" src=3D"https://s3.amazonaws.com/asana_email/visual_re=
+design/twitter-white.png" alt=3D"twitter" class=3D"ee_noresize"></a>=0A  =
+                          </td>=0A=0A                        </tr>=0A    =
+                </tbody></table>=0A=0A                </td>=0A           =
+ </tr>=0A=0A        </tbody></table>=0A    </td>=0A=0A=0A</tr>=0A<tr styl=
+e=3D"margin:0px; padding-top: 0px;padding-right: 0px;padding-bottom: 0px;=
+padding-left: 0px;">=0A=0A    <td style=3D"line-height: 10px; margin:0px;=
+ padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0p=
+x;"><img style=3D"display: block; line-height: 50%; height: 20px !importa=
+nt;" src=3D"https://s3.amazonaws.com/asana_email/visual_redesign/bottom-f=
+ooter-bg.png" width=3D"100%" class=3D"ee_noresize" height=3D"10" alt=3D""=
+></td>=0A=0A</tr>=0A=0A<tr>=0A    <td align=3D"center" style=3D"color: #5=
+95b5b; font-size: 10px; font-weight: normal; font-family: Helvetica, Aria=
+l, sans-serif; background-color: #FFFFFF; padding-bottom:40px;">=0A      =
+  You are currently signed up to Asana's newsletters as: <span style=3D"c=
+olor: #595B5B">su104003@gmail.com</span>. To=0A        unsubscribe <a sty=
+le=3D"color: #595B5B;" href=3D"http://connect.asana.com/1L9Q-2MPCC-23EAUA=
+IJ11/uns.aspx">click=0A        here</a><br><strong>Asana</strong>=0A     =
+   1550 Bryant Street, San Francisco, CA 94103</td>=0A</tr>=0A=0A=0A</tbo=
+dy></table>=0A=0A=0A</td>=0A</tr>=0A=0A=0A</tbody></table><img src=3D"htt=
+ps://t.trackedlink.net/1L9Q-2MPCC-EAUAIJ/o.gif" width=3D"1" height=3D"1" =
+alt=3D"" style=3D"display:block;"></img><font color=3D"#338AD2BB"></font>=
+
+</body></html>
+
+--23EAUAIJ11:20140729214232368--
+

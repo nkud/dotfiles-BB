@@ -1,0 +1,353 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.188.6 with SMTP id m6csp32385vkf;
+        Wed, 29 Oct 2014 17:06:36 -0700 (PDT)
+X-Received: by 10.107.148.200 with SMTP id w191mr15512654iod.28.1414627596670;
+        Wed, 29 Oct 2014 17:06:36 -0700 (PDT)
+Return-Path: <bounces+333274-c125-su104003=gmail.com@email.ifttt.com>
+Received: from o1.email.ifttt.com (o1.email.ifttt.com. [173.193.133.29])
+        by mx.google.com with ESMTPS id v20si19156399igr.45.2014.10.29.17.06.36
+        for <su104003@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Oct 2014 17:06:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+333274-c125-su104003=gmail.com@email.ifttt.com designates 173.193.133.29 as permitted sender) client-ip=173.193.133.29;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+333274-c125-su104003=gmail.com@email.ifttt.com designates 173.193.133.29 as permitted sender) smtp.mail=bounces+333274-c125-su104003=gmail.com@email.ifttt.com;
+       dkim=pass header.i=@email.ifttt.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.ifttt.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	s=smtpapi; bh=X4eqpMtJNJNJxMy+V7OS4koxZJQ=; b=JxiO3JMMP7Ey4JmxBy
+	Z1hU4P0ewfkqgFQabRIHIniWgAt5RA6epDa/jll+jZ0bwSG45KAlBOSbFy0LAIKc
+	FJWB/Uo8XfuQ/ycsKhzGUKNQSQCaZ2SBpNaYQFuBTza5ZIn+AmRhe4X4cABLX+Sq
+	RQZzfyD4c3+f1e41UQsX009Pw=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=X4eqpMtJNJNJxMy+V7OS4koxZJQ=; b=yd/AUZCx88U+cqIjfy
+	hSfL/2AXvOszeRvaGNVbWo95h6PcOq+TDL0C9jO6SscNrykBwksCyL76Tip394FK
+	DNdYtGRNzf5SLGEtAD5mQ/ipdFYhok4XLWVTOSVhT6tm2c3VojXwd1x1erHaOtE2
+	hUriafHofln61nqZGL/hQes7E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=ifttt.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	q=dns; s=smtpapi; b=IGwuwMSfjOT6kiHI9KqdryYBt8DHgmd4XK6S3pc6NecT
+	nRpFkwGZdpONaQ2kbBpHj3bnk9WG87CuA5uiFCCHEpiV0IAFVZeCEWZFAl7Y9MBO
+	ao3skN53ah3AOiYgfl8gsekoc3Q+7CLMsXuUVhdDAuv1Ew7uzHCdNcDIMUlJL/o=
+Received: by filter-167.sjc1.sendgrid.net with SMTP id filter-167.15200.545157644
+        2014-10-29 21:08:52.695961762 +0000 UTC
+Received: from MzMzMjc0 (unknown [10.42.83.122])
+	by ismtpd-035.sjc1.sendgrid.net (SG) with HTTP id 1495dbd614a.1dad.40866e
+	for <newsletter@ifttt.com>; Wed, 29 Oct 2014 21:08:52 +0000 (GMT)
+Content-Type: multipart/alternative;
+	boundary="===============1566521577445799800=="
+MIME-Version: 1.0
+From: IFTTT Newsletter <newsletter@ifttt.com>
+To: su104003@gmail.com
+Reply-To: newsletter@ifttt.com
+Subject: 3 Great Recipe Collections for October
+Message-ID: <1495dbd614a.1dad.40866e@ismtpd-035.sjc1.sendgrid.net>
+Date: Wed, 29 Oct 2014 21:08:52 +0000 (UTC)
+List-Unsubscribe: <http://email.ifttt.com/wf/unsubscribe?upn=QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2GaO-2FQEd-2FmIr3fgb0yAjNJIBtjlOpWnBQePxDFA9kvnZAxsgk2G5C3eKAR9cLYAbQ05K7rwQYW6Z88L1SWAHZnAKzH7NY-2BlejBPiXF7pjXuFBthWy-2BjS99KxwULvjD7-2FtH4umpZkpDxdd8EOibwnNyrVo8tSjihrLPeNEbTGrZtWH2Gcl9xIs4S5P9b45Sd9uGqQPWP3-2FpR-2BNlyeaelvIr6e0wdT9s-2FPza674l4mt7o5g6MkpamzWia-2ByMkgE38z03qUbHzIH13fJCLlcdGebJjG0NfTr6-2FK76N0WnsPNxLiGdFS1912qdKBPvjC3Z2-2FqwR>, <mailto:unsubscribe@email.ifttt.com?subject=http://email.ifttt.com/wf/unsubscribe*q*upn=QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2GaO-2FQEd-2FmIr3fgb0yAjNJIBtjlOpWnBQePxDFA9kvnZAxsgk2G5C3eKAR9cLYAbQ05K7rwQYW6Z88L1SWAHZnAKzH7NY-2BlejBPiXF7pjXuFBthWy-2BjS99KxwULvjD7-2FtH4umpZkpDxdd8EOibwnNyrVo8tSjihrLPeNEbTGrZtWH2Gcl9xIs4S5P9b45Sd9uGqQPWP3-2FpR-2BNlyeaelvIr6e0wdT9s-2FPza674l4mt7o5g6MkpamzWia-2ByMkgE38z03qUbHzIH13fJCLlcdGebJjG0NfTr6-2FK76N0WnsPNxLiGdFS1912qdKBPvjC3Z2-2FqwR>
+X-SG-EID: K596DjENlrWtxtIpLnNJnpI/n9k8+794KMI88IQq7e89CJoAFo05kK6V2uvbLRo0a2OmjUw77i3XUbcmE9oG4QTrXRUHzoGDZC1nejJ/1CMbPyFkkP0Mb21/thHolb5H4hhRUa1vEMqtoh/JdxsPc71teis4Uvo2c6nPvaUfWMo=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LDWPkuXc02GlpRXZ2fMJ5faq1BvXn5RSpvPYvB8ThvK6jhd8PkQs6B/9zS4nanhNtZ4/xZzsubFQirO5DUi4voMGFY/MVzOjisisBWR9xxXAr1NY+uNHiPit3by9wDEj+vs3TH/SPTBhKNovfoq3yMN
+X-Feedback-ID: 333274:68cMV1aQuHHvHRYXN+/sCQ==:sZgk7KLWW7dddNL8s7QYM7y5I8RvVKDhcuSsTNGeCNA=:SG
+
+--===============1566521577445799800==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Here are three of our favorite Recipes Collections for this month:
+
+Recipes for Following the News http://ift.tt/newsletter23-1-news
+
+Recipes for Streamlining your Social Media http://ift.tt/newsletter23-1-soc=
+ial_media
+
+Recipes for a Road Trip http://ift.tt/newsletter23-1-roadtrip
+
+Do you have ideas for future Recipe Collections? Tweet us @IFTTT here: http=
+://ift.tt/newsletter23-1-tweetus
+
+
+=E2=80=94The IFTTT Team
+
+---------------------------------------------------------------------------=
+-----
+
+This newsletter was automatically sent to your email address because you si=
+gned up for IFTTT with that address. To disable this communication, you can=
+ manage your=C2=A0email settings or unsubscribe from the IFTTT Newsletter h=
+ere https://ifttt.com/settings
+=C2=A0
+IFTTT HQ =C2=B7 923 Market Street #400 =C2=B7 San Francisco, CA 94103http:/=
+/email.ifttt.com/wf/unsubscribe?upn=3DQponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuA=
+yomw5LO1hyqfGBxJNaM1-2FWDm2Gasi74l2Wt7sdfFTb8ZU5b6ABrTyXCwGJb0vVnHCcUtI1kl7=
+owsZLPFVwGhpU5g-2Bd9pRPUGw-2BzRiTF-2FzUzlmGPj7Mdq6LXjpVkLEu2N8cDmCZC5Ov50ML=
+Dfp7q1TRccDnECjkVIt7L4Uo4G20oEV0RTE5U44tPERAtIefOWipBof9DFC-2BoZH1xWxbCqwFz=
+tk-2BjKu4Tol47hPTA1vjqKEy-2FrYE0ei1xPV1PUSK5kWsn2ddDMxzWlXfeazyQEjFsoPfDjuB=
+Nw7R1Gsf6j6jxtFlr1Xv7X8t7bSCEq50fJ10eQVjQUPjVKuraFtv2b6kcshg2
+
+--===============1566521577445799800==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<style type=3D"text/css">.ReadMsgBody{width:100%;}.ExternalClass{width:100%=
+;}span.yshortcuts{color:#000;background-color:none;border:none;}span.yshort=
+cuts:hover,span.yshortcuts:active,span.yshortcuts:focus{color:#000;backgrou=
+nd-color:none;border:none;}p{margin-top:0;margin-right:0;margin-bottom:0;ma=
+rgin-left:0;}*{-webkit-text-size-adjust:none;}</style><table cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse:collapse;back=
+ground:#ffffff;min-width:620px;table-layout:fixed;"><tbody><tr><td align=3D=
+"center" style=3D"padding-right:10px;padding-top:10px;padding-bottom:10px;p=
+adding-left:10px;"><div style=3D"width:auto;margin-right:auto;margin-left:a=
+uto;margin-top:0;margin-bottom:0;color:#000;font-family:Arial;font-size:12p=
+x;line-height:150%;"><table style=3D"width:100%;border-collapse:separate;ta=
+ble-layout:fixed;" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td align=
+=3D"center"><table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;width:60=
+0px;background:#FFFFFF;"><tbody><tr><td><table cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"width:600px;border-collapse:collapse;table-layout:fixed;">=
+<tbody><tr><td width=3D"100%" style=3D"vertical-align:top;"><div><table sty=
+le=3D"width:100%;border-collapse:separate;table-layout:fixed;" cellspacing=
+=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#ffffff;"><tabl=
+e width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collap=
+se:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><td style=3D=
+"vertical-align:middle;padding-top:10px;padding-bottom:10px;padding-left:0;=
+padding-right:0;"><div style=3D"word-wrap:break-word;line-height:140%;text-=
+align:left;"><div style=3D"padding:0px; text-align: center; margin: -20px 0=
+px -20px 0px; color: #FFFFFF; font-size:1px; line-height: 0px; height:0px;">
+	Our favorite Recipe Collections for the month of October. Enjoy!</div>
+<a href=3D"http://email.ifttt.com/wf/click?upn=3DNhYfK6miISGRqn-2FCFUXmdXPZ=
+m4xFWRhRS9uD4UO93xMmvGhVd6lGZtCMSLkCqoWM_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLe=
+XuAyomw5LO1hyqfGBxJNaM1-2FWDm2Ga9q8V4mp4fzWqDWpwTCxyWcUc1ErolJtLcrvTV2xQnxJ=
+0qW9TK4P2mSTRie4PmjTf-2B-2B3yXtnnM-2FwD4MDfgu12YYtO2pSkU7RwqLSl01hEKQjwMPjz=
+rjXxhJVvpXNKmsbtrb8-2BslxnZXex2hhvdpsNDgWUSMD2inl5Vr9Fl9Zt0svhgHAVG8L3nAcxk=
+Iqb-2FQzlvr9ZIoRhXGYCJGVTQdv-2BSyNRcDGQLzpAb4IqP5HlZiKvLhhIbEF63l77nhB8aayT=
+0GQxfh1Efgh-2FNlg3a3RP0RPb-2BfLK-2BfDsMPBZB3m0rOvftb35kdliScHyPNb7-2FfI8"><=
+img src=3D"https://s3.amazonaws.com/features.ifttt.com/newsletter_images/20=
+14_October/October-Newsletter-Header.png" style=3D"width:604px; max-width:1=
+00%; margin:0px;" width=3D"604px" /></a> </div></td></tr></tbody></table></=
+td></tr></tbody></table></div><div><table style=3D"border-collapse:separate=
+;border-spacing:0px;table-layout:fixed;" cellpadding=3D"5" cellspacing=3D"5=
+"><tbody><tr><td></td></tr></tbody></table><table style=3D"width:100%;borde=
+r-collapse:separate;table-layout:fixed;" cellspacing=3D"0" cellpadding=3D"0=
+"><tbody><tr><td style=3D"background:#FFFFFF;"><table width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spac=
+ing:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><=
+div style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><p sty=
+le=3D"text-align: center; margin-top: 0px; margin-bottom: 10px;">
+	<span style=3D"color:333333;"><span style=3D"font-family: 'helvetica neue'=
+, arial, helvetica, sans-serif; font-size: 40px; line-height: 1.2em;"><stro=
+ng>3 of our Favorite<br />
+	Collections this Month</strong></span></span></p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;" =
+cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></tabl=
+e><table style=3D"width:100%;border-collapse:separate;table-layout:fixed;" =
+cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#FFF=
+FFF;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><=
+td style=3D"vertical-align:top;"><div style=3D"word-wrap:break-word;line-he=
+ight:140%;text-align:left;"><a href=3D"http://email.ifttt.com/wf/click?upn=
+=3DNhYfK6miISGRqn-2FCFUXmdXPZm4xFWRhRS9uD4UO93xPmFketmhAxnCxLZ6GI0-2F2m_Qpo=
+njlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2GaDHUy6mQDxk4X=
+YOl85lLM7j-2FuZzOByInLDdLNYJpVlef4bIj6XzbU5jMvJ9o4Xb1D9eX0pZufFAMdQnYrnKm9I=
+YV7g4H04m-2FPewATqvGtpiWqkcN4xYvJNLX-2Btx2WQ8E1Bzu6upQxiABKo1yl1w4Wsk-2B9ts=
+DsKzz2F5yl6E7eRZ0x5hP-2FVAwBKPfUl7o9lyBg-2FUfT2UuXaxk-2FPVKsh-2BJiDBFA3QRZn=
+4wen8d7DQEGzTIrPRQ2HFmZ29Cd6-2BTgUkD-2BfJs-2FgoyCcfXvRVFKduerFvxgdk9k3KrLIQ=
+bBQ75PdCircsVX7chBFOXkTkR2qRcs"><img src=3D"https://s3.amazonaws.com/featur=
+es.ifttt.com/newsletter_images/2014_October/FollowingNews_iPad.jpg" style=
+=3D"width=3D600px; text-align: center; margin-top: -5px; margin-bottom: -5p=
+x; margin-left:" width=3D"600px" /> </a> </div></td></tr></tbody></table></=
+td></tr></tbody></table></div><div><table style=3D"border-collapse:separate=
+;border-spacing:0px;table-layout:fixed;" cellpadding=3D"5" cellspacing=3D"5=
+"><tbody><tr><td></td></tr></tbody></table><table style=3D"width:100%;borde=
+r-collapse:separate;table-layout:fixed;" cellspacing=3D"0" cellpadding=3D"0=
+"><tbody><tr><td style=3D"background:#FFFFFF;"><table width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spac=
+ing:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><=
+div style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><a hre=
+f=3D"http://email.ifttt.com/wf/click?upn=3DNhYfK6miISGRqn-2FCFUXmdXPZm4xFWR=
+hRS9uD4UO93xPj8qFrFH5DDVV7sn-2Fl5X3m_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAy=
+omw5LO1hyqfGBxJNaM1-2FWDm2GaG968eyBgrl7TGmwP2Ed3vyQ9FCU-2B6HOL0mMfL-2BNxPU9=
+UvT9NIDeGnnOUX52rMGvmHqlUS-2BJuG-2BeUQ1cfnhhkYBxNXmplHdT4y0JhbRAUuDcMVS4sQ4=
+XXTCPg-2FoOACCSdOssCKbXyQuU2ZOWPiXGECYVBVMmBw4YUH2iTlpftkeeVIwI7QvspWiL9gdc=
+OJnUGKZAzaVPM1-2Fq-2FUvDQ6Jp2wBa988Tc-2FjrUhqCV9lq6QaC7zWuqyWVVdnfYGYVHi5xn=
+in2OIppmGlF6dYoE8gZjI2RCawyoe092vozBQlRjXQxyMZSiutXbfMk51ZFoJE-2Fx"><img sr=
+c=3D"https://s3.amazonaws.com/features.ifttt.com/newsletter_images/2014_Oct=
+ober/Copy-of-Streamlining_1024.jpg" style=3D"width=3D600px; margin-top: -5p=
+x; margin-bottom: -5px; margin-left:" width=3D"600px" /> </a> </div></td></=
+tr></tbody></table></td></tr></tbody></table></div><div><table style=3D"bor=
+der-collapse:separate;border-spacing:0px;table-layout:fixed;" cellpadding=
+=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></table><table st=
+yle=3D"width:100%;border-collapse:separate;table-layout:fixed;" cellspacing=
+=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#FFFFFF;"><tabl=
+e width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collap=
+se:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><td style=3D=
+"vertical-align:top;"><div style=3D"word-wrap:break-word;line-height:140%;t=
+ext-align:left;"><a href=3D"http://email.ifttt.com/wf/click?upn=3DNhYfK6miI=
+SGRqn-2FCFUXmdXPZm4xFWRhRS9uD4UO93xMEoWIqHp5ti7j7bJ8-2FM-2B8f_QponjlfhIAYUo=
+i4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2Gab5Heaf7U6n9HHhTkQbKtKZ=
+Nhsk0Ni7OQIldwuTConCnnQdE8YfjB3moUgqOTEbleecVJY6Twjzg5UYidQqXoWSShHQWtxS5Qe=
+AeF4MbtqbjzCY-2BX-2F7vled0v7-2Fq8-2FpjyXR-2F4ZBJy-2F5iY-2BlwmlyCdhQlKtO-2Fz=
+2Xvherc0JCcvPEcMzKD0v1kf-2BVTNVQN-2BNaoHgwbJk5XmLeXbOD4bBdVrdAXY7nff3c3Pq1-=
+2BRmXA2JV1q4C5uEvDc-2B03vKLOlWLmOR1V-2F3u4d37G-2FuU1TGRKJoAgnXc6J3h9L-2FNU0=
+9CMAxPEPqLZw-2FQ3EYJUbtJVf1N0-2F"><img src=3D"https://s3.amazonaws.com/feat=
+ures.ifttt.com/newsletter_images/2014_October/RoadTrip_iPad.jpg" style=3D"w=
+idth:600px; margin-top: -5px; margin-bottom: -5px; margin-left:" width=3D"6=
+00px" /> </a> </div></td></tr></tbody></table></td></tr></tbody></table></d=
+iv><div><table style=3D"border-collapse:separate;border-spacing:0px;table-l=
+ayout:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr>=
+</tbody></table><table style=3D"width:100%;border-collapse:separate;table-l=
+ayout:fixed;background:#FFFFFF;" cellspacing=3D"15" cellpadding=3D"0"><tbod=
+y><tr><td style=3D"background:#FFFFFF;"><table width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0=
+px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><div s=
+tyle=3D"word-wrap:break-word;line-height:140%;text-align:left;"><p style=3D=
+"text-align: center; margin-top: 10px; margin-bottom: 10px;">
+	<span style=3D"color:333333;"><span style=3D"font-family: 'helvetica neue'=
+, arial, helvetica, sans-serif; font-size: 24px; line-height: 1.6em;">Have =
+ideas for future Recipe Collections?<br />
+	Tweet us <a href=3D"http://email.ifttt.com/wf/click?upn=3DNhYfK6miISGRqn-2=
+FCFUXmdXPZm4xFWRhRS9uD4UO93xN5ex0yyWE9uVM7EBmiKN-2BT_QponjlfhIAYUoi4VQkFk1M=
+dyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2GaJvRhaAx7ddkIhO8Qy3aSypcembcSeHM=
+D66si-2BMY0Q19uJWkglQr1-2B-2Fz7vH4HxFM72wOMI9ZEvvlHqkF30f-2BwPprkc-2BMWS8L9=
+FGK40jwiWHfgCMD2rznt3Xx865Ak8sTnitPxG-2FRX9-2BZSsQBIAuolgFNZAZWVHgZk0OUIdvQ=
+zeH6CoxXKCXD4t82mzy0uf8zK8jqUVTy-2FNtuwVeq5YwDXk1QeW05R9sx1JJ09LYm2dwgtnxhd=
+bFsfZfY0crdIxr98rF5boVY4ghiZR5NdAIhLh-2BwTOOHwLcx-2FpvLM1cG1297AVY8E6gbtu76=
+U5J0Ht1qI" style=3D"color:#3cf; text-decoration: none;">@IFTTT</a>!</span><=
+/span></p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;" =
+cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></tabl=
+e><table style=3D"width:100%;border-collapse:separate;table-layout:fixed;" =
+cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#FFF=
+FFF;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><=
+td style=3D"vertical-align:top;"><div style=3D"word-wrap:break-word;line-he=
+ight:140%;text-align:left;"><p style=3D"line-height: 1.6em; text-align: cen=
+ter;">
+	<span style=3D"font-family: 'helvetica neue', arial, helvetica, sans-serif=
+; font-size: 24px; line-height: 1.6em;">:)<br />
+	<br />
+	&mdash;The IFTTT Team</span><br />
+	&nbsp;</p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;" =
+cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></tabl=
+e><table style=3D"width:100%;border-collapse:separate;table-layout:fixed;" =
+cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#FFF=
+FFF;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><=
+td width=3D"100%" style=3D"width:100%;border-top-color:#f3f3f3;border-top-s=
+tyle:solid;border-top-width:2px;" ></td></tr></tbody></table></td></tr></tb=
+ody></table></div><div><table style=3D"border-collapse:separate;border-spac=
+ing:0px;table-layout:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr=
+><td></td></tr></tbody></table><table style=3D"width:100%;border-collapse:s=
+eparate;table-layout:fixed;" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr=
+><td style=3D"background:#FFFFFF;"><table width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;tabl=
+e-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><div style=3D=
+"word-wrap:break-word;line-height:140%;text-align:left;"><p style=3D"color:=
+ #333333; font-family: helvetica neue, arial, helvetica, sans-serif; font-s=
+ize: 14px; line-height: 140%; margin: 0px; text-align: center;">
+	<strong><a href=3D"http://email.ifttt.com/wf/click?upn=3DNhYfK6miISGRqn-2F=
+CFUXmdXPZm4xFWRhRS9uD4UO93xN31Dmp-2B2RLBPRxGZXROgVF_QponjlfhIAYUoi4VQkFk1Md=
+yS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2GaCoiaQvPoitAtdksUbKlJXO1koGy3Qfsb=
+IOY9teFW0IXjl-2Bzr0sTDrHt-2F158LD60IJXJN4-2F0sUUMqkKZbl6ZJTvLI498NTiiDnRawe=
+xZpba5pn0ARUNM43oZAnnF38pyoRuHWfxfDAKKjDzZkJ3Vx2zmx2GcxILaRDriQAlkfP-2FYDcI=
+azLjcbhOj6c3Q37YPKOOECfgyZcoXgXj2PU9iqAPlVNMBh7itHwp5cuvakrOeJiwUYhEG59oos7=
+j65zBJ8NOtUBC0kVHpNbZ9TKrJ29T2LjimzbJiCdN900O6toaig56VQ0-2BEL7w5-2FLCv5ItkU=
+" style=3D"color:#3cf; text-decoration: none;">Share on Facebook </a> </str=
+ong> &nbsp;| &nbsp; <strong> <a href=3D"http://email.ifttt.com/wf/click?upn=
+=3DNhYfK6miISGRqn-2FCFUXmdXPZm4xFWRhRS9uD4UO93xOcbaj3fCDtmhu51cLE5S1z_Qponj=
+lfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2GaLM-2BSwNsaJ42Y=
+25ApBkqd1RKCS7rQQRzYG8EDl-2BaGuy2UzaPpvXv3yq7OJ7e915jU7nnkq-2FPQQZV466Ul6GV=
+mW7EkaTJ3KKFZSilHiIcArykVfWAe3Ukyb-2BjBaENaGSI3wyf6xGgI3m0Rht-2FMUSts9IulLr=
+MoZb-2FN92j9G7tEaD-2Bu2CKMGL3mP8s1XirppNKVEezsCzRUVx5arVGIGi0YAXRNyUDWZuGzh=
+PL2bKbVQIli7w-2BUbhNNCDkCv9Xc5pUclfEd7TncxPCEGjXbHLuc-2BZW8ySMCjlFrM7N9Lxbu=
+h00QzAz0r0qtHyJTNl-2B97-2FIw" style=3D"color:#3cf; text-decoration: none;">=
+Share on Twitter</a> </strong> &nbsp;| &nbsp; <strong> <a href=3D"http://em=
+ail.ifttt.com/wf/click?upn=3DNhYfK6miISGRqn-2FCFUXmdXPZm4xFWRhRS9uD4UO93xOK=
+y1vLkSgkp-2FKobB9QXT5s_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBx=
+JNaM1-2FWDm2GaK3CyAuHZ-2FYHpVlbWUi1CeoBhJMccSBj8yuLwobERxYZqfgKmmzk-2Fkli3X=
+KN7Qe5-2FxO3c3-2FoND1-2B-2BjHazmm4Ob0wFkfbKZt-2B8PAVygvnRQN-2FAN-2BQ8ZyWWjF=
+xy5j9iDDUAV84KJ6T-2BXAh3VPkysqeSquSy4eOCboJSXSRe8ELbolJs9mR6dMn9NFrvlF-2Fqh=
+oe5sdSkCJbMcrJD70ffXCTdiHKfXtsWxbWOZM-2BEqOnjFWO7HOdUtXTmk-2F1MTTBdzHW6e5J1=
+Bl6M3c8zRESJxZoMcXvNK6WeyQ-2BnsXRYC3lgSzxS6Id85p1WpNoqkibcOF4p" style=3D"co=
+lor:#3cf; text-decoration: none;">Share on Pinterest</a> </strong></p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;" =
+cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></tabl=
+e><table style=3D"width:100%;border-collapse:separate;table-layout:fixed;" =
+cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#FFF=
+FFF;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><=
+td width=3D"100%" style=3D"width:100%;border-top-color:#f3f3f3;border-top-s=
+tyle:solid;border-top-width:2px;" ></td></tr></tbody></table></td></tr></tb=
+ody></table></div><div><table style=3D"border-collapse:separate;border-spac=
+ing:0px;table-layout:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr=
+><td></td></tr></tbody></table><table style=3D"width:100%;border-collapse:s=
+eparate;table-layout:fixed;background:#FFFFFF;" cellspacing=3D"15" cellpadd=
+ing=3D"0"><tbody><tr><td style=3D"background:#FFFFFF;"><table width=3D"100%=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;bor=
+der-spacing:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align=
+:top;"><div style=3D"word-wrap:break-word;line-height:140%;text-align:left;=
+"><style>a {color: #33ccff !important; text-decoration: none !important;}</=
+style>
+<p style=3D"margin: 0px; text-align: center; line-height: 1.2;">
+	<span style=3D"line-height: 1.2; color: rgb(170, 170, 170);"><span style=
+=3D"font-size: 10px; font-family: helvetica neue, arial, helvetica, sans-se=
+rif;">This newsletter was automatically sent to <a href=3D"mailto:su104003@=
+gmail.com" style=3D"color:#aaa; text-decoration: none;">su104003@gmail.com<=
+/a> because you signed up for IFTTT with that address. To disable this comm=
+unication, you can manage your&nbsp;</span></span><span style=3D"font-size:=
+ 10px;"><a href=3D"http://email.ifttt.com/wf/click?upn=3DNhYfK6miISGRqn-2FC=
+FUXmddCuM8YXcNqIvLA2mdXgyMY-3D_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO=
+1hyqfGBxJNaM1-2FWDm2Gai1anDZ7oRcnKDMb9JMjYJoRZxFhNuJsepqYnBGnTrUZH3CH-2FQ-2=
+FAJlDemN6d-2F-2FxqImf3oIO6Q1H4hTNtp4yPCkqovCv4bVXZFNHqryHWv-2B84jgjN82UwlUY=
+OuCw2JgZEzqcGDQw-2B1Fp2wCRa68Nk2K-2F3JixQrVkESmZbLMCfq-2BvLGuK0elkGvD8nnmBw=
+igyYtOQM-2FmiMggnC3kgdO4my4Tng3Zh-2Fm7ewlyfTEUPWq49z-2FN8BQahNY1Vh1RM1qOm53=
+fK6phPFxmVMABfDte35-2BPvD-2BfGwXVqOQVR6Iuhd-2FWn-2F2ojb5Nw509gbsOrSXlY2T" s=
+tyle=3D"color:#3cf; text-decoration: none;">email settings</a><span style=
+=3D"color:#aaa;"> or </span><a href=3D"http://email.ifttt.com/wf/unsubscrib=
+e?upn=3DQponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfGBxJNaM1-2FWDm2Gal=
+xU-2B-2B2AhkfjN-2BoEtLWPYosWlBHw6hHEosWnj-2FDbg-2BtDF74Pkk30FN5Sah6hHYOLTwX=
+9lAv3D-2F97r4KFS-2F76wfLhJ33DhkLQcYE3A-2B-2B4xrY5TQGkq3-2FNMvw1rTQ35PnY0nfm=
+kCFRE3xQdCDdw6h69lsQYnMC4iV-2FDaiP6rlyC0olK1bNkpJUKytmLLvNe-2Bor9ihRXStxr-2=
+FXZvCs7au2H-2B1yM-2BJuXEagrsEzE8HDV4b1AhYPbrKHSinDmHeeo8OMzMoBmo0Qgz0ZxEwem=
+Ky5OsNWQLxMR0yY4Zf59CU03yCYFTXFPn4lF8IiqmvUqnXJkw" style=3D"color:#3cf; tex=
+t-decoration:none; ">unsubscribe</a><span style=3D"color:#aaa;"> from the I=
+FTTT Newsletter.</span></span><br />
+	&nbsp;</p>
+<p style=3D"margin: 0px; text-align: center;">
+	<span style=3D"color:#aaa;"><span style=3D"font-size: 10px; font-family: h=
+elvetica neue, arial, helvetica, sans-serif;">IFTTT &middot; 923 Market Str=
+eet #400 &middot; San Francisco, CA 94103</span></span></p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;" =
+cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></tabl=
+e><table style=3D"width:100%;border-collapse:separate;table-layout:fixed;" =
+cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background:#fff=
+fff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><=
+td style=3D"vertical-align:middle;font-size:11px;padding-top:10px;padding-r=
+ight:10px;padding-bottom:10px;padding-left:10px;"><div style=3D"word-wrap:b=
+reak-word;line-height:140%;text-align:left;"></div></td><td style=3D"vertic=
+al-align:middle;font-size:11px;padding-top:10px;padding-right:10px;padding-=
+bottom:10px;padding-left:10px;"><div style=3D"word-wrap:break-word;line-hei=
+ght:140%;text-align:left;"></div></td></tr></tbody></table></td></tr></tbod=
+y></table></div></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr></tbody></table></div></td></tr></tbody></table><img src=3D"http://email=
+.ifttt.com/wf/open?upn=3DQponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5LO1hyqfG=
+BxJNaM1-2FWDm2Ga-2FrGW1VXN4WbFPjuHVuZYHtCqy3pdX6TO6yv-2Fr6DHDLOUUzylJPJUhzn=
+vbRenZuaoUCAREHWDmFNHCkJKuRnqR0tHhChvxGDa3iFRnx72SmnfNmEOkcYXd3N-2Bys1-2FuG=
+U6z7MhqeKojFtQpYSToLSkLrvteGFfpM7mjlTJznsfDejWduWw70AV8YI2PvSTTdq8x1GZv9nq9=
+LepJDjV-2BCESzeCa0egHEXj5KZm4TxyAlpns0qr6Vb7LdxClT2qYsuYZZDU5pAgkQZJyTDSf-2=
+FR6h3-2F10b0O2Tgl41gciZb4TLjJMLvP270WX1kUDreyB4M0JGY1Cb01wqwEcyrHjLtFq7A-3D=
+-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !im=
+portant;width:1px !important;border-width:0 !important;margin-top:0 !import=
+ant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !imp=
+ortant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0=
+ !important;padding-left:0 !important;"/>
+
+--===============1566521577445799800==--

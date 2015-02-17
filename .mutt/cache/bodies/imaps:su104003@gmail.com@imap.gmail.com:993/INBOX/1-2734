@@ -1,0 +1,342 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp533165qdc;
+        Sat, 23 Aug 2014 00:19:11 -0700 (PDT)
+X-Received: by 10.194.7.136 with SMTP id j8mr9483085wja.62.1408778351412;
+        Sat, 23 Aug 2014 00:19:11 -0700 (PDT)
+Return-Path: <security@pokerstars.com>
+Received: from mx13.pokerstars.eu (mx13.pokerstars.eu. [77.87.179.125])
+        by mx.google.com with ESMTP id fb20si1669094wid.104.2014.08.23.00.19.10
+        for <su104003@gmail.com>;
+        Sat, 23 Aug 2014 00:19:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of security@pokerstars.com designates 77.87.179.125 as permitted sender) client-ip=77.87.179.125;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of security@pokerstars.com designates 77.87.179.125 as permitted sender) smtp.mail=security@pokerstars.com;
+       dkim=pass (test mode) header.i=@pokerstars.com
+Received: by mx13.pokerstars.eu (mailer, from userid 4003)
+	id C2D41A805A5; Sat, 23 Aug 2014 03:19:10 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pokerstars.com; h=date
+	:from:to:subject:message-id:mime-version:content-type; s=s1024;
+	 bh=WY2rz+zMUIGmqOjumNAcKSJdwws=; b=EwSwFBQ8h2jfl/DBvMF/KoGaGYIG
+	oZCp0s+HlwUhRY+8W7/0+NyLXVmCFld9ZFXEbATmbCUg6D4GUGsh7MznvBK1HQjE
+	WHU+MOlb0AouqHqR9OkIOfQo1ZwT7BdJFHgNUYi7AB8kqSAHJmzaNbTubEZL61xk
+	wMtcfoSTu8BX2Qw=
+X-PS-ID: c3UxMDQwMDNAZ21haWwuY29t
+Received: from pokerstars.com (IOM-20-81 [121.121.121.81])
+	by mx13.pokerstars.eu (mailer) with SMTP id B2754A803CD
+	for <su104003@gmail.com>; Sat, 23 Aug 2014 03:19:10 -0400 (EDT)
+Date: Sat, 23 Aug 2014 03:19:10 -0400
+From: "PokerStars Security" <security@pokerstars.com>
+To: su104003@gmail.com
+Subject: =?UTF-8?B?44GC44Gq44Gf44Gu44Od44O844Kr44O844K544K/44O844K644Ki?=
+ =?UTF-8?B?44Kr44Km44Oz44OIIC0g5paw6KaP44OH44OQ44Kk44K5IFtBdHRlbnRpb25d?=
+Message-Id: <53F8406E.B9A42302BDD58@pokerstars.com>
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+ boundary="------O7TAfAxIezyNsFznZC3IYu50dxtTs3wV"
+
+
+--------O7TAfAxIezyNsFznZC3IYu50dxtTs3wV
+Content-Type: text/plain;
+ charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+、NUMustこんにちは 
+
+あなたのポーカースターズアカウント - NUMustは - 2014/08/23上の新しいデバイスからアクセスされていました。 
+
+新しいデバイスの使用状況を認識している場合は、より多くの何もする必要はありません。新しいデバイスからアカウントにアクセスできませんでしたか、ご質問がございましたら、このメールにご返信ください。 
+
+よろしく、 
+ポーカースターズセキュリティ 
+
+ポーカースターズの高度なセキュリティ設定を活用することを忘れないでください。
+PokerStars PIN or RSA - http://pokerstars.com/locate/pokerstars/menu/account/login-settings
+PokerStars SMS - http://pokerstars.com/locate/pokerstars/menu/account/login-options
+
+--------O7TAfAxIezyNsFznZC3IYu50dxtTs3wV
+Content-Type: text/html;
+ charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>New Device</title>
+<style>
+/* -------------------------------------
+		GLOBAL
+------------------------------------- */
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+	line-height: 1.6;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: none;
+	width: 100%!important;
+	height: 100%;
+}
+
+
+/* -------------------------------------
+		ELEMENTS
+------------------------------------- */
+a {
+	color: #348eda;
+}
+
+.btn-primary {
+	text-decoration: none;
+	color: #FFF;
+	background-color: #348eda;
+	border: solid #348eda;
+	border-width: 10px 20px;
+	line-height: 2;
+	font-weight: bold;
+	margin-right: 10px;
+	text-align: center;
+	cursor: pointer;
+	display: inline-block;
+	border-radius: 25px;
+}
+
+.btn-secondary {
+	text-decoration: none;
+	color: #FFF;
+	background-color: #aaa;
+	border: solid #aaa;
+	border-width: 10px 20px;
+	line-height: 2;
+	font-weight: bold;
+	margin-right: 10px;
+	text-align: center;
+	cursor: pointer;
+	display: inline-block;
+	border-radius: 25px;
+}
+
+.last {
+	margin-bottom: 0;
+}
+
+.first {
+	margin-top: 0;
+}
+
+.padding {
+	padding: 10px 0;
+}
+
+
+/* -------------------------------------
+		BODY
+------------------------------------- */
+table.body-wrap {
+	width: 100%;
+	padding: 20px;
+}
+
+table.body-wrap .container {
+	border: 1px solid #f0f0f0;
+}
+
+/* -------------------------------------
+		HEADER
+------------------------------------- */
+table.header-wrap {
+	width: 100%;	
+	clear: both!important;
+}
+
+.header-wrap .container p {
+	font-size: 12px;
+	color: #666;
+	
+}
+
+table.header-wrap a {
+	color: #999;
+}
+
+/* -------------------------------------
+		FOOTER
+------------------------------------- */
+table.footer-wrap {
+	width: 100%;	
+	clear: both!important;
+}
+
+.footer-wrap .container p {
+	font-size: 12px;
+	color: #666;
+	
+}
+
+table.footer-wrap a {
+	color: #999;
+}
+
+
+/* -------------------------------------
+		TYPOGRAPHY
+------------------------------------- */
+h1, h2, h3 {
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	line-height: 1.1;
+	margin-bottom: 15px;
+	color: #000;
+	margin: 40px 0 10px;
+	line-height: 1.2;
+	font-weight: 200;
+}
+
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 28px;
+}
+h3 {
+	font-size: 22px;
+}
+
+p, ul, ol {
+	margin-bottom: 10px;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+ul li, ol li {
+	margin-left: 5px;
+	list-style-position: inside;
+}
+
+/* ---------------------------------------------------
+		RESPONSIVENESS
+		Nuke it from orbit. It's the only way to be sure.
+------------------------------------------------------ */
+
+/* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */
+.container {
+	display: block!important;
+	max-width: 600px!important;
+	margin: 0 auto!important; /* makes it centered */
+	clear: both!important;
+}
+
+/* Set the padding on the td rather than the div for Outlook compatibility */
+.body-wrap .container {
+	padding: 20px;
+}
+
+/* This should also be a block element, so that it will fill 100% of the .container */
+.content {
+	max-width: 600px;
+	margin: 0 auto;
+	display: block;
+}
+
+/* Let's make sure tables in the content area are 100% wide */
+.content table {
+	width: 100%;
+}
+
+</style>
+</head>
+<!-- header -->
+<table class="header-wrap">
+	<tr>
+		<td></td>
+		<td class="container">
+			
+			<!-- content -->
+			<div class="content">
+				<table>
+					<tr>
+						<td align="center">
+							<img src="http://www.pokerstars.com/images/pokerstars.png" alt="PokerStars">
+						</td>
+					</tr>
+				</table>
+			</div>
+			<!-- /content -->
+			
+		</td>
+		<td></td>
+	</tr>
+</table>
+<!-- /header -->
+<body bgcolor="#000000">
+
+<!-- body -->
+<table class="body-wrap">
+	<tr>
+		<td></td>
+		<td class="container" bgcolor="#FFFFFF">
+
+			<!-- content -->
+			<div class="content">
+			<table>
+				<tr>
+					<td>
+						<p>、NUMustこんにちは </p>
+						<p>あなたのポーカースターズアカウント - NUMustは - 2014/08/23上の新しいデバイスからアクセスされていました。</p>
+						<p>新しいデバイスの使用状況を認識している場合は、より多くの何もする必要はありません。新しいデバイスからアカウントにアクセスできませんでしたか、ご質問がございましたら、このメールにご返信ください。</p>
+						<p>よろしく、</p>
+						<p>ポーカースターズセキュリティ PokerStars</p>
+					</td>
+				</tr>
+			</table>
+			</div>
+			<!-- /content -->
+			
+		</td>
+		<td></td>
+	</tr>
+</table>
+<!-- /body -->
+
+<!-- footer -->
+<table class="footer-wrap">
+	<tr>
+		<td></td>
+		<td class="container">
+			
+			<!-- content -->
+			<div class="content">
+				<table>
+					<tr>
+						<td align="center">
+							<p>ポーカースターズの高度なセキュリティ設定を活用することを忘れないでください。</p>
+							<p><a href="http://pokerstars.com/locate/pokerstars/menu/account/login-settings">PokerStars PIN or RSA</a> | <a href="http://pokerstars.com/locate/pokerstars/menu/account/login-options">PokerStars SMS</a></p>
+							</p>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<!-- /content -->
+			
+		</td>
+		<td></td>
+	</tr>
+</table>
+<!-- /footer -->
+
+</body>
+</html>
+
+--------O7TAfAxIezyNsFznZC3IYu50dxtTs3wV--
+
+

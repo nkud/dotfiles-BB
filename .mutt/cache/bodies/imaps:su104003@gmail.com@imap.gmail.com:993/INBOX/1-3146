@@ -1,0 +1,572 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.31.188.6 with SMTP id m6csp45644vkf;
+        Fri, 31 Oct 2014 11:32:16 -0700 (PDT)
+X-Received: by 10.50.66.227 with SMTP id i3mr6314005igt.25.1414780335891;
+        Fri, 31 Oct 2014 11:32:15 -0700 (PDT)
+Return-Path: <bounces+366253-d5c0-su104003=gmail.com@sendgrid.info>
+Received: from o1983714840.outbound-mail.sendgrid.net (o1983714840.outbound-mail.sendgrid.net. [198.37.148.40])
+        by mx.google.com with ESMTPS id eo12si16733346icb.12.2014.10.31.11.32.15
+        for <su104003@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 31 Oct 2014 11:32:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+366253-d5c0-su104003=gmail.com@sendgrid.info designates 198.37.148.40 as permitted sender) client-ip=198.37.148.40;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+366253-d5c0-su104003=gmail.com@sendgrid.info designates 198.37.148.40 as permitted sender) smtp.mail=bounces+366253-d5c0-su104003=gmail.com@sendgrid.info;
+       dkim=pass header.i=@sendgrid.info
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=nt/FRDeT5f6Io1o4jt2t2ahlDNg=; b=SAxuSG+N2xWm3IlFgr
+	SnEjR7kNGbFGob/DzWDuU6l5O89biQj1cjykNutxvRk13iz02Mon+eFnChx59H5w
+	WQ+RG7z1M4jNxXXUZoChep+1Vc/sLDytVOFXtP+tBtAJQ8L3pijGpJjXP18Qy+bI
+	3okbcryN8H3KDNnXRm4COFPDc=
+Received: by filter-223.sjc1.sendgrid.net with SMTP id filter-223.12852.5453D31840
+        2014-10-31 18:21:12.9118743 +0000 UTC
+Received: from MzY2MjUz (unknown [10.42.83.122])
+	by ismtpd-012.sjc1.sendgrid.net (SG) with HTTP id 14967709946.5a96.4c7672
+	for <hello@feedly.com>; Fri, 31 Oct 2014 18:21:12 +0000 (GMT)
+Content-Type: multipart/alternative;
+	boundary="===============5664166511872192978=="
+MIME-Version: 1.0
+From: feedly <hello@feedly.com>
+To: su104003@gmail.com
+Reply-To: hello@feedly.com
+Subject: Feedly mobile: Bigger and better than ever
+Message-ID: <14967709946.5a96.4c7672@ismtpd-012.sjc1.sendgrid.net>
+Date: Fri, 31 Oct 2014 18:21:13 +0000 (UTC)
+List-Unsubscribe: <https://u366253.ct.sendgrid.net/wf/unsubscribe?upn=QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYBzRQ3DTrpGkGgW8tXO2OI8-2BbROrhFArXJekoDf4pIOjMB3oHy7roSD8LYwZ5L4U97rxUyBhupACB6rnSkSEB8a8SYH1oW-2Bmw5Qcc2T9sRWtBnieXsi0dV-2FdO7j2e7DdzOuqeKwu7kKNvt7svU7VJLnxsnftefgVJ60pcZQpfaifHhBF19-2BtrlsShIH3woJ-2BxbvN8kxvNlzE9cCzhlEBvvtHghPqG8DcKczrwQc7T04UFiBsK6A6LDUYxC-2F3HwKNUW1k-2BeXlI1B9s6F5qodnufO8Tvxtp1hMgpNONS8OEqRfrYCU47alakLwZDzhplUzZBrBxNqZEk8uLi4Llj5YKdQ-3D-3D>, <mailto:unsubscribe@sendgrid.info?subject=https://u366253.ct.sendgrid.net/wf/unsubscribe*q*upn=QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYBzRQ3DTrpGkGgW8tXO2OI8-2BbROrhFArXJekoDf4pIOjMB3oHy7roSD8LYwZ5L4U97rxUyBhupACB6rnSkSEB8a8SYH1oW-2Bmw5Qcc2T9sRWtBnieXsi0dV-2FdO7j2e7DdzOuqeKwu7kKNvt7svU7VJLnxsnftefgVJ60pcZQpfaifHhBF19-2BtrlsShIH3woJ-2BxbvN8kxvNlzE9cCzhlEBvvtHghPqG8DcKczrwQc7T04UFiBsK6A6LDUYxC-2F3HwKNUW1k-2BeXlI1B9s6F5qodnufO8Tvxtp1hMgpNONS8OEqRfrYCU47alakLwZDzhplUzZBrBxNqZEk8uLi4Llj5YKdQ-3D-3D>
+X-SG-EID: K596DjENlrWtxtIpLnNJnpI/n9k8+794KMI88IQq7e9UxY4HxJHRXGA79V8amxkUlxr9cjE4H+YQqC
+ OYL3Ome0kjCZ0GM9dr9evYzWECOqUTRPp/QThqABPmVto8Eqf2SrQ3BTW1nta20pDplRN2KvWLdtEN
+ D0qQ50aXWloj2Dk=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LDFB8ctcQXdKcfXITSZ/lZD8uzS/mU8dSL01b
+ nWCbYYOoVZ/dMtBNWzG+ZhY89zpVrF9ww2SDqteOzFZs5ZUCtNfnVBkJoiU2Mg4Y+uehhyjioEjaoJ
+ zagArfdhnGydqCesqQrsKQVy1AhSLeJNTZWo
+X-Feedback-ID: 366253:eNbu51DWpHJTdytAhmubYg==:MWgzqtpd8d3/y3cd6JFZhTyF+XbGvw3k6tUQkfDgMzY=:SG
+
+--===============5664166511872192978==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+( http://feedly.com/#discover )                                            =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                    ( http://feedly.com/#di=
+scover )                                                                   =
+                                                                           =
+                                                                           =
+                                                                           =
+            Hi there,
+
+                                We just launched a brand new version of fee=
+dly mobile. It=E2=80=99s optimized for iPhone 6/6+, matches Android=E2=80=
+=99s new design style, integrates with iOS sharing extensions and supports =
+tagging! It also integrates with Facebook Messenger so you can discuss arti=
+cles with your friends and colleagues.
+
+                                                                           =
+                                                                           =
+                                              iOS=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+
+                                     ( http://appstore.feedly.com/?campaign=
+=3Dv24-day2-v2&force=3Dios )                                               =
+                                                                           =
+                                          Android=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+
+                                     ( http://appstore.feedly.com/?campaign=
+=3Dv24-day2-v2&force=3Dandroid )                                    Happy r=
+eading,=20
+                                    - The feedly team
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+If you prefer not to receive these updates from feedly, please unsubscribe =
+( https://u366253.ct.sendgrid.net/wf/unsubscribe?upn=3DQponjlfhIAYUoi4VQkFk=
+1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYXAOa9Aik7dXwSI0o6z2WVsdViUh5id1=
+le7JpZUAUpUq2glwjjLDY6F5ZYIMiYoMCnwoVCtd2TNgB0vmQsxAEvX-2F-2F7oeXi4RC0WcBD-=
+2FXsnOTgWjkhKc3hdZy0Ze3kdrhXx64xBHLFg7yHR-2FSIpkwNucZCajtStedMWEk9o8lOooKZE=
+mxN-2Bsapn6kWF0rseUE2adK9GHiJfr3TW8-2BjJ579mxH3-2BVYXoE50s86mlRANShJGH-2BUy=
+AHzcZs3l-2BRlDCmxHGDO8eaGlaHkyQLFWW0ix35c4qmkCW1qyZoJDzRYX7NySxfP0Q1hCWZmff=
+P8EOYsAwKjEfjINThPwzOF1i6DXlQ-3D-3D ).
+feedly, 285 Hamilton Avenue, 94301 Palo Alto=
+
+--===============5664166511872192978==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head lang=3D"en">
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+    <meta charset=3D"UTF-8">
+    <title></title>
+    <style type=3D"text/css">
+
+        body {
+            margin: 0 auto;
+            padding: 0 0 0 0;
+        }
+
+        div.background {
+            font-size: 10px;
+            line-height: 1.5em;
+            background-color: #fff;
+            width: 100%;
+            max-width: 700px;
+            text-align: center;
+        }
+
+        table {
+            border: 0;
+            border-collapse: collapse !important;
+            align-self: center;
+            padding-top: 0;
+        }
+
+        table, tbody, thead, td, tr {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+
+        div.background table {
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        table.main {
+            width: 80%;
+            margin-right: 20px;
+            margin-left: 20px;
+        }
+
+        .header-1 {
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 1em;
+            text-align: center;
+        }
+
+        .content-wrapper {
+            background-color: #fff;
+            color: #000;
+        }
+
+        .content {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.5em;
+            color: #333;
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            text-align: left;
+        }
+
+        .content {
+            word-wrap: break-word;
+            padding-right: 20px !important;
+            padding-left: 20px !important;;
+            margin-left: 20px !important;
+        }
+
+        .button {
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+            background-color: #2bb24c;
+            padding: 8px 20px;
+            border-radius: 3px;
+            color: white;
+            cursor: pointer;
+            line-height: 30px;
+            text-align: center;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 140px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        #contact {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 10px;
+            line-height: 1.5em;
+            color: #A4A2A1;
+        }
+
+        #contact a, #contact a:visited, p a {
+            text-decoration: none;
+            color: #A4A2A1;
+        }
+
+        #contact a:hover, p a {
+            text-decoration: underline;
+        }
+
+        @media screen and (max-width: 500px) {
+            .table-border {
+                border: none !important;
+            }
+
+            .wrapper {
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+
+            #wrapper {
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+            .main.table-border {
+                margin-left: 0 !important;
+                margin-right: 0 !important;
+                width: 100% !important;
+                height: auto;
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            div.background {
+                margin: 0 0 0 0;
+            }
+
+            .content {
+                font-size: 16px !important;
+                line-height: 1.5em;
+                padding-left: 0 !important;
+                padding-right: 15px !important;
+                margin-left: 15px !important;
+                margin-right: 0 !important;
+                text-align: left;
+            }
+
+
+            #logo {
+                width: 100% !important;
+            }
+
+            #logo tr td {
+                padding-left: 15px;
+            }
+
+            .header-1 {
+                font-size: 18px !important;
+                text-align: left;
+                margin-left: 15px !important;
+                padding-left: 0 !important;
+                margin-right: 0;
+                padding-right: 0;
+            }
+
+            #bottom-border {
+                border-bottom: 1px solid #E3E3E3 !important;
+                width: 100%;
+                margin-right: 0;
+                margin-left: 0;
+                padding-right: 0;
+                padding-left: 0;
+            }
+
+
+            #contact {
+                -webkit-text-size-adjust:none;
+                font-size: 8px;
+            }
+
+            .button {
+                max-width: 200px !important;
+                width: 160px !important;
+                height: 55px !important;
+                line-height: 55px !important;
+            }
+
+            .button img {
+                width: 55px !important;
+                height: 55px !important;
+            }
+
+            #plus {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body style=3D"margin: 0 auto; padding: 0;">
+<style type=3D"text/css">
+    #contact a:visited {
+        text-decoration: none !important;
+        color: #A4A2A1 !important;
+    }
+
+    #contact a:hover {
+        text-decoration: underline !important;
+    }
+</style>
+<div class=3D"background"
+     style=3D"font-size: 10px; line-height: 1.5em; width: 100%; max-width: =
+700px; text-align: center; background-color: #fff; margin: 0 auto;"
+     align=3D"center">
+    <table bgcolor=3D"#fff" cellspacing=3D"0" cellpadding=3D"0" align=3D"ce=
+nter"
+           style=3D"border-collapse: collapse !important; align-self: cente=
+r; padding-top: 0; padding-bottom: 0; text-align: left; margin: 0 auto; bor=
+der: 0;">
+        <tr style=3D"padding-top: 0; padding-bottom: 0;">
+            <td style=3D"padding-top: 0; padding-bottom: 0;">
+                <table class=3D"main" cellspacing=3D"0" cellpadding=3D"0" i=
+d=3D"logo"
+                       style=3D"border-collapse: collapse !important; align=
+-self: center; padding-top: 0; padding-bottom: 0; text-align: left; width: =
+80%; max-width: 700px; margin: 0 auto; border: 0;">
+                    <tr style=3D"height: 40px; padding-top: 0; padding-bott=
+om: 0;">
+                        <td style=3D"padding-top: 0; padding-bottom: 0;"></=
+td>
+                    </tr>
+                    <tr style=3D"padding-top: 0; padding-bottom: 0;">
+                        <td style=3D"padding-top: 0; padding-bottom: 0;">
+                            <a href=3D"https://u366253.ct.sendgrid.net/wf/c=
+lick?upn=3D5-2Fz6aXOXPpQHsWVPqJ53cRSqvK6qTyHB64GsVYN2LVIaV9h83NAa1j3RNB4KrY=
+QX_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYQfjTDRWT=
+ap2mLIunkzHulplKFrg-2B8Oouyc9kc7thwbLL9Kaix2Ujy3B0KLK-2Bd3IM4MMD7jYnUQpm5c3=
+z2s7aOPBUL90bF4YpITFE6DwLolebugI50eGImahxHQVdCzWdYvgjLUYSSqqXzn5cPvN1-2BcR1=
+-2FdVlEXu-2BeFG0AXOSPcKFt1ceYM6BBUsQlzAXA0ffZyGQITI-2BLRA4E4xerVjHgfLcVKqzh=
+-2F0YazvV5N-2FSDlpkyJeSyOGZVupcLO3chO-2BS7RRGPT9izNC53eM4V8QBEjlv8-2Fl2cfMn=
+GXXl1N9Mv37wmqbFFY8EmdgDTb4OUq-2F1pGfahPdNnZ5DyS63xGIAqQ-3D-3D" style=3D"te=
+xt-decoration: none;">
+                                <img src=3D"http://s3.feedly.com/email/feed=
+ly-logo_2x.png"
+                                     alt=3D"Add Content" style=3D"margin: 0=
+; padding: 0;" width=3D"88" height=3D"25"></a>
+                        </td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr style=3D"height: 10px; padding-top: 0; padding-bott=
+om: 0;">
+                        <td style=3D"padding-top: 0; padding-bottom: 0;"></=
+td>
+                    </tr>
+                </table>
+                <table class=3D"main table-border" align=3D"center"
+                       style=3D"border-top-style: solid; border-top-color: =
+#E3E3E3; border-left-color: #E3E3E3; border-left-style: solid; border-right=
+-color: #E3E3E3; border-right-style: solid; padding-top: 0; padding-bottom:=
+ 0 !important; border-collapse: collapse !important; align-self: center; te=
+xt-align: left; width: 80%; margin: 0 auto; border-width: 1px 1px 0;"
+                       cellpadding=3D"0" cellspacing=3D"0" width=3D"80%">
+                    <tr style=3D"padding-top: 0; padding-bottom: 0;">
+                        <td style=3D"padding-top: 0; padding-bottom: 0;">
+                            <a href=3D"https://u366253.ct.sendgrid.net/wf/c=
+lick?upn=3D5-2Fz6aXOXPpQHsWVPqJ53cRSqvK6qTyHB64GsVYN2LVIaV9h83NAa1j3RNB4KrY=
+QX_QponjlfhIAYUoi4VQkFk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYi1KYdUuR=
+ThEakmcLWuTkQSt3-2B5Skkvugvbf5XcbpvyaUflnmejCG0X-2ByGLDyRWn-2B9-2Fuisl8-2FY=
+fjAuHrT2hrRgu3jePCaTPhJqFV-2B0-2FYHqI21jyu9EHiW9wwjEJXUw2X0-2BKthL-2Bt0jUtQ=
+Z-2Bgwuq7fYxDFpGShitY7PIxiP-2BVfXgUEIbFOXU5t97-2Bx018tqWQUFEBqOVNMBLp7yqJUN=
+i4cEl21cGZbEB-2B5URP8Cv5RTzIEN2YCJH6tmhywXXVaE9CKjWARb5F4jg7wi5A5WEl8qJ7EwT=
+pDJmT2YwdJuqiyfdXHXGyRCBiU1n7xb-2F-2B4VhrS1kpwJ63B-2BsD7-2FH-2F8ArtvoQ-3D-3=
+D">
+                                <img src=3D"http://s3.feedly.com/email/emai=
+l-mobile24_2x.png"
+                                     alt=3D"img" style=3D"display: block; p=
+adding-bottom: 0; margin: 0; border-bottom: 1px solid #E3E3E3" border=3D"0"
+                                     width=3D"100%" height=3D"auto" >
+                            </a>
+                        </td>
+                    </tr>
+
+                </table>
+                <table id=3D"bottom-border" class=3D"main table-border cont=
+ent-wrapper"
+                       style=3D"border-bottom-style: solid; border-bottom-c=
+olor: #E3E3E3; border-left-style: solid; border-left-color: #E3E3E3; border=
+-right-style: solid; border-right-color: #E3E3E3; padding-top: 0; border-co=
+llapse: collapse !important; align-self: center; padding-bottom: 0; text-al=
+ign: left; width: 80%; color: #000; background-color: #fff; margin: 0 auto;=
+ border-width: 0 1px 1px;"
+                       cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#fff">
+                    <tr style=3D"height: 20px; padding: 0; margin: 0;">
+                        <td style=3D"padding: 0; margin: 0;">
+
+                        </td>
+                    </tr>
+                    <tr style=3D"padding-top: 0; padding-bottom: 0;">
+                        <td style=3D"padding-top: 0; padding-bottom: 0;">
+                            <div id=3D"wrapper" style=3D"margin-left: 20px;=
+ margin-right: 20px;">
+                                <p class=3D"content" style=3D"text-align: l=
+eft;word-wrap: break-word; padding-right: 20px; padding-left: 20px; font-fa=
+mily: Arial, sans-serif; font-size: 14px; line-height: 1.5em; color: #333;">
+                                    Hi there,</p>
+
+                                <p class=3D"content" style=3D"text-align: l=
+eft;word-wrap: break-word; padding-right: 20px; padding-left: 20px; font-fa=
+mily: Arial, sans-serif; font-size: 14px; line-height: 1.5em; color: #333;"=
+>We just launched a brand new version of feedly mobile. It=E2=80=99s optimi=
+zed for iPhone 6/6+, matches Android=E2=80=99s new design style, integrates=
+ with iOS sharing extensions and supports tagging! It also integrates with =
+Facebook Messenger so you can discuss articles with your friends and collea=
+gues.</p>
+
+
+
+
+
+
+
+
+                                <div style=3D"width: 100%; margin: 0 auto; =
+text-align: center; display: inline-block; font-family: Arial, sans-serif; =
+font-size: 14px;">
+                                    <a href=3D"https://u366253.ct.sendgrid.=
+net/wf/click?upn=3DfQel8gMZSPQXOBXzy1qtJEafOkt3dQix7Ofm0jjDbL-2B9rYorI6AauA=
+86mE42O4DrmhJ2HGtMdaihGdSiGQWtqz29HLHO1NfhzTinNQjmjQA-3D_QponjlfhIAYUoi4VQk=
+Fk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYMTG9RYGIUxwHgrPl1pufyXnReoW3N=
+iySOtwqYFR6pHt3742IDku6TCaUQ1xWxI5BKWwAoeOrf4VoxMEviMxpdVYz0a5OyaYTH23kuihJ=
+b5PGtG2NfQvnY81jUZE7o46NM5uN-2BxvzWMRyDZ3HOKJGSSlpkYtqn0iYuX0YaSodiq0ftYIrp=
+QMyJb27T-2FsOusL4ErWQsln02yTtsBMzjMfTRKVPiS4GKlgF7-2FKA3-2FHRj20nLSd8HoHQIG=
+4InDrsrAKoanil2cOfJi-2F548XzXoJDLnSHLQdMp73orFf-2FPFgTrymTbvwygAFVZGJwctZmh=
+lF1KloN1p6Q-2BXB82B76DMOakw-3D-3D"
+                                       style=3D"margin: 0 auto; padding-rig=
+ht: 3px;">
+                                        <div class=3D"button" id=3D"left"
+                                             style=3D"font-family: Arial, s=
+ans-serif; font-weight: bold; font-size: 14px; border-radius: 3px; color: w=
+hite; cursor: pointer; line-height: 47px; text-align: center; display: inli=
+ne-block; margin: 15px auto; min-width: 50px; width: 120px; max-width: 140p=
+x; background-color: #2bb24c; padding:0"
+                                             align=3D"center">
+                                            <img style=3D"float: left;"
+                                                 src=3D"http://s3.feedly.co=
+m/email/email-calltocation-ios_2x-110.png"
+                                                 alt=3D"Feedly for iOS" wid=
+th=3D"47" height=3D"47" align=3D"middle"/>
+                                            iOS
+                                        </div>
+                                    </a>
+                                    <a href=3D"https://u366253.ct.sendgrid.=
+net/wf/click?upn=3DfQel8gMZSPQXOBXzy1qtJEafOkt3dQix7Ofm0jjDbL-2B9rYorI6AauA=
+86mE42O4DrSavBC3r78hvFdZsIeyBNrR3zaTfB0Hagqd8IxhlOgXY-3D_QponjlfhIAYUoi4VQk=
+Fk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYgcMWTQAjhw4ML0Kives-2FkYlDy5W=
+eZSCfBV2wONJecf3Spfoq8CTIbjHAxSF1JKUnISAcv-2Fy5Awq8IZU-2FZyTQ5X3q-2FduPujUv=
+M-2BncIRa2WD0sxBfRpdXu7dwd-2BVvVgtSPV1CO-2FLV59hQLWvK3n1VbmARu9N2XRZz88gp6j=
+pcS-2FQ1STpgUHKf8EXgJbSlIgnhXQ4PqjBEarkIwXNpTb33-2FAHVESQoDNuaOEwZy1XyK69qW=
+XRNt71KNc3-2BCzjV2pK7miDoWzfIu7a60Sk-2B3i-2BgAYKklByYyXDPKGlwnN-2FCkfinVRsd=
+GK5Hl5ZhhCB4QtMmb1x6G2ap7dQ6Nm-2FTYMHFWkA-3D-3D"
+                                       style=3D"margin: 0 auto; padding-lef=
+t: 3px;">
+                                        <div class=3D"button" id=3D"right-b=
+utton"
+                                             style=3D"font-family: Arial, s=
+ans-serif; font-weight: bold; font-size: 14px; border-radius: 3px; color: w=
+hite; cursor: pointer; line-height: 47px; text-align: center; display: inli=
+ne-block; margin: 15px auto; min-width: 50px; width: 120px; max-width: 140p=
+x; background-color: #2bb24c; padding: 0"
+                                             align=3D"center">
+                                            <img style=3D"float: left; padd=
+ing: 0; margin: 0;"
+                                                 src=3D"http://s3.feedly.co=
+m/email/email-calltocation-android_2x-110.png"
+                                                 alt=3D"Feedly for android"=
+ width=3D"47" height=3D"47" align=3D"middle"/>
+                                            Android
+                                        </div>
+                                    </a>
+
+
+<p class=3D"content" style=3D"text-align: left;word-wrap: break-word; paddi=
+ng-right: 20px; padding-left: 20px; font-family: Arial, sans-serif; font-si=
+ze: 14px; line-height: 1.5em; color: #333;">
+                                    Happy reading, <br>
+                                    - The feedly team</p>
+
+
+
+                                </div>
+=20=20=20=20=20=20=20=20=20=20
+                            </div>
+                        </td>
+                    </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=09=20=09=20=20=20=20
+
+                    <tr style=3D"height: 20px;">
+                        <td></td>
+                    </tr>
+=09=20=09=20
+                </table>
+                <table class=3D"main" cellspacing=3D"0" cellpadding=3D"0" i=
+d=3D"logo"
+                       style=3D"border-collapse: collapse !important; align=
+-self: center; padding-top: 0; padding-bottom: 0; text-align: left; width: =
+80%; max-width: 700px; margin: 0 auto; border: 0;">
+                    <tr style=3D"padding-top: 0; padding-bottom: 0;">
+            <td style=3D"padding-top: 0; padding-bottom: 0;" align=3D"cente=
+r">
+                <br><p id=3D"contact" style=3D"text-align: center;font-fami=
+ly: Arial, sans-serif; font-size: 11px; line-height: 1.5em; color: #A4A2A1;=
+">
+If you prefer not to receive these updates from feedly, please <a href=3D"h=
+ttps://u366253.ct.sendgrid.net/wf/unsubscribe?upn=3DQponjlfhIAYUoi4VQkFk1Md=
+yS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYqH4pLSKjyNvOmTr634ttEKwsLyLHMDUYga=
+Zj7LC2p-2FkfmCFsSNhb-2BZslq0bEVQommWbzJHBt-2BWig-2FYsb86nxT2xA5BBoip2jFTBLo=
+A6awZXCWdyPqmLTu-2BEpFRDJT-2ByoShxNQYDNM0yADAfXTxW-2FOsATso-2BtuSLw2VUK-2B3=
+YnAhHBF6VFvN9F82HRwxVnDlmg2jA-2BAnWtRb-2BGvydDAzFBqeDvDDOmxpW0BQF0-2B5wfhYY=
+3uNev4qCMqRlDPrMmLn2KuG5IBBycXG9e9yUFcuBM9TXMxaopt9C2-2BhnRG0TVWfVZD7PSJrRn=
+AmqDVDSlQL3slQbou34NBjGokjgGKMA4sA-3D-3D" style=3D"text-decoration: none; c=
+olor: #2bb24c;">unsubscribe</a>.<br>
+feedly, 285 Hamilton Avenue, 94301 Palo Alto<br>
+                </p>
+                    </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td style=3D"height: 40px; padding-top: 0; padding-bottom: 0;">=
+</td>
+        </tr>
+    </table>
+</div>
+
+<img src=3D"https://u366253.ct.sendgrid.net/wf/open?upn=3DQponjlfhIAYUoi4VQ=
+kFk1MdyS0QCuV9sLeXuAyomw5KOqmXQJSQny0VMocGszIRYVHX3Whyd9PJZpJfBa7ovULiFGNgo=
+-2FhOxnPsjN8EReDCNDJr44zu16auFhCMfO4PTYzRsXGFAg2tEfpzdLJAbMWF3wU4h8HdIjcXiS=
+VJt45PulsAWsAQ-2F2vzshow-2FSCB4JTMsULpf-2BIKt7CCxBUwOjXrCMv4j7g7oBbiaS2DQ1F=
+sKD6Im-2FGdm42qLpnaOvCAORM4jxqzig-2Ffv-2FR4xTzpx0d98nOZFlPxttDsWx8oG7D2fN2O=
+-2FUSjleDBAuprE-2Bgedo3CCN7dyaUEHOEYf-2ByHKhfPxlyf5b5AMsNxIw4RwZ6Cg-2B7F0SJ=
+HnSt6H16eaRrb8HfhQA9Phhsn2L5EicKgp8Q-3D-3D" alt=3D"" width=3D"1" height=3D"=
+1" border=3D"0" style=3D"height:1px !important;width:1px !important;border-=
+width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margi=
+n-right:0 !important;margin-left:0 !important;padding-top:0 !important;padd=
+ing-bottom:0 !important;padding-right:0 !important;padding-left:0 !importan=
+t;"/>
+</body>
+</html>
+
+--===============5664166511872192978==--

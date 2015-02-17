@@ -1,0 +1,117 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp50571qdc;
+        Sat, 2 Aug 2014 11:34:01 -0700 (PDT)
+X-Received: by 10.70.20.99 with SMTP id m3mr14239533pde.14.1407004440861;
+        Sat, 02 Aug 2014 11:34:00 -0700 (PDT)
+Return-Path: <pay@sakura.ad.jp>
+Received: from mail.sakura.ad.jp (mail.sakura.ad.jp. [210.224.172.11])
+        by mx.google.com with ESMTP id bv3si13549745pad.79.2014.08.02.11.34.00
+        for <su104003@gmail.com>;
+        Sat, 02 Aug 2014 11:34:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of pay@sakura.ad.jp designates 210.224.172.11 as permitted sender) client-ip=210.224.172.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of pay@sakura.ad.jp designates 210.224.172.11 as permitted sender) smtp.mail=pay@sakura.ad.jp
+Received: from batch3.sys.sakura.ad.jp ([192.168.197.12])
+	by mail.sakura.ad.jp (8.14.5/8.14.5) with ESMTP id s72IXx5e062694;
+	Sun, 3 Aug 2014 03:33:59 +0900 (JST)
+	(envelope-from pay@sakura.ad.jp)
+Received: from batch3.sys.sakura.ad.jp (localhost.localdomain [127.0.0.1])
+	by batch3.sys.sakura.ad.jp (8.13.8/8.13.8) with ESMTP id s72IXxBH013658;
+	Sun, 3 Aug 2014 03:33:59 +0900
+Received: (from batch-manager@localhost)
+	by batch3.sys.sakura.ad.jp (8.13.8/8.13.8/Submit) id s72IXxe8013657;
+	Sun, 3 Aug 2014 03:33:59 +0900
+Date: Sun, 3 Aug 2014 03:33:59 +0900
+Message-Id: <201408021833.s72IXxe8013657@batch3.sys.sakura.ad.jp>
+X-Authentication-Warning: batch3.sys.sakura.ad.jp: batch-manager set sender to =?ISO-2022-JP?B?GyRCJDUkLyRpJSQlcyU/ITwlTSVDJUgbKEI=?= <pay@sakura.ad.jp> using -f
+From: =?ISO-2022-JP?B?GyRCJDUkLyRpJSQlcyU/ITwlTSVDJUgbKEI=?= <pay@sakura.ad.jp>
+Subject: [=?ISO-2022-JP?B?GyRCJDUkLyRpJSQlcyU/ITwlTSVDJUgbKEI=?=]=?ISO-2022-JP?B?GyRCIVo/NzUsJCo/PTl+JF8hWyUvJWwlOCVDJUglKyE8JUkkSyRoJGskKjtZSiczTkcnJEskRCQkJEYbKEI=?= [=?ISO-2022-JP?B?GyRCQEE1YT1xGyhC?=No.10430236]
+To: su104003@gmail.com
+Received: from DB Server (online1.sakura.ad.jp)
+Mime-version: 1.0
+Content-type: text/plain; charset=ISO-2022-JP
+Content-transfer-encoding: 7bit
+X-Mailer: SAKURA Online System / Version 1.0
+
+植田 尚克 様 (zbr72837)
+
+さくらインターネットのサービスをお申込みいただきありがとうございます。
+
+ご契約いただきましたサービスの利用料金について、以下のとおりご指定の
+クレジットカードにて決済させていただきました。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ■ クレジットカードによるお支払明細 ■
+───────────────────────────────────
+
+    お申込日        2014年07月19日
+    ご契約者        植田 尚克 様
+    会員ＩＤ        zbr72837
+    サービス        さくらのレンタルサーバ スタンダード
+    サービスコード  112600547391
+    請求書番号      10430236
+
+《 料金の内訳 》
+
+        ご契約サービス                                |請求額(税込)|
+  ----------------------------------------------------+------------+
+   さくらのレンタルサーバ スタンダード                     1,030円
+     サービス利用料(2か月分)
+   初期費用（さくらのレンタルサーバ スタンダード）         1,029円
+     サービス初期費用
+  ----------------------------------------------------+------------+
+                                               合    計    2,059円
+                                            (内消費税額      152円)
+
+    お支払方法: クレジットカード - 毎月払い
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ■ ご確認ください ■
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+※ ご利用開始までの所要日数の目安は、以下のURLをご参照ください。
+
+   URL：http://sakura.custhelp.com/app/answers/detail/a_id/1005
+
+※ 実際の振替日については、ご指定のクレジットカード会社の規約に準じます。
+
+※ 現時点でご指定のクレジットカードを変更することはできません。
+   次回請求分から利用するクレジットカードの変更を希望する場合は、会員
+   メニューからご変更ください。変更の手順は以下のURLをご参照ください。
+
+   URL：http://support.sakura.ad.jp/proc/change_credit.html
+
+※ 毎月払いをご指定の場合、初回のみ2ヶ月分をお支払いただいております。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏┓
+┗■  会員情報の変更について
+  └─────────────────────────────────
+
+  ご登録情報に変更がある場合は、会員メニューよりご変更ください。 
+  手順については以下に記載のマニュアルをご参照ください。
+
+    ご登録情報の変更（住所・電話番号・担当者名）
+    http://support.sakura.ad.jp/proc/change_info.html
+
+    ご登録メールアドレスの変更
+    http://support.sakura.ad.jp/proc/change_mail.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ご不明な点やご質問等ございましたら、本メール返信にてお問い合わせください。
+今後ともさくらインターネットをよろしくお願いいたします。
+
+─── さくらインターネット株式会社  カスタマーセンター ───────
+
+  ■サポートサイト
+    http://support.sakura.ad.jp/
+
+  ■FAQ（よくある質問）から調べる
+    http://support.sakura.ad.jp/faq/
+
+  ■電話・メールによるお問い合わせ
+    http://support.sakura.ad.jp/contact/
+      電話受付時間  ：平日 10:00 - 18:00（土日祝、当社指定休日は休み）
+      メール受付時間：10:00 - 18:00（土日祝営業、当社指定休日は休み）
+
+───────────────────────────────────

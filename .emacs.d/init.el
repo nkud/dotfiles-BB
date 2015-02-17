@@ -1,6 +1,8 @@
-;;; Author: Naoki 
+;;;
+;;; Author: Naoki
 ;;; TODO
 ;;; - elscreenで新しいタブを開く直前にファイルをユーザーに聞く
+;;;
 
 ;; Language
 (set-language-environment 'Japanese)
@@ -72,6 +74,7 @@
 
 ;; Package
 ;; ELPA settings
+(require 'eieio)
 (eval-when-compile (require 'cl))
 (when (require 'package nil t)
 	;; パッケージリポジトリに Marmalade ELPA を追加
@@ -104,6 +107,7 @@
       web-mode
       google-c-style
       quickrun
+      markdown-mode
       ;; other
       yasnippet
       open-junk-file

@@ -1,0 +1,63 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.223.39 with SMTP id qr7csp356199qdc;
+        Mon, 18 Aug 2014 04:28:48 -0700 (PDT)
+X-Received: by 10.70.90.161 with SMTP id bx1mr10917354pdb.150.1408361327892;
+        Mon, 18 Aug 2014 04:28:47 -0700 (PDT)
+Return-Path: <noreply@atcoder.jp>
+Received: from www5.atcoder.jp ([183.177.145.6])
+        by mx.google.com with ESMTP id ze5si21288790pbc.48.2014.08.18.04.28.07
+        for <su104003@gmail.com>;
+        Mon, 18 Aug 2014 04:28:07 -0700 (PDT)
+Received-SPF: temperror (google.com: error in processing during lookup of noreply@atcoder.jp: DNS timeout) client-ip=183.177.145.6;
+Authentication-Results: mx.google.com;
+       spf=temperror (google.com: error in processing during lookup of noreply@atcoder.jp: DNS timeout) smtp.mail=noreply@atcoder.jp;
+       dkim=pass header.i=@atcoder.jp
+Received: from atcoder.jp (www5.atcoder.jp [183.177.145.6])
+	by www5.atcoder.jp (Postfix) with ESMTP id 25A8AEE0EA6
+	for <su104003@gmail.com>; Mon, 18 Aug 2014 20:28:01 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=atcoder.jp;
+	s=default; t=1408361281;
+	bh=Xu13zU+0TGz+hARgMxTG9dzRGQTLcryX5xYhYqMab6M=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=ZraGiMPI1aBAP12CvxSIzOfGqK8PSsu3LbvKaSs/cWLPxbNK/RHLdFsKcfxthCX3F
+	 5PrlNsijsovTayh3TLboNxRTxLCq7KT2uou+gDkmpxIN6nHl2aArQDuQKZQyln4C8O
+	 tkGOatJa4zfqh/J5C+u5RWtwSSCeSbIitULLlvQk=
+Date: Mon, 18 Aug 2014 20:28:01 +0900
+To: su104003@gmail.com
+From: AtCoder =?ISO-2022-JP?B?GyRCMytILyVBITwlYBsoQg==?= <noreply@atcoder.jp>
+Reply-To: err@atcoder.jp
+Subject: =?ISO-2022-JP?Q?Code_Formula_=1B$BM=3DA*=1B(BA_=1B$B3+:E$N$*CN$i$;=1B(B?=
+Message-ID: <e3d236ff3b05d83871f11af9b79605d0@localhost.localdomain>
+X-Priority: 3
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ISO-2022-JP
+
+
+「コンテストメールを受け取る」にチェックしているユーザ様にお送りしています
+
+AtCoder ユーザの皆様へ
+
+AtCoder では、Code Formula 予選A を開催します。
+http://code-formula-2014-quala.contest.atcoder.jp/
+
+▼スケジュール
+　8/20（水） 20:00 から22:00まで。計120分。
+
+▼詳細
+　https://careeful.com/public/pc/contest/S002/
+
+▼言語情報
+コンテストで使用可能な言語は，以下の通りです。
+http://code-formula-2014-quala.contest.atcoder.jp/faq#about_Language
+
+皆様の参加をお待ちしております。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+メール配信の停止は、コンテストページにログインした後、以下のリンクからお願いします。
+http://code-formula-2014-quala.contest.atcoder.jp/settings
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+
+

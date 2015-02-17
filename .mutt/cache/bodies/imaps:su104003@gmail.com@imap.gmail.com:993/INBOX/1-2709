@@ -1,0 +1,21 @@
+MIME-Version: 1.0
+Received: by 10.96.223.39 with HTTP; Sun, 17 Aug 2014 21:25:25 -0700 (PDT)
+Date: Mon, 18 Aug 2014 13:25:25 +0900
+Delivered-To: su104003@gmail.com
+Message-ID: <CAM1oHNPFSbAbKN7OgUVNeuN3JwTU8HhaNJCNVHH8rSu9-5QMtA@mail.gmail.com>
+Subject: test
+From: =?UTF-8?B?5qSN55Sw5bCa5YWL?= <su104003@gmail.com>
+To: =?UTF-8?B?5qSN55Sw5bCa5YWL?= <su104003@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11c167748c173e0500dfc2b5
+
+--001a11c167748c173e0500dfc2b5
+Content-Type: text/plain; charset=UTF-8
+
+test message.
+
+--001a11c167748c173e0500dfc2b5
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><div class="gmail_default" style="font-family:ms gothic,monospace">test message.</div></div>
+
+--001a11c167748c173e0500dfc2b5--

@@ -1,0 +1,332 @@
+Delivered-To: su104003@gmail.com
+Received: by 10.96.204.199 with SMTP id la7csp32282qdc;
+        Fri, 1 Aug 2014 14:24:22 -0700 (PDT)
+X-Received: by 10.70.94.42 with SMTP id cz10mr9193425pdb.107.1406928261992;
+        Fri, 01 Aug 2014 14:24:21 -0700 (PDT)
+Return-Path: <00000147937588a6-4310ae26-50b9-47fb-b728-bcdd08955919-000000@amazonses.com>
+Received: from a27-128.smtp-out.us-west-2.amazonses.com (a27-128.smtp-out.us-west-2.amazonses.com. [54.240.27.128])
+        by mx.google.com with ESMTPS id ag4si11080102pac.77.2014.08.01.14.24.20
+        for <su104003@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 01 Aug 2014 14:24:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 00000147937588a6-4310ae26-50b9-47fb-b728-bcdd08955919-000000@amazonses.com designates 54.240.27.128 as permitted sender) client-ip=54.240.27.128;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 00000147937588a6-4310ae26-50b9-47fb-b728-bcdd08955919-000000@amazonses.com designates 54.240.27.128 as permitted sender) smtp.mail=00000147937588a6-4310ae26-50b9-47fb-b728-bcdd08955919-000000@amazonses.com;
+       dkim=pass header.i=@wunderlist.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7zgup2iutksztpy5e3pdetclet2tit5s; d=wunderlist.com; t=1406928259;
+	h=From:To:Subject:MIME-Version:Content-Type:Date:Message-ID;
+	bh=hlOROxCVxgWzTGKtOz28AfOkXA1hvkFAaCZlAB2VyNA=;
+	b=PH8z0Ik5kaluEu49ciQVCkJYc2SVIAeqUTnNXg/7c8LKFvCsCDeHeqRheHFdWit1
+	jF9BBh0APVb43FCcv+McEyZc5QnXZpeq4h1EvkOrHRkK+AP5wJJHx/WqOQzVldlOuBh
+	eJkw0BGzLECo5LKJuE/YlrIFHYZDHJrEnhxrHptM=
+From: Wunderlist <no-reply@wunderlist.com>
+To: su104003@gmail.com
+Subject: Wunderlist 3 has arrived!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_61866_416572922.1406928259240"
+Date: Fri, 1 Aug 2014 21:24:19 +0000
+Message-ID: <00000147937588a6-4310ae26-50b9-47fb-b728-bcdd08955919-000000@email.amazonses.com>
+X-SES-Outgoing: 2014.08.01-54.240.27.128
+
+------=_Part_61866_416572922.1406928259240
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Wunderlist 3 is here!
+
+Hi there,
+As a registered Wunderlist user we wanted to let you know that we=E2=80=99v=
+e just released a major new update, Wunderlist 3. With lightning-fast Real-=
+time Sync, a beautiful new design and more than 60 improvements, it's our b=
+iggest update yet. We know it=E2=80=99s been a long time coming and wanted =
+to give you the full story on our blog.
+
+Visit Blog(http://bit.ly/1nbrCu9)
+
+**Real-time Sync**
+Instead of waiting for your lists to load before you add a to-do, they now =
+appear instantly on-demand, across all your devices.
+
+**Faster by design**
+All the unnecessary clutter has been removed to create a design that evolve=
+s Wunderlist=E2=80=99s character and makes it feel lighter.
+
+**Improved Collaboration**
+With seamless list sharing and free comments for everyone, collaborating wi=
+th Wunderlist 3 is easier than ever before.
+
+**Introducing Public Lists**
+Public Lists let you curate your favorite things to do, see and make for ev=
+eryone on the web.
+
+Wunderlist 3 makes capturing your ideas, things to do and places to see eve=
+n easier. And it=E2=80=99s available right now for iPhone, Android, iPad, M=
+ac, Chrome, Kindle Fire and the Web.
+
+Get Wunderlist 3(http://bit.ly/1uPLD3a)
+
+With =E2=99=A5 from Berlin,
+6Wunderkinder - The Makers of Wunderlist
+
+---
+
+You have received this service announcement to update you about important c=
+hanges to your account. Unsubscribe(https://www.wunderlist.com/unsubscribe/=
+onboarding/9495413/0f5358e47ebe95b8ea04d6a149c5be70dea89728~1406928259) fro=
+m emails like these.
+
+------=_Part_61866_416572922.1406928259240
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+  <style type=3D"text/css">
+
+    @import "http://fonts.googleapis.com/css?family=3DLato:300,400,700";
+
+    @media screen and (max-device-width: 570px), screen and (max-width: 570=
+px) {
+
+      table[class=3D"email-container"] {
+        width: 98% !important;
+        -webkit-font-smoothing: subpixel-antialiased;
+        color: #444444 =C2=A0;
+      }
+    }
+
+    @media screen and (max-device-width: 320px), screen and (max-width: 320=
+px) {
+
+      tr[class=3D"header"] td h1 {
+        font-size: 20px !important;
+        margin-bottom: 0 !important;
+      }
+
+      td[class=3D"button"] a {
+        width:auto
+      }
+
+    }
+  </style>
+  <meta name=3D"viewport" content=3D"initial-scale=3D1.0"><meta name=3D"for=
+mat-detection" content=3D"telephone=3Dno">
+</head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0"=
+>
+  <br>
+  <center>
+  <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"emai=
+l-container" style=3D"font-family: Lato, 'Lucida Sans', 'Lucida Grande', Se=
+goeUI, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; fon=
+t-weight: normal; line-height: 22px; color: #444444; text-align: left; bord=
+er: 1px solid rgb(177, 213, 245); border-top-left-radius: 4px; border-top-r=
+ight-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radiu=
+s: 4px; width: 550px;" width=3D"550">
+  <tbody>
+    <tr>
+      <td>
+        <table cellpadding=3D"0" cellspacing=3D"0" class=3D"padding" style=
+=3D"padding-left: 40px; padding-right: 40px; padding-top: 30px; padding-bot=
+tom: 20px;" width=3D"100%">
+          <tbody>
+            <tr class=3D"hero">
+              <td align=3D"center" colspan=3D"2">
+                <table class=3D"heroimage" style=3D"margin-bottom: 10px;">
+                  <tbody>
+                    <tr>
+                      <td colspan=3D"2">
+                        <img border=3D"0" src=3D"https://s3.amazonaws.com/6=
+wkpress/Wunderlist+3+Launches/newsletter-devicelockup.png" style=3D"display=
+: block;" width=3D"100%">
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr class=3D"header">
+              <td align=3D"center">
+                <h1 style=3D"font-size: 30px; line-height: 1.3em; margin: 0=
+; padding: 0;">
+                  Wunderlist 3 is here!
+                </h1>
+              </td>
+            </tr>
+            <tr class=3D"content">
+              <td>
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px; margin-top: 15px;">
+                  Hi there,<br>
+                  As a registered Wunderlist user we wanted to let you know=
+ that we=E2=80=99ve just released a major new update, Wunderlist 3. With li=
+ghtning-fast Real-time Sync, a beautiful new design and more than 60 improv=
+ements, it's our biggest update yet. We know it=E2=80=99s been a long time =
+coming and wanted to give you the full story on our blog.
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center">
+                <table border=3D"0" cellpadding=3D"12" style=3D"font-family=
+: Lato, 'Lucida Sans', 'Lucida Grande', SegoeUI, 'Helvetica Neue', Helvetic=
+a, Arial, sans-serif; font-size: 16px; font-weight: bold; line-height: 25px=
+; color: #444444 =C2=A0&nbsp;&nbsp;; text-align: left;">
+                  <tbody>
+                    <tr>
+                      <td class=3D"button" style=3D"color: rgb(255, 255, 25=
+5); font-size: 16px; line-height: 24px; text-align: center; display: block;=
+">
+                        <a href=3D"http://bit.ly/1qyqa8m" style=3D"color: r=
+gb(255, 255, 255); text-align: center; display: block; padding: 12px 20px; =
+height: 100%; border-top-left-radius: 4px; border-top-right-radius: 4px; bo=
+rder-bottom-right-radius: 4px; border-bottom-left-radius: 4px; text-decorat=
+ion: none; background-color: rgb(43, 136, 217); min-width: 150px;">
+                          Visit Blog
+                        </a><br><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr class=3D"content">
+              <td>
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px;">
+                  <strong style=3D"color: rgb(43, 136, 217);">Real-time Syn=
+c</strong><br>
+Instead of waiting for your lists to load before you add a to-do, they now =
+appear instantly on-demand, across all your devices.<br><br>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"content">
+              <td>
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px;">
+                  <strong style=3D"color: rgb(43, 136, 217);">Faster by des=
+ign</strong><br>
+All the unnecessary clutter has been removed to create a design that evolve=
+s Wunderlist=E2=80=99s character and makes it feel lighter.<br><br>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"content">
+              <td>
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px;">
+                  <strong style=3D"color: rgb(43, 136, 217);">Improved Coll=
+aboration</strong><br>
+With seamless list sharing and free comments for everyone, collaborating wi=
+th Wunderlist 3 is easier than ever before.<br><br>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"content">
+              <td>
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px;">
+                  <strong style=3D"color: rgb(43, 136, 217);">Introducing P=
+ublic Lists</strong><br>
+Public Lists let you curate your favorite things to do, see and make for ev=
+eryone on the web.<br><br>
+                </p>
+                <img border=3D"0" src=3D"http://t.wunderlist.com/bitly/news=
+letterdevicelockup/1AHLzTx.png" style=3D"display: block;" width=3D"100%"><b=
+r><br>
+              </td>
+            </tr>
+            <tr class=3D"content">
+              <td>
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px; margin-top: 15px;">
+                  Wunderlist 3 makes capturing your ideas, things to do and=
+ places to see even easier. And it=E2=80=99s available right now for iPhone=
+, Android, iPad, Mac, Chrome, Kindle Fire and the Web.
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center">
+                <table border=3D"0" cellpadding=3D"12" style=3D"font-family=
+: Lato, 'Lucida Sans', 'Lucida Grande', SegoeUI, 'Helvetica Neue', Helvetic=
+a, Arial, sans-serif; font-size: 16px; font-weight: bold; line-height: 25px=
+; color: #444444 =C2=A0&nbsp;&nbsp;; text-align: left;">
+                  <tbody>
+                    <tr>
+                      <td class=3D"button" style=3D"color: rgb(255, 255, 25=
+5); font-size: 16px; line-height: 24px; text-align: center; display: block;=
+">
+                        <a href=3D"http://bit.ly/1uPLD3a" style=3D"color: r=
+gb(255, 255, 255); text-align: center; display: block; padding: 12px 20px; =
+height: 100%; border-top-left-radius: 4px; border-top-right-radius: 4px; bo=
+rder-bottom-right-radius: 4px; border-bottom-left-radius: 4px; text-decorat=
+ion: none; background-color: rgb(43, 136, 217); min-width: 150px;">
+                          Get Wunderlist 3
+                        </a><br><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center">
+                <p style=3D"font-size: 15px; font-weight: normal; line-heig=
+ht: 22px;">
+                  With &hearts; from Berlin,<br>
+                  6Wunderkinder - The Makers of Wunderlist
+                </p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"footer" style=3D"max-width: 550px; font-family: Lato, 'Lucida Sans',=
+ 'Lucida Grande', SegoeUI, 'Helvetica Neue', Helvetica, Arial, sans-serif; =
+font-size: 15px; line-height: 22px; color: #444444 =C2=A0 &nbsp; &nbsp;; te=
+xt-align: left; padding: 20px 0; font-weight: normal;">
+  <tbody>
+    <tr>
+      <td align=3D"center" colspan=3D"2" style=3D"text-align: center; font-=
+size: 12px; line-height: 18px; color: rgb(163, 163, 163); padding: 5px 0px =
+20px;">
+      You have received this service announcement to update you about impor=
+tant changes to your account. <a href=3D"https://www.wunderlist.com/unsubsc=
+ribe/onboarding/9495413/0f5358e47ebe95b8ea04d6a149c5be70dea89728~1406928259=
+" style=3D"color: rgb(43, 136, 217);">Unsubscribe</a> from emails like thes=
+e.<br><br>
+        Download Wunderlist for free on <a href=3D"http://www.appstore.com/=
+6wunderkinder/wunderlist" style=3D"color: rgb(43, 136, 217);">iPhone</a>, <=
+a href=3D"http://www.appstore.com/6wunderkinder/wunderlist" style=3D"color:=
+ rgb(43, 136, 217);">iPad</a>, <a href=3D"https://play.google.com/store/app=
+s/details?id=3Dcom.wunderkinder.wunderlistandroid" style=3D"color: rgb(43, =
+136, 217);">Android</a>, <a href=3D"https://itunes.apple.com/au/app/wunderl=
+ist-to-do-list-tasks/id410628904?mt=3D12" style=3D"color: rgb(43, 136, 217)=
+;">Mac</a> and <a href=3D"http://www.wunderlist.com" style=3D"color: rgb(43=
+, 136, 217);">Web</a>.
+      </td>
+    </tr>
+    <tr>
+      <td style=3D"text-align: center; font-weight: normal; font-size: 12px=
+; line-height: 18px; color: rgb(163, 163, 163);">
+        <p>
+          =C2=A9 2014 <a href=3D"http://www.6wunderkinder.com" style=3D"col=
+or: rgb(43, 136, 217); text-decoration: underline;">6 Wunderkinder GmbH</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center></body></html>
+------=_Part_61866_416572922.1406928259240--
