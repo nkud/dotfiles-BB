@@ -28,9 +28,6 @@
  [submodule ".emacs.d/theme/public/replace-colorthemes"]
    path = .emacs.d/theme/public/replace-colorthemes
    url = https://github.com/emacs-jp/replace-colorthemes
- [submodule ".emacs.d/public_repos/cl-lib"]
-   path = .emacs.d/public_repos/cl-lib
-   url = https://github.com/emacsmirror/cl-lib
  [submodule ".emacs.d/theme/public/zenburn-emacs"]
  	path = .emacs.d/theme/public/zenburn-emacs
  	url = https://github.com/bbatsov/zenburn-emacs
