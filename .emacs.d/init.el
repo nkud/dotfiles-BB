@@ -168,6 +168,7 @@
 
       ;; coding
       web-mode
+      scss-mode
       google-c-style
       quickrun
       markdown-mode

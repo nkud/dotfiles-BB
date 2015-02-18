@@ -2,7 +2,7 @@
 (add-hook 'c-mode-hook 'c-turn-on-eldoc-mode)
 (add-hook 'c++-mode-hook 'c-turn-on-eldoc-mode)
 
-;; c/c++　スタイル
+;; c/c++ style
 (defun nu/c-c++-mode-init()
   ;; ;; 常にインデント
   (setq c-tab-always-indent t)
@@ -24,8 +24,8 @@
 (require 'google-c-style)
 (add-hook 'c-mode-common-hook 'google-set-c-style)
 (add-hook 'c++-mode-common-hook 'google-set-c-style)
-(add-hook 'c-mode-common-hook 'linum-mode)
-(add-hook 'c++-mode-common-hook 'linum-mode)
+;; (add-hook 'c-mode-common-hook 'linum-mode)
+;; (add-hook 'c++-mode-common-hook 'linum-mode)
 
 ;; VisualStudio Style
 (defconst vs-c-style
