@@ -31,6 +31,7 @@
 ;; (add-to-load-path "elisp" "conf" "elpa" "public_repo" "theme" "__secret")
 (add-to-load-path "elpa"
                   "theme"
+                  "public"
                   "el-get/el-get"
                   "__secret")
 
@@ -73,72 +74,9 @@
     (setenv "PATH" (concat dir ":" (getenv "PATH")))
     (setq exec-path (append (list dir) exec-path))))
 
-;;; 
+;;;
 ;;; Package system
 ;;;
-
-;; ELPA settings
-(require 'eieio)
-(eval-when-compile (require 'cl))
-(when (require 'package nil t)
-	;; パッケージリポジトリに Marmalade ELPA を追加
-	;; (add-to-list 'package-archives
-	;; 						 '("ELPA" . "http://tromey.com/elpa/"))
-  (add-to-list 'package-archives '("marmalade" . "https://marmalade-repo.org/packages/"))
-  (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/"))
-  (add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/") t) ; Org-mode's repository
-  (add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/") t)
-	;; インストールしたパッケージにロードパスを通して読み込む
-	(package-initialize)
-
-  ;; パッケージ情報の更新
-  (package-refresh-contents)
-
-  ;; インストールするパッケージ
-  (defvar nu/packages
-    '(
-      ;; init
-      init-loader
-      
-      ;; python
-      jedi
-      
-      ;; helm
-      helm
-      helm-ag
-      helm-descbinds
-      helm-ls-git
-      helm-c-yasnippet
-      
-      ;; coding
-      web-mode
-      google-c-style
-      quickrun
-      markdown-mode
-      ruby-block
-      smart-compile
-      
-      ;; other
-      yasnippet
-      open-junk-file
-      auto-complete
-      key-chord
-      c-eldoc
-      wgrep
-      evernote-mode
-      paredit
-      company
-      elscreen
-      wanderlust
-      apel
-      smex
-      flim
-      ))
-  ;; インストールしていないパッケージをインストール
-  (dolist (package nu/packages)
-    (unless (package-installed-p package)
-      (package-install package)))
-  )
 
 ;; el-get
 (require 'el-get nil 'noerror)
@@ -181,15 +119,86 @@
         (:name company-mode
                :type github
                :pkgname "company-mode/company-mode")
+        (:name auto-complete
+               :type github
+               :pkgname "buzztaiki/auto-complete")
         ))
 (defvar nu/el-get-packages
   '("emacs-smartchr"
     "newsticker-notify"
     "ruby-electric"
-    "company-mode"
+    "auto-complete"
+    ;; "company-mode"
     "emacs-calfw")
   "A list of packages to install from el-get at launch.")
 (el-get 'sync nu/el-get-packages)
+
+;; ELPA settings
+(require 'eieio)
+(eval-when-compile (require 'cl))
+(when (require 'package nil t)
+	;; パッケージリポジトリに Marmalade ELPA を追加
+	;; (add-to-list 'package-archives
+	;;             '("ELPA" . "http://tromey.com/elpa/"))
+  (add-to-list 'package-archives '("marmalade" . "https://marmalade-repo.org/packages/"))
+  (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/"))
+  (add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/") t) ; Org-mode's repository
+  (add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/") t)
+	;; インストールしたパッケージにロードパスを通して読み込む
+	(package-initialize)
+
+  ;; パッケージ情報の更新
+  (package-refresh-contents)
+
+  ;; インストールするパッケージ
+  (defvar nu/packages
+    '(
+      ;; init
+      init-loader
+
+      ;; python
+      jedi
+
+      ;; helm
+      helm
+      helm-ag
+      helm-descbinds
+      helm-ls-git
+      helm-c-yasnippet
+
+      ;; coding
+      web-mode
+      google-c-style
+      quickrun
+      markdown-mode
+      ruby-block
+      smart-compile
+
+      ;; org
+      org
+      org-plus-contrib
+
+      ;; other
+      yasnippet
+      open-junk-file
+      ;; auto-complete
+      key-chord
+      c-eldoc
+      wgrep
+      evernote-mode
+      paredit
+      company
+      elscreen
+      wanderlust
+      apel
+      smex
+      flim
+      ))
+  ;; インストールしていないパッケージをインストール
+  (dolist (package nu/packages)
+    (unless (package-installed-p package)
+      (package-install package)))
+  )
 
 ;;; init-loader
 (require 'init-loader)

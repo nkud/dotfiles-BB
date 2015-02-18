@@ -10,6 +10,7 @@ alias lal="ls -larF"
 #alias le="less --QUIT-AT-EOF"
 alias le="less"
 
+alias t="tree"
 alias tt="tree -a ."
 
 alias ss="source ~/.zshrc"
