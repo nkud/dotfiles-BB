@@ -33,3 +33,9 @@
 (menu-bar-mode -1)
 (tool-bar-mode -1)
 ;; (scroll-bar-mode -1)
+
+;;; 初期フレームサイズ
+(setq initial-frame-alist (quote ((top . 10)
+                                  (left . 10)
+                                  (width . 120)
+                                  (height . 60))))

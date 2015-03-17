@@ -4,7 +4,7 @@ highlight ColorColumn ctermbg=255
 " COLOR THEME
 syntax enable
 "let g:solarized_termcolors=256
-colorscheme desert
+colorscheme landscape
 
 " for Mac
 if has('gui_macvim')

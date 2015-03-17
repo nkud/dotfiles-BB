@@ -59,10 +59,10 @@
 ;(set-face-background 'hl-line "#98bc98")
 ;; ------------------
 ;; 初期フレームサイズ
-(setq initial-frame-alist (quote ((top . 10)
-                                  (left . 10)
-                                  (width . 100)
-                                  (height . 50))))
+;; (setq initial-frame-alist (quote ((top . 10)
+;;                                   (left . 10)
+;;                                   (width . 100)
+;;                                   (height . 50))))
 
 ;; ウインドウ分割
 (defun other-window-or-split-bellow ()

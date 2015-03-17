@@ -88,40 +88,48 @@
      (eval-print-last-sexp))))
 (add-to-list 'load-path "~/.emacs.d/el-get/el-get")
 
-;; (el-get-bundle elpa:undo-tree)
+;;; el-get bundles
+(el-get-bundle elpa:undo-tree)
 (el-get-bundle imakado/emacs-smartchr)
+(el-get-bundle buzztaiki/auto-complete)
+(el-get-bundle qoobaa/ruby-electric)
+(el-get-bundle kiwanami/emacs-calfw)
+(el-get-bundle emacsmirror/newsticker-notify)
 
 ;;; define el-get repository
-(setq el-get-sources
-      '(
-        (:name emacs-smartchr
-               :type github
-               :pkgname "imakado/emacs-smartchr")
-        (:name emacs-calfw
-               :type github
-               :pkgname "kiwanami/emacs-calfw")
-        (:name newsticker-notify
-               :type github
-               :pkgname "emacsmirror/newsticker-notify")
-        (:name ruby-electric
-               :type github
-               :pkgname "qoobaa/ruby-electric")
-        (:name company-mode
-               :type github
-               :pkgname "company-mode/company-mode")
-        (:name auto-complete
-               :type github
-               :pkgname "buzztaiki/auto-complete")
-        ))
-(defvar nu/el-get-packages
-  '("emacs-smartchr"
-    "newsticker-notify"
-    "ruby-electric"
-    "auto-complete"
-    ;; "company-mode"
-    "emacs-calfw")
-  "A list of packages to install from el-get at launch.")
-(el-get 'sync nu/el-get-packages)
+;; (setq el-get-sources
+;;       '(
+;;         (:name emacs-smartchr
+;;                :type github
+;;                :pkgname "imakado/emacs-smartchr")
+;;         (:name emacs-calfw
+;;                :type github
+;;                :pkgname "kiwanami/emacs-calfw")
+;;         (:name newsticker-notify
+;;                :type github
+;;                :pkgname "emacsmirror/newsticker-notify")
+;;         (:name ruby-electric
+;;                :type github
+;;                :pkgname "qoobaa/ruby-electric")
+;;         (:name company-mode
+;;                :type github
+;;                :pkgname "company-mode/company-mode")
+;;         (:name auto-complete
+;;                :type github
+;;                :pkgname "buzztaiki/auto-complete")
+;;        ))
+;; (defvar nu/el-get-packages
+;;   '(
+;;     ;; "emacs-smartchr"
+;;     ;; "newsticker-notify"
+;;     ;; "ruby-electric"
+;;     ;; "auto-complete"
+;;     ;; "company-mode"
+;;     ;; "emacs-calfw"
+;;     )
+;;   "A list of packages to install from el-get at launch.")
+
+;; (el-get 'sync nu/el-get-packages)
 
 ;; ELPA settings
 (require 'eieio)

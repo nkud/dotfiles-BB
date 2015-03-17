@@ -15,14 +15,14 @@
 ;;; light theme
 ;(load-theme 'gtk-ide t)
 ;(load-theme 'whateveryouwant t)
-;(load-theme 'vim-colors t)
+(load-theme 'vim-colors t)
 ;(load-theme 'emacs-nw t)
 ;(load-theme 'sitaramv-nt t)
 ;(load-theme 'dark-green t)
 ;(load-theme 'dark-font-lock t)
 ;(load-theme 'andreas t)
 ;(load-theme 'adwaita t)
-(load-theme 'tango t)
+;(load-theme 'tango t)
 ;(load-theme 'tango-dark t)
 
 ;;; dark theme
