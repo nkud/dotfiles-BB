@@ -64,3 +64,6 @@
                          space-after-tab)) ; タブの後にあるスペースを対象とする。
 ;; デフォルトで視覚化を有効にする。
 (global-whitespace-mode 1)
+
+;;; orgディレクトリを設定
+(setq org-agenda-files (list org-directory "D:/Dropbox/org/"))
