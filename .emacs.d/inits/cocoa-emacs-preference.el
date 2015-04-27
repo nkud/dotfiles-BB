@@ -64,3 +64,10 @@
                          space-after-tab)) ; タブの後にあるスペースを対象とする。
 ;; デフォルトで視覚化を有効にする。
 (global-whitespace-mode 1)
+
+;; ------------------
+;; 初期フレームサイズ
+(setq initial-frame-alist (quote ((top . 10)
+                                  (left . 10)
+                                  (width . 100)
+                                  (height . 50))))
