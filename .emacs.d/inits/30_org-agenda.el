@@ -37,7 +37,9 @@
 ;;                          (concat org-directory "Incubate.org")
 ;;                          (concat org-directory "Project.org")
 ;;                          (concat org-directory "NextAction.org")))
-(setq org-agenda-files (list org-directory))
+
+;;; orgディレクトリを設定
+;(setq org-agenda-files (list org-directory "D:/Dropbox/org/"))
 
 ;; Agenda customize
 ;; Indent ??

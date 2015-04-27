@@ -65,9 +65,14 @@
 ;; デフォルトで視覚化を有効にする。
 (global-whitespace-mode 1)
 
+
 ;; ------------------
 ;; 初期フレームサイズ
 (setq initial-frame-alist (quote ((top . 10)
                                   (left . 10)
                                   (width . 100)
                                   (height . 50))))
+
+;;; orgディレクトリを設定
+(setq org-agenda-files (list org-directory "D:/Dropbox/org/"))
+
