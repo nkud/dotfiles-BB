@@ -10,7 +10,7 @@
 ;(require 'org-remember)
 
 ;; orgディレクトリを設定
-(setq org-directory "~/org/")
+;(setq org-directory "~/org/")
 (setq org-default-note-file "temp.org")
 ;; (setq org-agenda-files (list org-directory))
 ;; (append org-agenda-files (list "D:/Dropbox/org"))
