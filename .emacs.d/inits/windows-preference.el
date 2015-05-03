@@ -41,4 +41,5 @@
                                   (height . 60))))
 
 ;;; orgディレクトリを設定
+(setq org-directory "D:/Dropbox/org")
 (setq org-agenda-files (list org-directory "D:/Dropbox/org/"))
