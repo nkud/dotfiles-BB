@@ -1,0 +1,12 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: orgh
+# key: orgh
+# binding: direct-keybinding
+# --
+#+TITLE: $1
+#+AUTHOR: Naoki Ueda
+#+CATEGORY: JOURNAL
+#+OPTIONS: \n:t H:3 num:nil
+#+INFOJS_OPT: view:nil
+#+LaTeX_CLASS: thesis
+#+HTML_HEAD: <style type="text/css">body {font-family:"ricty";font-size:0.7em;}</style>
