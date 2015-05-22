@@ -212,4 +212,4 @@
 ;;; ==============================================
 ;;; scaratch-pop
 (require 'scratch-pop)
-(global-set-key (kbd "C-c m") 'scratch-pop)
+(global-set-key (kbd "C-c RET") 'scratch-pop)
