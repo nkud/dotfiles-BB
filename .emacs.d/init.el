@@ -90,6 +90,8 @@
 
 ;;; el-get bundles
 (el-get-bundle elpa:undo-tree)
+(el-get-bundle elpa:popwin)
+(el-get-bundle elpa:scratch-pop)
 (el-get-bundle imakado/emacs-smartchr)
 (el-get-bundle buzztaiki/auto-complete)
 (el-get-bundle qoobaa/ruby-electric)
@@ -206,3 +208,8 @@
 
 ;; ;;; org-agendaを起動
 ;; (org-agenda nil "a")
+
+;;; ==============================================
+;;; scaratch-pop
+(require 'scratch-pop)
+(global-set-key (kbd "C-c m") 'scratch-pop)
