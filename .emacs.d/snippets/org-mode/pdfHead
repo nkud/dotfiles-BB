@@ -9,6 +9,7 @@
 #+LANGUAGE: ja
 #+LaTeX_CLASS: normal
 #+STARTUP: content
-#+HTML_HEAD: <style type="text/css">body {font-family:"andale mono";font-size:0.8em;}</style>
+#+HTML_HEAD: <style type="text/css">body {font-family:"verdana";font-size:11px;}</style>
+#+HTML_HEAD: <style type="text/css">body {padding: 20px 50px;}</style>
 #+STYLE: <link rel="stylesheet" type="text/css" href="" />
 $0
