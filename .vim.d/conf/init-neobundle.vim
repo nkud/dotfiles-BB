@@ -69,6 +69,10 @@ NeoBundle 'nathanaelkane/vim-indent-guides.git'
 
 " NeoBundle 'kakkyz81/evervim.git'
 
+"NeoBundle 'vim-scripts/summerfruit256.git'
+NeoBundle 'w0ng/vim-hybrid.git'
+NeoBundle 'jonathanfilip/vim-lucius'
+
 NeoBundleCheck
 
 filetype plugin indent on
