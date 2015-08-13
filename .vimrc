@@ -18,6 +18,23 @@ source ~/.vim.d/conf/init-keymap.vim
 " others
 source ~/.vim.d/conf/init-junkfile.vim
 
-source ~/.vim.d/conf/init-darwin-preference.vim
+" source ~/.vim.d/conf/init-darwin-preference.vim
 
 source ~/.vim.d/conf/init-changelog.vim
+
+if has("mac")
+  " for mac
+  source ~/.vim.d/conf/init-darwin-preference.vim
+elseif has("win32unix")
+  " for cygwin
+  source ~/.vim.d/conf/init-cygwin-preference.vim
+elseif has("win64")
+  " for 64bit windows
+  source ~/.vim.d/conf/init-cygwin-preference.vim
+elseif has("win32")
+  " for 32bit windows
+  source ~/.vim.d/conf/init-cygwin-preference.vim
+elseif has("unix")
+  " for unix
+  source ~/.vim.d/conf/init-darwin-preference.vim
+endif

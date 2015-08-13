@@ -245,3 +245,8 @@
     ))
 
 (read-scratch-data)
+
+;;; for print
+(setq ps-multibyte-buffer 'non-latin-printer)
+(require 'ps-mule)
+(defalias 'ps-mule-header-string-charsets 'ignore)
