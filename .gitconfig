@@ -11,6 +11,7 @@
   ;editor = /Applications/Emacs.app/Contents/MacOS/bin/emacsclient
   autocrlf = input
 # pager = ""
+  quotepath = false
 
 [difftool "sourcetree"]
   cmd = opendiff \"$LOCAL\" \"$REMOTE\"
