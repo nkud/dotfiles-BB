@@ -24,6 +24,9 @@
 [color]
   ui = auto
 
+[push]
+  default = simple
+
 [alias]
   s = status -sb
   ss = status
