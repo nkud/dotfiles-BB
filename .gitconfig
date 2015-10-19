@@ -10,7 +10,7 @@
   ;editor = /usr/bin/nano
   ;editor = /Applications/Emacs.app/Contents/MacOS/bin/emacsclient
   autocrlf = input
-# pager = ""
+  pager = less --QUIT-AT-EOF
   quotepath = false
 
 [difftool "sourcetree"]
